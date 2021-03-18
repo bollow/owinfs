@@ -1,0 +1,37 @@
+#navbar {
+  display: block!important;
+  clear: none!important;
+}
+
+.profile {
+  clear: none!important;
+}
+
+.content-area {
+  float: left;
+}
+
+#content {
+  float: none!important;
+}
+
+#navbar ul {
+  left: 0px!important;
+}
+
+.with-navbar #content {
+  margin-top: 0px!important;
+}
+ul.width2 li {
+  width: 18ex!important;
+}
+
+ul.width3 li {
+  width: 25ex!important;
+}
+
+h1 {
+  display: block;
+}
+
+    
