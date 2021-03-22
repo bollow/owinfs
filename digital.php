@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$html_title="Statements and papers regarging digital trade negotiations at WTO";
+$html_title="Statements and papers regarding digital trade negotiations at WTO";
 include './head_etc.php'
 ?>
     <div id="main" class="group">
