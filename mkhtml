@@ -1,0 +1,9 @@
+#!/bin/bash
+for i in index members es fr contact \
+         statement-political-unity declaration-d-unite \
+	 documento-di-unita declaracion-unidad-politica \
+	 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
+	 2019-12-09 digital-trade-rules surrendering \
+	 news fish digital newhome MC11 Stiglitz; do
+  php $i.php > $i.html
+done
