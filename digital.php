@@ -19,6 +19,10 @@ include './navbar.php';
         
         <div id="content-area">
 
+<h3>2021</h3>
+<a href="/2021/UNCTAD_ser-rp-2021d1_en.pdf">UNCTAD Research Paper: <i>Joint Statement Initiative on E-Commerce (JSI):
+Economic and Fiscal Implications for the South</i></a>
+
 <h3>2020</h3>
 <i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>
 <p>
