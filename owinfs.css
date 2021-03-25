@@ -27,26 +27,30 @@ h1
   line-height: 2ex;
 }
 
-a:link
-{
-  text-decoration: none;
-  color: #333366;
-}
-
+a:link,
 a:visited
 {
   text-decoration: none;
   color: #333366;
 }
 
+h2 a:link,
+h2 a:visited
+{
+  text-decoration: none;
+  color: #000;
+}
+
 a:hover,
-a:focus {
+h2 a:hover
+{
   text-decoration: none;
   color: #cc3300;
 }
 
 a.active:hover,
-a.active:focus {
+a.active:focus
+{
   color: #333366;
 }
 
