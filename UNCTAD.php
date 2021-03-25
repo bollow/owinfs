@@ -13,7 +13,7 @@ include './navbar.php';
       <div id="content" class="singlecolumn">
 
         <div id="content-header">
-          <h1 class="title">Documents from UNCTAD (UN Conference on Trade and Development)</h1>
+          <h1>Documents from UNCTAD (UN Conference on Trade and Development)</h1>
         </div> <!-- /#content-header -->
         
         <div id="content-area">
