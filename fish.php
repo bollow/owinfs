@@ -6,7 +6,7 @@ include './head_etc.php'
     <div id="main" class="group">
 <?php
 $sidebar_title="About us";
-include './sidebar_about.php';
+include './sidebar_themes.php';
 include './navbar.php';
 ?>
 
