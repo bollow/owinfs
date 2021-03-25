@@ -94,22 +94,6 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
 <p>
 <b><i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i></b>
 
-<h2>Digital economy</h2>
-<b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>
-<p>
-<b><i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i></b>
-<p>
-<b><i><a href="/surrendering">Digital trade rules and Big Tech: Surrendering public good to private power</a></i></b>
-<p>
-<b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i></b>
-<p>
-<b>Updated <i>Twelve Reasons</i>:</b>
-English: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.docx">docx</a>.
-Spanish: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
-French: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
-<p>
-<a href="digital#more"><b>more on the digital economy …</b></a>
-
 <h2>Fisheries</h2>
 <b><i>Market access the true aim of WTO fisheries subsidies negotiations</i></b>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
@@ -201,7 +185,23 @@ French: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.pdf">pdf</
       <div class="col">
 <h2>UNCTAD</h2>
 UNCTAD XV quadrennial conference is scheduled to take place on October 3-8, 2021 in Barbados.
+
 <h2>Digital trade</h2>
+<b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>
+<p>
+<b><i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i></b>
+<p>
+<b><i><a href="/surrendering">Digital trade rules and Big Tech: Surrendering public good to private power</a></i></b>
+<p>
+<b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i></b>
+<p>
+<b>Updated <i>Twelve Reasons</i>:</b>
+English: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.docx">docx</a>.
+Spanish: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
+French: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
+<p>
+<a href="digital#more"><b>more on the digital economy …</b></a>
+
 <h2>L'économie numérique</h2>
 <h2>La Economia Digital</h2>
 <b><i><a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">‘Big tech’ en la OMC</a></i></b>
