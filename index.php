@@ -94,7 +94,7 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
 <p>
 <b><i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i></b>
 
-<h2>Fisheries</h2>
+<h2><a href="fish">Fisheries</a></h2>
 <b><i>Market access the true aim of WTO fisheries subsidies negotiations</i></b>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
 <a href="https://ourworldisnotforsale.net/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>
@@ -183,10 +183,10 @@ French: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.pdf">pdf</
 <a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">pdf</a>
       </div>
       <div class="col">
-<h2>UNCTAD</h2>
+<h2><a href="UNCTAD">UNCTAD</a></h2>
 UNCTAD XV quadrennial conference is scheduled to take place on October 3-8, 2021 in Barbados.
 
-<h2>Digital trade</h2>
+<h2><a href="digital">Digital trade</a></h2>
 <b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>
 <p>
 <b><i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i></b>
