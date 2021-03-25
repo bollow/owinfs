@@ -40,11 +40,14 @@ a:visited
 }
 
 a:hover,
-a:focus,
-a:active
-{
+a:focus {
   text-decoration: none;
-  color: #000;
+  color: #cc3300;
+}
+
+a.active:hover,
+a.active:focus {
+  color: #333366;
 }
 
 #header
@@ -224,10 +227,13 @@ table, td {
 }
 
 #navbar ul li a:hover,
-#navbar ul li a:focus,
-#navbar ul li a:active
- {
+#navbar ul li a:focus{
   color: #cc3300;
+}
+
+#navbar ul li a.active:hover,
+#navbar ul li aactive:focus {
+  color: #000;
 }
 
 li.hovermenu {

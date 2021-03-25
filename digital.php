@@ -5,7 +5,7 @@ include './head_etc.php'
 ?>
     <div id="main" class="group">
 <?php
-$sidebar_title="About us";
+$this_theme="Digital trade";
 include './sidebar_themes.php';
 include './navbar.php';
 ?>

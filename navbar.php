@@ -12,22 +12,25 @@
     <li><a href="news">News</a></li>
     <li class="hovermenu"><a href="o/en/themes">Themes</a>
       <ul class="width3">
-        <li><a href="digital">Digital trade</a></li>
-        <li><a href="fish">Fisheries</a></li>
-        <li><a href="o/en/themes/3084">Food &amp; Agriculture</a></li>
-        <li><a href="o/en/themes/3087">NAMA / ITA / EGs</a></li>
-        <li><a href="o/en/themes/3085">Services / GATS / TISA</a></li>
-        <li><a href="o/en/themes/3089">Trade &amp; The Climate Crisis</a></li>
-        <li><a href="o/en/themes/3090">Trade &amp; The Financial Crisis</a></li>
-        <li><a href="o/en/themes/3092">Transnational Corporations	</a></li>
-        <li><a href="o/en/themes/3086">Investments</a></li>
-        <li><a href="o/en/themes/3088">Intellectual Property/TRIPS</a></li>
-        <li><a href="o/en/themes/3094">Bilateral &amp; Regional Trade</a></li>
-        <li><a href="o/en/themes/3093">Alternatives</a></li>
-        <li><a href="o/en/themes/3105">Trade Facilitation</a></li>
-        <li><a href="o/en/themes/3083">WTO Process Issues</a></li>
-        <li><a href="o/en/themes/3135">G-20</a></li>
-        <li><a href="UNCTAD">UNCTAD</a></li>
+<?php
+global $this_theme;
+$inputfile="themes";
+$in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
+while(!feof($in)) {
+  $line=fgets($in);
+  $sep=strpos($line, " ");
+  if ($sep===FALSE) {
+    break;
+  }
+  $link_target=substr($line, 0, $sep);
+  $theme=substr($line, $sep+1, -1);
+  if ($theme==$this_theme) {
+    echo "        <li><a href='$link_target' class='active'>$theme</a></li>\n";
+  } else {
+    echo "        <li><a href='$link_target'>$theme</a></li>\n";
+  }
+}
+?>
       </ul></li>
     <li class="hovermenu"><a href="o/en/node/24715">WTO Ministerials</a>
       <ul>
