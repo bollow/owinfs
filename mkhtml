@@ -1,10 +1,20 @@
 #!/bin/bash
-for i in index members es fr contact \
-         statement-political-unity declaration-d-unite \
-	 documento-di-unita declaracion-unidad-politica \
-	 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
+for i in index members contact news \
+	 statement-political-unity declaration-d-unite \
+	 documento-di-unita declaracion-unidad-politica ; do
+  php special-page/$i.php > $i.html
+done
+for i in es fr; do
+  php language-page/$i.php > $i.html
+done
+for i in fish digital UNCTAD; do
+  php theme-page/$i.php > $i.html
+done
+for i in MC11; do
+  php WTO-MC-page/$i.php > $i.html
+done
+for i in 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2019-12-09 digital-trade-rules surrendering \
-	 news fish digital MC11 Stiglitz UNCTAD \
-	 2021-03-17_TWN_Fisheries; do
-  php $i.php > $i.html
+	 Stiglitz 2021-03-17_TWN_Fisheries; do
+  php contentitem-page/$i.php > $i.html
 done
