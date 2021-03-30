@@ -137,45 +137,7 @@ English: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.pdf">pdf</a>
 Spanish: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.docx">docx</a>.
 French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.docx">docx</a>.
 <p>
-<i>Why the dominant digital trade paradigm will not work for women in the global south:</i>
-<a href="https://itforchange.net/node/1635">English</a>
-<a href="https://ourworldisnotforsale.net/2019/ITfC_Women.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2019/ITfC_Women_ES.pdf">Spanish</a>,
-<a href="https://ourworldisnotforsale.net/2019/ITfC_Women_FR.pdf">French</a>.
-<p>
-<i>South nations take firm stand on geo-economics of data:</i>
-<a href="http://www.twn.my/title2/wto.info/2019/ti190413.htm">English</a>
-<a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics_ES.pdf">Spanish</a>,
-<a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics_FR.pdf">French</a>.
-<p>
-<i>South needs data digitalization policies, say CSO experts:</i>
-<a href="http://www.twn.my/title2/wto.info/2019/ti190412.htm">English</a>
-<a href="https://ourworldisnotforsale.net/2019/TWN_data-policies.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2019/TWN_data-policies_ES.pdf">Spanish</a>,
-<a href="https://ourworldisnotforsale.net/2019/TWN_data-policies_FR.pdf">French</a>.
-<p>
-<b><i>What development actors need to know about e-commerce</i></b>: <a href="https://ourworldisnotforsale.net/2018/ITfC_E-commerce.pdf">English</a>
-<p>
-<b><i>Data frameworks for a right to development</i></b>: <a href="http://www.unrisd.org/TechAndHumanRights-Gurumurthy-Chami">English</a>
-<p>
-<i>Get off the big data partnerships bandwagon</i>: <a href="https://www.hindustantimes.com/opinion/get-off-the-big-data-partnership-bandwagon/story-DdSuKUrJW3OvxaUbUZ2j6N.html">English</a>
-<p>
-<i>Statement from Civil Society Organizations working on eCommerce for Development, on the
-Africa eCommerce Week and Outcomes</i>, December 2018:
-English: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa.docx">docx</a>.
-French: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.docx">docx</a>.
-<p>
-<i><a href="/2018/RLS_Africa.pdf">Why E-Commerce won’t work for Africa’s development.</a></i>
-<p>
-<b><i>Digital public goods: A precondition for realising the SDGs</i></b>:
-<a href="https://www.sef-bonn.org/en/publications/global-governance-spotlight/42019.html">English</a>
-<p>
-<b><i>Anti‐development Impacts of Tax‐Related Provisions in Proposed Rules on Digital Trade in
-      the WTO</i></b>:
-<a href="https://rdcu.be/bRyEC">English</a>,
-<a href="/2019/Tax_development_ES.pdf">Spanish</a>,
-<a href="/2019/Tax_development_FR.pdf">French</a>
+<b><i><a href="/2018/RLS_Africa.pdf">Why E-Commerce won’t work for Africa’s development.</a></i></b>
 <p>
 <b><i>Giant tech corporations join forces with the WTO to try to launch a WTO
 2.0 to cement digital colonialism through international treaties</i></b>:
