@@ -125,6 +125,8 @@ Spanish:
 <a href="https://ourworldisnotforsale.net/2017/Domestic_Regulation_ES.doc">doc</a>.
 <p>
 <b>Session at the 2019 WTO Public Forum</b>: <a href="/2019_WTO_PF_111">#111. What would services as the next trade frontier look like?</a>
+<p>
+<b>Session at the 2019 WTO Public Forum</b>: <a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a>
 
 <h2>Development agenda</h2>
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i></b>
