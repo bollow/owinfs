@@ -217,6 +217,10 @@ English:
 <b><i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i></b>
 </p>
 
+<?php
+include 'include-content/MC11-media-links.php'
+?>
+
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->
     </div> <!-- /#main -->
