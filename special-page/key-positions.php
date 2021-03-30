@@ -17,16 +17,38 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
-The OWINFS statement, “WTO Turnaround: Food, Jobs and Sustainable Development First - Call to Action!, first developed in 2011 and <a href="http://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt.pdf">updated in 2013</a>, details the demands of global civil society for fundamental changes to the multilateral trading system, from one that privileges the “rights” of capital while restricting governmental regulation in the public interest, to one that enables countries to use trade for sustainable development, while disciplining corporate behavior in countries around the world. 
+OWINFS has several “flagship” statements that reflect our basis of unity and have been endorsed by hundreds of civil society organizations — trade unions, development advocates, public interest organizations, farmers’ and fishers’ associations, environmental groups, and more – from more than 100 countries over many iterations. OWINFS’s statements thus serve as the reference point for global civil society perspectives on the WTO.
 <p>
-OWINFS also has a <a href="statement-political-unity">Statement of Political Unity</a> that brings together our critiques of the WTO with our visions for a more fair and sustainable multilateral trade organization. We spell out our arguments against the unfair rules in the WTO, such as on agriculture and protectionism of the holders of intellectual property, along with critiques of liberalization of goods, services, investment, and other aspects of human life. Our critique is fundamentally of the outsize power of corporations, and the “neoliberal” model of economics which redistribute income and wealth from people who work to holders of capital, as well as of the exploitation of the global South by the North. We also put forth What We Stand For: Asserting People’s Right to Choose: Self-determination, Democracy and Development; Advancing the Primacy of Social Rights and the Environment; Protecting Essential Services; Defending Knowledge, Culture and Life Forms as the Essence of Civilization; Preserving and Advancing Food Sovereignty and Food Security; and Stopping Corporate Globalization and Promoting Trade Justice. 
+OWINFS is currently updating our Turnaround Statement, detailing both the transformations to the current global trade system and the specific changes necessary to WTO in the interim. Please <a href="mailto:djames&commat;cepr.net">contact OWINFS</a> if you would like to learn more about current efforts.
 <p>
-In order to become a member of Our World Is Not for Sale, we should receive: a statement that your organization is in agreement with the Statement of Political Unity; the reference from a member in your country or your field of work; and a description of your organization and how you work for our shared goals. For more information and questions about OWINFS, please e-mail Deborah James at djames (at) cepr.net. 
+In 2020, some WTO members wanted to continue to negotiate binding rules to expand harmful WTO policies, even during the Covid-19 crisis. An Open Letter to Trade Ministries and the World Trade Organization (WTO): Stop all trade and investment treaty negotiations during the COVID-19 outbreak and refocus on access to medical supplies and saving lives
+(<a href="/2020/Focus_saving_lives.pdf">English</a>,
+<a href="/2020/Focus_saving_lives_ES.pdf">Spanish</a>,
+<a href="/2020/Focus_saving_lives_FR.pdf">French</a>)
+was endorsed by 400 organizations from over 163 countries around the world.
 <p>
-Previously, OWINFS had other “flagship” statements that reflected our basis of unity. The first was “No New Round – Turn Around.” This was an international statement written in advance of the 1999 WTO Ministerial in Seattle — calling on WTO member-nations to reject expansion or a “new round”—and, instead, to roll-back harmful WTO provisions and policies. This statement was signed by nearly 1500 organizations in the run-up to the Ministerial.
+In 2019, some WTO members began negotiations towards an agreement on Digital Trade (even though this effort had been blocked by a majority of members at the 2017 Ministerial). OWINFS developed a letter setting forth our opposition to the digital trade negotiations, because of their potential negative impacts on democracy, development, workers, privacy, security, and many more issues. It was endorsed by 315 organizations from around the world, and is available in
+<a href="/2019/Digital_trade_2019-04-01-en.pdf">English</a>,
+<a href="/2019/Digital_trade_2019-04-01-fr.pdf">French</a>, and
+<a href="/2019/Digital_trade_2019-04-01-es.pdf">Spanish</a>. 
 <p>
-The second statement was “<a href="o/en/node/3">Our World is not for Sale: WTO – Shrink or Sink!</a>”. This international “sign-on” statement, prepared after the Seattle Ministerial, lays out eleven transformational demands aimed at the WTO. Active OWINFS members signed onto the statement.
-In addition, OWINFS has developed specific and more detailed statements around issues such as protecting basic services, namely, “Stop the GATS Attack Now” - which can be read at http://www.gatswatch.org/StopGATS.html - and challenging the fundamental lack of democracy within the WTO.
+In 2017, previous to the 11th Ministerial Meeting in Buenos Aires, Argentina, we focused a Letter from Global Civil Society about the Agenda of the WTO on the need to stop the efforts towards WTO expansion (through digital trade, domestic regulation, investment facilitation, and anti-development rules) and instead focus on a positive agenda that would allow countries to pursue food security and food sovereignty policies, as well as more development flexibilities for developing countries generally. The letter was endorsed by 309 organizations globally including 38 international networks.
+<a href="/2017/Global_MC11_agenda.pdf">English</a>,
+<a href="/2017/Global_MC11_agenda_ES.pdf">Spanish</a>,
+<a href="/2017/Global_MC11_agenda_FR.pdf">French</a>,
+<a href="/2017/Global_MC11_agenda_GR.pdf">Greek</a>.
+<p>
+In the summer before the 10th Ministerial in Nairobi, OWINFS drafted a letter in July 2015, summarizing the current state of play in the WTO, and calling for a stop to the efforts to expand the failed model, as well as transformations to the existing rules. The “Letter from Civil Society Regarding Future Agenda of the WTO Negotiations” was endorsed by 341 groups from around the world. An updated version focused on the state of play going into the Ministerial, garnered support of a whopping 460 groups from nearly all countries across the globe. 
+<p>
+In advance of the 8th Ministerial in 2011, and then updated in advance of the 9th in 2013, we developed a comprehensive “<a href="http://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt.pdf">WTO Turnaround 2013: Food, Jobs and Sustainable Development First – Statement</a>” which provides both a call for a fundamental transformation of the WTO system, as well as detailed changes demanded by civil society from multiple sectors around the world, on issues ranging from food sovereignty and industrial policy to public services and access to medicines, and more.
+<p>
+Our Statement of Political Unity, “<a href="statement-political-unity">Stop Corporate Globalization: Another World is Possible!</a>” was developed in 2006, ten years after the founding of the WTO and just before the global economic and financial crises. It sketches out the challenges of corporate globalization, sets forth our goals, and details What We Stand For. 
+<p>
+Our second statement is the “<a href="o/en/node/3">Our World is not for Sale: WTO – Shrink or Sink!</a>” This international “sign-on” statement, prepared after the Seattle Ministerial, lays out eleven transformational demands aimed at the WTO. Active OWINFS members have signed onto the statement.
+<p>
+Our founding statement is “No New Round – Turn Around.” This is an international statement written in advance of the 1999 WTO Ministerial in Seattle — calling on WTO member-nations to reject expansion or a “new round”—and, instead, to roll-back harmful WTO provisions and policies. This statement was signed by nearly 1500 organizations in the run-up to the Ministerial.
+<p>
+In addition, OWINFS has developed specific and more detailed statements around issues such as protecting basic services, food security and sovereignty, trade in goods, and challenging the fundamental lack of democracy within the WTO, which can be found in the thematic sections.
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->
     </div> <!-- /#main -->
