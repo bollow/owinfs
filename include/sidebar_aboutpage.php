@@ -27,7 +27,6 @@ while(!feof($in)) {
   }
 }
 ?>
-	<li><a href="<?php echo $prepend_path; ?>statement-political-unity">Statement of political unity</a>
           </ul>
         </div> <!-- /content -->
         <img src="<?php echo $prepend_path; ?>logo_owinfs_red.png" alt="Our World Is Not For Sale logo"
