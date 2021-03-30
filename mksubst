@@ -1,0 +1,64 @@
+#!/usr/bin/perl -w
+use File::Find;
+use Cwd 'abs_path';
+use File::Basename;
+$src=shift;
+$dest=shift;
+$src && $dest or die "Usage: mksubst src dest\n";
+$src=abs_path($src);
+$dest=abs_path($dest);
+$scriptdir=(fileparse(abs_path(__FILE__)))[1];
+
+sub process_file {
+  return if $_ eq ".";
+  if (-f "$src/$File::Find::name") {
+    print "processing '$src/$File::Find::name'\n";
+    open IN, '<', "$src/$File::Find::name";
+    $filecontent=do { local $/; <IN> };
+    close IN;
+    $filecontent=~s,http://www.ourworldisnotforsale.org,https://ourworldisnotforsale.net,g;
+    $filecontent=~s,ourworldisnotforsale.org,ourworldisnotforsale.net,g;
+    $filecontent=~s,http://notforsale.mayfirst.org,https://ourworldisnotforsale.net,g;
+    if ($filecontent=~/^\<\!DOCTYPE html/) {
+      # substitute the navbar with the appropriate php include
+      $count = $File::Find::name =~ tr,/,,;
+      $prepend_path="../" x ($count-1);
+      $filecontent=~s,\<div id=\"navbar\".*?\<\/ul\>.*?\<\/div\>,<?php \$prepend_path="$prepend_path"; include 'include/navbar.php'; ?>,s;
+      # substitute the sidebar with theme list in the case of theme pages
+      if ($File::Find::name =~ /themes/) {
+        $filecontent=~s,\<div id="sidebar-left".*?\/\#sidebar-left \-\-\>,<?php \$prepend_path="$prepend_path"; include 'include/sidebar_themes.php'; ?>,s;
+      }
+      # process with php
+      $phpfile="/tmp/mksubst_tmp.php";
+      open OUT, '>', $phpfile or die "Failed to open '$outfile' for writing: $!\n";
+      print OUT $filecontent;
+      close OUT;
+      $outfile="$dest/$File::Find::name";
+      $cmd="php $phpfile > $outfile";
+      chdir $scriptdir or die "Failed to change working directory to '$scriptdir': $!\n";
+      system($cmd);
+      $finddir="$src/$File::Find::dir";
+      chdir $finddir or die "Failed to change working directory to '$finddir': $!\n";
+    } else {
+      $outfile="$dest/$File::Find::name";
+      open OUT, '>', $outfile or die "Failed to open '$outfile' for writing: $!\n";
+      print OUT $filecontent;
+      close OUT;
+    }
+  } elsif (-d "$src/$File::Find::name") {
+    $destsubdir="$dest/$File::Find::dir/$_";
+    -d $destsubdir or mkdir $destsubdir or die "Failed to create '$destsubdir': $!\n";
+  } else {
+    print STDERR "\$_='$_'\n";
+    die "'$src/$File::Find::name' is neither a plain file nor a directory.\n";
+  }
+}
+if (-f $src) {
+  &process_file($src);
+} elsif (-d $src) {
+  -d $dest or mkdir $dest or die "Failed to create '$dest': $!\n";
+  chdir $src or die "Failed to change working directory to '$src': $!\n";
+  find(\&process_file, ".");
+} else {
+  die "'$src' is neither a plain file nor a directory.\n";
+}

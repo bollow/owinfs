@@ -5,6 +5,7 @@
           <ul class="menu">
 <?php
 global $this_theme;
+global $prepend_path;
 $inputfile="data/themes";
 $in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
 while(!feof($in)) {
@@ -16,9 +17,9 @@ while(!feof($in)) {
   $link_target=substr($line, 0, $sep);
   $theme=substr($line, $sep+1, -1);
   if ($theme==$this_theme) {
-    echo "            <li><a href='$link_target' class='active'>$theme</a></li>\n";
+    echo "            <li><a href='$prepend_path$link_target' class='active'>$theme</a></li>\n";
   } else {
-    echo "            <li><a href='$link_target'>$theme</a></li>\n";
+    echo "            <li><a href='$prepend_path$link_target'>$theme</a></li>\n";
   }
 }
 ?>
@@ -26,7 +27,7 @@ while(!feof($in)) {
         </div> <!-- /content -->
 
        <h2 class="title">&nbsp;</h2>
-       <img src="logo_owinfs_red.png" alt="Our World Is Not For Sale logo"
+       <img src="<?php echo $prepend_path; ?>logo_owinfs_red.png" alt="Our World Is Not For Sale logo"
              width="230" height="225">
         <h2 class="title">About us</h2>
         <p>The “Our World is not for Sale” (OWINFS) network is a loose grouping of organizations,
@@ -34,6 +35,6 @@ while(!feof($in)) {
         globalization embodied in global trading system. OWINFS is committed to a sustainable,
         socially just, democratic and accountable multilateral trading system.</p>
 	<p><a href="statement-political-unity">Statement of political unity</a></p>
-	<p><a href="https://ourworldisnotforsale.net/2017/OWINFS_Flyer.pdf">Our World is Not for Sale (OWINFS) one-page flyer</a></p>
+	<p><a href="/2017/OWINFS_Flyer.pdf">Our World is Not for Sale (OWINFS) one-page flyer</a></p>
       </div> <!-- /#sidebar-inner -->
     </div> <!-- /#sidebar -->
