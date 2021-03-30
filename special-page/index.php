@@ -146,7 +146,7 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
       </div>
       <div class="col">
 <h2><a href="UNCTAD">UNCTAD</a></h2>
-UNCTAD XV quadrennial conference is scheduled to take place on October 3-8, 2021 in Barbados.
+UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
 
 <h2><a href="digital">Digital trade</a></h2>
 <b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>
