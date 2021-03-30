@@ -35,9 +35,7 @@ include 'include/navbar.php';
 <p>
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i></b>
 
-<h2>Access to medicines</h2>
-
-<h2>TRIPS waiver</h2>
+<h2>Access to medicines, TRIPS waiver</h2>
 
 <h2>Geopolitical context</h2>
 <b><i>International trade negotiations in context: The geopolitical dispute</i></b>:
@@ -80,19 +78,6 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
       </div>
       <div class="col">
 <h2>Towards MC12</h2>
-
-<h2>Argriculture</h2>
-<b><i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i></b>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>
-<p>
-<a href="https://ourworldisnotforsale.net/2017/TWN_Agriculture.pdf"><i><b>Agriculture remains key</b></i></a>
-<p>
-<b><a href="/agricultural-price-crisis"><i>WTO summit to ignore price crisis, agricultural dumping</i></a></b>
-<p>
-<b><i><a href="https://ourworldisnotforsale.net/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i></b>
-<p>
-<b><i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i></b>
 
 <h2><a href="fish">Fisheries</a></h2>
 <b><i>Market access the true aim of WTO fisheries subsidies negotiations</i></b>:
@@ -145,6 +130,19 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
 <a href="https://ourworldisnotforsale.net/2019/Big_tech.pdf">pdf</a>,
 <a href="http://cepr.net/publicaciones/articulos-de-opinion/big-tech-busca-concretar-el-colonialismo-digital-en-la-omc">Spanish</a>
 <a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">pdf</a>
+
+<h2>Agriculture</h2>
+<b><i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i></b>:
+<a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
+<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>
+<p>
+<a href="https://ourworldisnotforsale.net/2017/TWN_Agriculture.pdf"><i><b>Agriculture remains key</b></i></a>
+<p>
+<b><a href="/agricultural-price-crisis"><i>WTO summit to ignore price crisis, agricultural dumping</i></a></b>
+<p>
+<b><i><a href="https://ourworldisnotforsale.net/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i></b>
+<p>
+<b><i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i></b>
       </div>
       <div class="col">
 <h2><a href="UNCTAD">UNCTAD</a></h2>
