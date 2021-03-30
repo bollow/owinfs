@@ -5,8 +5,8 @@ include 'include/head_etc.php'
 ?>
     <div id="main">
 <?php
-$sidebar_title="Chi siamo";
-include 'include/sidebar_about_it.php';
+$language="it";
+include 'include/sidebar_aboutpage.php';
 include 'include/navbar.php';
 ?>
 

@@ -5,8 +5,8 @@ include 'include/head_etc.php'
 ?>
     <div id="main">
 <?php
-$sidebar_title="About us";
-include 'include/sidebar_about.php';
+$this_aboutpage="Statement of political unity";
+include 'include/sidebar_aboutpage.php';
 include 'include/navbar.php';
 ?>
 

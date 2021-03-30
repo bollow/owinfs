@@ -5,8 +5,8 @@ include 'include/head_etc.php'
 ?>
     <div id="main">
 <?php
-$sidebar_title="Acerca de OWINFS";
-include 'include/sidebar_about_es.php';
+$language="es";
+include 'include/sidebar_aboutpage.php';
 include 'include/navbar.php';
 ?>
       <div id="content" class="singlecolumn">
