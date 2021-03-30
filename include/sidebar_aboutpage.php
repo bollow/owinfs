@@ -37,6 +37,7 @@ if ($language=="es") {
           <ul>
 <?php
 global $this_aboutpage;
+global $prepend_path;
 $inputfile="data/aboutpages";
 $in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
 while(!feof($in)) {
