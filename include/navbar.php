@@ -4,14 +4,28 @@
     <li><a href="<?php echo $prepend_path; ?>./">Home</a></li>
     <li class="hovermenu"><a href="<?php echo $prepend_path; ?>o/en/about">About us</a>
       <ul class="width2">
-        <li><a href="<?php echo $prepend_path; ?>o/en/node/4">What is the WTO?</a></li>
-	<li><a href="<?php echo $prepend_path; ?>o/en/node/2">Key positions and statements</a></li>
-	<li><a href="<?php echo $prepend_path; ?>members">Members</a></li>
-	<li><a href="<?php echo $prepend_path; ?>o/en/node/2254">Becoming an OWINFS member</a></li>
-	<li><a href="<?php echo $prepend_path; ?>o/en/node/3" title="WTO: Shrink or Sink! — A Critique of the WTO">Critique of the WTO</a></li>
+<?php
+global $this_aboutpage;
+$inputfile="data/aboutpages";
+$in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
+while(!feof($in)) {
+  $line=fgets($in);
+  $sep=strpos($line, " ");
+  if ($sep===FALSE) {
+    break;
+  }
+  $link_target=substr($line, 0, $sep);
+  $aboutpage=substr($line, $sep+1, -1);
+  if ($aboutpage==$this_aboutpage) {
+    echo "        <li><a href='$prepend_path$link_target' class='active'>$aboutpage</a></li>\n";
+  } else {
+    echo "        <li><a href='$prepend_path$link_target'>$aboutpage</a></li>\n";
+  }
+}
+?>
       </ul></li>
     <li><a href="<?php echo $prepend_path; ?>news">News</a></li>
-    <li class="hovermenu"><a href="<?php echo $prepend_path; ?>o/en/themes">Themes</a>
+    <li class="hovermenu">Themes
       <ul class="width3">
 <?php
 global $this_theme;

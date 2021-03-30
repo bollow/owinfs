@@ -1,12 +1,12 @@
 #!/usr/bin/php
 <?php
-$html_title="Members| Our World Is Not For Sale";
+$html_title="Members | Our World Is Not For Sale";
 include 'include/head_etc.php'
 ?>
     <div id="main">
 <?php
-$sidebar_title="About us";
-include 'include/sidebar_about.php';
+$this_aboutpage="Members";
+include 'include/sidebar_aboutpage.php';
 include 'include/navbar.php';
 ?>
 

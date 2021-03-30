@@ -153,6 +153,11 @@ a.active:focus
   padding-top: 10px;
 }
 
+#sidebar-inner div ul
+{
+  padding-left:15px;
+}
+
 #fullwidthcontent
 {
   padding-top: 20px;

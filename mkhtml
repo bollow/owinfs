@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in index members contact news \
+for i in index members contact news key-positions \
 	 statement-political-unity declaration-d-unite \
 	 documento-di-unita declaracion-unidad-politica ; do
   php special-page/$i.php > $i.html
