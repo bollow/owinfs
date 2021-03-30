@@ -19,7 +19,7 @@ while(!feof($in)) {
   if ($link_target=="*") {
     # this is a heading, not a theme link
     echo "     </ul><u><b>$theme</b></u><ul>\n";
-  } else {
+  } elseif ($link_target!="**") {
     if ($theme==$this_theme) {
       echo "            <li><a href='$prepend_path$link_target' class='active'>$theme</a></li>\n";
     } else {

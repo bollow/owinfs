@@ -1,57 +1,10 @@
-<?php global $prepend_path; ?>
+<?php global $prepend_path; include 'include/hovermenu.php';?>
 <div id="navbar">
   <ul>
     <li><a href="<?php echo $prepend_path; ?>./">Home</a></li>
-    <li class="hovermenu"><a href="<?php echo $prepend_path; ?>o/en/about">About us</a>
-      <ul class="width2">
-<?php
-global $this_aboutpage;
-$inputfile="data/aboutpages";
-$in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
-while(!feof($in)) {
-  $line=fgets($in);
-  $sep=strpos($line, " ");
-  if ($sep===FALSE) {
-    break;
-  }
-  $link_target=substr($line, 0, $sep);
-  $aboutpage=substr($line, $sep+1, -1);
-  if ($aboutpage==$this_aboutpage) {
-    echo "        <li><a href='$prepend_path$link_target' class='active'>$aboutpage</a></li>\n";
-  } else {
-    echo "        <li><a href='$prepend_path$link_target'>$aboutpage</a></li>\n";
-  }
-}
-?>
-      </ul></li>
+<?php global $this_aboutpage; hovermenu("data/aboutpages", $this_aboutpage, "width2") ?>
     <li><a href="<?php echo $prepend_path; ?>news">News</a></li>
-    <li class="hovermenu">Themes
-      <ul class="width3">
-<?php
-global $this_theme;
-$inputfile="data/themes";
-$in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
-while(!feof($in)) {
-  $line=fgets($in);
-  $sep=strpos($line, " ");
-  if ($sep===FALSE) {
-    break;
-  }
-  $link_target=substr($line, 0, $sep);
-  $theme=substr($line, $sep+1, -1);
-  if ($link_target=="*") {
-    # this is a heading, not a theme link
-    echo "        <li><u><b>$theme</b></u></li>\n";
-  } else {
-    if ($theme==$this_theme) {
-      echo "        <li><a href='$prepend_path$link_target' class='active'>$theme</a></li>\n";
-    } else {
-      echo "        <li><a href='$prepend_path$link_target'>$theme</a></li>\n";
-    }
-  }
-}
-?>
-      </ul></li>
+<?php global $this_theme; hovermenu("data/themes", $this_theme, "width3") ?>
     <li class="hovermenu"><a href="<?php echo $prepend_path; ?>o/en/node/24715">WTO Ministerials</a>
       <ul>
         <li><a href="<?php echo $prepend_path; ?>MC11">11th Ministerial, Buenos Aires 2017</a></li>
