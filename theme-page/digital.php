@@ -198,10 +198,6 @@ is the new oil, so big tech is pushing for a digital free trade deal</a></i><br>
 English:
 <a href="https://ourworldisnotforsale.net/2017/Hill_E-signatures.pdf">pdf</a>.
 
-        </div> <!-- /#content-area -->
-      </div> <!-- /#content -->
-    </div> <!-- /#main -->
-
 <h2>Documents from UNCTAD (UN Conference on Trade and Development)</h2>
 
 <a href="/2021/UNCTAD_ser-rp-2021d1_en.pdf">Research paper: <i>Joint Statement Initiative on E-Commerce (JSI):
@@ -214,6 +210,10 @@ Report: <i><a href="https://ourworldisnotforsale.net/2017/UNCTAD_competitiveness
 <i><a href="https://ourworldisnotforsale.net/2019/UNCTAD_TDR2018_chapter_III_FR.pdf">Rapport sur le commerce et le développement 2018, chapitre III : le développement économique dans un monde numérique : perspectives, pièges et options politiques</a>.</i>
 <p>
 <i><a href="https://ourworldisnotforsale.net/2019/ser-rp-2019d1_en.pdf">Growing Trade in Electronic Transmissions: Implications for the South</a>.</i>
+
+        </div> <!-- /#content-area -->
+      </div> <!-- /#content -->
+    </div> <!-- /#main -->
 
 
 <?php
