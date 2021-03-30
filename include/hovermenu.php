@@ -1,8 +1,7 @@
 <?php
-global $prepend_path;
 
 function readpair($openfile) {
-  $line=fgets($in);
+  $line=fgets($openfile);
   $sep=strpos($line, " ");
   if ($sep===FALSE) {
     return array ("", "");
@@ -11,8 +10,10 @@ function readpair($openfile) {
   $b=substr($line, $sep+1, -1);
   return array ($a, $b);
 }
+
 function hovermenu($datafile, $thispage, $widthclass, $override_title="") {
-  $in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
+  global $prepend_path;
+  $in=fopen($datafile, "r") or die("Unable to open file '$datafile'!");
   list($title_linktarget, $title)=readpair($in);
   if ($override_title!="") {
     $title=$override_title;

@@ -35,7 +35,6 @@ if ($language=="es") {
   }
 ?>
           <ul>
-	    <li><a href="<?php global $prepend_path; echo $prepend_path; ?>o/en/about">About us</a>
 <?php
 global $this_aboutpage;
 $inputfile="data/aboutpages";
