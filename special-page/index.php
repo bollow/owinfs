@@ -34,15 +34,10 @@ include 'include/navbar.php';
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i></b>
 <p>
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i></b>
-
-<h2>Access to medicines, TRIPS waiver</h2>
-
-<h2>Geopolitical context</h2>
-<b><i>International trade negotiations in context: The geopolitical dispute</i></b>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_geopolitical.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_disputa_geopolítica.pdf">Spanish</a>
 <p>
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200521.htm">COVID-19: South opposes attempts to foist trade liberalization measures</a></i></b>
+
+<h2>Access to medicines, TRIPS waiver</h2>
 
 <h2>WTO reform</h2>
 <a href="2019-12-09"><b><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></b></a>

@@ -17,6 +17,7 @@ include 'include/navbar.php';
         
         <div id="content-area">
 <ul>
+
   <li>
     <p style="margin-left:0cm;">
       <span style="display:block;float:left;min-width:0.635cm;"></span>
@@ -789,7 +790,20 @@ class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></spa
 href="http://www.twn.my/title2/wto.info/2018/ti180505.htm" class="Internet_20_link"><span
 class="T4">China to denounce US threats to MTS at General Council</span></a><span
 class="T2"><br/>by D. Ravi Kanth (14 May 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
+class="odfLiEnd"/> </p></li>
+
+  <li>
+    <p style="margin-left:0cm;">
+      <span style="display:block;float:left;min-width:0.635cm;"></span>
+      International trade negotiations in context: The geopolitical dispute:
+      <a href="/2018/ALAI_geopolitical.pdf">English</a>, 
+      <a href="/2018/ALAI_disputa_geopolítica.pdf">Spanish</a>
+      <br>
+      by Sofía Scasserra (April 2018)
+    </p>
+  </li>
+
+<li><p class="P3" style="margin-left:0cm;"><span
 class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
 href="http://www.twn.my/title2/wto.info/2018/ti180419.htm" class="Internet_20_link"><span
 class="T4">Three-pronged assault on WTO-MTS by the US</span></a><span class="T2"><br/>by
