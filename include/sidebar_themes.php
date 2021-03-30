@@ -16,10 +16,15 @@ while(!feof($in)) {
   }
   $link_target=substr($line, 0, $sep);
   $theme=substr($line, $sep+1, -1);
-  if ($theme==$this_theme) {
-    echo "            <li><a href='$prepend_path$link_target' class='active'>$theme</a></li>\n";
+  if ($link_target=="*") {
+    # this is a heading, not a theme link
+    echo "     </ul><u><b>$theme</b></u><ul>\n";
   } else {
-    echo "            <li><a href='$prepend_path$link_target'>$theme</a></li>\n";
+    if ($theme==$this_theme) {
+      echo "            <li><a href='$prepend_path$link_target' class='active'>$theme</a></li>\n";
+    } else {
+      echo "            <li><a href='$prepend_path$link_target'>$theme</a></li>\n";
+    }
   }
 }
 ?>
