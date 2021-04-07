@@ -14,12 +14,12 @@ include 'include/navbar.php';
 <b><i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i></b>
 <p>
 
-<b><i>Letter from 258 organizations from more than 150 countries to WTO Members: Stop all trade and
+<b><i>Letter from 400 organizations from more than 150 countries to WTO Members: Stop all trade and
       investment treaty negotiations during the COVID-19 outbreak and refocus on access to
       medical supplies and saving lives</i></b>:
-      <a href="/2020/Focus_saving_lives.pdf">English</a>,
-      <a href="/2020/Focus_saving_lives_ES.pdf">Spanish</a>,
-      <a href="/2020/Focus_saving_lives_FR.pdf">French</a>
+      <a href="2020-04-30_letter_Focus_saving_lives">English</a>,
+      <a href="2020-04-30_carta_Salvar_vidas">Spanish</a>,
+      <a href="2020-04-30_lettre_Sauvetage_de_vies">French</a>
 <p>
 <b><i>Call to Halt Fisheries Subsidies Negotiations in the Middle of the COVID 19 Crisis</i></b>:
       <a href="/2020/Fisheries_subsidies.pdf">English</a>,
@@ -143,8 +143,7 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
 <h2><a href="UNCTAD">UNCTAD</a></h2>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
 <p>
-<b><i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD</a></i></b>:
-<a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">pdf</a>
+<b><i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD</a></i></b>
 <p>
 <b><a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a></b>
 
