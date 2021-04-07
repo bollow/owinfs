@@ -17,9 +17,10 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
 <p>
-<b><i><a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">Letter from CSOs to UNCTAD</a></i></b>
+<i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD</a></i>:
+<a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">pdf</a>
 <p>
-<b><a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a></b>
+<a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a>
 
 
 <div id="content-header">

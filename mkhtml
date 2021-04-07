@@ -15,6 +15,6 @@ for i in MC11; do
 done
 for i in 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2019-12-09 digital-trade-rules surrendering \
-	 Stiglitz 2021-03-17_TWN_Fisheries; do
+	 Stiglitz 2021-03-17_TWN_Fisheries 2021-04-06_CSO-letter_UNCTAD; do
   php contentitem-page/$i.php > $i.html
 done
