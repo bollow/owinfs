@@ -142,6 +142,10 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
       <div class="col">
 <h2><a href="UNCTAD">UNCTAD</a></h2>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
+<p>
+<b><i><a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">Letter from CSOs to UNCTAD</a></i></b>
+<p>
+<b><a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a></b>
 
 <h2><a href="digital">Digital trade</a></h2>
 <b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>
