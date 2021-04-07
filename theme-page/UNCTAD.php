@@ -13,8 +13,10 @@ include 'include/navbar.php';
       <div id="content" class="singlecolumn">
 
         <div id="content-header">
-          <h1 class="title">Towards UNCTAD XV</h1>
+          <h1 class="title">UN Conference on Trade and Development (UNCTAD)</h1>
         </div> <!-- /#content-header -->
+        <div id="content-area">
+<h2>Towards UNCTAD XV</h2>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
 <p>
 <i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD</a></i>:
@@ -22,13 +24,7 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <p>
 <a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a>
 
-
-<div id="content-header">
-          <h1 class="title">Documents from UNCTAD (UN Conference on Trade and Development)</h1>
-        </div> <!-- /#content-header -->
-        
-        <div id="content-area">
-<p>
+<h2>Documents from UNCTAD</h2>
 <a href="/2021/UNCTAD_ser-rp-2021d1_en.pdf">Research paper: <i>Joint Statement Initiative on E-Commerce (JSI):
 Economic and Fiscal Implications for the South</i></a>
 <p>
