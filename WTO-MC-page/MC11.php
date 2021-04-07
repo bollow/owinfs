@@ -96,7 +96,7 @@ December 10, 2017: Statement by Sally Burch:
 <a href="o/en/sally-burch.html">English</a>,
 <a href="o/es/sally-burch.html">Spanish</a>.
 </p><p>
-December 13, 2017: <a href="/2017/PR_cs-rights.pdf ">Open letter on civil society rights</a>
+December 13, 2017: <a href="/2017/PR_cs-rights.pdf">Open letter on civil society rights</a>
 
 <h2>Letter from Global Civil Society about the Agenda of the WTO</h2>
 Delivery date: 9 October, 2017

@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$html_title="";
+$html_title="As WTO Dispute Settlement System Collapses, Civil Society Calls Attention to Need for Fundamental Change in Global Trade Regime";
 include 'include/head_etc.php'
 ?>
     <div id="main" class="group">

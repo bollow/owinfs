@@ -282,6 +282,10 @@ ul.width3 li {
   width: 25ex;
 }
 
+ul.tail {
+  margin-top: -14px;
+}
+
 li.unbold {
   font-weight: normal!important;
 }

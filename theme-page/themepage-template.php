@@ -1,11 +1,11 @@
 #!/usr/bin/php
 <?php
-$html_title="Statements and papers regarding the  negotiations at WTO";
+$html_title=" negotiations at WTO";
 include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
 <?php
-$this_theme="Fisheries";
+$this_theme="";
 include 'include/sidebar_themes.php';
 include 'include/navbar.php';
 ?>
