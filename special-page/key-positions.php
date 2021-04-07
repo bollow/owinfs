@@ -39,12 +39,17 @@ In 2017, previous to the 11th Ministerial Meeting in Buenos Aires, Argentina, we
 <a href="/2017/Global_MC11_agenda_GR.pdf">Greek</a>.
 <p>
 In the summer before the 10th Ministerial in Nairobi, OWINFS drafted a letter in July 2015, summarizing the current state of play in the WTO, and calling for a stop to the efforts to expand the failed model, as well as transformations to the existing rules. The “Letter from Civil Society Regarding Future Agenda of the WTO Negotiations” was endorsed by 341 groups from around the world. An updated version focused on the state of play going into the Ministerial, garnered support of a whopping 460 groups from nearly all countries across the globe. 
+<a href="o/sites/default/files/Civil%20Society%20Letter%20Dec%202015-EN-as%20of%20Dec%2014%20(2).pdf">English</a>,
+<a href="o/sites/default/files/Civil%20Society%20Letter%20Dec%202015-ES-as%20of%20Dec%2011.pdf">Spanish</a>,
+<a href="o/sites/default/files/Civil%20Society%20Letter%20Dec%202015-FR-as%20of%20Dec%2011.pdf">French</a>.
 <p>
-In advance of the 8th Ministerial in 2011, and then updated in advance of the 9th in 2013, we developed a comprehensive “<a href="http://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt.pdf">WTO Turnaround 2013: Food, Jobs and Sustainable Development First – Statement</a>” which provides both a call for a fundamental transformation of the WTO system, as well as detailed changes demanded by civil society from multiple sectors around the world, on issues ranging from food sovereignty and industrial policy to public services and access to medicines, and more.
+In advance of the 8th Ministerial in 2011, and then updated in advance of the 9th in 2013, we developed a comprehensive “<a href="o/en/signon/wto-turnaround-2013-food-jobs-and-sustainable-development-first-statement.html">WTO Turnaround 2013: Food, Jobs and Sustainable Development First – Statement</a>”
+(<a href="/2013/OWINFS_WTO_stmt.pdf">pdf</a>)
+which provides both a call for a fundamental transformation of the WTO system, as well as detailed changes demanded by civil society from multiple sectors around the world, on issues ranging from food sovereignty and industrial policy to public services and access to medicines, and more.
 <p>
 Our Statement of Political Unity, “<a href="statement-political-unity">Stop Corporate Globalization: Another World is Possible!</a>” was developed in 2006, ten years after the founding of the WTO and just before the global economic and financial crises. It sketches out the challenges of corporate globalization, sets forth our goals, and details What We Stand For. 
 <p>
-Our second statement is the “<a href="o/en/node/3">Our World is not for Sale: WTO – Shrink or Sink!</a>” This international “sign-on” statement, prepared after the Seattle Ministerial, lays out eleven transformational demands aimed at the WTO. Active OWINFS members have signed onto the statement.
+Our second statement was the “<a href="o/en/node/3">Our World is not for Sale: WTO – Shrink or Sink!</a>” This international “sign-on” statement, prepared after the Seattle Ministerial, lays out eleven transformational demands aimed at the WTO. Active OWINFS members have signed onto the statement.
 <p>
 Our founding statement is “No New Round – Turn Around.” This is an international statement written in advance of the 1999 WTO Ministerial in Seattle — calling on WTO member-nations to reject expansion or a “new round”—and, instead, to roll-back harmful WTO provisions and policies. This statement was signed by nearly 1500 organizations in the run-up to the Ministerial.
 <p>
