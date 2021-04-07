@@ -143,7 +143,7 @@ December 13, 2017: <a href="https://justnetcoalition.org/2017/PR_cs-rights.pdf "
 <p>
 <b><i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i></b>
 <p>
-<b><i>Letter from 258 organizations from more than 150 countries to WTO Members: Stop all trade and
+<b><i>Letter from 400 organizations from more than 150 countries to WTO Members: Stop all trade and
       investment treaty negotiations during the COVID-19 outbreak and refocus on access to
       medical supplies and saving lives</i></b>:
       <a href="/2020/Focus_saving_lives.pdf">English</a>,
