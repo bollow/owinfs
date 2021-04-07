@@ -24,6 +24,8 @@ sub process_file {
       $count = $File::Find::name =~ tr,/,,;
       $prepend_path="../" x ($count-1);
       $filecontent=~s,\<div id=\"navbar\".*?\<\/ul\>.*?\<\/div\>,<?php \$prepend_path="$prepend_path"; include 'include/navbar.php'; ?>,s;
+      # remove signon links for old statements
+      $filecontent=~s,<a href="../node/add/signatory/[0-9]*.html">Signon statement</a>,,s;
       # substitute the sidebar with theme list in the case of theme pages
       if ($File::Find::name =~ /themes/) {
         $filecontent=~s,\<div id="sidebar-left".*?\/\#sidebar-left \-\-\>,<?php \$prepend_path="$prepend_path"; include 'include/sidebar_themes.php'; ?>,s;
