@@ -11,6 +11,7 @@ include 'include/navbar.php';
 ?>
 
       <div id="content" class="singlecolumn">
+<a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">pdf</a>
         <div id="content-header">
           <h1 class="title">Letter from CSOs to UNCTAD</h1>
 	  <h4></h4>
