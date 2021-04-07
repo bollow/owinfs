@@ -134,7 +134,7 @@ December 13, 2017: <a href="https://justnetcoalition.org/2017/PR_cs-rights.pdf "
 <h2>2021</h2>
 <b><i><a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">Letter from CSOs to UNCTAD</a></i></b>
 <p>
-<b><a href="/2021/TWN_UNCTAD_issues.pdf"><i>Main issues for developing countries in relation to the UNCTAD XV Preparatory Committee Compilation Zero Draft</i> (TD(XV)/PC/L.1)</a></b>
+<b><a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</a></b>
 
 <h2>2020</h2>
 <b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>
