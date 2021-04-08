@@ -93,12 +93,8 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
 <b>Rebuttal to “The WTO Investment Facilitation Initiative: Why It Matters” – background note: <i><a href="https://ourworldisnotforsale.net/2017/Investment_rebuttal.pdf">Investment Facilitation
 for Development: Opening the doors of the WTO for hard rules on investment</a></i></b>
 
-<h2>Services</h2>
+<h2><a href="services">Services</a></h2>
 <a href="/2019/TWN_103_services.pdf"><b><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></b></a>
-<p>
-<b><i>“Domestic regulation” rules in the WTO</i></b>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_domestic_regulation.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_regulacion_nacional.pdf">Spanish</a>
 <p>
 <i><b>“Domestic regulation” rules in the WTO</b>:</i>
 English:
