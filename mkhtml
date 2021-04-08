@@ -13,7 +13,7 @@ done
 for i in MC11 MC12; do
   php WTO-MC-page/$i.php > $i.html
 done
-for i in 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
+for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2019-12-09 digital-trade-rules surrendering \
 	 Stiglitz 2021-03-17_TWN_Fisheries 2021-04-06_CSO-letter_UNCTAD \
 	 2020-04-30_letter_Focus_saving_lives 2020-04-30_carta_Salvar_vidas 2020-04-30_lettre_Sauvetage_de_vies; do

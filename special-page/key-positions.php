@@ -49,7 +49,7 @@ which provides both a call for a fundamental transformation of the WTO system, a
 <p>
 Our Statement of Political Unity, “<a href="statement-political-unity">Stop Corporate Globalization: Another World is Possible!</a>” was developed in 2006, ten years after the founding of the WTO and just before the global economic and financial crises. It sketches out the challenges of corporate globalization, sets forth our goals, and details What We Stand For. 
 <p>
-Our second statement was the “<a href="o/en/node/3">Our World is not for Sale: WTO – Shrink or Sink!</a>” This international “sign-on” statement, prepared after the Seattle Ministerial, lays out eleven transformational demands aimed at the WTO. Active OWINFS members have signed onto the statement.
+Our second statement was the “<a href="shrink-or-sink">Our World is not for Sale: WTO – Shrink or Sink!</a>” This international “sign-on” statement, prepared after the Seattle Ministerial, lays out eleven transformational demands aimed at the WTO. Active OWINFS members have signed onto the statement.
 <p>
 Our founding statement is “No New Round – Turn Around.” This is an international statement written in advance of the 1999 WTO Ministerial in Seattle — calling on WTO member-nations to reject expansion or a “new round”—and, instead, to roll-back harmful WTO provisions and policies. This statement was signed by nearly 1500 organizations in the run-up to the Ministerial.
 <p>
