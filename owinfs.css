@@ -27,24 +27,34 @@ h1
   line-height: 2ex;
 }
 
-a:link
-{
-  text-decoration: none;
-  color: #333366;
-}
-
+a:link,
 a:visited
 {
   text-decoration: none;
   color: #333366;
 }
 
-a:hover,
-a:focus,
-a:active
+h1 a:link,
+h1 a:visited,
+h2 a:link,
+h2 a:visited
 {
   text-decoration: none;
   color: #000;
+}
+
+a:hover,
+h1 a:hover,
+h2 a:hover
+{
+  text-decoration: none;
+  color: #cc3300;
+}
+
+a.active:hover,
+a.active:focus
+{
+  color: #333366;
 }
 
 #header
@@ -146,6 +156,11 @@ a:active
   padding-top: 10px;
 }
 
+#sidebar-inner div ul
+{
+  padding-left:15px;
+}
+
 #fullwidthcontent
 {
   padding-top: 20px;
@@ -224,10 +239,13 @@ table, td {
 }
 
 #navbar ul li a:hover,
-#navbar ul li a:focus,
-#navbar ul li a:active
- {
+#navbar ul li a:focus{
   color: #cc3300;
+}
+
+#navbar ul li a.active:hover,
+#navbar ul li aactive:focus {
+  color: #000;
 }
 
 li.hovermenu {
@@ -265,6 +283,10 @@ ul.width2 li {
 
 ul.width3 li {
   width: 25ex;
+}
+
+ul.tail {
+  margin-top: -14px;
 }
 
 li.unbold {
