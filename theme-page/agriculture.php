@@ -5,7 +5,7 @@ include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
 <?php
-$this_theme="Intellectual Property/TRIPS";
+$this_theme="Food &amp; Agriculture";
 include 'include/sidebar_themes.php';
 include 'include/navbar.php';
 ?>
