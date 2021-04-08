@@ -34,6 +34,10 @@ Countries should be able to use tariffs to protect domestic food markets. In any
 Subsidies that the US and the EU provide to cotton producers enrich a few thousand there, but have unfairly decimated production of hundreds of thousands of cotton farmers in Africa. <b>It is unfortunate that WTO members did not decide to significantly reduce or eliminate developed countries’ domestic supports for cotton at <a href="MC11">MC11</a></b>. 
 
 <h2>Civil Society Statements and Analysis</h2>
+<i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:
+<a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
+<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>
+<p>
 <a href="/2017/TWN_Agriculture.pdf"><i>Agriculture remains key</i></a>
 <p>
 <a href="o/agricultural-price-crisis.html"><i>WTO summit to ignore price crisis, agricultural dumping</i></a>

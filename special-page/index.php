@@ -130,7 +130,7 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
 <a href="http://cepr.net/publicaciones/articulos-de-opinion/big-tech-busca-concretar-el-colonialismo-digital-en-la-omc">Spanish</a>
 <a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">pdf</a>
 
-<h2>Agriculture</h2>
+<h2><a href="agriculture">Agriculture</a></h2>
 <b><i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i></b>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
 <a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>
@@ -142,6 +142,8 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
 <b><i><a href="https://ourworldisnotforsale.net/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i></b>
 <p>
 <b><i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i></b>
+<p>
+<a href="agriculture">more on agriculture …</a>
       </div>
       <div class="col">
 <h2><a href="UNCTAD">UNCTAD</a></h2>
