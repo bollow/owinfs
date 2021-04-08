@@ -90,7 +90,7 @@ Nov 29, 2019.
 Nov 30, 2015.
 
 
-<h2>Older updates</h2>
+<h2><a href="o/en/themes/3083">Older updates</a></h2>
 For older updates, <a href="o/en/themes/3083">see here</a>.
 
         </div> <!-- /#content-area -->
