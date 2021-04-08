@@ -41,7 +41,7 @@ include 'include/navbar.php';
 <a href="TRIPS">See here.</a>
 
 
-<h2>WTO reform</h2>
+<h2><a href="WTO-process">WTO reform</a></h2>
 <a href="2019-12-09"><b><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></b></a>
 <p>
 <a href="/2019/20_years.pdf"><b><i>The WTO 20 years after the 'battle of Seattle'</i></b></a>
