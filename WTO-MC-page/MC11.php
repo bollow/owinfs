@@ -52,7 +52,7 @@ Media release (Dec 11, 2017):<br />
 <b>Global Civil Society Shares What’s at Stake at MC 11: </b>
 <ul>
   <li><b><a href="https://ourworldisnotforsale.net/2017/R_OWINFS_gender.pdf">Quote sheet on the <i>rejection of the WTO Declaration on “Women’s Economic Empowerment”</i></a></b>
- </li><li><b><a href="https://ourworldisnotforsale.net/2017/R_agriculture_fisheries.pdf">Quote sheet and video: <i>Civil Society Experts Outline What Is Needed to Protect the Development Mandate in Agriculture and Fisheries-Subsidies Negotiations in MC11</i></a></b>
+ </li><li><b><a href="https://ourworldisnotforsale.net/2017/R_agriculture_fisheries.pdf">Quote sheet: <i>Civil Society Experts Outline What Is Needed to Protect the Development Mandate in Agriculture and Fisheries-Subsidies Negotiations in MC11</i></a></b>
   </li><li><b><a href="https://ourworldisnotforsale.net/2017/R_OWINFS_investment.pdf">Quote sheet: <i>‘Investment facilitation for development’ is a Trojan horse for
 investment rules in WTO, say civil society advocates</i></a></b>
   </li><li><b><a href="https://ourworldisnotforsale.net/2017/R_OWINFS_new_issues.pdf">Quote sheet: <i>Public interest legal experts warn of dangers of

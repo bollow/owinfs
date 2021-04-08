@@ -7,7 +7,7 @@ done
 for i in es fr; do
   php language-page/$i.php > $i.html
 done
-for i in fish digital UNCTAD WTO-process TRIPS; do
+for i in fish digital UNCTAD WTO-process TRIPS agriculture; do
   php theme-page/$i.php > $i.html
 done
 for i in MC11 MC12; do
