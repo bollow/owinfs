@@ -33,7 +33,7 @@ sub process_file {
         $filecontent=~s,\<div id="sidebar-left".*?\/\#sidebar-left \-\-\>,<?php \$prepend_path="$prepend_path"; include 'include/sidebar_themes.php'; ?>,s;
       }
       # substitute the sidebar with theme list in the case of about pages
-      if ($File::Find::name =~ m,en/about.html|en/node/4.html|en/node/2254.html|en/node/3.html$,) {
+      if ($File::Find::name =~ m,en/about.html|en/node/4.html|en/node/2254.html|en/node/3.html|en/signon/wto-turnaround-2013-food-jobs-and-sustainable-development-first-statement.html$,) {
         $filecontent=~s,\<div id="sidebar-left".*?\/\#sidebar-left \-\-\>,<?php \$prepend_path="$prepend_path"; include 'include/sidebar_aboutpage.php'; ?>,s;
       }
       # process with php
