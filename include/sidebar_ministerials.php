@@ -2,16 +2,32 @@
       <div id="sidebar-inner">
         <h2 class="title">WTO Ministerials</h2>
   <div class="content">
-    <ul class="menu"><li class="leaf first active-trail"><a href="MC11" title="" class="active">11th Ministerial, Buenos Aires 2017</a></li>
-<li class="leaf"><a href="o/en/ministerials/3260" title="">10th Ministerial, Nairobi 2015</a></li>
-<li class="leaf"><a href="o/en/ministerials/3166" title="">9th WTO Ministerial, Bali 2013</a></li>
-<li class="leaf"><a href="o/en/ministerials/3138" title="">8th Ministerial, Geneva 2011</a></li>
-<li class="leaf"><a href="o/en/ministerials/3106" title="">7th WTO Ministerial Geneva 2009</a></li>
-<li class="leaf"><a href="o/en/ministerials/3108" title="">Mini Ministerial, Geneva 2008</a></li>
-<li class="leaf"><a href="o/en/ministerials/3097" title="">6th Ministerial, Hong Kong 2005 </a></li>
-<li class="leaf"><a href="o/en/ministerials/3096" title="">5th Ministerial, Cancùn 2003</a></li>
-<li class="leaf"><a href="o/en/ministerials/3098" title="">4th Ministerial, Doha 2001 </a></li>
-<li class="leaf last"><a href="o/en/ministerials/3109" title="">3rd Ministerial, Seattle 1999</a></li>
+    <ul class="menu">
+<?php
+global $this_mc;
+global $prepend_path;
+$inputfile="data/wto-mc";
+$in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
+while(!feof($in)) {
+  $line=fgets($in);
+  $sep=strpos($line, " ");
+  if ($sep===FALSE) {
+    break;
+  }
+  $link_target=substr($line, 0, $sep);
+  $mc=substr($line, $sep+1, -1);
+  if ($link_target=="*") {
+    # this is a heading, not a theme link
+    echo "     </ul><u><b>$mc</b></u><ul>\n";
+  } elseif ($link_target!="**") {
+    if ($mc==$this_mc) {
+      echo "            <li><a href='$prepend_path$link_target' class='active'>$mc</a></li>\n";
+    } else {
+      echo "            <li><a href='$prepend_path$link_target'>$mc</a></li>\n";
+    }
+  }
+}
+?>
 </ul>  </div>
         <h2 class="title">&nbsp;</h2>
         <img src="logo_owinfs_red.png" alt="Our World Is Not For Sale logo"

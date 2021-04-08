@@ -37,7 +37,9 @@ include 'include/navbar.php';
 <p>
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200521.htm">COVID-19: South opposes attempts to foist trade liberalization measures</a></i></b>
 
-<h2>Access to medicines, TRIPS waiver</h2>
+<h2><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
+<a href="TRIPS">See here.</a>
+
 
 <h2>WTO reform</h2>
 <a href="2019-12-09"><b><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></b></a>
@@ -69,6 +71,8 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
 <a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_ES.pdf">Spanish</a>
 <a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_FR.pdf">French</a>
 <a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_PT.pdf">Portuguese</a>
+<p>
+<a href="WTO-process">more on WTO process issues …</a>
 
       </div>
       <div class="col">
