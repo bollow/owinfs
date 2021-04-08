@@ -161,33 +161,26 @@ French: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf"
 <p>
 <a href="digital#more">more on the digital economy …</a>
 
-<h2>L'économie numérique</h2>
-<h2>La Economia Digital</h2>
+
+<h2><a href="fr">L'économie numérique</a></h2>
+<i><a href="https://www.cetri.be/L-Afrique-francophone-face-au-e?lang=fr">L’Afrique francophone face au e-commerce à l’OMC</a></i>
+<p>
+<i><a href="https://ourworldisnotforsale.net/2019/Tax_development_FR.pdf">Les impacts « anti-développement » des dispositions fiscales prévues dans les règles proposées sur le commerce numérique à l’OMC</a></i>
+<p>
+<i><a href="https://ourworldisnotforsale.net/2019/Digital_trade_2019-04-01-fr.pdf">Lettre de la société civile contre les règles sur le commerce électronique à l’Organisation mondiale du commerce (OMC)</a></i>
+<p>
+<i><a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf">Douze raisons de s’opposer aux règles sur le commerce électronique à l’OMC</a></i>
+<p>
+<a href="fr">plus d'informations sur l'économie numérique …</a>
+
+
+<h2><a href="es">La Economia Digital</a></h2>
 <i><a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">‘Big tech’ en la OMC</a></i>
 <p>
 <i><a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics_ES.pdf">Los países del Sur adoptan una postura firme
 sobre la geoeconomía de los datos</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2019/TWN_data-policies_ES.pdf">El Sur necesita políticas en materia de digitalización de datos, afirman expertas/os de organizaciones de la sociedad civil</a></i>
-<p>
-<i><a href="https://ourworldisnotforsale.net/2019/ITfC_Women_ES.pdf">Por qué el paradigma dominante del comercio digital no funcionará para las mujeres del Sur Global</a></i>
-<p>
-<i><a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.pdf">El comercio electrónico y las micro, pequeñas y medianas
-empresas (MIPYME): ¿qué normas comerciales podrían mejorar el clima de negocios en
-África?</a></i>
-<p>
-<i><a href="https://ourworldisnotforsale.net/2018/esignatures2018-9_es.pdf">Nota Preliminar: Autentificaci&oacute;n electr&oacute;nica: algunas implicaciones</a></i>
-<p>
 <i><a href="https://ourworldisnotforsale.net/2017/R_MSMEs_reject_ES.pdf">Las asociaciones de PYMES rechazan el programa de trabajo de PYMES y las Reglas de comercio electronico de la OMC</a></i>
-<p>
-<i><a href="https://ourworldisnotforsale.net/2018/ALAI_resultados.pdf">Un vistazo a la 11<sup>a</sup> Conferencia Ministerial de la OMC</a></i>
-<p>
-<i><a href="https://ourworldisnotforsale.net/2018/ALAI_comercio_electrónico.pdf">Comercio electrónico y la agenda de las transnacionales</a></i>
-<p>
-<i><a href="https://ourworldisnotforsale.net/2018/ALAI_disputa_geopolítica.pdf">El contexto de las actuales negociaciones comerciales internacionales: La disputa geopolítica</a></i>
-<p>
-<i><a href="https://ourworldisnotforsale.net/2018/ALAI_regulacion_nacional.pdf">Normas de "reglamentación nacional" en la OMC</a></i>
-<p>
 <i><a href="2019/WTO_12_reasons_v2_ES.pdf">Doce razones por las cuales debemos oponernos a las
 normas relativas al comercio digital en el marco de la OMC</a></i>
 <p>
@@ -196,6 +189,8 @@ normas relativas al comercio digital en el marco de la OMC</a></i>
 <i><a href="https://ourworldisnotforsale.net/2017/Scasserra_labor_ES.pdf">Tecnología, comercio electrónico y empleo</a></i>
 <p>
 <i><a href="https://ourworldisnotforsale.net/2018/Scassera_gender_ES.pdf">Comercio electrónico, futuro del trabajo y su impacto en las mujeres</a></i>
+<p>
+<a href="es">más sobre la economia digital …</a>
 
       </div> <!-- /#content-area -->
     </div> <!-- /#content -->
