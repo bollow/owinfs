@@ -139,10 +139,31 @@ is the new oil, so big tech is pushing for a digital free trade deal</a></i>.
 <i><a href="https://www.opendemocracy.net/democraciaabierta/burcu-kilic-renata-avila/wto-in-buenos-aires-or-how-digital-giants-are-trading-our">Trading away our privacy; the WTO Ministerial in Buenos Aires</a></i>.
 (December 12, 2017)
 <p>
+<i>E-commerce and the World Trade Organization:</i>
+English:
+<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce.pdf">pdf</a>,
+<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce.docx">docx</a>.
+Spanish:
+<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_ES.pdf">pdf</a>,
+<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_FR.docx">docx</a>.
+French:
+<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_FR.pdf">pdf</a>,
+<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_FR.docx">docx</a>.
+(November 17, 2017)
+<p>
 <i><a href="https://www.opendemocracy.net/digitaliberties/renata-avila-burcu-kilic/new-digital-trade-agenda-are-we-giving-away-internet">A new digital trade agenda: are we giving away the Internet?</a></i>
 (June 13, 2017)
+<p>
+<a href="https://ourworldisnotforsale.net/2017/UNI_Digital_divide.pdf"><i>Risk of a deepening of the digital divide – worrisome WTO discussions</i></a>.
+(UNI Global Union: May 5, 2017)
 
-<h2>General Analysis of problems with the proposed negotiations on digital trade</h2>
+<h2 id="4">General Analysis of problems with the proposed negotiations on digital trade</h2>
+
+<a href="/2019_WTO_PF_95">Future of WTO in a digitalised world</a>.
+Video recording of session #95 at the 2019 WTO Public Forum.
+(10 October 2019)
+<p>
+
 <i>E-commerce and MSMEs: what trade rules could improve the business climate in Africa?</i>
 English: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.docx">docx</a>.
 Spanish: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.docx">docx</a>.
@@ -170,8 +191,19 @@ English:
 <p>
 <i><a href="https://ourworldisnotforsale.net/2017/TWN_E-commerce.pdf">Preliminary analysis of aspects of some WTO ecommerce proposals</a></i>.
 (10 December 2017)
+<p>
+<i>The fourth industrial revolution will deepen the digital divide.</i> Alliance Sud Position on the Eleventh WTO Ministerial Conference:
+<a href="https://ourworldisnotforsale.net/2017/AS_Digital_divide.pdf">English</a>,
+<a href="https://ourworldisnotforsale.net/2017/AS_Digital_divide_FR.pdf">French</a>.
+(30 November 2017)
 
 <h2 id="5">Detailed analysis of problems with specific proposed provisions on digital trade</h2>
+
+<a href="/2019_WTO_PF_119">Why are computer and related services important?</a>
+Video recording of session #119 at the 2019 WTO Public Forum.
+(11 October 2019)
+<p>
+
 <i>Anti‐development Impacts of Tax‐Related Provisions in Proposed Rules on Digital Trade in
       the WTO</i>:
 <a href="https://rdcu.be/bRyEC">English</a>,
@@ -226,60 +258,27 @@ UNCTAD report:
 (April 2018)
 <p>
 UNCTAD <i>Trade and Development Report 2018: Power, Platforms and The Free Trade Delusion:
-<a href="https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2227">English,</a>,
+<a href="https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2227">English</a>,
 <a href="https://unctad.org/es/PublicationsLibrary/tdr2018_es.pdf">Spanish</a>,
 <a href="https://unctad.org/fr/PublicationsLibrary/tdr2018_fr.pdf">French</a>.</i>
 (September 2018)
-<ul class="tail">
-  <li>Chapter III: <i>Economic Development in a Digital World: Prospects, Pitfalls and Policy Options</i>:
+<br>
+→ Chapter III: <i>Economic Development in a Digital World: Prospects, Pitfalls and Policy Options</i>:
       <a href="https://unctad.org/en/PublicationChapters/tdr2018ch3_en.pdf">English</a>,
       <a href="/2019/UNCTAD_TDR2018_chapter_III_FR.pdf">French</a>.
-</ul>
 <p>
 <i><a href="https://ourworldisnotforsale.net/2017/TWN_Procurement.pdf">Some of the implications of ecommerce proposals for government procurement</a></i>
 (10 December 2017)
 
 <h2 id="7">Updates and articles on the negotiations</h2>
-mostly TODO?
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i>
+(4 June 2020)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200503.htm">E-com proposals at WTO a recipe for corporate greed</a></i>
+(5 May 2020)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2020/ti200502.htm">COVID-19: JSI group for exploring emerging e-com/digital trade issues</a></i>
 (4 May 2020)
-<p>
-<hr>
-<p>
-unsure in regard to how or where to put them:
-
-<h3>2020</h3>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i>
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200503.htm">E-com proposals at WTO a recipe for corporate greed</a></i>
-[news item about the “surrendering” report above]
-<h3>Sessions at the 2019 WTO Public Forum</h3>
-<a href="/2019_WTO_PF_95">#95. Future of WTO in a digitalised world</a>.
-<p>
-<a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a>
-
-
-
-<h3>Statements and analysis from 2017</h3>
-<i><b>The fourth industrial revolution will deepen the digital divide.</b> Alliance Sud Position on the Eleventh WTO Ministerial Conference:</i>
-<a href="https://ourworldisnotforsale.net/2017/AS_Digital_divide.pdf">English</a>,
-<a href="https://ourworldisnotforsale.net/2017/AS_Digital_divide_FR.pdf">French</a>.
-<p>
-<i>E-commerce and the World Trade Organization:</i>
-English:
-<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce.docx">docx</a>.
-Spanish:
-<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_ES.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_FR.docx">docx</a>.
-French:
-<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_FR.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_FR.docx">docx</a>.
-(November 17, 2017)
-<p>
-<a href="https://ourworldisnotforsale.net/2017/UNI_Digital_divide.pdf"><i>Risk of a deepening of the digital divide – worrisome WTO discussions</i></a>
-<p>
 
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->
