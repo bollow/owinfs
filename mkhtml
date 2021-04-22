@@ -10,7 +10,7 @@ done
 for i in fish digital digital2 UNCTAD WTO-process TRIPS agriculture investment services; do
   php theme-page/$i.php > $i.html
 done
-for i in MC11 MC12; do
+for i in MC3 MC11 MC12; do
   php WTO-MC-page/$i.php > $i.html
 done
 for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
