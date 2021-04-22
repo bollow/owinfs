@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in index about members contact news key-positions WTO \
+for i in index about members contact news key-positions no-new-round WTO \
 	 statement-political-unity declaration-d-unite \
 	 documento-di-unita declaracion-unidad-politica ; do
   php special-page/$i.php > $i.html

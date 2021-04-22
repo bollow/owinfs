@@ -51,7 +51,7 @@ Our Statement of Political Unity, “<a href="statement-political-unity">Stop Co
 <p>
 Our second statement was the “<a href="shrink-or-sink">Our World is not for Sale: WTO – Shrink or Sink!</a>” This international “sign-on” statement, prepared after the Seattle Ministerial, lays out eleven transformational demands aimed at the WTO. Active OWINFS members have signed onto the statement.
 <p>
-Our founding statement is “No New Round – Turn Around.” This is an international statement written in advance of the 1999 WTO Ministerial in Seattle — calling on WTO member-nations to reject expansion or a “new round”—and, instead, to roll-back harmful WTO provisions and policies. This statement was signed by nearly 1500 organizations in the run-up to the Ministerial.
+Our founding statement is “<a href="no-new-round">No New Round – Turn Around</a>.” This is an international statement written in advance of the 1999 WTO Ministerial in Seattle — calling on WTO member-nations to reject expansion or a “new round”—and, instead, to roll-back harmful WTO provisions and policies. This statement was signed by nearly 1500 organizations in the run-up to the Ministerial.
 <p>
 In addition, OWINFS has developed specific and more detailed statements around issues such as protecting basic services, food security and sovereignty, trade in goods, and challenging the fundamental lack of democracy within the WTO, which can be found in the thematic sections.
         </div> <!-- /#content-area -->
