@@ -40,6 +40,5 @@ while(!feof($in)) {
         globalization embodied in global trading system. OWINFS is committed to a sustainable,
         socially just, democratic and accountable multilateral trading system.</p>
 	<p><a href="statement-political-unity">Statement of political unity</a></p>
-	<p><a href="/2017/OWINFS_Flyer.pdf">Our World is Not for Sale (OWINFS) one-page flyer</a></p>
       </div> <!-- /#sidebar-inner -->
     </div> <!-- /#sidebar -->
