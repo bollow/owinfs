@@ -16,7 +16,7 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
-          <p>205 organizations are members of OWINFS.</p>
+          <p>196 organizations are members of OWINFS.</p>
           <table class="views-table cols-2">
     <thead>
     <tr>
@@ -35,40 +35,14 @@ include 'include/navbar.php';
 			<font face="Arial"><font size="2" style="font-size: 10pt">Belgium</font></font>
 		</td>
 	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Action
-			Aid India</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">India</font></font>
-		</td>
-	</tr>
+
 	<tr>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Action
 			Aid International</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Ghana</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Action
-			Aid International</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Kenya</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Action
-			Aid International</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Pakistan</font></font>
+			<font face="Arial"><font size="2" style="font-size: 10pt">international</font></font>
 		</td>
 	</tr>
 	<tr>
@@ -275,7 +249,7 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Attac
+			<font face="Arial"><font size="2" style="font-size: 10pt">ATTAC
 			Norway</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
@@ -489,15 +463,6 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Commonwealth
-			Secretariat</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">UK</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Confederazione
 			Generale Italiana del Lavoro (CGIL)</font></font>
 		</td>
@@ -581,24 +546,6 @@ include 'include/navbar.php';
 			African Trade Union Confederation (EATUC)</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Pakistan</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Eastern
-			and Southern Africa Small-Scale Farmers Forum (ESAFF)</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Kenya</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Eastern
-			and Southern Africa Small-Scale Farmers Forum (ESAFF)</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Tanzania</font></font>
 		</td>
 	</tr>
@@ -608,7 +555,7 @@ include 'include/navbar.php';
 			and Southern Africa Small-Scale Farmers Forum (ESAFF)</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Zambia</font></font>
+			<font face="Arial"><font size="2" style="font-size: 10pt">international</font></font>
 		</td>
 	</tr>
 	<tr>
@@ -841,16 +788,6 @@ include 'include/navbar.php';
 	<tr>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Global
-			Justice Now</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">UK </font></font>
-			
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Global
 			Justice Now!</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
@@ -919,15 +856,6 @@ include 'include/navbar.php';
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Brazil</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">IBON
-			International</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Philippines</font></font>
 		</td>
 	</tr>
 	<tr>
@@ -1096,7 +1024,7 @@ include 'include/navbar.php';
 			Coalition</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Switzerland</font></font>
+			<font face="Arial"><font size="2" style="font-size: 10pt">international</font></font>
 		</td>
 	</tr>
 	<tr>
@@ -1393,7 +1321,7 @@ include 'include/navbar.php';
 	<tr>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Public
-			Services India</font></font>
+			Services International India</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">India</font></font>
@@ -1420,7 +1348,7 @@ include 'include/navbar.php';
 	<tr>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Public
-			Services International Togo</font></font>
+			Services International Africa</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Togo</font></font>
@@ -1428,14 +1356,6 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">REBRIP</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Brazil</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td bgcolor="#ffffff" style="background: #ffffff" style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">REBRIP</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
