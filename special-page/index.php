@@ -10,6 +10,12 @@ include 'include/sidebar_about.php';
 include 'include/navbar.php';
 ?>    <div id="content" class="columns">
       <div class="col">
+
+
+<h2><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
+<a href="TRIPS">See here.</a>
+
+
 <h2>Covid-19 crisis</h2>
 <b><i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i></b>
 <p>
@@ -36,9 +42,6 @@ include 'include/navbar.php';
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i></b>
 <p>
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200521.htm">COVID-19: South opposes attempts to foist trade liberalization measures</a></i></b>
-
-<h2><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
-<a href="TRIPS">See here.</a>
 
 
 <h2><a href="WTO-process">WTO reform</a></h2>

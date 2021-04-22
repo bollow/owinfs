@@ -17,7 +17,7 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
-<h2>Current statements and analysis from civil society</h2>
+<h2>Statements and analysis from civil society</h2>
 <a href="2021-03-17_TWN_Fisheries">Protecting the Problem – Fisheries subsidies negotiations and the WTO</a> (17 March 2021)
 <p>
 <i>Call to Halt Fisheries Subsidies Negotiations in the Middle of the COVID 19 Crisis</i>:
@@ -27,7 +27,6 @@ include 'include/navbar.php';
       <a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
 <p>
 
-<h2>Older but still relevant</h2>
 <a href="/2019/PANG_fisheries.pdf"><i>Fisheries subsidies negotiations and development in the World Trade Organization</i></a> (2019)
 <p>
 <i>Market access the true aim of WTO fisheries subsidies negotiations</i>:

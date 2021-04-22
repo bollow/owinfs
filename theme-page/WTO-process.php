@@ -85,9 +85,7 @@ May 7, 2020.
 <p>
 <a href="/2019/20_years.pdf"><i>The WTO 20 years after the ‘battle of Seattle’</i></a>,
 Nov 29, 2019.
-<p>
-<a href="o/en/article/ssm-blocked-us-eu-australia-and-brazil.html">The United States, the European Union, Australia, and Brazil have blocked a major deliverable concerning the special safeguard mechanism (SSM) for the developing countries</a>,
-Nov 30, 2015.
+
 
 
 <h2><a href="o/en/themes/3083">Older updates</a></h2>
