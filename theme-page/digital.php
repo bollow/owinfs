@@ -107,7 +107,7 @@ Economic and Fiscal Implications for the South</i></a>.
 <i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>. (2020)
 <p>
 <i><a href="/surrendering">Digital trade rules and Big Tech: Surrendering public good to private power</a></i>
-(February 2020)
+(Public Services International (PSI): February 2020)
 <p>
 Twelve reasons to oppose <i>rules</i> on digital commerce in the WTO.
 English: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.docx">docx</a>.
@@ -157,7 +157,7 @@ French:
 <a href="https://ourworldisnotforsale.net/2017/UNI_Digital_divide.pdf"><i>Risk of a deepening of the digital divide – worrisome WTO discussions</i></a>.
 (UNI Global Union: May 5, 2017)
 
-<h2 id="4">General Analysis of problems with the proposed negotiations on digital trade</h2>
+<h2 id="4">General analysis of problems with the proposed negotiations on digital trade</h2>
 
 <a href="/2019_WTO_PF_95">Future of WTO in a digitalised world</a>.
 Video recording of session #95 at the 2019 WTO Public Forum.

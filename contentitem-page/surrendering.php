@@ -13,6 +13,7 @@ include 'include/navbar.php';
       <div id="content" class="singlecolumn">
 
         <div id="content-header">
+	  Report by Public Services International (PSI), February 2020
           <h1 class="title">Digital trade rules and Big Tech: Surrendering public good to private power</h1>
         </div> <!-- /#content-header -->
         
