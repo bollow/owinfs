@@ -15,6 +15,10 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
 
       <div id="content-area">
+
+<i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>, April 26, 2021.
+
+
 <h2>Covid-19 crisis</h2>
 <i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i>
 <p>

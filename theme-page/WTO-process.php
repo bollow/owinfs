@@ -18,6 +18,8 @@ include 'include/navbar.php';
         
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
+<i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>, April 26, 2021.
+<p>
 <i><a href="2020-04-30_letter_Focus_saving_lives">
 Letter from 400 organizations from more than 150 countries to WTO Members: Stop all trade and
 investment treaty negotiations during the COVID-19 outbreak and refocus on access to
