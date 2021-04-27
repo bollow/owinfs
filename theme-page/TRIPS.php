@@ -33,6 +33,10 @@ In addition, Least Developed Countries (LDCs) are not required to implement TRIP
 The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/IP/C/W669.pdf&Open=True">joint submission</a> from India and South Africa in the WTO.  
 
 <h2>Recent updates</h2>
+
+<a href="https://www.bu.edu/gdp/2021/04/22/letter-to-the-ustr-and-eu-trade-commissioner-support-pandemic-recovery-for-least-developed-countries/">Academics’ letter to the USTR and EU Trade Commissioner: Support Pandemic Recovery for Least Developed Countries</a>
+(April 22, 2021)
+<p>
 <a href="2021/Former_world_leaders.pdf">Former world leaders call on Biden to suspend Covid-19 vaccine patents</a> (Financial Times, April 15, 2021)
 <p>
 <a href="2021-04-14_PVA-letter">FORMER HEADS OF STATE AND NOBEL LAUREATES CALL ON PRESIDENT BIDEN TO WAIVE INTELLECTUAL PROPERTY RULES FOR COVID VACCINES</a> (April 14, 2021)
