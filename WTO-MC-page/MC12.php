@@ -11,11 +11,17 @@ include 'include/navbar.php';
 ?>
       <div id="content" class="singlecolumn">
         <div id="content-header">
-          <h1 class="title">Towards the 12th WTO Ministerial, 2021</h1>
+          <h1 class="title">Towards the 12<sup>th</sup> Ministerial (MC12)</h1>
         </div> <!-- /#content-header -->
 
       <div id="content-area">
-
+The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place November 30 - December 3, 2021 in Geneva. Corporate boosters are advocating for expanding the failed model of the WTO through plurilateral agreements on
+<a href="#investment">investment facilitation</a>,
+<a href="#services">domestic regulation of services</a> and
+<a href="#digital">digital trade</a> (so-called e-commerce). They are also pursuing an agreement to discipline
+<a href="#fish">fisheries subsidies</a>, but without the mandate on development. Instead, negotiators should focus on transforming the existing rules to allow countries to pursue development and shared prosperity, in areas such as <a href="#agriculture">agriculture</a>,
+<a href="TRIPS">TRIPS</a>, and the <a href="#SDT">development agenda</a>.
+<p>
 <i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>, April 26, 2021.
 
 
@@ -84,7 +90,7 @@ Development First</i> – Statement (Oct  28, 2013):
 <p>
 <a href="WTO-process">more on WTO process issues …</a>
 
-<h2><a href="fish">Fisheries</a></h2>
+<h2><a href="fish" id="fish">Fisheries</a></h2>
 <i>Market access the true aim of WTO fisheries subsidies negotiations</i>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
 <a href="https://ourworldisnotforsale.net/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>
@@ -93,13 +99,13 @@ Development First</i> – Statement (Oct  28, 2013):
 <p>
 <a href="fish">more on fisheries …</a>
 
-<h2>Investment</h2>
+<h2 id="investment">Investment</h2>
 <a href="/2019/TWN_102_investment.pdf"><i>Investment facilitation – Another plurilateral initiative at the WTO and its potential implications</i></a>
 <p>
 Rebuttal to “The WTO Investment Facilitation Initiative: Why It Matters” – background note: <i><a href="https://ourworldisnotforsale.net/2017/Investment_rebuttal.pdf">Investment Facilitation
 for Development: Opening the doors of the WTO for hard rules on investment</a></i>
 
-<h2>Services</h2>
+<h2 id="services">Services</h2>
 <a href="/2019/TWN_103_services.pdf"><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></a>
 <p>
 <i>“Domestic regulation” rules in the WTO</i>:
@@ -118,7 +124,7 @@ Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_111">#111. What woul
 <p>
 Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a>
 
-<h2>Development agenda</h2>
+<h2 id="SDT">Development agenda</h2>
 <i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i>
 <p>
 Martin Luther Munu:
@@ -136,7 +142,7 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
 <a href="http://cepr.net/publicaciones/articulos-de-opinion/big-tech-busca-concretar-el-colonialismo-digital-en-la-omc">Spanish</a>
 <a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">pdf</a>
 
-<h2>Agriculture</h2>
+<h2 id="agriculture">Agriculture</h2>
 <i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
 <a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>
@@ -149,7 +155,7 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
 <p>
 <i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>
 
-<h2><a href="digital">Digital trade</a></h2>
+<h2><a href="digital" id="digital">Digital trade</a></h2>
 <i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>
 <p>
 <i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i>

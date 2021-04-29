@@ -80,6 +80,8 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
       </div>
       <div class="col">
 <h1><a href="MC12">Towards MC12</a></h1>
+The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place Nov 30 - Dec 3, 2021 in Geneva.
+<p>
 <b><i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO DG from members of Our World Is Not for Sale</a></i></b>
 
 <h2><a href="fish">Fisheries</a></h2>
@@ -118,6 +120,8 @@ Spanish:
 <b>Session at the 2019 WTO Public Forum</b>: <a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a>
 
 <h2><a href="SDT">Development agenda</a></h2>
+Rich countries have blocked the development agenda since the founding of the WTO, and now are waging an assault against existing flexibilities. 
+<p>
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i></b>
 <p>
 Martin Luther Munu:
@@ -161,6 +165,8 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <b><a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a></b>
 
 <h2><a href="digital">Digital trade</a></h2>
+Some countries are pushing for anti-development, anti-public interest and pro-Big Tech rules in the WTO under the guise of “e&#8209;commerce.”
+<p>
 <b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>
 <p>
 <b><i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i></b>

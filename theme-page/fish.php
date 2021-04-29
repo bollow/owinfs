@@ -17,6 +17,9 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
+
+The Sustainable Development Goal 14.6 has the target to “prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing and eliminate subsidies that contribute to Illegal, Unreported and Unregulated fishing.” However developed countries are pushing to ignore the second half of that mandate which states that “appropriate and effective special and differential treatment (SDT) for developing and least-developed countries should be an integral part” of negotiations.
+
 <h2>Statements and analysis from civil society</h2>
 <a href="2021-03-17_TWN_Fisheries">Protecting the Problem – Fisheries subsidies negotiations and the WTO</a> (17 March 2021)
 <p>
