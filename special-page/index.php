@@ -151,6 +151,8 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <b><i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD</a></i></b>
 <p>
 <b><a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a></b>
+<p>
+<b><a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a></b>
 
 <h2><a href="digital">Digital trade</a></h2>
 <b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>

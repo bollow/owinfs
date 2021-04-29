@@ -25,6 +25,9 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a>
 
 <h2>Documents from UNCTAD</h2>
+<a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a>,
+UNCTAD Research Paper No. 65, April 2021.
+<p>
 <a href="/2021/UNCTAD_ser-rp-2021d1_en.pdf">Research paper: <i>Joint Statement Initiative on E-Commerce (JSI):
 Economic and Fiscal Implications for the South</i></a>
 <p>
