@@ -17,8 +17,11 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
+Some countries are pushing for anti-development, anti-public interest and pro-Big Tech rules in the WTO under the guise of “e-commerce.” These countries tried, but failed, to pressure all WTO members to agree to launch multilateral negotiations during the December 2017 Ministerial. OWINFS members and most developing countries in the WTO have been successful thus far in stopping a mandate for multilateral negotiations towards an agreement. Unfortunately, Big Tech advocates launched negotiations towards a “plurilateral” in the WTO. These negotiations do not have a mandate in the WTO, as it seems that the majority of members realize that such rules would constrain development, limit regulatory oversight including of needed anti-trust reforms, harm workers and women, and erode democracy by giving unprecedented power to Big Tech over far too many aspects of our lives. 
 
-Table of contents:
+
+<p>
+<b>Table of contents:</b>
 <ol>
   <li><a href="#1">Statements from civil society</a>
   <li><a href="#2">Key updates</a>
@@ -64,11 +67,21 @@ French: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.pdf">pdf</
 (December 12, 2017)
 
 
-<h2 id="2">Key updates</h2>
+<h2 id="2">Key new reports</h2>
 
 <a href="/2021/UNCTAD_ser-rp-2021d1_en.pdf">UNCTAD Research Paper: <i>Joint Statement Initiative on E-Commerce (JSI):
 Economic and Fiscal Implications for the South</i></a>.
 (February 2021)
+<p>
+<i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>. (2020)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200812.htm">How ‘digital trade’ rules would impede taxation of the digitalised economy in the Global South</a></i>
+(Third World Network (TWN), August 2020)
+<p>
+<i><a href="/surrendering">Digital trade rules and Big Tech: Surrendering public good to private power</a></i>
+(Public Services International (PSI), February 2020)
+<p>
+<a href="https://www.ituc-csi.org/IMG/pdf/digital_chapters_and_the_impact_on_labour_en.pdf">Free Trade Agreements, Digital Chapters and the Impact on Labour: A comparative Analysis of the potential practical implications</a> (ITUC and The New Economics Foundation, 2019)
 <p>
 <i>Giant tech corporations join forces with the WTO to try to launch a WTO
 2.0 to cement digital colonialism through international treaties</i>:
@@ -78,11 +91,15 @@ Economic and Fiscal Implications for the South</i></a>.
 <a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">pdf</a>.
 (June 26, 2019)
 <p>
-<i><a href="https://www.twn.my/title2/wto.info/2019/ti190606.htm">Moratorium on e-com duties will negatively impact South</a></i>.
-(June 12, 2019)
+
+
+<h2 id="3">Introductory articles</h2>
+<a href="https://www.equaltimes.org/the-future-is-digital-but-we">The future is digital, but we should keep digital chapters out of our trade deals</a> (Duncan McCann, October 1, 2020)
 <p>
-<i><a href="https://www.twn.my/title2/wto.info/2019/ti190501.htm">“Digital trade” war underway in e-com pluri-talks at WTO</a></i>.
-(May 6, 2019)
+<a href="https://twn.my/title2/wto.info/2020/ti200813.htm">Digital rules in FTAs may undermine capacity to tax digital firms</a> (D. Ravi Kanth, August 14, 2020)
+<p>
+<a href="https://unctad.org/news/should-digitally-delivered-products-be-exempted-customs-duties">Should digitally delivered products be exempted from customs duties?</a>
+(UNCTAD, July 16, 2020)
 <p>
 <i><a href="https://twn.my/title2/wto.info/2019/ti190417.htm">Development and E-com free flow of data rules are incompatible</a></i>.
 (April 19, 2019)
@@ -100,14 +117,6 @@ Economic and Fiscal Implications for the South</i></a>.
 <a href="https://ourworldisnotforsale.net/2019/TWN_data-policies_ES.pdf">Spanish</a>,
 <a href="https://ourworldisnotforsale.net/2019/TWN_data-policies_FR.pdf">French</a>.
 (April 15, 2019)
-<p>
-
-
-<h2 id="3">Introductory articles</h2>
-<i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>. (2020)
-<p>
-<i><a href="/surrendering">Digital trade rules and Big Tech: Surrendering public good to private power</a></i>
-(Public Services International (PSI): February 2020)
 <p>
 Twelve reasons to oppose <i>rules</i> on digital commerce in the WTO.
 English: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.docx">docx</a>.
@@ -163,19 +172,18 @@ French:
 Video recording of session #95 at the 2019 WTO Public Forum.
 (10 October 2019)
 <p>
-
-<i>E-commerce and MSMEs: what trade rules could improve the business climate in Africa?</i>
-English: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.docx">docx</a>.
-Spanish: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.docx">docx</a>.
-French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.docx">docx</a>.
-(March 2019)
-<p>
 <i>Why the dominant digital trade paradigm will not work for women in the global south:</i>
 <a href="https://itforchange.net/node/1635">English</a>
 <a href="https://ourworldisnotforsale.net/2019/ITfC_Women.pdf">pdf</a>,
 <a href="https://ourworldisnotforsale.net/2019/ITfC_Women_ES.pdf">Spanish</a>,
 <a href="https://ourworldisnotforsale.net/2019/ITfC_Women_FR.pdf">French</a>.
 (April 2019)
+<p>
+<i>E-commerce and MSMEs: what trade rules could improve the business climate in Africa?</i>
+English: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.docx">docx</a>.
+Spanish: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.docx">docx</a>.
+French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.docx">docx</a>.
+(March 2019)
 <p>
 <i><a href="/2018/RLS_Africa.pdf">Why E-Commerce won’t work for Africa’s development.</a></i>
 (December 2018)
@@ -211,6 +219,9 @@ Video recording of session #119 at the 2019 WTO Public Forum.
 <a href="/2019/Tax_development_FR.pdf">French</a>.
 (September 2019)
 <p>
+UNCTAD research paper: <i><a href="https://ourworldisnotforsale.net/2019/ser-rp-2019d1_en.pdf">Growing Trade in Electronic Transmissions: Implications for the South</a>.</i>
+(February 2019)
+<p>
 <a href="https://ourworldisnotforsale.net/2018/Koene_algorithms.pdf"><i>Implications of WTO ecommerce proposals restricting access to algorithms</i></a>.
 (October 2018)
 <p>
@@ -227,9 +238,6 @@ Video recording of session #119 at the 2019 WTO Public Forum.
 <p>
 UNCTAD report: <i><a href="https://ourworldisnotforsale.net/2017/UNCTAD_competitiveness.pdf">Rising product digitalisation and losing trade competitiveness</a>.</i>
 (September 2017)
-<p>
-UNCTAD research paper: <i><a href="https://ourworldisnotforsale.net/2019/ser-rp-2019d1_en.pdf">Growing Trade in Electronic Transmissions: Implications for the South</a>.</i>
-(February 2019)
 
 <h2 id="6">Data as a Public Good, and Digital Industrialization for Development</h2>
 
@@ -279,6 +287,12 @@ UNCTAD <i>Trade and Development Report 2018: Power, Platforms and The Free Trade
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2020/ti200502.htm">COVID-19: JSI group for exploring emerging e-com/digital trade issues</a></i>
 (4 May 2020)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190606.htm">Moratorium on e-com duties will negatively impact South</a></i>.
+(June 12, 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190501.htm">“Digital trade” war underway in e-com pluri-talks at WTO</a></i>.
+(May 6, 2019)
 
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->
