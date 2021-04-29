@@ -37,6 +37,8 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 <a href="https://www.bu.edu/gdp/2021/04/22/letter-to-the-ustr-and-eu-trade-commissioner-support-pandemic-recovery-for-least-developed-countries/">Academics’ letter to the USTR and EU Trade Commissioner: Support Pandemic Recovery for Least Developed Countries</a>
 (April 22, 2021)
 <p>
+<a href="https://haiweb.org/wp-content/uploads/2021/04/Joint-MP-MEP-Appeal-TRIPS-waiver-EN-FR-DE-ES-IT-April-2021.pdf">Joint appeal by 388 members of the European Parliament and of European national parliaments urging the EU and its member states to support a TRIPS waiver</a> (April 21, 2021)
+<p>
 <a href="2021/Former_world_leaders.pdf">Former world leaders call on Biden to suspend Covid-19 vaccine patents</a> (Financial Times, April 15, 2021)
 <p>
 <a href="2021-04-14_PVA-letter">FORMER HEADS OF STATE AND NOBEL LAUREATES CALL ON PRESIDENT BIDEN TO WAIVE INTELLECTUAL PROPERTY RULES FOR COVID VACCINES</a> (April 14, 2021)
