@@ -31,8 +31,11 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 <p>
 <i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>. (26 April 2021)
 
+<h2>COVID-19 crisis</h2>
 
-<h2>Covid-19 crisis</h2>
+<i><a href="http://wtocentre.iift.ac.in/PolicyBrief/Policy_brief_1.pdf">Seeking market access behind the veil of combating COVID-19</a></i>.
+(Abhijit Das, Murali Kallummal and Sachin Kumar Sharma, Centre for WTO Studies, India, June 2020)
+<p>
 <i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i>
 (3 June 2020)
 <p>

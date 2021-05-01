@@ -16,8 +16,12 @@ include 'include/navbar.php';
 <a href="TRIPS">See here.</a>
 
 
-<h2>Covid-19 crisis</h2>
-<b><i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i></b>
+<h2>COVID-19 crisis</h2>
+
+<b><i><a href="http://wtocentre.iift.ac.in/PolicyBrief/Policy_brief_1.pdf">Seeking market access behind the veil of combating COVID-19</a></i></b>.
+<p>
+
+<b><i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i></b>.
 <p>
 
 <b><i>Letter from 400 organizations from more than 150 countries to WTO Members: Stop all trade and
