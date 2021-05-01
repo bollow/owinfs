@@ -1,0 +1,95 @@
+#!/usr/bin/perl -w
+
+# Generate html code for link items in what has been adopted as the standard format
+# for such items for the OWINFS website.
+#
+# The input file can be a .html file containing html (possibly just a snippet) or a
+# text document in any other format which libreoffice can read (e.g. .odt, .doc, .docx).
+#
+# This script writes its output to a file out.html which is intended for manual insertion
+# into one of the pages of the website.
+
+sub cmd {
+  my $systemcmd=shift;
+  system $systemcmd and die "failed system command \"$systemcmd\"\n";
+}
+
+$file=shift
+  or die "Input file no specified.\n";
+-f $file or die "Input file '$file' not found.\n";
+
+$file=~/\.([^\.]*)$/;
+$file_suffix=$1;
+
+if ($file =~ /.html$/) {
+  open IN, '<', $file;
+} else {
+  cmd("cp '$file' /tmp/mklinkitems.$file_suffix");
+  cmd("libreoffice --norestore --convert-to html --outdir /tmp /tmp/mklinkitems.$file_suffix");
+  open IN, '<', "/tmp/mklinkitems.html";
+}
+
+%month=(
+  Jan => "January",
+  Feb => "February",
+  Mar => "March",
+  Apr => "April",
+  May => "May",
+  Jun => "June",
+  Jul => "July",
+  Aug => "August",
+  Sep => "September",
+  Sept => "September",
+  Oct => "October",
+  Nov => "November",
+  Dec => "December");
+
+sub date {
+  $d=int(shift); # conversion gets rid of any leading 0
+  $m=shift;
+  $y=shift;
+  $month{$m} or print STDERR "Undefined month value: '$m'\n";
+  return ". ($d $month{$m} 20$y)";
+}
+
+$/ = undef;
+$html = <IN>;
+close IN;
+
+$html=~s,<!DOCTYPE[^>]*>\n,,;
+$html=~s,<html>\n?,,;
+$html=~s,</html>,,;
+$html=~s,<head>.*</head>,,s;
+$html=~s,<body[^>]*>\n?,,;
+$html=~s,</body>,,;
+$html=~s,<font[^>]*>,,g;
+$html=~s,</font>,,g;
+$html=~s,\s+, ,g;
+$html=~s,<ul>,,g;
+$html=~s,</ul>,,g;
+$html=~s,<li>\s*<p[^>]*>,<p>,g;
+$html=~s,<li>,<p>,g;
+$html=~s,</li>,,g;
+$html=~s,<p[^>]*>,\n<p>\n,g;
+$html=~s,</p>,,g;
+$html=~s,<span [^/>]*/>,,gs;
+$html=~s,<span [^>]*></span>,,gs;
+$html=~s,<span [^>]*>\s+</span>, ,gs;
+$html=~s,<span style="font-weight: normal">((.(?!<span>))*?)</span>,$1,gs;
+$html=~s,<span class="[^"]*">((.(?!<span>))*?)</span>,$1,gs;
+$html=~s,<span lang="[^"]*">((.(?!<span>))*?)</span>,$1,gs;
+$html=~s,,,g;
+$html=~s,<u>,,g;
+$html=~s,</u>,,g;
+$html=~s,<br/>,,g;
+$html=~s,</a>\s*by,</a>\, by,g;
+$html=~s,http://www.twn.my,https://www.twn.my,g;
+$html=~s,<a[^>]*/>,,g;
+$html=~s, class="Internet_20_link",,g;
+$html=~s,<a,<i><a,g;
+$html=~s,</a>,</a></i>,g;
+$html=~s,\.?\s*\((\d\d)\s+([A-Z][a-z]+)\s+(\d\d)\),&date($1\,$2\,$3),sge;
+$html=~s,\s* \n,\n,g;
+open OUT, ">", "out.html";
+print OUT $html;
+close OUT;

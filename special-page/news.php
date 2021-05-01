@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$html_title="News and reports";
+$html_title="General News and Articles on the WTO Negotiations";
 include 'include/head_etc.php'
 ?>
     <div id="main">
@@ -11,1040 +11,541 @@ include 'include/navbar.php';
 ?>
 
       <div id="content" class="singlecolumn">
+
+For articles on specific areas of negotiations, such as e.g. <a href="fish">fisheries</a> or
+<a href="digital">digital trade</a>, please see those theme pages.
+
         <div id="content-header">
-          <h1 class="title">News and reports</h1>
+          <h1 class="title">General News and Articles on the WTO Negotiations</h1>
         </div> <!-- /#content-header -->
         
-        <div id="content-area">
-<ul>
-
-  <li>
-    <p style="margin-left:0cm;">
-      <span style="display:block;float:left;min-width:0.635cm;"></span>
-      Looking back on the 1999 protests in Seattle:
-      <a href="https://nwlaborpress.org/2019/11/looking-back-on-the-battle-in-seattle/">nwLaborPress.org article</a>
-    </p>
-  </li>
-  <li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti191002.htm" class="Internet_20_link"><span
-class="T4">E-com duties moratorium "asymmetrical" for South</span></a><span class="T2"><br/>by
-D. Ravi Kanth (03 Oct 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190913.htm" class="Internet_20_link"><span
-class="T4">United Nations: Global Green New Deal needed to deliver on 2030
-Agenda</span></a><span class="T2"><br/>by Kanaga Raja (30 Sept 19)</span><span class="T3">
-</span><a id="_GoBack"/><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190910.htm" class="Internet_20_link"><span
-class="T4">JSI members seek market access outcomes in e-com pluri-talks</span></a><span
-class="T2"><br/>by D. Ravi Kanth (25 Sept 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190909.htm" class="Internet_20_link"><span
-class="T4">A revised text covering 'all business enterprises' will be the basis for negotiating
-a UN treaty on business and human rights</span></a><span class="T2"><br/>by Kinda Mohamadieh (25
-Sept 19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190907.htm" class="Internet_20_link"><span
-class="T4">China to host informal ministerial in November</span></a><span class="T2"><br/>by
-D. Ravi Kanth (19 Sept 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190905.htm" class="Internet_20_link"><span
-class="T4">Mere exchange of ideas in fisheries talks in absence of a chair</span></a><span
-class="T2"><br/>by D. Ravi Kanth (18 Sept 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190904.htm" class="Internet_20_link"><span
-class="T4">US and China choreograph tariff moves ahead of trade talks</span></a><span
-class="T2"><br/>by D. Ravi Kanth (18 Sept 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190903.htm" class="Internet_20_link"><span
-class="T4">US claims "conceptual" accord reached in trade war with China</span></a><span
-class="T2"><br/>by D. Ravi Kanth (18 Sept 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190902.htm" class="Internet_20_link"><span
-class="T4">WTO Members remain divided over new chair for fisheries talks</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Sept 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190901.htm" class="Internet_20_link"><span
-class="T4">Trump severely criticised for escalating trade war with China</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Sept 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190805.htm" class="Internet_20_link"><span
-class="T4">US has more to lose if Trump pulls it out of WTO</span></a><span class="T2"><br/>by
-Chakravarthi Raghavan (16 Aug 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190804.htm" class="Internet_20_link"><span
-class="T4">US to delay imposing additional tariffs on Chinese goods</span></a><span
-class="T2"><br/>by D. Ravi Kanth (16 Aug 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190803.htm" class="Internet_20_link"><span
-class="T4">Pluri-accord on e-com could reinforce lawlessness in digital trade</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 Aug 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190802.htm" class="Internet_20_link"><span
-class="T4">China has upper hand after being labelled currency manipulator</span></a><span
-class="T2"><br/>by D. Ravi Kanth (09 Aug 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190732.htm" class="Internet_20_link"><span
-class="T4">South Coalesces Around An Inclusive Approach to Transparency</span></a><span
-class="T2"><br/>by D. Ravi Kanth (29 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190731.htm" class="Internet_20_link"><span
-class="T4">South Rallies Around Proposals to Advance Developmental Agenda</span></a><span
-class="T2"><br/>by D. Ravi Kanth (29 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190729.htm" class="Internet_20_link"><span
-class="T4">Reform process a serious test for the WTO, says DG</span></a><span class="T2"><br/>by
-Kanaga Raja (25 Jul 19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190728.htm" class="Internet_20_link"><span
-class="T4">South challenges US and allies' narrative on WTO "reforms"</span></a><span
-class="T2"><br/>by D. Ravi Kanth (25 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190727.htm" class="Internet_20_link"><span
-class="T4">Trump has "personal interest" in differentiation, says US envoy</span></a><span
-class="T2"><br/>by D. Ravi Kanth (25 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190723.htm" class="Internet_20_link"><span
-class="T4">South proposes strengthening WTO to promote development</span></a><span
-class="T2"><br/>by D. Ravi Kanth (16 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190722.htm" class="Internet_20_link"><span
-class="T4">Big Tech's control of consumer data raises concerns</span></a><span
-class="T2"><br/>by Kanaga Raja (16 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190721.htm" class="Internet_20_link"><span
-class="T4">US launches probe into France's proposed digital services tax</span></a><span
-class="T2"><br/>by D. Ravi Kanth (15 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190720.htm" class="Internet_20_link"><span
-class="T4">US countered on transparency requirement by key developing countries</span></a><span
-class="T2"><br/>by D. Ravi Kanth (15 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190719.htm" class="Internet_20_link"><span
-class="T4">Rules Chair clarifies on status of fisheries texts by facilitators</span></a><span
-class="T2"><br/></span><span class="T2">by D. Ravi Kanth (15 Jul 19)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190718.htm" class="Internet_20_link"><span
-class="T4">Digital transformation aid must not be conditioned on new e-com rules</span></a><span
-class="T2"><br/>by Kinda Mohamadieh (15 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190717.htm" class="Internet_20_link"><span
-class="T4">Press release: Sustainable development needs fundamental governance
-changes</span></a><span class="T2"><br/>(09 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190716.htm" class="Internet_20_link"><span
-class="T4">E-com rules promoted in name of women's economic empowerment</span></a><span
-class="T2"><br/>by Kinda Mohamadieh (09 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190715.htm" class="Internet_20_link"><span
-class="T4">Reclaiming development in the WTO</span></a><span class="T2"><br/>by Kanaga Raja (09
-Jul 19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190714.htm" class="Internet_20_link"><span
-class="T4">South faces defining moment on "development-friendly" WTO reforms</span></a><span
-class="T2"><br/>by D. Ravi Kanth (05 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190713.htm" class="Internet_20_link"><span
-class="T4">UN: From Development to Differentiation: Just how much has the world
-changed?</span></a><span class="T2"><br/>(05 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190712.htm" class="Internet_20_link"><span
-class="T4">"Time to ignite all engines" for economic growth, says BIS</span></a><span
-class="T2"><br/>by Chakravarthi Raghavan (04 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190711.htm" class="Internet_20_link"><span
-class="T4">Three informal consultations held on business and human rights draft
-treaty</span></a><span class="T2"><br/>by Kinda Mohamadieh (04 Jul 19)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190709.htm" class="Internet_20_link"><span
-class="T4">A legally binding instrument on business and human rights to advance accountability
-and access to justice</span></a><span class="T2"><br/>by Kinda Mohamadieh (03 Jul
-19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190708.htm" class="Internet_20_link"><span
-class="T4">South propose inclusive approach to WTO transparency, notifications</span></a><span
-class="T2"><br/>by D. Ravi Kanth (03 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190707.htm" class="Internet_20_link"><span
-class="T4">South countries reject "Osaka Track" legitimising e-com pluri-talks</span></a><span
-class="T2"><br/>by D. Ravi Kanth (03 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190705.htm" class="Internet_20_link"><span
-class="T4">Concerns over US push to bring TPP rules into digital trade deal</span></a><span
-class="T2"><br/>by D. Ravi Kanth (02 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190703.htm" class="Internet_20_link"><span
-class="T4">Opportunities and risks from Big Tech's entry into finance</span></a><span
-class="T2"><br/>by Chakravarthi Raghavan (01 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190702.htm" class="Internet_20_link"><span
-class="T4">Azevedo, as TNC chair, extends support for plurilateral initiatives</span></a><span
-class="T2"><br/>by D. Ravi Kanth (01 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190701.htm" class="Internet_20_link"><span
-class="T4">South countries establish "common platform" on WTO reform</span></a><span
-class="T2"><br/>by D. Ravi Kanth (01 Jul 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190612.htm" class="Internet_20_link"><span
-class="T4">China to host retreat on pursuing "development" via WTO reform</span></a><span
-class="T2"><br/>by D. Ravi Kanth (18 Jun 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190611.htm" class="Internet_20_link"><span
-class="T4">UN: Revised business and human rights draft treaty text expected end
-June</span></a><span class="T2"><br/>by Kinda Mohamadieh (17 Jun 19)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190610.htm" class="Internet_20_link"><span
-class="T4">United Nations: Global FDI flows fall for third consecutive year</span></a><span
-class="T2"><br/>by Kanaga Raja (17 Jun 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190609.htm" class="Internet_20_link"><span
-class="T4">China will oppose attempts to suppress its development, says envoy</span></a><span
-class="T2"><br/>by D. Ravi Kanth (17 Jun 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190608.htm" class="Internet_20_link"><span
-class="T4">War of attrition on e-com duty-free talks?</span></a><span class="T2"><br/>by D. Ravi
-Kanth (14 Jun 19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190607.htm" class="Internet_20_link"><span
-class="T4">G20 fail to resolve differences over WTO reform, digital trade</span></a><span
-class="T2"><br/>by D. Ravi Kanth (13 Jun 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190606.htm" class="Internet_20_link"><span
-class="T4">Moratorium on e-com duties will negatively impact South</span></a><span
-class="T2"><br/>by Kanaga Raja (12 Jun 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190604.htm" class="Internet_20_link"><span
-class="T4">Attempts to push "digital free flow" at G20 to test resolve of South</span></a><span
-class="T2"><br/>by D. Ravi Kanth (10 Jun 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190603.htm" class="Internet_20_link"><span
-class="T4">China lambasts US at WTO over Huawei ban</span></a><span class="T2"><br/>by Kanaga
-Raja (10 Jun 19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190601.htm" class="Internet_20_link"><span
-class="T4">US shoring up alliance with EU, Japan in trade war with China</span></a><span
-class="T2"><br/>by D. Ravi Kanth (10 Jun 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190513.htm" class="Internet_20_link"><span
-class="T4">South reject moves to curtail policy space to pursue
-industrialisation</span></a><span class="T2"><br/>by D. Ravi Kanth (29 May 19)</span><span
-class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190512.htm" class="Internet_20_link"><span
-class="T4">US intensifies trade war with China on ICT front</span></a><span class="T2"><br/>by
-D. Ravi Kanth (23 May 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190511.htm" class="Internet_20_link"><span
-class="T4">China tables comprehensive proposal on WTO reform</span></a><span class="T2"><br/>by
-Kanaga Raja (17 May 19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190510.htm" class="Internet_20_link"><span
-class="T4">Government Procurement Liberalisation Contradicts South Gender-Just Trade
-Policy</span></a><span class="T2"><br/>by Ranja Sengupta (17 May 19)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190509.htm" class="Internet_20_link"><span
-class="T4">China to stand firm against the US in protecting its policy space</span></a><span
-class="T2"><br/>by D. Ravi Kanth (16 May 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190508.htm" class="Internet_20_link"><span
-class="T4">Delhi meet calls for strengthening WTO-MTS, promoting development</span></a><span
-class="T2"><br/>by D. Ravi Kanth (16 May 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190507.htm" class="Internet_20_link"><span
-class="T4">South must put forward its own WTO reform agenda, says Davies</span></a><span
-class="T2"><br/>by D. Ravi Kanth (15 May 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190504.htm" class="Internet_20_link"><span
-class="T4">China unlikely to yield to US demands in bilateral talks</span></a><span
-class="T2"><br/>by D. Ravi Kanth (09 May 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190503.htm" class="Internet_20_link"><span
-class="T4">South denounce efforts to hijack Doha talks on e-com, agriculture</span></a><span
-class="T2"><br/>by D. Ravi Kanth (09 May 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190501.htm" class="Internet_20_link"><span
-class="T4">"Digital trade" war underway in e-com pluri-talks at WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (06 May 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190426.htm" class="Internet_20_link"><span
-class="T4">Development: A new multilateralism for a global green new deal</span></a><span
-class="T2"><br/>by Kanaga Raja (30 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190424.htm" class="Internet_20_link"><span
-class="T4">China to push back on e-com demands by US and allies in pluri-talks</span></a><span
-class="T2"><br/>by D. Ravi Kanth (30 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190423.htm" class="Internet_20_link"><span
-class="T4">United Nations: Diversification crucial to reduce risks in commodity
-sector</span></a><span class="T2"><br/>by Kanaga Raja (29 Apr 19)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190419.htm" class="Internet_20_link"><span
-class="T4">EU, Australia table draft MC12 statement on domestic regulation</span></a><span
-class="T2"><br/>by D. Ravi Kanth (25 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190418.htm" class="Internet_20_link"><span
-class="T4">WTO faces hard choices, no magic wand solutions</span></a><span class="T2"><br/>by
-Chakravarthi Raghavan (23 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190417.htm" class="Internet_20_link"><span
-class="T4">Development and E-com free flow of data rules are incompatible</span></a><span
-class="T2"><br/>by Chakravarthi Raghavan (19 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190415.htm" class="Internet_20_link"><span
-class="T4">India mini-ministerial at time of grave crisis at WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (18 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190414.htm" class="Internet_20_link"><span
-class="T4">South reacts sharply against US notification requirement proposals</span></a><span
-class="T2"><br/>by D. Ravi Kanth (18 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190413.htm" class="Internet_20_link"><span
-class="T4">South nations take firm stand on geo-economics of data</span></a><span
-class="T2"><br/>by Parminder Singh (17 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190412.htm" class="Internet_20_link"><span
-class="T4">South needs data digitalization policies, say CSO experts</span></a><span
-class="T2"><br/>by Deborah James (17 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190411.htm" class="Internet_20_link"><span
-class="T4">Capacity-building needed to reduce digital, data divides</span></a><span
-class="T2"><br/>by Kanaga Raja (17 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190410.htm" class="Internet_20_link"><span
-class="T4">Digital platforms generate opportunities and challenges</span></a><span
-class="T2"><br/>by Kanaga Raja (17 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190408.htm" class="Internet_20_link"><span
-class="T4">E-com pluri-talks a reality, so better join, says UNCTAD SG</span></a><span
-class="T2"><br/>by Chakravarthi Raghavan (11 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190406.htm" class="Internet_20_link"><span
-class="T4">EU and allies push back against India's move to strengthen MTS</span></a><span
-class="T2"><br/>by D. Ravi Kanth (09 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190405.htm" class="Internet_20_link"><span
-class="T4">Time for WTO to take up overdue review of DSU</span></a><span class="T2"><br/>by
-Chakravarthi Raghavan (09 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190404.htm" class="Internet_20_link"><span
-class="T4">Abandon talks for e-com rules at WTO, say over 300 CSOs</span></a><span
-class="T2"><br/>by Kanaga Raja (09 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190402.htm" class="Internet_20_link"><span
-class="T4">US tries to ram through intrusive WTO notification requirements</span></a><span
-class="T2"><br/>by D. Ravi Kanth (03 Apr 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190315.htm" class="Internet_20_link"><span
-class="T4">US and allies circulated proposals on e-com pluri-accord</span></a><span
-class="T2"><br/></span><span class="T2">by D. Ravi Kanth (29 Mar 19)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190313.htm" class="Internet_20_link"><span
-class="T4">WTO-MTS facing existential threat, needs political decisions</span></a><span
-class="T2"><br/>by Chakravarthi Raghavan (27 Mar 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190312.htm" class="Internet_20_link"><span
-class="T4">US keeping "Sword of Damocles" over China in bilateral talks?</span></a><span
-class="T2"><br/>by D. Ravi Kanth (25 Mar 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190310.htm" class="Internet_20_link"><span
-class="T4">China unlikely to get US assurances over lifting 5G ban on Huawei</span></a><span
-class="T2"><br/>by D. Ravi Kanth (20 Mar 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190309.htm" class="Internet_20_link"><span
-class="T4">US, working closely with DG, pushing for WTO reforms</span></a><span
-class="T2"><br/>by D. Ravi Kanth (19 Mar 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190306.htm" class="Internet_20_link"><span
-class="T4">5G: The battle for the future</span></a><span class="T2"><br/>by Humberto Campodonico
-(12 Mar 19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190305.htm" class="Internet_20_link"><span
-class="T4">US announces intention to terminate GSP benefits to India, Turkey</span></a><span
-class="T2"><br/>by D. Ravi Kanth (08 Mar 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190304.htm" class="Internet_20_link"><span
-class="T4">US-China trade deal could throw WTO into uncharted waters</span></a><span
-class="T2"><br/>by D. Ravi Kanth (08 Mar 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190303.htm" class="Internet_20_link"><span
-class="T4">Thai envoy to chair WTO General Council this year</span></a><span class="T2"><br/>by
-Kanaga Raja (06 Mar 19)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190217.htm" class="Internet_20_link"><span
-class="T4">India: Publishes draft e-commerce policy document, open for comments</span></a><span
-class="T2"><br/>by Chakravarthi Raghavan (27 Feb 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190216.htm" class="Internet_20_link"><span
-class="T4">China faces litmus test at WTO for preserving "policy space"</span></a><span
-class="T2"><br/>by D. Ravi Kanth (25 Feb 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190212.htm" class="Internet_20_link"><span
-class="T4">China, India respond robustly to US paper on "differentiation"</span></a><span
-class="T2"><br/>by D. Ravi Kanth (15 Feb 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190210.htm" class="Internet_20_link"><span
-class="T4">US denounced for proposing "differentiation" among South countries</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 Feb 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190208.htm" class="Internet_20_link"><span
-class="T4">China's ambiguous stance in face of US pressure</span></a><span class="T2"><br/>by
-D. Ravi Kanth (13 Feb 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190205.htm" class="Internet_20_link"><span
-class="T4">Beware Trojan horse of proposed E-commerce rules</span></a><span class="T2"><br/>by
-IPS/Chakravarthi Raghavan &amp; Jomo Kwame Sundaram (12 Feb 19)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190112.htm" class="Internet_20_link"><span
-class="T4">What are trade rules on e-commerce supposed to do?</span></a><span class="T2"><br/>by
-Chakravarthi Raghavan (31 Jan 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190111.htm" class="Internet_20_link"><span
-class="T4">India, South Africa reject attempts to launch talks on e-com, IF</span></a><span
-class="T2"><br/>by D. Ravi Kanth (30 Jan 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190110.htm" class="Internet_20_link"><span
-class="T4">Intention to launch e-com pluri talks announced at Davos</span></a><span
-class="T2"><br/>by D. Ravi Kanth (29 Jan 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190109.htm" class="Internet_20_link"><span
-class="T4">Seventy-five countries confirm "intention" to start e-com pluri-talks</span></a><span
-class="T2"><br/>by Kanaga Raja (29 Jan 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190105.htm" class="Internet_20_link"><span
-class="T4">WTO Rules Group takes up some fresh ideas in fisheries talks</span></a><span
-class="T2"><br/>by Kanaga Raja (23 Jan 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2019/ti190103.htm" class="Internet_20_link"><span
-class="T4">E-com pluri-talks at WEF aimed at digital colonisation of South</span></a><span
-class="T2"><br/>by Kanaga Raja (22 Jan 19)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181213.htm" class="Internet_20_link"><span
-class="T4">ICs still planning to launch e-com pluri-talks at Davos</span></a><span
-class="T2"><br/>by D. Ravi Kanth (21 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181212.htm" class="Internet_20_link"><span
-class="T4">More questions than answers at Africa e-Com event</span></a><span class="T2"><br/>by
-Chakravarthi Raghavan (21 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181209.htm" class="Internet_20_link"><span
-class="T4">Rise in trade restrictions, no breakthrough on AB impasse</span></a><span
-class="T2"><br/>by Kanaga Raja (13 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181208.htm" class="Internet_20_link"><span
-class="T4">DDA issues must be addressed before considering WTO reform</span></a><span
-class="T2"><br/>by D. Ravi Kanth (13 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181206.htm" class="Internet_20_link"><span
-class="T4">Current WTO reform proposals must be rejected, says Minister Davies</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181205.htm" class="Internet_20_link"><span
-class="T4">Strong support for India's initiative on improving DR disciplines</span></a><span
-class="T2"><br/>by D. Ravi Kanth (11 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181203.htm" class="Internet_20_link"><span
-class="T4">China faces defining moment in safeguarding its 'development model'</span></a><span
-class="T2"><br/>by D. Ravi Kanth (07 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181202.htm" class="Internet_20_link"><span
-class="T4">North countries succeed in foisting WTO 'reforms' at G20 meet</span></a><span
-class="T2"><br/>by D. Ravi Kanth (05 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181201.htm" class="Internet_20_link"><span
-class="T4">China for WTO reform to preserve MTS, respect development models</span></a><span
-class="T2"><br/>by D. Ravi Kanth (03 Dec 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181120.htm" class="Internet_20_link"><span
-class="T4">India, South Africa challenge continuing moratorium on e-com duties</span></a><span
-class="T2"><br/>by D. Ravi Kanth (30 Nov 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181117.htm" class="Internet_20_link"><span
-class="T4">North waging new form of trade warfare, undermining sovereign rights</span></a><span
-class="T2"><br/>by D. Ravi Kanth (26 Nov 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181116.htm" class="Internet_20_link"><span
-class="T4">Liberalization of global trade may have hit a wall</span></a><span class="T2"><br/>by
-Kanaga Raja (26 Nov 18)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181114.htm" class="Internet_20_link"><span
-class="T4">South countries sharply concerned over role of IGs in fisheries talks</span></a><span
-class="T2"><br/>by D. Ravi Kanth (23 Nov 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181113.htm" class="Internet_20_link"><span
-class="T4">China comes out against ambitious rules on e-commerce</span></a><span
-class="T2"><br/>by D. Ravi Kanth (22 Nov 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181112.htm" class="Internet_20_link"><span
-class="T4">South countries strongly oppose joint proposal on WTO notifications</span></a><span
-class="T2"><br/>by D. Ravi Kanth (22 Nov 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181108.htm" class="Internet_20_link"><span
-class="T4">Pressure being exerted to oppose India-South Africa e-com proposal</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Nov 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181104.htm" class="Internet_20_link"><span
-class="T4">US threatens to hold "WTO reforms" hostage over panel requests</span></a><span
-class="T2"><br/>by D. Ravi Kanth (05 Nov 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181101.htm" class="Internet_20_link"><span
-class="T4">Ottawa meet's move for launching new round of talks at MC12</span></a><span
-class="T2"><br/>by D. Ravi Kanth (02 Nov 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181018.htm" class="Internet_20_link"><span
-class="T4">US-EU-Japan's intrusive transparency proposal targets South</span></a><span
-class="T2"><br/>by D. Ravi Kanth (25 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181017.htm" class="Internet_20_link"><span
-class="T4">Ottawa meet to initiate first steps to launch new talks at MC12</span></a><span
-class="T2"><br/>by D. Ravi Kanth (24 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181016.htm" class="Internet_20_link"><span
-class="T4">Dates set for MC12 in Astana</span></a><span class="T2"><br/>by Kanaga Raja (23 Oct
-18)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181015.htm" class="Internet_20_link"><span
-class="T4">DG points to escalating trade tensions, no progress on AB impasse</span></a><span
-class="T2"><br/>by Kanaga Raja (23 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181014.htm" class="Internet_20_link"><span
-class="T4">South call for expeditious conclusion of DDA talks, oppose new issues</span></a><span
-class="T2"><br/>by D. Ravi Kanth (22 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181012.htm" class="Internet_20_link"><span
-class="T4">DG did not read report issued by WTO-IMF-WB at Bali last week!</span></a><span
-class="T2"><br/>by D. Ravi Kanth (22 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181010.htm" class="Internet_20_link"><span
-class="T4">Secretariat violates WTO Treaty to promote US agenda at WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (16 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181009.htm" class="Internet_20_link"><span
-class="T4">Trump signals intent to intensify trade war with China</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181008.htm" class="Internet_20_link"><span
-class="T4">US-Canada revised NAFTA deal could pose systemic threat to South</span></a><span
-class="T2"><br/>by D. Ravi Kanth (10 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181007.htm" class="Internet_20_link"><span
-class="T4">Trade wars a symptom of unbalanced hyperglobalized world</span></a><span
-class="T2"><br/>by Kanaga Raja (10 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181006.htm" class="Internet_20_link"><span
-class="T4">Azevedo's pitch for WTO rules in new areas countered at CSO event</span></a><span
-class="T2"><br/>by D. Ravi Kanth (09 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti181001.htm" class="Internet_20_link"><span
-class="T4">Crisis in multilateralism unfolding since UNCTAD-14</span></a><span
-class="T2"><br/>by Kanaga Raja (08 Oct 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180906.htm" class="Internet_20_link"><span
-class="T4">G20 meet to see efforts to begin process to negotiate new WTO rules</span></a><span
-class="T2"><br/>by D. Ravi Kanth (18 Sept 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180905.htm" class="Internet_20_link"><span
-class="T4">EU, US poised for combined assault on China's trade policies</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 Sept 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180904.htm" class="Internet_20_link"><span
-class="T4">WTO DG, EU and Canada propose comprehensive WTO reform</span></a><span
-class="T2"><br/></span><span class="T2">by D. Ravi Kanth (13 Sept 18)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180802.htm" class="Internet_20_link"><span
-class="T4">Kazakhstan to host twelfth WTO ministerial conference</span></a><span
-class="T2"><br/>by Kanaga Raja (03 Aug 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180725.htm" class="Internet_20_link"><span
-class="T4">WTO DG urges everyone to speak up for trade</span></a><span class="T2"><br/>by Kanaga
-Raja (31 Jul 18)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180724.htm" class="Internet_20_link"><span
-class="T4">WTO investment facilitation &amp; technical assistance activities
-deferred</span></a><span class="T2"><br/>by D. Ravi Kanth (30 Jul 18)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180723.htm" class="Internet_20_link"><span
-class="T4">Concerns voiced over US unilateral actions, AB deadlock</span></a><span
-class="T2"><br/>by Kanaga Raja (30 Jul 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180722.htm" class="Internet_20_link"><span
-class="T4">India gravely concerned Secretariat undermining multilateral issues</span></a><span
-class="T2"><br/>by D. Ravi Kanth (27 Jul 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180720.htm" class="Internet_20_link"><span
-class="T4">EU for 'reforms' to end MFN, consensus decision-making at WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (27 Jul 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180717.htm" class="Internet_20_link"><span
-class="T4">India-South Africa call for re-examination of e-com tax moratorium</span></a><span
-class="T2"><br/>by D. Ravi Kanth (24 Jul 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180716.htm" class="Internet_20_link"><span
-class="T4">Trade war - be ready to respond</span></a><span class="T2"><br/>by Martin Khor (19
-Jul 18)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180714.htm" class="Internet_20_link"><span
-class="T4">US criticised for starting 'trade war', undermining WTO's credibility</span></a><span
-class="T2"><br/>by D. Ravi Kanth (17 Jul 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180709.htm" class="Internet_20_link"><span
-class="T4">Developing and least-developed face worst crisis yet at WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (10 Jul 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180705.htm" class="Internet_20_link"><span
-class="T4">China urges members to join fight against US unilateralism</span></a><span
-class="T2"><br/>by D. Ravi Kanth (09 Jul 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180704.htm" class="Internet_20_link"><span
-class="T4">G20 trade-restrictive measures almost doubles, says WTO</span></a><span
-class="T2"><br/>by Kanaga Raja (09 Jul 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180612.htm" class="Internet_20_link"><span
-class="T4">US protects home market, wants more access from South for GSP</span></a><span
-class="T2"><br/>by D. Ravi Kanth (25 Jun 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180611.htm" class="Internet_20_link"><span
-class="T4">China, India, South Africa holding 'system to hostage', says EU</span></a><span
-class="T2"><br/>by D. Ravi Kanth (18 Jun 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180610.htm" class="Internet_20_link"><span
-class="T4">UNCTAD releases policy tool to help LDCs meet SDGs</span></a><span class="T2"><br/>by
-Kanaga Raja (14 Jun 18)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180608.htm" class="Internet_20_link"><span
-class="T4">Trump calls WTO a disaster, but wants new disciplines on innovation</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 Jun 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180605.htm" class="Internet_20_link"><span
-class="T4">South stresses development as central priority for resilience in WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (04 Jun 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180509.htm" class="Internet_20_link"><span
-class="T4">US under fire at GC over AB blockage, unilateral actions</span></a><span
-class="T2"><br/>by Kanaga Raja (14 May 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180508.htm" class="Internet_20_link"><span
-class="T4">China assails US over its 'unilateralism and protectionism'</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 May 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180507.htm" class="Internet_20_link"><span
-class="T4">Concerns voiced over trade tensions, AB blockage at HOD</span></a><span
-class="T2"><br/>by Kanaga Raja (14 May 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180506.htm" class="Internet_20_link"><span
-class="T4">WTO secretariat slated by DCs over its work on pluris, ignoring DDA</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 May 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180505.htm" class="Internet_20_link"><span
-class="T4">China to denounce US threats to MTS at General Council</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 May 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li>
-
-  <li>
-    <p style="margin-left:0cm;">
-      <span style="display:block;float:left;min-width:0.635cm;"></span>
-      International trade negotiations in context: The geopolitical dispute:
-      <a href="/2018/ALAI_geopolitical.pdf">English</a>, 
-      <a href="/2018/ALAI_disputa_geopolítica.pdf">Spanish</a>
-      <br>
-      by Sofía Scasserra (April 2018)
-    </p>
-  </li>
-
-<li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180419.htm" class="Internet_20_link"><span
-class="T4">Three-pronged assault on WTO-MTS by the US</span></a><span class="T2"><br/>by
-Chakravarthi Raghavan (27 Apr 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180414.htm" class="Internet_20_link"><span
-class="T4">Plus and minuses of digital platforms for South</span></a><span class="T2"><br/>by
-Kanaga Raja (20 Apr 18)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180411.htm" class="Internet_20_link"><span
-class="T4">DG Azevedo ambivalent on US trade war threats, AB blockage</span></a><span
-class="T2"><br/>by D. Ravi Kanth (16 Apr 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180406.htm" class="Internet_20_link"><span
-class="T4">Major developing countries face concerted assault on S&amp;DT
-flexibilities</span></a><span class="T2"><br/>by D. Ravi Kanth (12 Apr 18)</span><span
-class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180403.htm" class="Internet_20_link"><span
-class="T4">US claims no basis for safeguard consultations on its S.232 actions</span></a><span
-class="T2"><br/>by D. Ravi Kanth (11 Apr 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180319.htm" class="Internet_20_link"><span
-class="T4">Indonesia won't participate in any plurilateral, says Minister Lukita</span></a><span
-class="T2"><br/>by D. Ravi Kanth (23 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180317.htm" class="Internet_20_link"><span
-class="T4">Many oppose changes to DSU, pluri negotiations at WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (23 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180316.htm" class="Internet_20_link"><span
-class="T4">'Might is right should not become rule in global trade,' says India
-PM</span></a><span class="T2"><br/>by D. Ravi Kanth (22 Mar 18)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180315.htm" class="Internet_20_link"><span
-class="T4">Ministers concerned over unilateral trade measures, AB impasse</span></a><span
-class="T2"><br/>by D. Ravi Kanth (22 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180313.htm" class="Internet_20_link"><span
-class="T4">DG, defying mandates, deputes his officials to attend pluri-meetings</span></a><span
-class="T2"><br/>by D. Ravi Kanth (20 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180311.htm" class="Internet_20_link"><span
-class="T4">Trump's launch of a global trade war</span></a><span class="T2"><br/>by Martin Khor
-(16 Mar 18)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180310.htm" class="Internet_20_link"><span
-class="T4">India for political guidance on systemic challenges to MTS</span></a><span
-class="T2"><br/>by D. Ravi Kanth (15 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180309.htm" class="Internet_20_link"><span
-class="T4">WTO can't be immune to concerns on globalization impact</span></a><span
-class="T2"><br/>by D. Ravi Kanth (13 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180308.htm" class="Internet_20_link"><span
-class="T4">DG warns on trade wars, but silent on Trump denigration of WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180307.htm" class="Internet_20_link"><span
-class="T4">US under fire at General Council over proposed unilateral actions</span></a><span
-class="T2"><br/>by Kanaga Raja (12 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180304.htm" class="Internet_20_link"><span
-class="T4">Strong concerns over AB impasse, US move on steel, aluminium</span></a><span
-class="T2"><br/>by Kanaga Raja (08 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180303.htm" class="Internet_20_link"><span
-class="T4">US slammed over unilateral trade measures and AB blockage</span></a><span
-class="T2"><br/>by D. Ravi Kanth (08 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180301.htm" class="Internet_20_link"><span
-class="T4">WTO chief, China, EU and US advocate plurilaterals</span></a><span class="T2"><br/>by
-D. Ravi Kanth (05 Mar 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180220.htm" class="Internet_20_link"><span
-class="T4">DG inciting sponsors of plurilateral initiatives to intensify
-campaign</span></a><span class="T2"><br/>by D. Ravi Kanth (28 Feb 18)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180217.htm" class="Internet_20_link"><span
-class="T4">Investment Policy Brief - How international investment agreements have made debt
-restructuring even more difficult and costly</span></a><span class="T2"><br/>(20 Feb
-18)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p class="P3"
-style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180216.htm" class="Internet_20_link"><span
-class="T4">Attacks against multilateralism likely at mini-ministerial in India</span></a><span
-class="T2"><br/>by D. Ravi Kanth (19 Feb 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180210.htm" class="Internet_20_link"><span
-class="T4">Brazil seeks 'structured discussions' on investment facilitation</span></a><span
-class="T2"><br/>by D. Ravi Kanth (07 Feb 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180208.htm" class="Internet_20_link"><span
-class="T4">WTO Members debate how to organise work on fisheries subsidies</span></a><span
-class="T2"><br/>by Kanaga Raja (05 Feb 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180207.htm" class="Internet_20_link"><span
-class="T4">A Global New Deal needed to rebalance globalization</span></a><span
-class="T2"><br/>by Kanaga Raja (05 Feb 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180205.htm" class="Internet_20_link"><span
-class="T4">Major ICs step up efforts to smuggle E-com pluri at WTO</span></a><span
-class="T2"><br/>by D. Ravi Kanth (02 Feb 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180204.htm" class="Internet_20_link"><span
-class="T4">E-com WTO rules via pluri will undermine MTS credibility</span></a><span
-class="T2"><br/>by D. Ravi Kanth (02 Feb 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2018/ti180104.htm" class="Internet_20_link"><span
-class="T4">US likely to project China as biggest threat to WTO at Davos meet</span></a><span
-class="T2"><br/>by D. Ravi Kanth (24 Jan 18)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171234.htm" class="Internet_20_link"><span
-class="T4">Azevedo accountable to GC on Alibaba-WEF-DG e-com initiative</span></a><span
-class="T2"><br/>by Roberto Bissio (21 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171233.htm" class="Internet_20_link"><span
-class="T4">WTO teaming up with Alibaba, WEF to "enable" e-com may be illegal</span></a><span
-class="T2"><br/>by Robert Howse (18 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171232.htm" class="Internet_20_link"><span
-class="T4">North and its allies in South opt for plurilaterals on E-com and
-MSMEs</span></a><span class="T2"><br/>by D. Ravi Kanth (15 Dec 17)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171230.htm" class="Internet_20_link"><span
-class="T4">US blocks outcomes, collapsing WTO ministerial conference like house of
-cards</span></a><span class="T2"><br/>by D. Ravi Kanth (15 Dec 17)</span><span class="T3">
-</span><span class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171229.htm" class="Internet_20_link"><span
-class="T4">MC11 fails, and ends in disarray</span></a><span class="T2"><br/>by Chakravarthi
-Raghavan (15 Dec 17)</span><span class="T3"> </span><span class="odfLiEnd"/> </p></li><li><p
-class="P3" style="margin-left:0cm;"><span class="ListLabel_20_1"
-style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171228.htm" class="Internet_20_link"><span
-class="T4">'Pink washing' WTO with draft women's declaration?</span></a><span class="T2"><br/>by
-Roberto Bissio (14 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171227.htm" class="Internet_20_link"><span
-class="T4">India+4 link moratoriums on e-commerce, TRIPS NV and CBD</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171226.htm" class="Internet_20_link"><span
-class="T4">South insists post-MC11 work based on DDA, but facilitators omit DDA</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171225.htm" class="Internet_20_link"><span
-class="T4">MC11 ending amidst endless frustration of large majority of South</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171224.htm" class="Internet_20_link"><span
-class="T4">With US intransigent, MC11 may end with Chair statement</span></a><span
-class="T2"><br/>by D. Ravi Kanth (14 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171222.htm" class="Internet_20_link"><span
-class="T4">WTO, from negotiating to 'litigation-centered' body, complains US</span></a><span
-class="T2"><br/>by D. Ravi Kanth (13 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171220.htm" class="Internet_20_link"><span
-class="T4">CSOs highlight dangers of pursuing e-com agenda in trade talks</span></a><span
-class="T2"><br/>by Kanaga Raja (12 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171218.htm" class="Internet_20_link"><span
-class="T4">South Africa for 'multilateralism with inclusive development'</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171217.htm" class="Internet_20_link"><span
-class="T4">India won't accept shifting priority from DDA to non-trade issues</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171215.htm" class="Internet_20_link"><span
-class="T4">DG promised open-ended meets, but 'Green Rooms' galore at MC11</span></a><span
-class="T2"><br/>by D. Ravi Kanth (12 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171214.htm" class="Internet_20_link"><span
-class="T4">Argentine ban, deport of NGOs continues to roil MC11</span></a><span
-class="T2"><br/>by Chakravarthi Raghavan (12 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171213.htm" class="Internet_20_link"><span
-class="T4">Argentine sleight of hand to advance North's agenda at MC11?</span></a><span
-class="T2"><br/>by Chakravarthi Raghavan (11 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171212.htm" class="Internet_20_link"><span
-class="T4">Is "gender" a Trojan horse to introduce new issues at WTO?</span></a><span
-class="T2"><br/>by Roberto Bissio (10 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171210.htm" class="Internet_20_link"><span
-class="T4">MC11 chair appoints 'facilitators' without prior consensus of Members</span></a><span
-class="T2"><br/>by D. Ravi Kanth (08 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li><li><p class="P3" style="margin-left:0cm;"><span
-class="ListLabel_20_1" style="display:block;float:left;min-width:0.635cm;"></span><a
-href="http://www.twn.my/title2/wto.info/2017/ti171209.htm" class="Internet_20_link"><span
-class="T4">Africa faces litmus test at MC11 on development issues</span></a><span
-class="T2"><br/>by D. Ravi Kanth (08 Dec 17)</span><span class="T3"> </span><span
-class="odfLiEnd"/> </p></li></ul>
+        <div id="content-area"> 
+<p>
+  <i><a href="https://www.twn.my/title2/wto.info/2021/ti210401.htm">Several WTO members oppose hybrid negotiating sessions at MC12</a></i>, by D. Ravi Kanth. (1 April 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210323.htm">Updated TWN Briefing paper on International negotiations by virtual means in the time of the COVID-19 pandemic</a></i>. (24 March 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210316.htm">WTO DG creates new unit to deliver results at MC12</a></i>, by D. Ravi Kanth. (15 March 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210306.htm">Proponents fail to respond to challenge over legal status of JSIs</a></i>, by D. Ravi Kanth. (4 March 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210302.htm">New WTO DG delivers &quot;divisive&quot; trade agenda at GC meeting</a></i>, by D. Ravi Kanth. (2 March 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210217.htm">JSIs will erode WTO's multilateral rules-based architecture</a></i>, by D. Ravi Kanth. (24 February 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210212.htm">New WTO Director-General leans towards Northern trade agenda</a></i>, by D. Ravi Kanth. (17 February 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210206.htm">GC chair to finalize process on appointment of Okonjo-Iweala as DG</a></i>, by D. Ravi Kanth. (9 February 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210102.htm">Strong support for India's &quot;development-oriented&quot; policy initiatives</a></i>. (12 January 2021)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti201123.htm">COVID-19: A roadmap for more inclusive trade and economic development</a></i>, by Kanaga Raja. (23 November 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti201119.htm">Biden to pursue trade &amp; labour and trade &amp; environment issues</a></i>, by D. Ravi Kanth. (18 November 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti201109.htm">Recovering Better from COVID-19 Will Need a Rethink of Multilateralism</a></i>, by Richard Kozul-Wright. (10 November 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti201033.htm">US veto throws WTO DG selection process into uncharted waters</a></i>, by D. Ravi Kanth. (30 October 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti201019.htm">US and other developed countries block WTO's annual budget</a></i>, by D. Ravi Kanth. (19 October 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200919.htm">South pushes back against Riyadh initiative to reform WTO</a></i>, by D. Ravi Kanth. (24 September 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200901.htm">COVID-19: UNCTAD's blueprint on &quot;structurally transforming&quot; economies</a></i>, by D. Ravi Kanth. (1 September 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200811.htm">US seeks termination of China's developing country status at WTO</a></i>, by D. Ravi Kanth. (13 August 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200720.htm">Outgoing WTO DG highlights achievements and challenges</a></i>, by D. Ravi Kanth. (27 July 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200719.htm">South rebuffs attempts to create new rules at WTO amid COVID-19</a></i>, by D. Ravi Kanth. (24 July 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200713.htm">Race for post of WTO DG gets underway on 15 July</a></i>, by D. Ravi Kanth. (20 July 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200619.htm">COVID-19: EU calls for eliminating tariffs on pharma &amp; medical goods</a></i>, by D. Ravi Kanth. (25 June 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200618.htm">US signals intention to fundamentally change the WTO</a></i>, by D. Ravi Kanth. (19 June 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200613.htm">COVID-19: Global trade in goods set to fall further by 27%</a></i>, by Kanaga Raja. (13 June 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200612.htm">WTO to commence regular meetings from 15 June</a></i>, by D. Ravi Kanth. (12 June 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200606.htm">United Nations: Strengthening South-South cooperation to combat COVID-19</a></i>, by Kanaga Raja. (9 June 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200604.htm">TWN Briefing paper on 'International negotiations by virtual means in the time of the Covid-19 pandemic'</a></i>. (5 June 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200603.htm">WTO to gradually resume meetings at its premises as of 15 June</a></i>, by D. Ravi Kanth. (5 June 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i>, by D. Ravi Kanth. (4 June 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200525.htm">Sharp concerns over attempts to rush through DG selection process</a></i>, by D. Ravi Kanth. (26 May 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200524.htm">COVID-19 straw breaks free trade camel's back</a></i>, by IPS/Jomo Kwame Sundaram. (21 May 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200521.htm">COVID-19: South opposes attempts to foist trade liberalization measures</a></i>, by D. Ravi Kanth. (20 May 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200520.htm">A witch's brew at the WTO</a></i>, by Chakravarthi Raghavan. (19 May 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200519.htm">WTO expected to witness a fierce selection process for next DG</a></i>, by D. Ravi Kanth. (19 May 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200517.htm">WTO DG to relinquish office before end of his term</a></i>, by D. Ravi Kanth. (15 May 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200420.htm">Riyadh initiative proposes &quot;one-size-fits-all&quot; approach to WTO</a></i>, by D. Ravi Kanth. (27 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i>, by Ranja Sengupta. (22 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200416.htm">COVID-19: From bats to another mammal to humans, now deadly pandemic</a></i>, by Chakravarthi Raghavan. (22 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200415.htm">WTO DDG calls for &quot;WTO structural reform&quot; post-COVID-19</a></i>, by D. Ravi Kanth. (22 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200414.htm">Attempts for &quot;virtual&quot; talks, decisions amid COVID-19 rejected</a></i>, by D. Ravi Kanth. (21 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200413.htm">Opposition at WTO to taking decisions via virtual meetings</a></i>, by D. Ravi Kanth. (20 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200411.htm">CSOs call for halt to WTO negotiations during COVID-19 crisis</a></i>, by Kanaga Raja. (20 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200409.htm">Economic liberalisation and its faults</a></i>, by K.M. Gopakumar &amp; Ranja Sengupta. (15 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200408.htm">UN: South needs $2.5 trillion support package to deal with COVID-19</a></i>, by Kanaga Raja. (14 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200401.htm">G20 fails to arrive at concrete developmental package for South</a></i>, by D. Ravi Kanth. (1 April 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200311.htm">MC12 in Kazakhstan no longer &quot;feasible&quot; due to coronavirus</a></i>, by D. Ravi Kanth. (16 March 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200306.htm">South demands safeguarding of MTS, restoration of AB at MC12</a></i>, by D. Ravi Kanth. (5 March 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200304.htm">Developing countries facing systemic crisis at the WTO</a></i>, by D. Ravi Kanth. (3 March 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200208.htm">UK notifies WTO of withdrawal from EU and its implications</a></i>, by Kanaga Raja. (19 February 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2020/ti200205.htm">Azevedo indirectly endorses coercive US trade policies</a></i>, by D. Ravi Kanth. (18 February 2020)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2019/ti191122.htm">US creates &quot;new normal&quot; on use of funds for AB members</a></i>, by D. Ravi Kanth. (29 November 2019)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2019/ti191114.htm">Azevedo faces existential crisis over WTO budget, AB impasse</a></i>, by D. Ravi Kanth. (26 November 2019)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2019/ti191111.htm">US blocks revised WTO budget proposal for 2020-2021</a></i>, by D. Ravi Kanth. (18 November 2019)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2019/ti191110.htm">Concerns over local content, localisation measures under TRIMs</a></i>, by Kanaga Raja. (15 November 2019)  
+<p>
+ <a href="https://nwlaborpress.org/2019/11/looking-back-on-the-battle-in-seattle/">Looking back on the 1999 protests in Seattle</a>, by Don McIntosh. (nwLaborPress.org, 15 November 2019)
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2019/ti191108.htm">South countries call for &quot;policy space&quot; in proposed WTO reforms</a></i>, by D. Ravi Kanth. (14 November 2019)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2019/ti191107.htm">Major North countries bringing about state of exception at WTO</a></i>, by D. Ravi Kanth. (14 November 2019)  
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2019/ti191014.htm">WTO mired in &quot;full-blown&quot; crisis over US attacks on S&amp;DT &amp; AB</a></i>, by D. Ravi Kanth. (17 October 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti191002.htm">E-com duties moratorium "asymmetrical" for South</a></i>, by D. Ravi Kanth. (3 October 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190913.htm">United Nations: Global Green New Deal needed to deliver on 2030 Agenda</a></i>, by Kanaga Raja. (30 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190910.htm">JSI members seek market access outcomes in e-com pluri-talks</a></i>, by D. Ravi Kanth. (25 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190909.htm">A revised text covering 'all business enterprises' will be the basis for negotiating a UN treaty on business and human rights</a></i>, by Kinda Mohamadieh. (25 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190907.htm">China to host informal ministerial in November</a></i>, by D. Ravi Kanth. (19 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190905.htm">Mere exchange of ideas in fisheries talks in absence of a chair</a></i>, by D. Ravi Kanth. (18 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190904.htm">US and China choreograph tariff moves ahead of trade talks</a></i>, by D. Ravi Kanth. (18 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190903.htm">US claims "conceptual" accord reached in trade war with China</a></i>, by D. Ravi Kanth. (18 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190902.htm">WTO Members remain divided over new chair for fisheries talks</a></i>, by D. Ravi Kanth. (12 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190901.htm">Trump severely criticised for escalating trade war with China</a></i>, by D. Ravi Kanth. (12 September 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190805.htm">US has more to lose if Trump pulls it out of WTO</a></i>, by Chakravarthi Raghavan. (16 August 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190804.htm">US to delay imposing additional tariffs on Chinese goods</a></i>, by D. Ravi Kanth. (16 August 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190803.htm">Pluri-accord on e-com could reinforce lawlessness in digital trade</a></i>, by D. Ravi Kanth. (14 August 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190802.htm">China has upper hand after being labelled currency manipulator</a></i>, by D. Ravi Kanth. (9 August 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190732.htm">South Coalesces Around An Inclusive Approach to Transparency</a></i>, by D. Ravi Kanth. (29 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190731.htm">South Rallies Around Proposals to Advance Developmental Agenda</a></i>, by D. Ravi Kanth. (29 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190729.htm">Reform process a serious test for the WTO, says DG</a></i>, by Kanaga Raja. (25 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190728.htm">South challenges US and allies' narrative on WTO "reforms"</a></i>, by D. Ravi Kanth. (25 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190727.htm">Trump has "personal interest" in differentiation, says US envoy</a></i>, by D. Ravi Kanth. (25 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190723.htm">South proposes strengthening WTO to promote development</a></i>, by D. Ravi Kanth. (16 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190722.htm">Big Tech's control of consumer data raises concerns</a></i>, by Kanaga Raja. (16 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190721.htm">US launches probe into France's proposed digital services tax</a></i>, by D. Ravi Kanth. (15 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190720.htm">US countered on transparency requirement by key developing countries</a></i>, by D. Ravi Kanth. (15 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190719.htm">Rules Chair clarifies on status of fisheries texts by facilitators</a></i>, by D. Ravi Kanth. (15 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190718.htm">Digital transformation aid must not be conditioned on new e-com rules</a></i>, by Kinda Mohamadieh. (15 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190717.htm">Press release: Sustainable development needs fundamental governance changes</a></i>. (9 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190716.htm">E-com rules promoted in name of women's economic empowerment</a></i>, by Kinda Mohamadieh. (9 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190715.htm">Reclaiming development in the WTO</a></i>, by Kanaga Raja. (9 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190714.htm">South faces defining moment on "development-friendly" WTO reforms</a></i>, by D. Ravi Kanth. (5 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190713.htm">UN: From Development to Differentiation: Just how much has the world changed?</a></i>. (5 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190712.htm">"Time to ignite all engines" for economic growth, says BIS</a></i>, by Chakravarthi Raghavan. (4 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190711.htm">Three informal consultations held on business and human rights draft treaty</a></i>, by Kinda Mohamadieh. (4 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190709.htm">A legally binding instrument on business and human rights to advance accountability and access to justice</a></i>, by Kinda Mohamadieh. (3 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190708.htm">South propose inclusive approach to WTO transparency, notifications</a></i>, by D. Ravi Kanth. (3 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190707.htm">South countries reject "Osaka Track" legitimising e-com pluri-talks</a></i>, by D. Ravi Kanth. (3 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190705.htm">Concerns over US push to bring TPP rules into digital trade deal</a></i>, by D. Ravi Kanth. (2 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190703.htm">Opportunities and risks from Big Tech's entry into finance</a></i>, by Chakravarthi Raghavan. (1 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190702.htm">Azevedo, as TNC chair, extends support for plurilateral initiatives</a></i>, by D. Ravi Kanth. (1 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190701.htm">South countries establish "common platform" on WTO reform</a></i>, by D. Ravi Kanth. (1 July 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190612.htm">China to host retreat on pursuing "development" via WTO reform</a></i>, by D. Ravi Kanth. (18 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190611.htm">UN: Revised business and human rights draft treaty text expected end June</a></i>, by Kinda Mohamadieh. (17 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190610.htm">United Nations: Global FDI flows fall for third consecutive year</a></i>, by Kanaga Raja. (17 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190609.htm">China will oppose attempts to suppress its development, says envoy</a></i>, by D. Ravi Kanth. (17 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190608.htm">War of attrition on e-com duty-free talks?</a></i>, by D. Ravi Kanth. (14 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190607.htm">G20 fail to resolve differences over WTO reform, digital trade</a></i>, by D. Ravi Kanth. (13 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190606.htm">Moratorium on e-com duties will negatively impact South</a></i>, by Kanaga Raja. (12 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190604.htm">Attempts to push "digital free flow" at G20 to test resolve of South</a></i>, by D. Ravi Kanth. (10 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190603.htm">China lambasts US at WTO over Huawei ban</a></i>, by Kanaga Raja. (10 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190601.htm">US shoring up alliance with EU, Japan in trade war with China</a></i>, by D. Ravi Kanth. (10 June 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190513.htm">South reject moves to curtail policy space to pursue industrialisation</a></i>, by D. Ravi Kanth. (29 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190512.htm">US intensifies trade war with China on ICT front</a></i>, by D. Ravi Kanth. (23 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190511.htm">China tables comprehensive proposal on WTO reform</a></i>, by Kanaga Raja. (17 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190510.htm">Government Procurement Liberalisation Contradicts South Gender-Just Trade Policy</a></i>, by Ranja Sengupta. (17 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190509.htm">China to stand firm against the US in protecting its policy space</a></i>, by D. Ravi Kanth. (16 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190508.htm">Delhi meet calls for strengthening WTO-MTS, promoting development</a></i>, by D. Ravi Kanth. (16 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190507.htm">South must put forward its own WTO reform agenda, says Davies</a></i>, by D. Ravi Kanth. (15 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190504.htm">China unlikely to yield to US demands in bilateral talks</a></i>, by D. Ravi Kanth. (9 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190503.htm">South denounce efforts to hijack Doha talks on e-com, agriculture</a></i>, by D. Ravi Kanth. (9 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190501.htm">"Digital trade" war underway in e-com pluri-talks at WTO</a></i>, by D. Ravi Kanth. (6 May 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190426.htm">Development: A new multilateralism for a global green new deal</a></i>, by Kanaga Raja. (30 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190424.htm">China to push back on e-com demands by US and allies in pluri-talks</a></i>, by D. Ravi Kanth. (30 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190423.htm">United Nations: Diversification crucial to reduce risks in commodity sector</a></i>, by Kanaga Raja. (29 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190419.htm">EU, Australia table draft MC12 statement on domestic regulation</a></i>, by D. Ravi Kanth. (25 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190418.htm">WTO faces hard choices, no magic wand solutions</a></i>, by Chakravarthi Raghavan. (23 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190417.htm">Development and E-com free flow of data rules are incompatible</a></i>, by Chakravarthi Raghavan. (19 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190415.htm">India mini-ministerial at time of grave crisis at WTO</a></i>, by D. Ravi Kanth. (18 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190414.htm">South reacts sharply against US notification requirement proposals</a></i>, by D. Ravi Kanth. (18 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190413.htm">South nations take firm stand on geo-economics of data</a></i>, by Parminder Singh. (17 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190412.htm">South needs data digitalization policies, say CSO experts</a></i>, by Deborah James. (17 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190411.htm">Capacity-building needed to reduce digital, data divides</a></i>, by Kanaga Raja. (17 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190410.htm">Digital platforms generate opportunities and challenges</a></i>, by Kanaga Raja. (17 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190408.htm">E-com pluri-talks a reality, so better join, says UNCTAD SG</a></i>, by Chakravarthi Raghavan. (11 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190406.htm">EU and allies push back against India's move to strengthen MTS</a></i>, by D. Ravi Kanth. (9 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190405.htm">Time for WTO to take up overdue review of DSU</a></i>, by Chakravarthi Raghavan. (9 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190404.htm">Abandon talks for e-com rules at WTO, say over 300 CSOs</a></i>, by Kanaga Raja. (9 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190402.htm">US tries to ram through intrusive WTO notification requirements</a></i>, by D. Ravi Kanth. (3 April 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190315.htm">US and allies circulated proposals on e-com pluri-accord</a></i>, by D. Ravi Kanth. (29 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190313.htm">WTO-MTS facing existential threat, needs political decisions</a></i>, by Chakravarthi Raghavan. (27 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190312.htm">US keeping "Sword of Damocles" over China in bilateral talks?</a></i>, by D. Ravi Kanth. (25 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190310.htm">China unlikely to get US assurances over lifting 5G ban on Huawei</a></i>, by D. Ravi Kanth. (20 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190309.htm">US, working closely with DG, pushing for WTO reforms</a></i>, by D. Ravi Kanth. (19 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190306.htm">5G: The battle for the future</a></i>, by Humberto Campodonico. (12 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190305.htm">US announces intention to terminate GSP benefits to India, Turkey</a></i>, by D. Ravi Kanth. (8 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190304.htm">US-China trade deal could throw WTO into uncharted waters</a></i>, by D. Ravi Kanth. (8 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190303.htm">Thai envoy to chair WTO General Council this year</a></i>, by Kanaga Raja. (6 March 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190217.htm">India: Publishes draft e-commerce policy document, open for comments</a></i>, by Chakravarthi Raghavan. (27 February 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190216.htm">China faces litmus test at WTO for preserving "policy space"</a></i>, by D. Ravi Kanth. (25 February 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190212.htm">China, India respond robustly to US paper on "differentiation"</a></i>, by D. Ravi Kanth. (15 February 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190210.htm">US denounced for proposing "differentiation" among South countries</a></i>, by D. Ravi Kanth. (14 February 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190208.htm">China's ambiguous stance in face of US pressure</a></i>, by D. Ravi Kanth. (13 February 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190205.htm">Beware Trojan horse of proposed E-commerce rules</a></i>, by IPS/Chakravarthi Raghavan &amp; Jomo Kwame Sundaram. (12 February 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190112.htm">What are trade rules on e-commerce supposed to do?</a></i>, by Chakravarthi Raghavan. (31 January 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190111.htm">India, South Africa reject attempts to launch talks on e-com, IF</a></i>, by D. Ravi Kanth. (30 January 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190110.htm">Intention to launch e-com pluri talks announced at Davos</a></i>, by D. Ravi Kanth. (29 January 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190109.htm">Seventy-five countries confirm "intention" to start e-com pluri-talks</a></i>, by Kanaga Raja. (29 January 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190105.htm">WTO Rules Group takes up some fresh ideas in fisheries talks</a></i>, by Kanaga Raja. (23 January 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190103.htm">E-com pluri-talks at WEF aimed at digital colonisation of South</a></i>, by Kanaga Raja. (22 January 2019)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181213.htm">ICs still planning to launch e-com pluri-talks at Davos</a></i>, by D. Ravi Kanth. (21 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181212.htm">More questions than answers at Africa e-Com event</a></i>, by Chakravarthi Raghavan. (21 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181209.htm">Rise in trade restrictions, no breakthrough on AB impasse</a></i>, by Kanaga Raja. (13 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181208.htm">DDA issues must be addressed before considering WTO reform</a></i>, by D. Ravi Kanth. (13 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181206.htm">Current WTO reform proposals must be rejected, says Minister Davies</a></i>, by D. Ravi Kanth. (12 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181205.htm">Strong support for India's initiative on improving DR disciplines</a></i>, by D. Ravi Kanth. (11 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181203.htm">China faces defining moment in safeguarding its 'development model'</a></i>, by D. Ravi Kanth. (7 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181202.htm">North countries succeed in foisting WTO 'reforms' at G20 meet</a></i>, by D. Ravi Kanth. (5 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181201.htm">China for WTO reform to preserve MTS, respect development models</a></i>, by D. Ravi Kanth. (3 December 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181120.htm">India, South Africa challenge continuing moratorium on e-com duties</a></i>, by D. Ravi Kanth. (30 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181117.htm">North waging new form of trade warfare, undermining sovereign rights</a></i>, by D. Ravi Kanth. (26 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181116.htm">Liberalization of global trade may have hit a wall</a></i>, by Kanaga Raja. (26 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181114.htm">South countries sharply concerned over role of IGs in fisheries talks</a></i>, by D. Ravi Kanth. (23 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181113.htm">China comes out against ambitious rules on e-commerce</a></i>, by D. Ravi Kanth. (22 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181112.htm">South countries strongly oppose joint proposal on WTO notifications</a></i>, by D. Ravi Kanth. (22 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181108.htm">Pressure being exerted to oppose India-South Africa e-com proposal</a></i>, by D. Ravi Kanth. (12 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181104.htm">US threatens to hold "WTO reforms" hostage over panel requests</a></i>, by D. Ravi Kanth. (5 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181101.htm">Ottawa meet's move for launching new round of talks at MC12</a></i>, by D. Ravi Kanth. (2 November 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181018.htm">US-EU-Japan's intrusive transparency proposal targets South</a></i>, by D. Ravi Kanth. (25 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181017.htm">Ottawa meet to initiate first steps to launch new talks at MC12</a></i>, by D. Ravi Kanth. (24 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181016.htm">Dates set for MC12 in Astana</a></i>, by Kanaga Raja. (23 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181015.htm">DG points to escalating trade tensions, no progress on AB impasse</a></i>, by Kanaga Raja. (23 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181014.htm">South call for expeditious conclusion of DDA talks, oppose new issues</a></i>, by D. Ravi Kanth. (22 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181012.htm">DG did not read report issued by WTO-IMF-WB at Bali last week!</a></i>, by D. Ravi Kanth. (22 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181010.htm">Secretariat violates WTO Treaty to promote US agenda at WTO</a></i>, by D. Ravi Kanth. (16 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181009.htm">Trump signals intent to intensify trade war with China</a></i>, by D. Ravi Kanth. (12 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181008.htm">US-Canada revised NAFTA deal could pose systemic threat to South</a></i>, by D. Ravi Kanth. (10 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181007.htm">Trade wars a symptom of unbalanced hyperglobalized world</a></i>, by Kanaga Raja. (10 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181006.htm">Azevedo's pitch for WTO rules in new areas countered at CSO event</a></i>, by D. Ravi Kanth. (9 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti181001.htm">Crisis in multilateralism unfolding since UNCTAD-14</a></i>, by Kanaga Raja. (8 October 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180906.htm">G20 meet to see efforts to begin process to negotiate new WTO rules</a></i>, by D. Ravi Kanth. (18 September 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180905.htm">EU, US poised for combined assault on China's trade policies</a></i>, by D. Ravi Kanth. (14 September 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180904.htm">WTO DG, EU and Canada propose comprehensive WTO reform</a></i>, by D. Ravi Kanth. (13 September 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180802.htm">Kazakhstan to host twelfth WTO ministerial conference</a></i>, by Kanaga Raja. (3 August 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180725.htm">WTO DG urges everyone to speak up for trade</a></i>, by Kanaga Raja. (31 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180724.htm">WTO investment facilitation &amp; technical assistance activities deferred</a></i>, by D. Ravi Kanth. (30 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180723.htm">Concerns voiced over US unilateral actions, AB deadlock</a></i>, by Kanaga Raja. (30 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180722.htm">India gravely concerned Secretariat undermining multilateral issues</a></i>, by D. Ravi Kanth. (27 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180720.htm">EU for 'reforms' to end MFN, consensus decision-making at WTO</a></i>, by D. Ravi Kanth. (27 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180717.htm">India-South Africa call for re-examination of e-com tax moratorium</a></i>, by D. Ravi Kanth. (24 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180716.htm">Trade war - be ready to respond</a></i>, by Martin Khor. (19 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180714.htm">US criticised for starting 'trade war', undermining WTO's credibility</a></i>, by D. Ravi Kanth. (17 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180709.htm">Developing and least-developed face worst crisis yet at WTO</a></i>, by D. Ravi Kanth. (10 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180705.htm">China urges members to join fight against US unilateralism</a></i>, by D. Ravi Kanth. (9 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180704.htm">G20 trade-restrictive measures almost doubles, says WTO</a></i>, by Kanaga Raja. (9 July 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180612.htm">US protects home market, wants more access from South for GSP</a></i>, by D. Ravi Kanth. (25 June 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180611.htm">China, India, South Africa holding 'system to hostage', says EU</a></i>, by D. Ravi Kanth. (18 June 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180610.htm">UNCTAD releases policy tool to help LDCs meet SDGs</a></i>, by Kanaga Raja. (14 June 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180608.htm">Trump calls WTO a disaster, but wants new disciplines on innovation</a></i>, by D. Ravi Kanth. (14 June 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180605.htm">South stresses development as central priority for resilience in WTO</a></i>, by D. Ravi Kanth. (4 June 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180509.htm">US under fire at GC over AB blockage, unilateral actions</a></i>, by Kanaga Raja. (14 May 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180508.htm">China assails US over its 'unilateralism and protectionism'</a></i>, by D. Ravi Kanth. (14 May 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180507.htm">Concerns voiced over trade tensions, AB blockage at HOD</a></i>, by Kanaga Raja. (14 May 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180506.htm">WTO secretariat slated by DCs over its work on pluris, ignoring DDA</a></i>, by D. Ravi Kanth. (14 May 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180505.htm">China to denounce US threats to MTS at General Council</a></i>, by D. Ravi Kanth. (14 May 2018)   
+<p>
+  International trade negotiations in context: The geopolitical dispute: <i><a href="/2018/ALAI_geopolitical.pdf">English</a></i>, <i><a href="/2018/ALAI_disputa_geopolítica.pdf">Spanish</a></i> <br> by Sofía Scasserra (April 2018)   
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180419.htm">Three-pronged assault on WTO-MTS by the US</a></i>, by Chakravarthi Raghavan. (27 April 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180414.htm">Plus and minuses of digital platforms for South</a></i>, by Kanaga Raja. (20 April 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180411.htm">DG Azevedo ambivalent on US trade war threats, AB blockage</a></i>, by D. Ravi Kanth. (16 April 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180406.htm">Major developing countries face concerted assault on S&amp;DT flexibilities</a></i>, by D. Ravi Kanth. (12 April 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180403.htm">US claims no basis for safeguard consultations on its S.232 actions</a></i>, by D. Ravi Kanth. (11 April 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180319.htm">Indonesia won't participate in any plurilateral, says Minister Lukita</a></i>, by D. Ravi Kanth. (23 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180317.htm">Many oppose changes to DSU, pluri negotiations at WTO</a></i>, by D. Ravi Kanth. (23 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180316.htm">'Might is right should not become rule in global trade,' says India PM</a></i>, by D. Ravi Kanth. (22 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180315.htm">Ministers concerned over unilateral trade measures, AB impasse</a></i>, by D. Ravi Kanth. (22 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180313.htm">DG, defying mandates, deputes his officials to attend pluri-meetings</a></i>, by D. Ravi Kanth. (20 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180311.htm">Trump's launch of a global trade war</a></i>, by Martin Khor. (16 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180310.htm">India for political guidance on systemic challenges to MTS</a></i>, by D. Ravi Kanth. (15 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180309.htm">WTO can't be immune to concerns on globalization impact</a></i>, by D. Ravi Kanth. (13 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180308.htm">DG warns on trade wars, but silent on Trump denigration of WTO</a></i>, by D. Ravi Kanth. (12 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180307.htm">US under fire at General Council over proposed unilateral actions</a></i>, by Kanaga Raja. (12 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180304.htm">Strong concerns over AB impasse, US move on steel, aluminium</a></i>, by Kanaga Raja. (8 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180303.htm">US slammed over unilateral trade measures and AB blockage</a></i>, by D. Ravi Kanth. (8 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180301.htm">WTO chief, China, EU and US advocate plurilaterals</a></i>, by D. Ravi Kanth. (5 March 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180220.htm">DG inciting sponsors of plurilateral initiatives to intensify campaign</a></i>, by D. Ravi Kanth. (28 February 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180217.htm">Investment Policy Brief - How international investment agreements have made debt restructuring even more difficult and costly</a></i>. (20 February 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180216.htm">Attacks against multilateralism likely at mini-ministerial in India</a></i>, by D. Ravi Kanth. (19 February 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180210.htm">Brazil seeks 'structured discussions' on investment facilitation</a></i>, by D. Ravi Kanth. (7 February 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180208.htm">WTO Members debate how to organise work on fisheries subsidies</a></i>, by Kanaga Raja. (5 February 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180207.htm">A Global New Deal needed to rebalance globalization</a></i>, by Kanaga Raja. (5 February 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180205.htm">Major ICs step up efforts to smuggle E-com pluri at WTO</a></i>, by D. Ravi Kanth. (2 February 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180204.htm">E-com WTO rules via pluri will undermine MTS credibility</a></i>, by D. Ravi Kanth. (2 February 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180104.htm">US likely to project China as biggest threat to WTO at Davos meet</a></i>, by D. Ravi Kanth. (24 January 2018)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171234.htm">Azevedo accountable to GC on Alibaba-WEF-DG e-com initiative</a></i>, by Roberto Bissio. (21 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171233.htm">WTO teaming up with Alibaba, WEF to "enable" e-com may be illegal</a></i>, by Robert Howse. (18 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171232.htm">North and its allies in South opt for plurilaterals on E-com and MSMEs</a></i>, by D. Ravi Kanth. (15 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171230.htm">US blocks outcomes, collapsing WTO ministerial conference like house of cards</a></i>, by D. Ravi Kanth. (15 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171229.htm">MC11 fails, and ends in disarray</a></i>, by Chakravarthi Raghavan. (15 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171228.htm">'Pink washing' WTO with draft women's declaration?</a></i>, by Roberto Bissio. (14 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171227.htm">India+4 link moratoriums on e-commerce, TRIPS NV and CBD</a></i>, by D. Ravi Kanth. (14 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171226.htm">South insists post-MC11 work based on DDA, but facilitators omit DDA</a></i>, by D. Ravi Kanth. (14 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171225.htm">MC11 ending amidst endless frustration of large majority of South</a></i>, by D. Ravi Kanth. (14 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171224.htm">With US intransigent, MC11 may end with Chair statement</a></i>, by D. Ravi Kanth. (14 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171222.htm">WTO, from negotiating to 'litigation-centered' body, complains US</a></i>, by D. Ravi Kanth. (13 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171220.htm">CSOs highlight dangers of pursuing e-com agenda in trade talks</a></i>, by Kanaga Raja. (12 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171218.htm">South Africa for 'multilateralism with inclusive development'</a></i>, by D. Ravi Kanth. (12 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171217.htm">India won't accept shifting priority from DDA to non-trade issues</a></i>, by D. Ravi Kanth. (12 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171215.htm">DG promised open-ended meets, but 'Green Rooms' galore at MC11</a></i>, by D. Ravi Kanth. (12 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171214.htm">Argentine ban, deport of NGOs continues to roil MC11</a></i>, by Chakravarthi Raghavan. (12 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171213.htm">Argentine sleight of hand to advance North's agenda at MC11?</a></i>, by Chakravarthi Raghavan. (11 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171212.htm">Is "gender" a Trojan horse to introduce new issues at WTO?</a></i>, by Roberto Bissio. (10 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171210.htm">MC11 chair appoints 'facilitators' without prior consensus of Members</a></i>, by D. Ravi Kanth. (8 December 2017)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2017/ti171209.htm">Africa faces litmus test at MC11 on development issues</a></i>, by D. Ravi Kanth. (8 December 2017)   
+<p>
+For older news see <a href="/o/en/news">here</a>.
 
 <?php
 include 'include-content/MC11-media-links.php'
 ?>
+
+<h2>Older news</h2>
+For older news see <a href="/o/en/news">here</a>.
+<p>
+&nbsp;
+<p>
 
 </div> <!-- /#content-area -->
 </div> <!-- /#content -->

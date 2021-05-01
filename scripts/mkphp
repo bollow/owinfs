@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-# Generate a php content page from an input document in a formal which libreoffice
+# Generate a php content page from an input document in a format which libreoffice
 # can read (e.g. .odt, .doc, .docx), or even several such content pages in case that
 # input documents in multiple languages are available.
 #
@@ -60,10 +60,10 @@ for $lang (@languages) {
   close IN;
 
   $html=~s,<!DOCTYPE[^>]*>\n,,;
-  $html=~s,<html>\n,,;
+  $html=~s,<html>\n?,,;
   $html=~s,</html>,,;
   $html=~s,<head>.*</head>,,s;
-  $html=~s,<body[^>]*>\n,,;
+  $html=~s,<body[^>]*>\n?,,;
   $html=~s,</body>,,;
   $html=~s,<font[^>]*>,,g;
   $html=~s,</font>,,g;
