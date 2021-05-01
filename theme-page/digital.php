@@ -206,8 +206,12 @@ English:
 (30 November 2017)
 
 <h2 id="5">Detailed analysis of problems with specific proposed provisions on digital trade</h2>
+
+Report: <i><a href="https://www.twn.my/title2/wto.info/2020/ti200812.htm">How ‘digital trade’ rules would impede taxation of the digitalised economy in the Global South</a></i>.
+(Jane Kelsey <i>et al</i>, TWN, 13 August 2020)
+<p>
 <i><a href=" https://www.twn.my/title2/latestwto/general/Analytical/Moratorium_tariffs_Montes_Kelsey_21072020.pdf">The moratorium on tariffs on electronic transmissions</a></i>.
-(Manuel Montes and Jane Kelsey, 2020)
+(Manuel Montes and Jane Kelsey, July 2020)
 <p>
 <a href="/2019_WTO_PF_119">Why are computer and related services important?</a>
 Video recording of session #119 at the 2019 WTO Public Forum.
@@ -264,7 +268,7 @@ UNCTAD report: <i><a href="https://ourworldisnotforsale.net/2017/UNCTAD_competit
 (December 2017)
 <p>
 UNCTAD report: 
-<a href="https://unctad.org/webflyer/south-south-digital-cooperation-industrialization-regional-integration-agenda">South-south digital cooperation for industrialization: A regional integration agenda</a>
+<i><a href="https://unctad.org/webflyer/south-south-digital-cooperation-industrialization-regional-integration-agenda">South-south digital cooperation for industrialization: A regional integration agenda</a></i>.
 (April 2018)
 <p>
 UNCTAD <i>Trade and Development Report 2018: Power, Platforms and The Free Trade Delusion:
@@ -281,13 +285,13 @@ UNCTAD <i>Trade and Development Report 2018: Power, Platforms and The Free Trade
 (10 December 2017)
 
 <h2 id="7">Updates and articles on the negotiations</h2>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i>.
 (4 June 2020)
 <p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200503.htm">E-com proposals at WTO a recipe for corporate greed</a></i>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200503.htm">E-com proposals at WTO a recipe for corporate greed</a></i>.
 (5 May 2020)
 <p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200502.htm">COVID-19: JSI group for exploring emerging e-com/digital trade issues</a></i>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200502.htm">COVID-19: JSI group for exploring emerging e-com/digital trade issues</a></i>.
 (4 May 2020)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2019/ti190606.htm">Moratorium on e-com duties will negatively impact South</a></i>.
