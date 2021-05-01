@@ -73,16 +73,19 @@ Current demands of OWINFS with regards to Policy Space for Development include:
 
 <h2>Key Analysis of SDT Proposals</h2>
 
-<b><a href="https://www.southcentre.int/research-paper-92-march-2019/">Notification and Transparency Issues in the WTO and the US’ November 2018 Communication</a></b> (South Centre, March 2019)<br>
+<i><a href="https://www.southcentre.int/book-by-the-south-centre-2020-3/">WTO reform and the crisis of multilateralism – A developing country perspective</a></i>.
+(Faizel Ismail, South Centre, 2020) 
+<p>
+<i><a href="https://www.southcentre.int/research-paper-92-march-2019/">Notification and Transparency Issues in the WTO and the US’ November 2018 Communication</a></i> (South Centre, March 2019)<br>
 Various WTO Members submitted a Communication to the WTO in November 2018 which, if accepted, would affect the implementation of Members’ transparency and notification obligations at the WTO. It would strengthen the already burdensome notification obligations and introduce new punitive administrative measures should obligations not be complied with. This paper provides information about WTO Members’ current notification obligations and their level of compliance; looks at the history of discussions on notifications, particularly in the Working Group on Notification Obligations and Procedures which took place in 1995 – 1996; and provides an analysis of the Communication. 
 <p>
-<b><a href="https://www.southcentre.int/policy-brief-58-march-2019/">Why the US Proposals on Development will Affect all Developing Countries and Undermine WTO</a></b> (South Centre, March 2019)<br>
+<i><a href="https://www.southcentre.int/policy-brief-58-march-2019/">Why the US Proposals on Development will Affect all Developing Countries and Undermine WTO</a></i> (South Centre, March 2019)<br>
 The US submitted two highly problematic proposals to the WTO in January and February 2019, undermining the place of Special and Differential Treatment (S&D) for developing countries at the WTO.
 <p>
-<b><a href="https://www.southcentre.int/research-paper-86-september-2018/">US’ Section 301 Actions: Why They are Illegitimate and Misguided</a></b> (South Centre, September 2018)<br>
+<i><a href="https://www.southcentre.int/research-paper-86-september-2018/">US’ Section 301 Actions: Why They are Illegitimate and Misguided</a></i> (South Centre, September 2018)<br>
 This research paper examines the US’ Section 301 unilateral actions against China, stemming from the US’ concerns over China’s ambitious industrial policies and its rapid technological advancements. It looks in detail at why the US’ actions are in fact illegitimate and misguided.
 <p>
-<b><a href="https://www.southcentre.int/analytical-note-january-2017-3/">The WTO’s Special and Differential Treatment Negotiations (Paragraph 44)</a></b> (South Centre, January 2017)<br>
+<i><a href="https://www.southcentre.int/analytical-note-january-2017-3/">The WTO’s Special and Differential Treatment Negotiations (Paragraph 44)</a></i> (South Centre, January 2017)<br>
 Paragraph 44 of the 2001 Doha Ministerial Declaration mandates the ‘strengthening’ of Special and Differential Treatment (S&D) provisions in the WTO Agreement, and making them ‘more precise, effective and operational’. This Note tracks the evolution of these negotiations from the start of the Doha Round in 2001 until the Nairobi Ministerial in December 2015.
 
 <h2>Key Updates &amp; Articles on the Negotiations</h2>

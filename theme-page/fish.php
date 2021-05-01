@@ -21,7 +21,7 @@ include 'include/navbar.php';
 The Sustainable Development Goal 14.6 has the target to “prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing and eliminate subsidies that contribute to Illegal, Unreported and Unregulated fishing.” However developed countries are pushing to ignore the second half of that mandate which states that “appropriate and effective special and differential treatment (SDT) for developing and least-developed countries should be an integral part” of negotiations.
 
 <h2>Statements and analysis from civil society</h2>
-<a href="2021-03-17_TWN_Fisheries">Protecting the Problem – Fisheries subsidies negotiations and the WTO</a> (17 March 2021)
+<i><a href="2021-03-17_TWN_Fisheries">Protecting the Problem – Fisheries subsidies negotiations and the WTO</a></i>. (17 March 2021)
 <p>
 <i>Call to Halt Fisheries Subsidies Negotiations in the Middle of the COVID 19 Crisis</i>:
       <a href="/2020/Fisheries_subsidies.pdf">English</a>,
@@ -31,11 +31,11 @@ The Sustainable Development Goal 14.6 has the target to “prohibit certain form
 (April 2020)
 <p>
 
-<a href="/2019/PANG_fisheries.pdf"><i>Fisheries subsidies negotiations and development in the World Trade Organization</i></a> (2019)
+<a href="/2019/PANG_fisheries.pdf"><i>Fisheries subsidies negotiations and development in the World Trade Organization</i></a>. (2019)
 <p>
 <i>Market access the true aim of WTO fisheries subsidies negotiations</i>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>
+<a href="https://ourworldisnotforsale.net/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>.
 (2018)
 <p>
 Quote sheet and video: <i>Civil Society Experts Outline What Is Needed to Protect the Development Mandate in Agriculture and Fisheries-Subsidies Negotiations in MC11:</i>
@@ -57,8 +57,10 @@ Spanish:
 <p>
 
 <h2>Other analysis</h2>
-<a href="https://www.southcentre.int/research-paper-122-november-2020/">Analysis of the Overcapacity and Overfishing Pillar of the WTO Fisheries Subsidies Negotiations</a>
+<i><a href="https://www.southcentre.int/research-paper-122-november-2020/">Analysis of the overcapacity and overfishing pillar of the WTO fisheries subsidies negotiations</a></i>.
 (South Centre Research Paper, November 2020)
+<p>
+<i><a href="http://wtocentre.iift.ac.in/FA/CWS%20review%20of%20%20WTO%20Fisheries%20Subsidies%20negotiations%20issues%202017.pdf">A review of fisheries subsidies issues in the context of WTO rules negotiations</a></i>. (Centre for WTO Studies, November 2016)
 
 <h2>News and updates on the negotiations</h2>
 

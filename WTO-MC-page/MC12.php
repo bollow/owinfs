@@ -48,6 +48,9 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 <i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i>.
 (7 May 2020)
 <p>
+<i><a href="https://www.southcentre.int/policy-brief-77-may-2020/">COVID-19 and WTO: Debunking developed countries’ narratives on trade measures</a></i>.
+(South Centre, May 2020)
+<p>
 <i>Letter from 400 organizations from more than 150 countries to WTO Members: Stop all trade and
       investment treaty negotiations during the COVID-19 outbreak and refocus on access to
       medical supplies and saving lives</i>:
