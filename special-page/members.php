@@ -16,7 +16,7 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
-          <p>196 organizations are members of OWINFS.</p>
+          <p>193 organizations are members of OWINFS.</p>
           <table class="views-table cols-2">
     <thead>
     <tr>
@@ -1011,15 +1011,6 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">JMG
-			Foundation</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">UK</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Just Net
 			Coalition</font></font>
 		</td>
@@ -1717,15 +1708,6 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Transform!
-			Europe</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Belgium</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Transnational
 			Institute (TNI)</font></font>
 		</td>
@@ -1739,15 +1721,6 @@ include 'include/navbar.php';
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">UK</font></font>
-		</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">TWN
-			Malaysia</font></font>
-		</td>
-		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Malaysia</font></font>
 		</td>
 	</tr>
 	<tr>
