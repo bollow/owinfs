@@ -21,10 +21,8 @@ This multilateral investment agreement on “investment facilitation” could op
 <p>
 These impacts are especially serious for the Global South. Regulatory frameworks are still at an emerging stage in developing countries. The proposed WTO rules will jeopardize their policy space to devise and experiment with policies that best suit their specific developmental needs.
 <p>
-<a href="https://bilaterals.org/?wto-plurilateral-investment">WTO plurilateral investment facilitation draft consolidated text</a>, 10 Feb 2021.
-<br>
-Some WTO Members are negotiating rules on facilitating investment. This is the draft consolidated text as of 4 February 2021.
-
+Some WTO Members are negotiating rules on facilitating investment:
+<a href="https://bilaterals.org/?wto-plurilateral-investment">WTO plurilateral investment facilitation draft consolidated text</a> (as of 4 February 2021)
 
 <h2>Statements and Analysis from Civil Society</h2>
 

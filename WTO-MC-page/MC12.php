@@ -33,86 +33,101 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 
 
 <h2>Covid-19 crisis</h2>
-<i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i>
+(3 June 2020)
 <p>
-
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200521.htm">COVID-19: South opposes attempts to foist trade liberalization measures</a></i>
+(20 May 2020)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200524.htm">COVID-19 straw breaks free trade camel's back</a></i>
+(20 May 2020)
+<p>
+<i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i>.
+(7 May 2020)
+<p>
 <i>Letter from 400 organizations from more than 150 countries to WTO Members: Stop all trade and
       investment treaty negotiations during the COVID-19 outbreak and refocus on access to
       medical supplies and saving lives</i>:
       <a href="2020-04-30_letter_Focus_saving_lives">English</a>,
       <a href="2020-04-30_carta_Salvar_vidas">Spanish</a>,
       <a href="2020-04-30_lettre_Sauvetage_de_vies">French</a>.
+(30 April 2020)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200424.htm">COVID-19: CSOs call for fair & equitable benefit sharing of medical products</a></i>
+(28 April 2020)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i>
+(22 April 2020)
 <p>
 <i>Call to Halt Fisheries Subsidies Negotiations in the Middle of the COVID 19 Crisis</i>:
       <a href="/2020/Fisheries_subsidies.pdf">English</a>,
       <a href="/2020/Fisheries_subsidies_ES.pdf">Spanish</a>,
       <a href="/2020/Fisheries_subsidies_FR.pdf">French</a>.
       <a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200524.htm">COVID-19 straw breaks free trade camel's back</a></i>
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200424.htm">COVID-19: CSOs call for fair & equitable benefit sharing of medical products</a></i>
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i>
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i>
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200521.htm">COVID-19: South opposes attempts to foist trade liberalization measures</a></i>
-
+(April 2020)
 
 <h2><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
 <a href="TRIPS">See here.</a>
 
 
 <h2><a href="WTO-process">WTO reform</a></h2>
-<a href="2019-12-09"><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></a>
+
+<i>Over 200 organizations from 67 countries say:
+“Fundamentally transform the WTO: The WTO’s own policies have caused its
+existential crisis, which the COVID-19 crisis only amplified”</i>:
+<a href="2021_transform_WTO">English</a>,
+<a href="2021_transform_WTO_ES">Spanish</a>,
+<a href="2021_transform_WTO_FR">French</a>. (CSO letter, 28 April 2021)
 <p>
-<a href="/2019/20_years.pdf"><i>The WTO 20 years after the 'battle of Seattle'</i></a>
+<i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>. (26 April 2021)
 <p>
-Looking back on the 1999 protests in Seattle:
-<a href="https://nwlaborpress.org/2019/11/looking-back-on-the-battle-in-seattle/">nwLaborPress.org article</a>
-<p>
-October 9, 2017:
-<i>Letter from Global Civil Society about the Agenda of the WTO:</i>
-English:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda.docx">docx</a>.
-Spanish:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_ES.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_ES.docx">docx</a>.
-French:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_FR.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_FR.docx">docx</a>.
-Greek:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_GR.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_GR.docx">docx</a>.
-<p>
-still relevant:<br>
-<i>WTO Turnaround 2013:<br>Food, Jobs and Sustainable
-Development First</i> – Statement (Oct  28, 2013):
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt.pdf">English</a>
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_ES.pdf">Spanish</a>
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_FR.pdf">French</a>
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_PT.pdf">Portuguese</a>
+<a href="2019-12-09"><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></a>.
+(9 December 2019)
 <p>
 <a href="WTO-process">more on WTO process issues …</a>
 
 <h2><a href="fish" id="fish">Fisheries</a></h2>
+<a href="2021-03-17_TWN_Fisheries">Protecting the Problem – Fisheries subsidies negotiations and the WTO</a> (17 March 2021)
+<p>
+<a href="https://www.southcentre.int/research-paper-122-november-2020/">Analysis of the Overcapacity and Overfishing Pillar of the WTO Fisheries Subsidies Negotiations</a>
+(South Centre Research Paper, November 2020)
+<p>
+<i>Call to Halt Fisheries Subsidies Negotiations in the Middle of the COVID 19 Crisis</i>:
+      <a href="/2020/Fisheries_subsidies.pdf">English</a>,
+      <a href="/2020/Fisheries_subsidies_ES.pdf">Spanish</a>,
+      <a href="/2020/Fisheries_subsidies_FR.pdf">French</a>.
+      <a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
+(April 2020)
+<p>
+
+<a href="/2019/PANG_fisheries.pdf"><i>Fisheries subsidies negotiations and development in the World Trade Organization</i></a>.
+(October 2019)
+<p>
 <i>Market access the true aim of WTO fisheries subsidies negotiations</i>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>
-<p>
-<a href="/2019/PANG_fisheries.pdf"><i>Fisheries subsidies negotiations and development in the World Trade Organization</i></a>
+<a href="https://ourworldisnotforsale.net/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>.
+(April 2018)
 <p>
 <a href="fish">more on fisheries …</a>
 
-<h2 id="investment">Investment</h2>
-<a href="/2019/TWN_102_investment.pdf"><i>Investment facilitation – Another plurilateral initiative at the WTO and its potential implications</i></a>
+<h2 id="investment"><a href="investment">Investment facilitation</a></h2>
+Some WTO Members are negotiating rules on facilitating investment:
+<a href="https://bilaterals.org/?wto-plurilateral-investment">WTO plurilateral investment facilitation draft consolidated text</a> (as of 4 February 2021)
+<p>
+<a href="https://twn.my/title2/briefing_papers/investment_facilitation_series/Scope%20of%20IFF%20TWNIF%20Jul%202020%20Mohamadieh.pdf"><i>Scope of an investment facilitation framework: Implications for its developmental claim</i></a>
+(by Kinda Mohamadieh, July 2020)
+<p>
+<a href="https://twnshop.com/index.php?main_page=product_info&cPath=76_77&products_id=554"><i>Plurilateral initiatives and their interaction with WTO rules</i></a> (TWN Policy Brief, 2020)
+<p>
+<a href="/2019/TWN_102_investment.pdf"><i>Investment facilitation – Another plurilateral initiative at the WTO and its potential implications</i></a> (TWN, October 2019)
 <p>
 Rebuttal to “The WTO Investment Facilitation Initiative: Why It Matters” – background note: <i><a href="https://ourworldisnotforsale.net/2017/Investment_rebuttal.pdf">Investment Facilitation
 for Development: Opening the doors of the WTO for hard rules on investment</a></i>
+(December 2017)
+<p>
+<a href="investment">more on investment …</a>
 
-<h2 id="services">Services</h2>
+<h2 id="services"><a href="services">Services</a></h2>
 <a href="/2019/TWN_103_services.pdf"><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></a>
 <p>
 <i>“Domestic regulation” rules in the WTO</i>:
@@ -131,7 +146,7 @@ Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_111">#111. What woul
 <p>
 Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a>
 
-<h2 id="SDT">Development agenda</h2>
+<h2 id="SDT"><a href="SDT">Development agenda</a></h2>
 <i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i>
 <p>
 Martin Luther Munu:
@@ -149,7 +164,7 @@ French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</
 <a href="http://cepr.net/publicaciones/articulos-de-opinion/big-tech-busca-concretar-el-colonialismo-digital-en-la-omc">Spanish</a>
 <a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">pdf</a>
 
-<h2 id="agriculture">Agriculture</h2>
+<h2 id="agriculture"><a href="agriculture">Agriculture</a></h2>
 <i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
 <a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>

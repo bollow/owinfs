@@ -43,7 +43,7 @@ medical supplies and saving lives</i>:
 <p>
 <a href="2019-12-09"><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></a>. (9 December 2019)
 <p>
-Nov 30, 2017: In an unprecedented action, the Argentine government has revoked the accreditation of 63 civil society experts — trade unionists, development advocates, digital rights activists, environmentalists, and others — just days before the 11th Ministerial meeting of the WTO (MC11) in Buenos Aires, advising the WTO that the experts will not be allowed in the country to participate in the meeting. The majority of the rejected organizations work together through the global Our World Is Not for Sale (OWINFS) network. 
+30 November 2017: In an unprecedented action, the Argentine government has revoked the accreditation of 63 civil society experts — trade unionists, development advocates, digital rights activists, environmentalists, and others — just days before the 11th Ministerial meeting of the WTO (MC11) in Buenos Aires, advising the WTO that the experts will not be allowed in the country to participate in the meeting. The majority of the rejected organizations work together through the global Our World Is Not for Sale (OWINFS) network. 
 <ul class="tail">
   <li>Media advisory: <a href="/2017/R_Disaccreditation.docx">English</a> <a href="/2017/R_Disaccreditation_ES.docx">Spanish</a> <a href="/2017/R_Disaccreditation_FR.doc">French</a>. (30 November 2017)
   <li>Letter to the WTO:

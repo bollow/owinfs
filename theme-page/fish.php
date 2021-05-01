@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$html_title="Statements and papers regarding the fisheries negotiations at WTO";
+$html_title="Fisheries negotiations at WTO";
 include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
