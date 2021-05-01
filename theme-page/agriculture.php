@@ -51,8 +51,8 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 <i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>
 (9 December 2017)
 
-<h2><a href="o/en/themes/3084">Old updates</a></h2>
-For old updates, <a href="o/en/themes/3084">see here</a>.
+<h2><a href="o/en/themes/3084">Previous work</a></h2>
+For previous work, <a href="o/en/themes/3084">see here</a>.
 
 <p>&nbsp;<p>
 

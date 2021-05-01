@@ -79,8 +79,8 @@ for Development: Opening the doors of the WTO for hard rules on investment</a></
 </ul>
 
 
-<h2><a href="o/en/themes/3086">Old updates</a></h2>
-For old updates, <a href="o/en/themes/3086">see here</a>.
+<h2><a href="o/en/themes/3086">Previous work</a></h2>
+OWINFS has campaigned against including investment rules in the WTO since they were first proposed in Singapore in 1997. For more on this work, please, <a href="o/en/themes/3086">see here</a>.
 
 <p>&nbsp;<p>
 

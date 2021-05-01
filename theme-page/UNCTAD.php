@@ -100,6 +100,9 @@ Report: <i><a href="https://ourworldisnotforsale.net/2017/UNCTAD_competitiveness
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->
     </div> <!-- /#main -->
+<p>
+&nbsp;
+<p>
 <?php
 include 'include/foot_etc.php'
 ?>

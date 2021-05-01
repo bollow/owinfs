@@ -90,8 +90,8 @@ Development First</i></a> – Statement:
 
 
 
-<h2><a href="o/en/themes/3083">Older updates</a></h2>
-For older updates, <a href="o/en/themes/3083">see here</a>.
+<h2><a href="o/en/themes/3083">Previous work</a></h2>
+For previous work, <a href="o/en/themes/3083">see here</a>.
 
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->

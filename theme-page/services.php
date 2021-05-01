@@ -31,8 +31,8 @@ Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_111">#111. What woul
 <p>
 Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a>
 
-<h2><a href="o/en/themes/3085">Old updates</a></h2>
-For old updates, <a href="o/en/themes/3085">see here</a>.
+<h2><a href="o/en/themes/3085">Previous work</a></h2>
+For previous work, <a href="o/en/themes/3085">see here</a>.
 
 <p>&nbsp;<p>
 
