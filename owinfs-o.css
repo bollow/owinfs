@@ -1,7 +1,7 @@
 body
 {
   margin: 0;
-  background: #cc3300;
+  background: #016795;
   font-size: 100%; /* Fixes exaggerated text resizing in IE6 and IE7 */
 }
 
@@ -25,13 +25,13 @@ body, caption, th, td, input, textarea, select, option, legend, fieldset
 a:link
 {
   text-decoration: none;
-  color: #333366;
+  color: #01344c;
 }
 
 a:visited
 {
   text-decoration: none;
-  color: #333366;
+  color: #01344c;
 }
 
 a:hover,
@@ -45,7 +45,7 @@ a:active
 #header
 {
   height: 180px;
-  background: url(../img/back_header.png);
+  background: url(/img/back_header.png);
   background-repeat: no-repeat;
   clear: both;
 }
@@ -76,7 +76,7 @@ a:active
 
 #logo
 {
-  margin: 0 0 0 230px;
+  margin: 0 0 0 288px;
   padding: 0;
 }
 
