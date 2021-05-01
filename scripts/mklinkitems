@@ -88,7 +88,7 @@ $html=~s,<a[^>]*/>,,g;
 $html=~s, class="Internet_20_link",,g;
 $html=~s,<a,<i><a,g;
 $html=~s,</a>,</a></i>,g;
-$html=~s,\.?\s*\((\d\d)\s+([A-Z][a-z]+)\s+(\d\d)\),&date($1\,$2\,$3),sge;
+$html=~s,\.?\s*\((\d\d)[ \s]+([A-Z][a-z]+)[ \s]+(\d\d)\),&date($1\,$2\,$3),sge;
 $html=~s,\s* \s*\n,\n,g;
 open OUT, ">", "out.html";
 print OUT $html;

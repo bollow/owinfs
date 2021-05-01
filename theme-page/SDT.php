@@ -86,526 +86,254 @@ This research paper examines the US’ Section 301 unilateral actions against Ch
 Paragraph 44 of the 2001 Doha Ministerial Declaration mandates the ‘strengthening’ of Special and Differential Treatment (S&D) provisions in the WTO Agreement, and making them ‘more precise, effective and operational’. This Note tracks the evolution of these negotiations from the start of the Doha Round in 2001 until the Nairobi Ministerial in December 2015.
 
 <h2>Key Updates &amp; Articles on the Negotiations</h2>
+ 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210323.htm">Updated TWN Briefing paper on International negotiations by virtual means in the time of the COVID-19 pandemic</a></i>. (24 March 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210309.htm">WTO: Growing support for 12-year transition period for graduating LDCs</a></i>, by D. Ravi Kanth. (8 March 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210304.htm">US to work with DG and like-minded members on WTO reform</a></i>, by D. Ravi Kanth. (3 March 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210302.htm">New WTO DG delivers &quot;divisive&quot; trade agenda at GC meeting</a></i>, by D. Ravi Kanth. (2 March 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210301.htm">Members sharply divided on WTO reform, fisheries subsidies &amp; JSIs</a></i>, by D. Ravi Kanth. (1 March 2021) 
+<p>
+ <i><a href="https://www.twn.my/title2/wto.info/2021/ti210210.htm">Work begins on G90 proposals on improvements in S&amp;DT provisions</a></i>, by D. Ravi Kanth. (12 February 2021)  
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210102.htm">Strong support for India's &quot;development-oriented&quot; policy initiatives</a></i>. (12 January 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti201121.htm">Discussions continue on preferential rules of origin for LDCs</a></i>, by Kanaga Raja. (20 November 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti201109.htm">Recovering Better from COVID-19 Will Need a Rethink of Multilateralism</a></i>, by Richard Kozul-Wright (10 Nov 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti201029.htm">US opposes SDG Trade Monitor portal at WTO budget meeting</a></i>, by D. Ravi Kanth. (28 October 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti201011.htm">South rallies around developmental agenda for WTO reforms</a></i>, by D. Ravi Kanth. (14 October 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200919.htm">South pushes back against Riyadh initiative to reform WTO</a></i>, by D. Ravi Kanth. (24 September 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200908.htm">South calls for &quot;developmental and inclusive&quot; WTO reform agenda</a></i>, by D. Ravi Kanth. (8 September 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200907.htm">South urged to pursue &quot;inclusive and developmental&quot; WTO reforms</a></i>, by D. Ravi Kanth. (4 September 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200811.htm">US seeks termination of China's developing country status at WTO</a></i>, by D. Ravi Kanth. (13 August 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200719.htm">South rebuffs attempts to create new rules at WTO amid COVID-19</a></i>, by D. Ravi Kanth. (24 July 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200716.htm">MC12 will hinge on restoring two-stage DSB, developmental outcomes</a></i>, by D. Ravi Kanth. (22 July 2020) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200702.htm">US refuses to negotiate improvements in provisions on S&amp;DT</a></i>, by D. Ravi Kanth. (2 July 2020)  
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200618.htm">US signals intention to fundamentally change the WTO</a></i>, by D. Ravi Kanth. (19 June 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200611.htm">North pressures South to agree to enhanced transparency &amp; notifications</a></i>, by D. Ravi Kanth. (12 June 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200604.htm">TWN Briefing paper on 'International negotiations by virtual means in the time of the Covid-19 pandemic'</a></i> (5 June 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i>, by D. Ravi Kanth. (4 June 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i>, by Ranja Sengupta. (22 April 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200411.htm">CSOs call for halt to WTO negotiations during COVID-19 crisis</a></i>, by Kanaga Raja. (20 April 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200409.htm">Economic liberalisation and its faults</a></i>, by K.M. Gopakumar &amp; Ranja Sengupta. (15 April 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200408.htm">UN: South needs $2.5 trillion support package to deal with COVID-19</a></i>, by Kanaga Raja. (14 April 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200401.htm">G20 fails to arrive at concrete developmental package for South</a></i>, by D. Ravi Kanth. (1 April 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210326.htm">Developing countries must demand development deliverables at MC12</a></i>, by D. Ravi Kanth. (30 March 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200307.htm">Developing countries spurn US proposal on differentiation</a></i>, by D. Ravi Kanth. (6 March 2020)  
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200304.htm">Developing countries facing systemic crisis at the WTO</a></i>, by D. Ravi Kanth. (3 March 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200206.htm">US wants to transform WTO into a &quot;market-oriented&quot; body</a></i>, by D. Ravi Kanth. (19 February 2020) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti191108.htm">South countries call for &quot;policy space&quot; in proposed WTO reforms</a></i>, by D. Ravi Kanth. (14 November 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti191107.htm">Major North countries bringing about state of exception at WTO</a></i>, by D. Ravi Kanth. (14 November 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti191014.htm">WTO mired in &quot;full-blown&quot; crisis over US attacks on S&amp;DT &amp; AB</a></i>, by D. Ravi Kanth. (17 October 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190732.htm">South Coalesces Around An Inclusive Approach to Transparency</a></i>, by D. Ravi Kanth. (29 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190731.htm">South Rallies Around Proposals to Advance Developmental Agenda</a></i>, by D. Ravi Kanth. (29 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190729.htm">Reform process a serious test for the WTO, says DG</a></i>, by Kanaga Raja. (25 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190728.htm">South challenges US and allies' narrative on WTO &quot;reforms&quot;</a></i>, by D. Ravi Kanth. (25 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190727.htm">Trump has &quot;personal interest&quot; in differentiation, says US envoy</a></i>, by D. Ravi Kanth. (25 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190723.htm">South proposes strengthening WTO to promote development</a></i>, by D. Ravi Kanth. (16 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190720.htm">US countered on transparency requirement by key developing countries</a></i>, by D. Ravi Kanth. (15 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190715.htm">Reclaiming development in the WTO</a></i>, by Kanaga Raja. (9 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190714.htm">South faces defining moment on &quot;development-friendly&quot; WTO reforms</a></i>, by D. Ravi Kanth. (5 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190713.htm">UN: From Development to Differentiation: Just how much has the world changed?</a></i>. (5 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190708.htm">South propose inclusive approach to WTO transparency, notifications</a></i>, by D. Ravi Kanth. (3 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190701.htm">South countries establish &quot;common platform&quot; on WTO reform</a></i>, by D. Ravi Kanth. (1 July 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190612.htm">China to host retreat on pursuing &quot;development&quot; via WTO reform</a></i>, by D. Ravi Kanth. (18 June 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190607.htm">G20 fail to resolve differences over WTO reform, digital trade</a></i>, by D. Ravi Kanth. (13 June 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190513.htm">South reject moves to curtail policy space to pursue industrialisation</a></i>, by D. Ravi Kanth. (29 May 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190511.htm">China tables comprehensive proposal on WTO reform</a></i>, by Kanaga Raja. (17 May 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190509.htm">China to stand firm against the US in protecting its policy space</a></i>, by D. Ravi Kanth. (16 May 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190508.htm">Delhi meet calls for strengthening WTO-MTS, promoting development</a></i>, by D. Ravi Kanth. (16 May 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190507.htm">South must put forward its own WTO reform agenda, says Davies</a></i>, by D. Ravi Kanth. (15 May 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190426.htm">Development: A new multilateralism for a global green new deal</a></i>, by Kanaga Raja. (30 April 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190414.htm">South reacts sharply against US notification requirement proposals</a></i>, by D. Ravi Kanth. (18 April 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190406.htm">EU and allies push back against India's move to strengthen MTS</a></i>, by D. Ravi Kanth. (9 April 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190402.htm">US tries to ram through intrusive WTO notification requirements</a></i>, by D. Ravi Kanth. (3 April 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190313.htm">WTO-MTS facing existential threat, needs political decisions</a></i>, by Chakravarthi Raghavan. (27 March 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190212.htm">China, India respond robustly to US paper on &quot;differentiation&quot;</a></i>, by D. Ravi Kanth. (15 February 2019) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2019/ti190210.htm">US denounced for proposing &quot;differentiation&quot; among South countries</a></i>, by D. Ravi Kanth. (14 February 2019) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200207.htm">South nations insist on S&amp;DT in fisheries subsidies agreement</a></i>, by D. Ravi Kanth. (19 February 2020)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200204.htm">US declares several South countries as developed in CVD decisions</a></i>, by D. Ravi Kanth. (18 February 2020)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti191017.htm">South firmly rejects US Presidential memo on S&amp;DT</a></i>, by D. Ravi Kanth. (23 October 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti191016.htm">South firmly rejects US proposal to name and shame on S&amp;DT</a></i>, by D. Ravi Kanth. (18 October 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti191014.htm">WTO mired in &quot;full-blown&quot; crisis over US attacks on S&amp;DT &amp; AB</a></i>, by D. Ravi Kanth. (17 October 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti191009.htm">South to oppose US attempts at denying S&amp;DT at GC meeting</a></i>, by D. Ravi Kanth. (14 October 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190734.htm">Trump declares &quot;trade war&quot; against South on S&amp;DT</a></i>, by D. Ravi Kanth. (31 July 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190605.htm">Trump steps up pressure on South to forgo S&amp;DT</a></i>, by D. Ravi Kanth. (11 June 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190505.htm">South countries soundly reject US proposal on &quot;differentiation&quot;</a></i>, by D. Ravi Kanth. (10 May 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190311.htm">Brazil's tectonic shift in foregoing S&amp;DT at WTO</a></i>, by D. Ravi Kanth. (25 March 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190302.htm">US suffers major setback over proposal to deny S&amp;DT to South</a></i>, by D. Ravi Kanth. (5 March 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190215.htm">S&amp;DT sine qua non to promote development of South</a></i>, by D. Ravi Kanth. (22 February 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190214.htm">The continued relevance of S&amp;DT in favour of South countries</a></i>, by Kanaga Raja. (21 February 2019)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2019/ti190213.htm">US unveils draft GC decision on providing S&amp;DT only to LDCs</a></i>, by D. Ravi Kanth. (21 February 2019)  
+<p>
 
-			<ul><li><a href="https://twn.my/title2/wto.info/2021/ti210326.htm">Developing
-				countries must demand development deliverables at MC12</a>, 
-by
-				D. Ravi Kanth (30 Mar 21) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2021/ti210323.htm">Updated
-				TWN Briefing paper on International negotiations by virtual means
-				in the time of the COVID-19 pandemic</a>
-(24
-				Mar 21) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2021/ti210309.htm">WTO:
-				Growing support for 12-year transition period for graduating
-				LDCs</a>, 
-by
-				D. Ravi Kanth (08 Mar 21) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2021/ti210304.htm">US
-				to work with DG and like-minded members on WTO reform</a>, 
-by
-				D. Ravi Kanth (03 Mar 21) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2021/ti210302.htm">New
-				WTO DG delivers &quot;divisive&quot; trade agenda at GC
-				meeting</a>, 
-by
-				D. Ravi Kanth (02 Mar 21) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2021/ti210301.htm">Members
-				sharply divided on WTO reform, fisheries subsidies &amp; JSIs</a>, 
-by
-				D. Ravi Kanth (01 Mar 21) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2021/ti210102.htm">Strong
-				support for India's &quot;development-oriented&quot; policy
-				initiatives</a>
-(12
-				Jan 21) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti201121.htm">Discussions
-				continue on preferential rules of origin for LDCs</a>, 
-by
-				Kanaga Raja (20 Nov 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti201109.htm">Recovering
-				Better from COVID-19 Will Need a Rethink of Multilateralism</a>, 
-by
-				Richard Kozul-Wright (10 Nov 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti201029.htm">US
-				opposes SDG Trade Monitor portal at WTO budget meeting</a>, 
-by
-				D. Ravi Kanth (28 Oct 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti201011.htm">South
-				rallies around developmental agenda for WTO reforms</a>, 
-by
-				D. Ravi Kanth (14 Oct 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200919.htm">South
-				pushes back against Riyadh initiative to reform WTO</a>, 
-by
-				D. Ravi Kanth (24 Sept 20)  
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200908.htm">South
-				calls for &quot;developmental and inclusive&quot; WTO reform
-				agenda</a>, 
-by
-				D. Ravi Kanth (08 Sept 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200907.htm">South
-				urged to pursue &quot;inclusive and developmental&quot; WTO
-				reforms</a>, 
-by
-				D. Ravi Kanth (04 Sept 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200811.htm">US
-				seeks termination of China's developing country status at WTO</a>, 
-by
-				D. Ravi Kanth (13 Aug 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200719.htm">South
-				rebuffs attempts to create new rules at WTO amid COVID-19</a>, 
-by
-				D. Ravi Kanth (24 Jul 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200716.htm">MC12
-				will hinge on restoring two-stage DSB, developmental outcomes</a>, 
-by
-				D. Ravi Kanth (22 Jul 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200618.htm">US
-				signals intention to fundamentally change the WTO</a>, 
-by
-				D. Ravi Kanth (19 Jun 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200611.htm">North
-				pressures South to agree to enhanced transparency &amp;
-				notifications</a>, 
-by
-				D. Ravi Kanth (12 Jun 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200604.htm">TWN
-				Briefing paper on 'International negotiations by virtual means in
-				the time of the Covid-19 pandemic'</a>
-(05 Jun 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200602.htm">South
-				sets out developmental priorities in face of COVID-19</a>, 
-by
-				D. Ravi Kanth (04 Jun 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200417.htm">COVID-19:
-				Trade policy choices during and after pandemic</a>, 
-by
-				Ranja Sengupta (22 Apr 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200411.htm">CSOs
-				call for halt to WTO negotiations during COVID-19 crisis</a>, 
-by
-				Kanaga Raja (20 Apr 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200409.htm">Economic
-				liberalisation and its faults</a>, 
-by
-				K.M. Gopakumar &amp; Ranja Sengupta (15 Apr 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200408.htm">UN:
-				South needs $2.5 trillion support package to deal with
-				COVID-19</a>, 
-by
-				Kanaga Raja (14 Apr 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200401.htm">G20
-				fails to arrive at concrete developmental package for South</a>, 
-by
-				D. Ravi Kanth (01 Apr 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200304.htm">Developing
-				countries facing systemic crisis at the WTO</a>, 
-by
-				D. Ravi Kanth (03 Mar 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2020/ti200206.htm">US
-				wants to transform WTO into a &quot;market-oriented&quot; body</a>, 
-by
-				D. Ravi Kanth (19 Feb 20) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti191108.htm">South
-				countries call for &quot;policy space&quot; in proposed WTO
-				reforms</a>, 
-by
-				D. Ravi Kanth (14 Nov 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti191107.htm">Major
-				North countries bringing about state of exception at WTO</a>, 
-by
-				D. Ravi Kanth (14 Nov 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti191014.htm">WTO
-				mired in &quot;full-blown&quot; crisis over US attacks on S&amp;DT
-				&amp; AB</a>, 
-by
-				D. Ravi Kanth (17 Oct 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190732.htm">South
-				Coalesces Around An Inclusive Approach to Transparency</a>, 
-by
-				D. Ravi Kanth (29 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190731.htm">South
-				Rallies Around Proposals to Advance Developmental Agenda</a>, 
-by
-				D. Ravi Kanth (29 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190729.htm">Reform
-				process a serious test for the WTO, says DG</a>, 
-by
-				Kanaga Raja (25 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190728.htm">South
-				challenges US and allies' narrative on WTO &quot;reforms&quot;</a>, 
-by
-				D. Ravi Kanth (25 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190727.htm">Trump
-				has &quot;personal interest&quot; in differentiation, says US
-				envoy</a>, 
-by
-				D. Ravi Kanth (25 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190723.htm">South
-				proposes strengthening WTO to promote development</a>, 
-by
-				D. Ravi Kanth (16 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190720.htm">US
-				countered on transparency requirement by key developing
-				countries</a>, 
-by
-				D. Ravi Kanth (15 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190715.htm">Reclaiming
-				development in the WTO</a>, 
-by
-				Kanaga Raja (09 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190714.htm">South
-				faces defining moment on &quot;development-friendly&quot; WTO
-				reforms</a>, 
-by
-				D. Ravi Kanth (05 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190713.htm">UN:
-				From Development to Differentiation: Just how much has the world
-				changed?</a>
-(05
-				Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190708.htm">South
-				propose inclusive approach to WTO transparency, notifications</a>, 
-by
-				D. Ravi Kanth (03 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190701.htm">South
-				countries establish &quot;common platform&quot; on WTO reform</a>, 
-by
-				D. Ravi Kanth (01 Jul 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190612.htm">China
-				to host retreat on pursuing &quot;development&quot; via WTO
-				reform</a>, 
-by
-				D. Ravi Kanth (18 Jun 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190607.htm">G20
-				fail to resolve differences over WTO reform, digital trade</a>, 
-by
-				D. Ravi Kanth (13 Jun 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190513.htm">South
-				reject moves to curtail policy space to pursue
-				industrialisation</a>, 
-by
-				D. Ravi Kanth (29 May 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190511.htm">China
-				tables comprehensive proposal on WTO reform</a>, 
-by
-				Kanaga Raja (17 May 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190509.htm">China
-				to stand firm against the US in protecting its policy space</a>, 
-by
-				D. Ravi Kanth (16 May 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190508.htm">Delhi
-				meet calls for strengthening WTO-MTS, promoting development</a>, 
-by
-				D. Ravi Kanth (16 May 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190507.htm">South
-				must put forward its own WTO reform agenda, says Davies</a>, 
-by
-				D. Ravi Kanth (15 May 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190426.htm">Development:
-				A new multilateralism for a global green new deal</a>, 
-by
-				Kanaga Raja (30 Apr 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190414.htm">South
-				reacts sharply against US notification requirement proposals</a>, 
-by
-				D. Ravi Kanth (18 Apr 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190406.htm">EU
-				and allies push back against India's move to strengthen MTS</a>, 
-by
-				D. Ravi Kanth (09 Apr 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190402.htm">US
-				tries to ram through intrusive WTO notification requirements</a>, 
-by
-				D. Ravi Kanth (03 Apr 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190313.htm">WTO-MTS
-				facing existential threat, needs political decisions</a>, 
-by
-				Chakravarthi Raghavan (27 Mar 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190212.htm">China,
-				India respond robustly to US paper on &quot;differentiation&quot;</a>, 
-by
-				D. Ravi Kanth (15 Feb 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2019/ti190210.htm">US
-				denounced for proposing &quot;differentiation&quot; among South
-				countries</a>, 
-by
-				D. Ravi Kanth (14 Feb 19) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181208.htm">DDA
-				issues must be addressed before considering WTO reform</a>, 
-by
-				D. Ravi Kanth (13 Dec 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181206.htm">Current
-				WTO reform proposals must be rejected, says Minister Davies</a>, 
-by
-				D. Ravi Kanth (12 Dec 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181202.htm">North
-				countries succeed in foisting WTO 'reforms' at G20 meet</a>, 
-by
-				D. Ravi Kanth (05 Dec 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181201.htm">China
-				for WTO reform to preserve MTS, respect development models</a>, 
-by
-				D. Ravi Kanth (03 Dec 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181117.htm">North
-				waging new form of trade warfare, undermining sovereign rights</a>, 
-by
-				D. Ravi Kanth (26 Nov 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181116.htm">Liberalization
-				of global trade may have hit a wall</a>, 
-by
-				D. Ravi Kanth (26 Nov 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181112.htm">South
-				countries strongly oppose joint proposal on WTO notifications</a>, 
-by
-				D. Ravi Kanth (22 Nov 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181104.htm">US
-				threatens to hold &quot;WTO reforms&quot; hostage over panel
-				requests</a>, 
-by
-				D. Ravi Kanth (05 Nov 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181101.htm">Ottawa
-				meet's move for launching new round of talks at MC12</a>, 
-by
-				D. Ravi Kanth (02 Nov 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181014.htm">South
-				call for expeditious conclusion of DDA talks, oppose new
-				issues</a>, 
-by
-				D. Ravi Kanth (22 Oct 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181010.htm">Secretariat
-				violates WTO Treaty to promote US agenda at WTO</a>, 
-by
-				D. Ravi Kanth (16 Oct 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181007.htm">Trade
-				wars a symptom of unbalanced hyperglobalized world</a>, 
-by
-				Kanaga Raja (10 Oct 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181006.htm">Azevedo's
-				pitch for WTO rules in new areas countered at CSO event</a>, 
-by
-				D. Ravi Kanth (09 Oct 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181004.htm">US-EU-Japan
-				WTO proposals target China's trade policies</a>, 
-by
-				D. Ravi Kanth (09 Oct 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181002.htm">EU's
-				proposed changes to DSU unlikely to be accepted by US</a>, 
-by
-				Kanaga Raja (08 Oct 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti181001.htm">Crisis
-				in multilateralism unfolding since UNCTAD-14</a>, 
-by
-				Kanaga Raja (08 Oct 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180904.htm">WTO
-				DG, EU and Canada propose comprehensive WTO reform</a>, 
-by
-				D. Ravi Kanth (13 Sept 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180903.htm">China
-				to stand firm against US unilateral punitive tariffs</a>, 
-by
-				D. Ravi Kanth (12 Sept 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180801.htm">China
-				asks US to set its fiscal house in order, instead of blaming
-				others</a>, 
-by
-				D. Ravi Kanth (01 Aug 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180723.htm">Concerns
-				voiced over US unilateral actions, AB deadlock</a>, 
-by
-				Kanaga Raja (30 Jul 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180722.htm">India
-				gravely concerned Secretariat undermining multilateral issues</a>, 
-by
-				D. Ravi Kanth (27 Jul 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180720.htm">EU
-				for 'reforms' to end MFN, consensus decision-making at WTO</a>, 
-by
-				D. Ravi Kanth (27 Jul 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180716.htm">Trade
-				war - be ready to respond</a>, 
-by
-				Martin Khor (19 Jul 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180714.htm">US
-				criticised for starting 'trade war', undermining WTO's
-				credibility</a>, 
-by
-				D. Ravi Kanth (17 Jul 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180709.htm">Developing
-				and least-developed face worst crisis yet at WTO</a>, 
-by
-				D. Ravi Kanth (10 Jul 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180705.htm">China
-				urges members to join fight against US unilateralism</a>, 
-by
-				D. Ravi Kanth (09 Jul 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180612.htm">US
-				protects home market, wants more access from South for GSP</a>, 
-by
-				D. Ravi Kanth (25 Jun 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180608.htm">Trump
-				calls WTO a disaster, but wants new disciplines on innovation</a>, 
-by
-				D. Ravi Kanth (14 Jun 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180606.htm">US
-				refuses to discuss trade and investment at OECD</a>, 
-by
-				D. Ravi Kanth (04 Jun 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180605.htm">South
-				stresses development as central priority for resilience in WTO</a>, 
-by
-				D. Ravi Kanth (04 Jun 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180604.htm">As
-				US strikes trade turmoil, others embrace WTO-MTS</a>, 
-by
-				D. Ravi Kanth (04 Jun 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180603.htm">Multilateralism
-				and international trade under pressure</a>, 
-by
-				Kanaga Raja (04 Jun 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180601.htm">&quot;WTO
-				doesn't deserve to die through asphyxiation&quot;</a>, 
-by
-				Kanaga Raja (01 Jun 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180419.htm">Three-pronged
-				assault on WTO-MTS by the US</a>, 
-by
-				Chakravarthi Raghavan (27 Apr 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180418.htm">US
-				faulted at WTO Safeguards Committee over S.232 actions</a>, 
-by
-				Kanaga Raja (26 Apr 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180406.htm">Major
-				developing countries face concerted assault on S&amp;DT
-				flexibilities</a>, 
-by
-				D. Ravi Kanth (12 Apr 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180403.htm">US
-				claims no basis for safeguard consultations on its S.232
-				actions</a>, 
-by
-				D. Ravi Kanth (11 Apr 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180311.htm">Trump's
-				launch of a global trade war</a>, 
-by
-				Martin Khor (16 Mar 18) 
-				
-				<li><a href="https://twn.my/title2/wto.info/2018/ti180307.htm">US
-				under fire at General Council over proposed unilateral actions</a>, 
-by
-				Kanaga Raja (12 Mar 18)
-				<li><a href="https://twn.my/title2/wto.info/2017/ti171226.htm">South
-				insists post-MC11 work based on DDA, but facilitators omit DDA</a>, 
-by
-				D. Ravi Kanth (14 Dec 17)
-				<li><a href="https://twn.my/title2/wto.info/2017/ti171225.htm">MC11
-				ending amidst endless frustration of large majority of South</a>, 
-by
-				D. Ravi Kanth (14 Dec 17)
-				<li><a href="https://twn.my/title2/wto.info/2017/ti171217.htm">India
-				won't accept shifting priority from DDA to non-trade issues</a>, 
-by
-				D. Ravi Kanth (12 Dec 17)
-			</ul>
-
+<i><a href="https://twn.my/title2/wto.info/2018/ti181208.htm">DDA issues must be addressed before considering WTO reform</a></i>, by D. Ravi Kanth. (13 December 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181206.htm">Current WTO reform proposals must be rejected, says Minister Davies</a></i>, by D. Ravi Kanth. (12 December 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181202.htm">North countries succeed in foisting WTO 'reforms' at G20 meet</a></i>, by D. Ravi Kanth. (5 December 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181201.htm">China for WTO reform to preserve MTS, respect development models</a></i>, by D. Ravi Kanth. (3 December 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181117.htm">North waging new form of trade warfare, undermining sovereign rights</a></i>, by D. Ravi Kanth. (26 November 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181116.htm">Liberalization of global trade may have hit a wall</a></i>, by D. Ravi Kanth. (26 November 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181112.htm">South countries strongly oppose joint proposal on WTO notifications</a></i>, by D. Ravi Kanth. (22 November 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181104.htm">US threatens to hold &quot;WTO reforms&quot; hostage over panel requests</a></i>, by D. Ravi Kanth. (5 November 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181101.htm">Ottawa meet's move for launching new round of talks at MC12</a></i>, by D. Ravi Kanth. (2 November 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181014.htm">South call for expeditious conclusion of DDA talks, oppose new issues</a></i>, by D. Ravi Kanth. (22 October 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181010.htm">Secretariat violates WTO Treaty to promote US agenda at WTO</a></i>, by D. Ravi Kanth. (16 October 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181007.htm">Trade wars a symptom of unbalanced hyperglobalized world</a></i>, by Kanaga Raja. (10 October 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181006.htm">Azevedo's pitch for WTO rules in new areas countered at CSO event</a></i>, by D. Ravi Kanth. (9 October 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181004.htm">US-EU-Japan WTO proposals target China's trade policies</a></i>, by D. Ravi Kanth. (9 October 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181002.htm">EU's proposed changes to DSU unlikely to be accepted by US</a></i>, by Kanaga Raja. (8 October 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti181001.htm">Crisis in multilateralism unfolding since UNCTAD-14</a></i>, by Kanaga Raja. (8 October 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180904.htm">WTO DG, EU and Canada propose comprehensive WTO reform</a></i>, by D. Ravi Kanth. (13 September 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180903.htm">China to stand firm against US unilateral punitive tariffs</a></i>, by D. Ravi Kanth. (12 September 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180801.htm">China asks US to set its fiscal house in order, instead of blaming others</a></i>, by D. Ravi Kanth. (1 August 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180723.htm">Concerns voiced over US unilateral actions, AB deadlock</a></i>, by Kanaga Raja. (30 July 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180722.htm">India gravely concerned Secretariat undermining multilateral issues</a></i>, by D. Ravi Kanth. (27 July 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180720.htm">EU for 'reforms' to end MFN, consensus decision-making at WTO</a></i>, by D. Ravi Kanth. (27 July 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180716.htm">Trade war - be ready to respond</a></i>, by Martin Khor. (19 July 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180714.htm">US criticised for starting 'trade war', undermining WTO's credibility</a></i>, by D. Ravi Kanth. (17 July 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180709.htm">Developing and least-developed face worst crisis yet at WTO</a></i>, by D. Ravi Kanth. (10 July 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180705.htm">China urges members to join fight against US unilateralism</a></i>, by D. Ravi Kanth. (9 July 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180612.htm">US protects home market, wants more access from South for GSP</a></i>, by D. Ravi Kanth. (25 June 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180608.htm">Trump calls WTO a disaster, but wants new disciplines on innovation</a></i>, by D. Ravi Kanth. (14 June 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180606.htm">US refuses to discuss trade and investment at OECD</a></i>, by D. Ravi Kanth. (4 June 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180605.htm">South stresses development as central priority for resilience in WTO</a></i>, by D. Ravi Kanth. (4 June 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180604.htm">As US strikes trade turmoil, others embrace WTO-MTS</a></i>, by D. Ravi Kanth. (4 June 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180603.htm">Multilateralism and international trade under pressure</a></i>, by Kanaga Raja. (4 June 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180601.htm">&quot;WTO doesn't deserve to die through asphyxiation&quot;</a></i>, by Kanaga Raja. (1 June 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180419.htm">Three-pronged assault on WTO-MTS by the US</a></i>, by Chakravarthi Raghavan. (27 April 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180418.htm">US faulted at WTO Safeguards Committee over S.232 actions</a></i>, by Kanaga Raja. (26 April 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180406.htm">Major developing countries face concerted assault on S&amp;DT flexibilities</a></i>, by D. Ravi Kanth. (12 April 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180403.htm">US claims no basis for safeguard consultations on its S.232 actions</a></i>, by D. Ravi Kanth. (11 April 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180311.htm">Trump's launch of a global trade war</a></i>, by Martin Khor. (16 March 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2018/ti180307.htm">US under fire at General Council over proposed unilateral actions</a></i>, by Kanaga Raja. (12 March 2018) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2017/ti171226.htm">South insists post-MC11 work based on DDA, but facilitators omit DDA</a></i>, by D. Ravi Kanth. (14 December 2017) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2017/ti171225.htm">MC11 ending amidst endless frustration of large majority of South</a></i>, by D. Ravi Kanth. (14 December 2017) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2017/ti171217.htm">India won't accept shifting priority from DDA to non-trade issues</a></i>, by D. Ravi Kanth. (12 December 2017)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2015/ti151020.htm">US wants S&amp;D for non-compliance on export competition pillar</a></i>, by D. Ravi Kanth. (27 October 2015)  
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/twninfo20080521.htm">Trade: Need for effective S&amp;D in fisheries, say India, Indonesia and China</a></i>, by Kanaga Raja. (20 May 2008) 
+<p>
+<i><a href="https://www.twn.my/title2/twninfo291.htm">LDCs make strong plea in WTO for action on SDT</a></i>. (2 November 2005)
+<p>
+  
+<h2>Previous work</h2>
 For articles on the development agenda from before the 11th Ministerial of the WTO, please see
 <a href="https://twn.my/general_negotiations.htm">here</a>.
-
+<p>
+&nbsp;
+<p>
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->
     </div> <!-- /#main -->
