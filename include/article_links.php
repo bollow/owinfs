@@ -9,7 +9,6 @@ function article_links($inputfile, $language) {
       while (!feof($in) && $line!="\n") {
         $line=fgets($in);
         if (substr($line, 0, 2)==$language) {
-          end_list();
           $h=substr($line, 3, -1);
           echo "<h2>$h</h2>\n";
         }
@@ -19,9 +18,23 @@ function article_links($inputfile, $language) {
         $line=fgets($in);
         if (substr($line, 0, 2)==$language) {
           $sep=strpos($line, " ", 3);
-	  $l=substr($line, 3, $sep-3);
-	  $h=substr($line, $sep+1, -1);
-          put_li("<a href=\"$l\">$h</a>");
+          $sep2=strpos($line, ". (", $sep);
+	  if ($sep2===FALSE) {
+            $sep2=strpos($line, "? (", $sep);
+	  }
+	  if ($sep2===FALSE) {
+            $sep2=strpos($line, "! (", $sep);
+	  }
+	  if ($sep2===FALSE) {
+	    $l=substr($line, 3, $sep-3);
+	    $h=substr($line, $sep+1, -1);
+            echo("<p>\n <i><a href=\"$l\">$h</a></i>");
+	  } else {
+	    $l=substr($line, 3, $sep-3);
+	    $h=substr($line, $sep+1, $sep2-$sep-1);
+	    $m=substr($line, $sep2, -1);
+            echo("<p>\n <i><a href=\"$l\">$h</a></i>$m");
+	  }
         }
       }
     } else if ($line!="\n" && $line!="" && (strpos($line, "#")===FALSE))
@@ -29,23 +42,6 @@ function article_links($inputfile, $language) {
     {
       die("block keyword expected, but found: $line");
     }
-  }
-  end_list();
-}
-
-function put_li($text) {
-  global $in_list;
-  if (!$in_list) {
-    echo "<ul>\n";
-    $in_list=TRUE;
-  }
-  echo "  <li>$text\n";
-}
-function end_list() {
-  global $in_list;
-  if ($in_list) {
-    echo "</ul>\n";
-    $in_list=FALSE;
   }
 }
 
