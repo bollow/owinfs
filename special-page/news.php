@@ -437,9 +437,9 @@ For articles on specific areas of negotiations, such as e.g. <a href="fish">fish
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2018/ti180506.htm">WTO secretariat slated by DCs over its work on pluris, ignoring DDA</a></i>, by D. Ravi Kanth. (14 May 2018)
 <p>
-<i><a href="https://www.twn.my/title2/wto.info/2018/ti180505.htm">China to denounce US threats to MTS at General Council</a></i>, by D. Ravi Kanth. (14 May 2018)   
+<i><a href="https://www.twn.my/title2/wto.info/2018/ti180505.htm">China to denounce US threats to MTS at General Council</a></i>, by D. Ravi Kanth. (14 May 2018)
 <p>
-  International trade negotiations in context: The geopolitical dispute: <i><a href="/2018/ALAI_geopolitical.pdf">English</a></i>, <i><a href="/2018/ALAI_disputa_geopolítica.pdf">Spanish</a></i> <br> by Sofía Scasserra (April 2018)   
+<i>International trade negotiations in context: The geopolitical dispute</i>, by Sofía Scasserra: <a href="/2018/ALAI_geopolitical.pdf">English</a>, <a href="/2018/ALAI_disputa_geopolítica.pdf">Spanish</a> (April 2018)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2018/ti180419.htm">Three-pronged assault on WTO-MTS by the US</a></i>, by Chakravarthi Raghavan. (27 April 2018)
 <p>
