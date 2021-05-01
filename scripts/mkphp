@@ -1,0 +1,141 @@
+#!/usr/bin/perl -w
+
+# Generate a php content page from an input document in a formal which libreoffice
+# can read (e.g. .odt, .doc, .docx), or even several such content pages in case that
+# input documents in multiple languages are available.
+#
+# The generated php file(s) are intended for manual editing.
+
+# usage example:
+#
+#   ../../OWINFS-git/scripts/mkphp transform_WTO.docx
+#
+# when the working directory contains files transform_WTO.docx, transform_WTO_ES.docx,
+# transform_WTO_FR.docx
+#
+# In the case of multiple language versions, the languagee indicator is required to be
+# the two-letter ISO code for the language, in capital letters.
+
+sub cmd {
+  my $systemcmd=shift;
+  system $systemcmd and die "failed system command '$systemcmd'\n";
+}
+
+$file=shift
+  or die "Missing document filename.\n";
+-f $file or die "Document file '$file' not found.\n";
+$file=~/(.*)\.([^\.]*)/;
+$file_base=$1;
+$file_suffix=$2;
+@other_language_files=<${file_base}_*.$file_suffix>;
+@languages=('EN');
+$language_filebase{'EN'}=$file_base;
+for $f (@other_language_files) {
+  $regexp=quotemeta($file_base)."_([A-Z][A-Z])\.".quotemeta($file_suffix);
+  # print "regexp: '$regexp'\n";
+  $f=~$regexp;
+  # print "$1 language focument found.\n";
+  push @languages, $1;
+  $language_filebase{$1}="${file_base}_$1";
+}
+
+%lang_string=(
+  EN => 'English',
+  ES => 'Español',
+  FR => 'Français',
+    );
+
+%lang_string_pdf=(
+  EN => 'English pdf',
+  ES => 'pdf español',
+  FR => 'pdf français',
+    );
+
+for $lang (@languages) {
+  cmd("cp $language_filebase{$lang}.$file_suffix /tmp/mkphp.$file_suffix");
+  cmd("libreoffice --norestore --convert-to html --outdir /tmp /tmp/mkphp.$file_suffix");
+  open IN, '<', "/tmp/mkphp.html" or die $!;
+  $/ = undef;
+  $html = <IN>;
+  close IN;
+
+  $html=~s,<!DOCTYPE[^>]*>\n,,;
+  $html=~s,<html>\n,,;
+  $html=~s,</html>,,;
+  $html=~s,<head>.*</head>,,s;
+  $html=~s,<body[^>]*>\n,,;
+  $html=~s,</body>,,;
+  $html=~s,<font[^>]*>,,g;
+  $html=~s,</font>,,g;
+  $html=~s,<p[^>]*>,<p>,g;
+  $html=~s,</p>,,g;
+  $html=~s,<span style="font-weight: normal">((.(?!<span>))*?)</span>,$1,gs;
+  $html=~s,<span lang="[^"]*">((.(?!<span>))*?)</span>,$1,gs;
+  $html=~s,<div title="header">(.*?)</div>,,s;
+  $title=$1;
+  $title=~s,<p>,,g;
+  $title=~s,<b>,,g;
+  $title=~s,</b>,,g;
+  $title=~s,\s+, ,g;
+  $title=~s,^ ,,;
+  $title=~s, $,,;
+  # print "title: $title\n";
+  $html=~s,<td[^>]*>,<td>,g;
+  $html=~s,<td><p>,<td>,g;
+  $html=~s,<table[^>]*>,<table>,g;
+  $html=~s,<col[^>]*/>,,g;
+  $lc_lang=lc($lang);
+  $top=<<"ENDPHP";
+#!/usr/bin/php
+<?php
+\$html_title="$title";
+\$lang="$lc_lang";
+include 'include/head_etc_lang.php'
+?>
+    <div id="main" class="group">
+<?php
+\$sidebar_title="About us";
+include 'include/sidebar_about.php';
+include 'include/navbar.php';
+?>
+
+      <div id="content" class="singlecolumn">
+ENDPHP
+
+  if ($language_filebase{$lang}=~/(^20\d\d)_(.*)/) {
+    $pdf_link="/$1/$2.pdf";
+    if ($#languages>1) {
+      for $l (@languages) {
+	next if $l eq $lang;
+	$lang_string{$l} or die "Error: Missing value \$lang_string{'$l'}\n";
+	$top.="        <a href='$language_filebase{$l}'>$lang_string{$l}</a>&nbsp;\n";
+      }
+      $lang_string_pdf{$lang} or die "Error: Missing value \$lang_string_pdf{'$lang'}\n";
+      $top.="        <p><a href='$pdf_link'>$lang_string_pdf{$lang}</a>&nbsp;\n";
+    } else {
+      $top.="        <a href='$pdf_link'>pdf</a>\n";
+    }
+  }
+   
+  $start=<<"ENDPHP";
+        <div id="content-header">
+          <h1 class="title">$title</h1>
+        </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+
+ENDPHP
+    
+$bottom=<<"ENDPHP";
+        </div> <!-- /#content-area -->
+      </div> <!-- /#content -->
+    </div> <!-- /#main -->
+<?php
+include 'include/foot_etc.php'
+?>
+ENDPHP
+
+  open OUT, ">", "$language_filebase{$lang}.php";
+  print OUT $top, $start, $html, $bottom;
+  close OUT;
+}

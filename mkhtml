@@ -17,6 +17,8 @@ for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2019-12-09 digital-trade-rules surrendering \
 	 Stiglitz 2021-03-17_TWN_Fisheries 2021-04-06_CSO-letter_UNCTAD \
 	 2020-04-30_letter_Focus_saving_lives 2020-04-30_carta_Salvar_vidas 2020-04-30_lettre_Sauvetage_de_vies \
-         2021-04-14_PVA-letter ; do
+         2021-04-14_PVA-letter \
+	 2021_transform_WTO 2021_transform_WTO_ES 2021_transform_WTO_FR \
+	 ; do
   php contentitem-page/$i.php > $i.html
 done

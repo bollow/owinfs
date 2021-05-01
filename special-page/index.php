@@ -82,6 +82,13 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
 <h1><a href="MC12">Towards MC12</a></h1>
 The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place Nov 30 - Dec 3, 2021 in Geneva.
 <p>
+<b><i>Over 200 organizations from 67 countries say:
+“Fundamentally transform the WTO: The WTO’s own policies have caused its
+existential crisis, which the COVID-19 crisis only amplified”</i></b>:
+<a href="2021_transform_WTO">English</a>,
+<a href="2021_transform_WTO_ES">Spanish</a>,
+<a href="2021_transform_WTO_FR">French</a>.
+<p>
 <b><i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO DG from members of Our World Is Not for Sale</a></i></b>
 
 <h2><a href="fish">Fisheries</a></h2>

@@ -22,7 +22,14 @@ The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place
 <a href="#fish">fisheries subsidies</a>, but without the mandate on development. Instead, negotiators should focus on transforming the existing rules to allow countries to pursue development and shared prosperity, in areas such as <a href="#agriculture">agriculture</a>,
 <a href="TRIPS">TRIPS</a>, and the <a href="#SDT">development agenda</a>.
 <p>
-<i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>, April 26, 2021.
+<i>Over 200 organizations from 67 countries say:
+“Fundamentally transform the WTO: The WTO’s own policies have caused its
+existential crisis, which the COVID-19 crisis only amplified”</i>:
+<a href="2021_transform_WTO">English</a>,
+<a href="2021_transform_WTO_ES">Spanish</a>,
+<a href="2021_transform_WTO_FR">French</a>. (28 April 2021)
+<p>
+<i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>. (26 April 2021)
 
 
 <h2>Covid-19 crisis</h2>
@@ -34,7 +41,7 @@ The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place
       medical supplies and saving lives</i>:
       <a href="2020-04-30_letter_Focus_saving_lives">English</a>,
       <a href="2020-04-30_carta_Salvar_vidas">Spanish</a>,
-      <a href="2020-04-30_lettre_Sauvetage_de_vies">French</a>
+      <a href="2020-04-30_lettre_Sauvetage_de_vies">French</a>.
 <p>
 <i>Call to Halt Fisheries Subsidies Negotiations in the Middle of the COVID 19 Crisis</i>:
       <a href="/2020/Fisheries_subsidies.pdf">English</a>,
