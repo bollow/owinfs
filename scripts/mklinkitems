@@ -81,7 +81,7 @@ $html=~s,<span lang="[^"]*">((.(?!<span>))*?)</span>,$1,gs;
 $html=~s,,,g;
 $html=~s,<u>,,g;
 $html=~s,</u>,,g;
-$html=~s,<br/>,,g;
+$html=~s,<br/?>,,g;
 $html=~s,</a>\s*by,</a>\, by,g;
 $html=~s,http://www.twn.my,https://www.twn.my,g;
 $html=~s,<a[^>]*/>,,g;

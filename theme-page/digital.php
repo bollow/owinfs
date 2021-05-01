@@ -206,7 +206,9 @@ English:
 (30 November 2017)
 
 <h2 id="5">Detailed analysis of problems with specific proposed provisions on digital trade</h2>
-
+<i><a href=" https://www.twn.my/title2/latestwto/general/Analytical/Moratorium_tariffs_Montes_Kelsey_21072020.pdf">The moratorium on tariffs on electronic transmissions</a></i>.
+(Manuel Montes and Jane Kelsey, 2020)
+<p>
 <a href="/2019_WTO_PF_119">Why are computer and related services important?</a>
 Video recording of session #119 at the 2019 WTO Public Forum.
 (11 October 2019)
