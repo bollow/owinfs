@@ -1,0 +1,267 @@
+body
+{
+  margin: 0;
+  background: #cc3300;
+  font-size: 100%; /* Fixes exaggerated text resizing in IE6 and IE7 */
+}
+
+body, caption, th, td, input, textarea, select, option, legend, fieldset
+{
+  font-family: Arial, Helvetica, "Bitstream Vera Sans", sans-serif;
+}
+
+#page
+{
+  background: #fff;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  font-size: 0.875em; /* 16px x .875 = 14px */
+  line-height: 1.286em; /* 14px x 1.286 = 18px */
+}
+
+a:link
+{
+  text-decoration: none;
+  color: #333366;
+}
+
+a:visited
+{
+  text-decoration: none;
+  color: #333366;
+}
+
+a:hover,
+a:focus,
+a:active
+{
+  text-decoration: none;
+  color: #000;
+}
+
+#header
+{
+  height: 180px;
+  background: url(../img/back_header.png);
+  background-repeat: no-repeat;
+  clear: both;
+}
+
+#languages ul
+{
+  position: relative;
+  left: -35px;
+  margin: 0px;
+}
+#languages ul li
+{
+  display: inline;
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+#languages ul li a {
+  color: #000;
+}
+
+#languages ul li a:hover,
+#languages ul li a:focus,
+#languages ul li a:active
+{
+  color: #cc3300;
+}
+
+#logo
+{
+  margin: 0 0 0 230px;
+  padding: 0;
+}
+
+#main
+{
+  background-image: url(../img/back_main.png);
+  background-repeat: repeat-y;
+}
+
+#content
+{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-left: 250px; /* The width of #sidebar-left. */
+  margin-right: -1000px; /* Negative value of #content's width + left margin. */
+}
+
+.columns
+{
+  display: table;
+  width: 730px;
+}
+
+.singlecolumn
+{
+  width: 715px;
+  padding-left: 15px;
+}
+
+.col
+{
+  width: 222px;
+  min-height: 365px;
+  display: block;
+  padding: 0 10px 0 10px;
+  float: left;
+}
+
+#sidebar
+{
+  margin-top: 20px;
+  float: left;
+  width: 250px;
+  margin-left: 0;
+  margin-right: -250px; /* Negative value of #sidebar-left's width + left margin. */
+  padding: 0; /* DO NOT CHANGE. Add padding or margin to #sidebar-left-inner. */
+}
+
+#sidebar-inner
+{
+  margin: 0 30px 0 10px;
+  padding: 0 0 10px 0;
+}
+
+#sidebar h2.title
+{
+  color: #cc3300;
+  border-bottom: 2px solid #cc3300;
+  font-size: 1em;
+  font-weight: bold;
+  height: 20px;
+  padding-top: 10px;
+}
+
+#fullwidthcontent
+{
+  padding-top: 20px;
+  width: 730px;
+  margin-left: 260px; /* The width of #sidebar-left. */
+  margin-right: -990px; /* Negative value of #content's width + left margin. */
+}
+
+#footer
+{
+  height: 25px;
+  background: #000;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+  color: #fff;
+  font-size: 0.9em;
+  text-align: center;
+  padding-top: 3px;
+}
+
+#footer a
+{
+  font-weight: bold;
+  color: #fff;
+}
+
+#footer a:hover,
+#footer a:focus
+{
+  color: #f00;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+table{
+  width: 90%;
+  margin: 10px 0px;
+}
+
+table, td {
+  padding: 3px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#navbar {
+  background: transparent url(../img/bg-nice-menu.png) no-repeat scroll 0 0;
+  height: 40px;
+  left: 250px;
+  margin: 0;
+  position: relative;
+}
+
+#navbar ul {
+  list-style: none;
+  margin: 0;
+  position: absolute;
+  left: -35px;
+}
+
+#navbar ul li {
+  padding: 3px;
+  margin: 10px;
+  float: left;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: bold;
+}
+
+#navbar ul li a {
+  color: #000;
+}
+
+#navbar ul li a:hover,
+#navbar ul li a:focus,
+#navbar ul li a:active
+ {
+  color: #cc3300;
+}
+
+li.hovermenu {
+  position: relative;
+}
+
+li.hovermenu:hover {
+  background: #ccc;
+}
+
+li.hovermenu:hover ul {
+  visibility: visible;
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid #ccc;
+}
+
+li.hovermenu ul {
+  visibility: hidden;
+  border: 1px solid #ccc;
+  border-top: 0;
+  background-color: #eee;
+}
+
+li.hovermenu ul li {
+  font-weight: normal!important;
+  float: none!important;
+  display: block;
+}
+
+ul.width2 li {
+  width: 18ex;
+}
+
+ul.width3 li {
+  width: 25ex;
+}
+
+li.unbold {
+  font-weight: normal!important;
+}
