@@ -210,6 +210,11 @@ table, td {
   border-collapse: collapse;
 }
 
+table.noborder, table.noborder td {
+  border: none;
+  vertical-align: top;
+}
+
 #navbar {
   background: transparent url(/img/bg-nice-menu.png) no-repeat scroll 0 0;
   height: 40px;

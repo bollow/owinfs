@@ -188,7 +188,7 @@ transformationnel.
 
 <p><i>Organisations
 Régionales et Internationales</i>
-<table>
+<table class="noborder">
 	
 
 	
@@ -537,7 +537,7 @@ Régionales et Internationales</i>
 
 <p><i>Organisations
 Nationales</i>
-<table>
+<table class="noborder">
 	
 
 	

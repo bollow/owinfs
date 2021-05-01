@@ -168,7 +168,7 @@ cambio realmente transformativo.
 
 <p><i>Organizaciones
 Internacionales y Regionales</i>
-<table>
+<table class="noborder">
 	
 
 	
@@ -514,7 +514,7 @@ Internacionales y Regionales</i>
 <p><i>Organizaciones
 Nacionales </i>
 
-<table>
+<table class="noborder">
 	
 
 	
@@ -2492,6 +2492,57 @@ Nacionales </i>
 		</td>
 		<td>
 			Zimbabue
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<br/>
+
+			
+		</td>
+		<td>
+			<br/>
+
+			
+		</td>
+		<td>
+			<br/>
+
+			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<br/>
+
+			
+		</td>
+		<td>
+			<br/>
+
+			
+		</td>
+		<td>
+			<br/>
+
+			
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<br/>
+
+			
+		</td>
+		<td>
+			<br/>
+
+			
+		</td>
+		<td>
+			<br/>
+
+			
 		</td>
 	</tr>
 </table>
