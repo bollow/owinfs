@@ -43,12 +43,14 @@ for $f (@other_language_files) {
   EN => 'English',
   ES => 'Español',
   FR => 'Français',
+  PT => 'Português',
     );
 
 %lang_string_pdf=(
   EN => 'English pdf',
   ES => 'pdf español',
   FR => 'pdf français',
+  PT => 'pdf português',
     );
 
 for $lang (@languages) {
@@ -69,21 +71,31 @@ for $lang (@languages) {
   $html=~s,</font>,,g;
   $html=~s,<p[^>]*>,<p>,g;
   $html=~s,</p>,,g;
+  $html=~s,<a[^>]*></a>,,g;
   $html=~s,<span style="font-weight: normal">((.(?!<span>))*?)</span>,$1,gs;
   $html=~s,<span lang="[^"]*">((.(?!<span>))*?)</span>,$1,gs;
-  $html=~s,<div title="header">(.*?)</div>,,s;
-  $title=$1;
-  $title=~s,<p>,,g;
-  $title=~s,<b>,,g;
-  $title=~s,</b>,,g;
-  $title=~s,\s+, ,g;
-  $title=~s,^ ,,;
-  $title=~s, $,,;
-  # print "title: $title\n";
+  $html=~s,</b><b>,,g;
+  $html=~s,<p>\s*<br/>,<p>,g;
+  $html=~s,<p>(\s*<p>)+,<p>,g;
+  $title="";
+  if ($html=~m,<div title="header">,) {
+    $html=~s,<div title="header">(.*?)</div>,,s;
+    $title=&titlemassage($1);
+    print "$lang: in if case, \$title='$title'\n";
+  }
+  if (!$title) {
+    $html=~s,<b>(.*?)</b>,,s;
+    $title=&titlemassage($1);
+    print "$lang: in else case, \$title='$title'\n";
+  }
+  $html=~s,<u></u>,,g;
   $html=~s,<td[^>]*>,<td>,g;
   $html=~s,<td><p>,<td>,g;
   $html=~s,<table[^>]*>,<table class="noborder">,g;
   $html=~s,<col[^>]*/>,,g;
+  $html=~s,<div title="footer">.*</div>,,s;
+  $html=~s,<li>\s*<p>,<li>,sg;
+  $html=~s,<li>\s*<strong>(.*?)</strong>,<li>$1,sg;
   $lc_lang=lc($lang);
   $top=<<"ENDPHP";
 #!/usr/bin/php
@@ -138,4 +150,16 @@ ENDPHP
   open OUT, ">", "$language_filebase{$lang}.php";
   print OUT $top, $start, $html, $bottom;
   close OUT;
+}
+
+sub titlemassage {
+  my $title=shift;
+  $title=~s,<br/>,,g;
+  $title=~s,<p>,,g;
+  $title=~s,<b>,,g;
+  $title=~s,</b>,,g;
+  $title=~s,\s+, ,g;
+  $title=~s,^ ,,;
+  $title=~s, $,,;
+  return $title;
 }

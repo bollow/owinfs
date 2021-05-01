@@ -47,32 +47,41 @@ WTO Public Forum event with Richard Kozul-Wright, director of the division on Gl
 <h2>On UNCTAD XIV (2016)</h2>
 <a href="http://www.huffingtonpost.com/deborah-james/over-intransigence-of-ric_b_11146218.html"></i>Over intransigence of rich countries, developing countries win mandate on trade for development</i></a> (Huffington Post, 23 July 2016)
 <p>
-Speech at the Committee of the Whole, UNCTAD XIV, Based on the CSO Forum Declaration (18 July 2016) [this is a document called “prosperity for all - multilateralism”]
+<i><a href="2016_speech_UNCTAD14">Speech at the Committee of the Whole, UNCTAD XIV, Based on the CSO Forum Declaration</a></i>. (18 July 2016)
+<p>
+<i><a href="https://unctad.org/system/files/official-document/td506_en.pdf">Declaration of Civil Society to UNCTAD XIV.</a></i> (18 July 2016)
 <p>
 <a href="http://www.huffingtonpost.com/deborah-james/attempted-hijacking-trade_b_11053672.html"><i>Attempted Hijacking: Trade for Development!</i></a> (Huffington Post, 18 July 2016)
 <p>
 <a href="/2016/R_Ltr_UNCTAD14_2016-07-14.pdf"><i>Letter from 331 civil society organizations (CSOs) including trade unions, farmers, development advocates, and public interest groups from over 150 countries wrote an urgent letter to members of UNCTAD to express concern regarding the current negotiations towards the quadrennial mandate of the agency during the UNCTAD 14 Conference which starts July 17th in Nairobi, Kenya.</i></a> (Media release, 14 July 2016)
 <p>
 Letter from 331 Groups of Global Civil Society on UNCTAD’s Role and Mandate towards UNCTAD 14:
-<a href="/2016/Ltr_UNCTAD14_2016-07-14.pdf">English</a>
-<a href="/2016/Ltr_UNCTAD14_2016-07-14_ES.pdf">Spanish</a>
+<a href="/2016/Ltr_UNCTAD14_2016-07-14.pdf">English</a>,
+<a href="/2016/Ltr_UNCTAD14_2016-07-14_ES.pdf">Spanish</a>,
 <a href="/2016/Ltr_UNCTAD14_2016-07-14_FR.pdf">French</a>. (14 July 2016)
 <p>
-<a href="/2016/African_CS_UNCTAD14.pdf">Reclaim UNCTAD to Uphold Africa’s Structural Economic Transformation: An African Civil Society Call to Governments at UNCTAD 14</a> (June 2016)
+<i><a href="/2016/African_CS_UNCTAD14.pdf">Reclaim UNCTAD to Uphold Africa’s Structural Economic Transformation: An African Civil Society Call to Governments at UNCTAD 14</a></i>. (June 2016)
 <p>
-<a href="/o/it/node/24376.html">Global civil society letter to UNCTAD Secretary General on investment issues</a> (15 October 2014)
+<i><a href="/o/it/node/24376.html">Global civil society letter to UNCTAD Secretary General on investment issues</a></i>. (15 October 2014)
 
 <h2>On UNCTAD XIII (2012)</h2>
-<a href="https://www.huffpost.com/entry/unctad-xiii-conference_b_1462554">Victory at UNCTAD XIII</a>
+<i><a href="https://www.huffpost.com/entry/unctad-xiii-conference_b_1462554">Victory at UNCTAD XIII.</a></i>
 (Huffington Post, 29 April 2012)
 <p>
-<a href="/o/en/signon/strengthen-don-t-weaken-unctad-s-role-global-governance-towards-sustainable-and-inclusive-dev.html">Strengthen, Don’t Weaken, UNCTAD’s Role in Global Governance: Towards Sustainable and Inclusive Development, Not More Crises</a> (Letter from 203 CSOs from around the world, 22 April 2012)
-<br>
-Media release:
-
-
+<i><a href="/2012/R_UNCTAD_refusal.pdf">The debate around mandate is the developed countries’ refusal to acknowledge the roots of crises and the ways forward</a></i>. (Civil Society Press Release, 25 April 2012)
 <p>
-<i><a href="http://www.aljazeera.com/indepth/opinion/2012/04/2012422104847102233.html">Who should run the global economy?</a></i> (Al Jazeera, April 2012)
+<i><a href="http://www.aljazeera.com/indepth/opinion/2012/04/2012422104847102233.html">Who should run the global economy?</a></i> (Al Jazeera, 23 April 2012)
+<p>
+<i><a href="/2012/R_strengthen_UNCTAD.pdf">Civil society groups in UNCTAD XIII call for a
+paradigm shift to address multiple crises with a strengthened UNCTAD at the forefront</a></i>.
+(Civil Society Press Release, 22 April 2012)
+<p>
+<i>Strengthen, don’t weaken, UNCTAD’s role in global governance: Towards sustainable and inclusive development, not more crises</i>:
+<a href="2012_OWINFS_UNCTAD13">English</a>,
+<a href="2012_OWINFS_UNCTAD13_ES">Spanish</a>,
+<a href="2012_OWINFS_UNCTAD13_FR">French</a>,
+<a href="2012_OWINFS_UNCTAD13_PT">Portuguese</a>.
+(Letter from 203 CSOs from around the world, 22 April 2012)
 
 <h2>Some key documents from UNCTAD</h2>
 <a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a>,
