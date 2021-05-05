@@ -133,22 +133,15 @@ Spanish:
 <h2><a href="SDT">Development agenda</a></h2>
 Rich countries have blocked the development agenda since the founding of the WTO, and now are waging an assault against existing flexibilities. 
 <p>
-<b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i></b>
+<b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i></b>.
 <p>
-Martin Luther Munu:
-<i>eCommerce and MSMEs: what trade rules could improve the business climate in Africa?</i>
-English: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa.docx">docx</a>.
-Spanish: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_ES.docx">docx</a>.
-French: <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/Munu_Africa_FR.docx">docx</a>.
+<b><i><a href="https://twn.my/title2/wto.info/2021/ti210323.htm">Updated TWN Briefing paper on International negotiations by virtual means in the time of the COVID-19 pandemic</a></i></b>.
 <p>
-<b><i><a href="/2018/RLS_Africa.pdf">Why E-Commerce won’t work for Africa’s development.</a></i></b>
+<b><i><a href="https://twn.my/title2/wto.info/2021/ti210302.htm">New WTO DG delivers &quot;divisive&quot; trade agenda at GC meeting</a></i></b>.
 <p>
-<b><i>Giant tech corporations join forces with the WTO to try to launch a WTO
-2.0 to cement digital colonialism through international treaties</i></b>:
-<a href="http://cepr.net/publications/op-eds-columns/giant-tech-corporations-join-forces-with-the-wto-to-try-to-launch-a-wto-2-0-to-cement-digital-colonialism-through-international-treaties">English</a>
-<a href="https://ourworldisnotforsale.net/2019/Big_tech.pdf">pdf</a>,
-<a href="http://cepr.net/publicaciones/articulos-de-opinion/big-tech-busca-concretar-el-colonialismo-digital-en-la-omc">Spanish</a>
-<a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">pdf</a>
+<b><i><a href="https://twn.my/title2/wto.info/2020/ti201109.htm">Recovering better from COVID-19 will need a rethink of multilateralism</a></i></b>.
+<p>
+<a href="SDT">more on the development agenda …</a>
 
 <h2><a href="agriculture">Agriculture</a></h2>
 <b><i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i></b>:
