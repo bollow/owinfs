@@ -206,7 +206,7 @@ French: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf"
 <a href="fr">plus d'informations sur l'économie numérique …</a>
 
 
-<h2><a href="es">La Economia Digital</a></h2>
+<h2><a href="es">La economia digital</a></h2>
 <i><a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">‘Big tech’ en la OMC</a></i>
 <p>
 <i><a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics_ES.pdf">Los países del Sur adoptan una postura firme
