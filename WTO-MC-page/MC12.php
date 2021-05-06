@@ -136,10 +136,6 @@ for Development: Opening the doors of the WTO for hard rules on investment</a></
 <h2 id="services"><a href="services">Services</a></h2>
 <a href="/2019/TWN_103_services.pdf"><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></a>
 <p>
-<i>“Domestic regulation” rules in the WTO</i>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_domestic_regulation.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_regulacion_nacional.pdf">Spanish</a>
-<p>
 <i>“Domestic regulation” rules in the WTO:</i>
 English:
 <a href="https://ourworldisnotforsale.net/2017/Domestic_Regulation.pdf">pdf</a>,

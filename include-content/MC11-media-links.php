@@ -1,4 +1,4 @@
-<h3>Media coverage in relation to the 2017 WTO Ministerial</h3>
+<h3>Media coverage about the banning of CSOs at the 2017 WTO Ministerial</h3>
 English Language Coverage:
 
 <ol>
