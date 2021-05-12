@@ -73,6 +73,8 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 <h2>Opinion pieces</h2>
 
 <ul>
+  <li><a href="https://www.project-syndicate.org/commentary/covid19-intellectual-property-waiver-is-a-moral-imperative-by-jeffrey-d-sachs-2021-04">Share the Intellectual Property on COVID-19</a>
+      (Jeffrey Sachs, 30 April 2021)
   <li><a href="https://twn.my/title2/wto.info/2021/ti210219.htm" class="ListLabel_20_56"><span class="T1">COVID-19: Addressing pandemic-induced global medical supply issues</span></a><span class="T2"> (Dec 10, 2020)</span><span class="odfLiEnd"/> </li>
   <li><a href="https://scroll.in/article/979266/interview-why-covid-19-vaccines-should-be-a-global-public-good-and-not-be-hoarded-by-rich-countries" class="ListLabel_20_56"><span class="T1">Why Covid-19 vaccines should be a global public good and not be hoarded by rich countries</span></a><span class="T2"> (Dec 10, 2020)</span><span class="odfLiEnd"/> </li>
   <li><a href="https://www.croakey.org/australia-urged-to-support-proposal-to-waive-intellectual-property-rights-for-covid-19-medical-products/" class="ListLabel_20_56"><span class="T1">Australia urged to support proposal to waive intellectual property rights for COVID-19 medical products</span></a><span class="T2"> (Dec 8, 2020)</span><span class="odfLiEnd"/> </li>
