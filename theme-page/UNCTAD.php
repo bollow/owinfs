@@ -84,7 +84,7 @@ paradigm shift to address multiple crises with a strengthened UNCTAD at the fore
 (Letter from 203 CSOs from around the world, 22 April 2012)
 
 <h2>Some key documents from UNCTAD</h2>
-<a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a>,
+<i><a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a></i>,
 UNCTAD Research Paper No. 65, April 2021.
 <p>
 <a href="/2021/UNCTAD_ser-rp-2021d1_en.pdf">Research paper: <i>Joint Statement Initiative on E-Commerce (JSI):

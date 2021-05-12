@@ -152,6 +152,8 @@ Spanish:
 <a href="services">more on services…</a>
 
 <h2 id="SDT"><a href="SDT">Development agenda</a></h2>
+<i><a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a></i>. (UNCTAD Research Paper No. 65, April 2021)
+<p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti210323.htm">Updated TWN Briefing paper on International negotiations by virtual means in the time of the COVID-19 pandemic</a></i>. (24 March 2021) 
 <p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti210302.htm">New WTO DG delivers &quot;divisive&quot; trade agenda at GC meeting</a></i>. (2 March 2021) 

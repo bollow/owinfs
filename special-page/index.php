@@ -133,6 +133,8 @@ Spanish:
 <h2><a href="SDT">Development agenda</a></h2>
 Rich countries have blocked the development agenda since the founding of the WTO, and now are waging an assault against existing flexibilities. 
 <p>
+<b><i><a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a></i></b>.
+<p>
 <b><i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i></b>.
 <p>
 <b><i><a href="https://twn.my/title2/wto.info/2021/ti210323.htm">Updated TWN Briefing paper on International negotiations by virtual means in the time of the COVID-19 pandemic</a></i></b>.
