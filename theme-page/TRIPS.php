@@ -34,7 +34,20 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 
 <h2>Recent updates</h2>
 
+Statements from civil society in response to the announcement of support for the TRIPS waiver by the USTR:
+<a href="https://www.citizenstrade.org/ctc/bidens-support-for-trips-waiver-unquestionably-the-right-thing-to-do/">Citizens Trade Campaign</a>;
+<a href="https://cepr.net/press-release/cepr-experts-applaud-us-decision-to-support-waiver-on-ip-protections-for-covid-19-vaccines-propose-next-steps-to-ensure-global-vaccine-access-and-an-end-to-the-pandemic/">Center for Economic and Policy Research</a>;
+<a href="https://www.citizen.org/news/biden-administration-reverses-trumps-self-defeating-blockage-of-temporary-covid-19-waiver-of-wto-intellectual-property-barriers/">Public Citizen</a>;
+<a href="https://www.doctorswithoutborders.org/what-we-do/news-stories/news/msf-applauds-us-leadership-waiving-ip-covid-19-vaccines">Doctors Without Borders/MSF</a>;
+<a href="https://www.commondreams.org/newswire/2021/05/05/oxfam-reaction-announced-us-support-wto-trips-waiver-covid-vaccines">Oxfam</a>;
+<a href="https://maryknollogc.org/statements/us-support-ip-waiver-will-provide-tools-end-pandemic">Maryknoll</a>;
+<a href="https://healthgap.org/press/statement-in-response-to-ustr-announcement-that-the-u-s-will-support-waiving-intellectual-property-protections-for-covid-19-vaccines/">Health GAP</a>;
+<a href="https://infojustice.org/archives/43147">American University Program on Information Justice and Intellectual Property</a>;
+<a href="http://aftinet.org.au/cms/node/2006">Australian Fair Trade and Investment Network</a>. (5 May 2021)
+<p>
 <a href="https://ustr.gov/about-us/policy-offices/press-office/press-releases/2021/may/statement-ambassador-katherine-tai-covid-19-trips-waiver">US Expresses Support for the TRIPS Waiver</a>. (5 May 2021)
+<p>
+<a href="2021_US_Congress_letter">Letter from 110 Members of U.S. Congress to President Biden: Majority of Democratic Caucus call on White House to support TRIPS waiver for global vaccine access</a> (4 May 2021)
 <p>
 <a href="https://www.bu.edu/gdp/2021/04/22/letter-to-the-ustr-and-eu-trade-commissioner-support-pandemic-recovery-for-least-developed-countries/">Academics’ letter to the USTR and EU Trade Commissioner: Support Pandemic Recovery for Least Developed Countries</a>
 (April 22, 2021)
@@ -75,6 +88,8 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 <h2>Opinion pieces</h2>
 
 <ul>
+  <li><a href="https://www.theatlantic.com/ideas/archive/2021/05/biden-has-power-vaccinate-world/618802/">Biden has the power to vaccinate the world</a>.
+      (Chelsea Clinton and Achal Prabhala, 5 May 2021)
   <li><a href="https://www.project-syndicate.org/commentary/covid19-intellectual-property-waiver-is-a-moral-imperative-by-jeffrey-d-sachs-2021-04">Share the Intellectual Property on COVID-19</a>
       (Jeffrey Sachs, 30 April 2021)
   <li><a href="https://twn.my/title2/wto.info/2021/ti210219.htm" class="ListLabel_20_56"><span class="T1">COVID-19: Addressing pandemic-induced global medical supply issues</span></a><span class="T2"> (Dec 10, 2020)</span><span class="odfLiEnd"/> </li>
