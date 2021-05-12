@@ -43,19 +43,19 @@ OWINFS members have long maintained core demands with regards to services in the
 <p>
 Briefing paper: <a href="/2019/TWN_103_services.pdf"><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></a>. (Kinda Mohamadieh, TWN, October 2019)
 <p>
+Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_111">#111. <i>What would services as the next trade frontier look like?</i></a> (11 October 2019)
+<p>
+Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_119">#119. <i>Why are computer and related services important?</i></a> (11 October 2019)
+<p>
+Comprehensive analysis: <i><a href="/2017/TWN_DRD_analysis.pdf">Analyses of Domestic Regulation Disciplines</a></i>. (Sanya Reid Smith, TWN, December 2017)
+<p>
 Two-page summary: <i>“Domestic regulation” rules in the WTO:</i>
 English:
 <a href="/2017/Domestic_Regulation.pdf">pdf</a>,
 <a href="/2017/Domestic_Regulation.docx">docx</a>.
 Spanish:
 <a href="/2017/Domestic_Regulation_ES.pdf">pdf</a>,
-<a href="/2017/Domestic_Regulation_ES.doc">doc</a>.
-<p>
-Comprehensive analysis: <i><a href="/2017/TWN_DRD_analysis.pdf">Analyses of Domestic Regulation Disciplines</a></i>. (Sanya Reid Smith, TWN, December 2017)
-<p>
-Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_111">#111. <i>What would services as the next trade frontier look like?</i></a> (11 October 2019)
-<p>
-Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_119">#119. <i>Why are computer and related services important?</i></a> (11 October 2019)
+<a href="/2017/Domestic_Regulation_ES.doc">doc</a>. (November 2017)
 <p>
 Book: <i><a href="https://movendi.ngo/wp-content/uploads/2015/03/POLITICAL-ECONOMY-Serving-whose-interests-the-political-economy-of-international-trade-in-service.pdf">Serving Whose Interests? The political economy of trade in services agreements.</i></a>
 (Jane Kelsey, Routledge Cavendish, 2008)

@@ -48,19 +48,19 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 <p>
 <i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>
+<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>.
 (Ranja Sengupta, ALAI, April 2018)
 <p>
-<a href="/2017/TWN_Agriculture.pdf"><i>Agriculture remains key</i></a>
+<a href="/2017/TWN_Agriculture.pdf"><i>Agriculture remains key</i></a>.
 (Ranja Sengupta, 22 November 2017)
 <p>
-<a href="o/agricultural-price-crisis.html"><i>WTO summit to ignore price crisis, agricultural dumping</i></a>
+<a href="o/agricultural-price-crisis.html"><i>WTO summit to ignore price crisis, agricultural dumping</i></a>.
 (Timothy Wise, 10 December 2017)
 <p>
-<i><a href="/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i>
+<i><a href="/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i>.
 (Timothy Wise, December 2017)
 <p>
-<i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>
+<i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>.
 (Sachin Kumar Jain, 9 December 2017)
 
 <h2>Other Key Analysis</h2>

@@ -134,28 +134,31 @@ for Development: Opening the doors of the WTO for hard rules on investment</a></
 <a href="investment">more on investment …</a>
 
 <h2 id="services"><a href="services">Services</a></h2>
-<a href="/2019/TWN_103_services.pdf"><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></a>
+Briefing paper: <a href="/2019/TWN_103_services.pdf"><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></a>. (Kinda Mohamadieh, TWN, October 2019)
 <p>
-<i>“Domestic regulation” rules in the WTO:</i>
+Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_111">#111. What would services as the next trade frontier look like?</a> (11 October 2019)
+<p>
+<p>
+Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a> (11 October 2019)
+<p>
+Two-page summary: <i>“Domestic regulation” rules in the WTO:</i>
 English:
-<a href="https://ourworldisnotforsale.net/2017/Domestic_Regulation.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Domestic_Regulation.docx">docx</a>.
+<a href="/2017/Domestic_Regulation.pdf">pdf</a>,
+<a href="/2017/Domestic_Regulation.docx">docx</a>.
 Spanish:
-<a href="https://ourworldisnotforsale.net/2017/Domestic_Regulation_ES.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Domestic_Regulation_ES.doc">doc</a>.
+<a href="/2017/Domestic_Regulation_ES.pdf">pdf</a>,
+<a href="/2017/Domestic_Regulation_ES.doc">doc</a>. (November 2017)
 <p>
-Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_111">#111. What would services as the next trade frontier look like?</a>
-<p>
-Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a>
+<a href="services">more on services…</a>
 
 <h2 id="SDT"><a href="SDT">Development agenda</a></h2>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210323.htm">Updated TWN Briefing paper on International negotiations by virtual means in the time of the COVID-19 pandemic</a></i>. (24 March 2021) 
 <p>
-<i><a href="https://twn.my/title2/wto.info/2021/ti210323.htm">Updated TWN Briefing paper on International negotiations by virtual means in the time of the COVID-19 pandemic</a></i>.
+<i><a href="https://twn.my/title2/wto.info/2021/ti210302.htm">New WTO DG delivers &quot;divisive&quot; trade agenda at GC meeting</a></i>. (2 March 2021) 
 <p>
-<i><a href="https://twn.my/title2/wto.info/2021/ti210302.htm">New WTO DG delivers &quot;divisive&quot; trade agenda at GC meeting</a></i>.
+<i><a href="https://twn.my/title2/wto.info/2020/ti201109.htm">Recovering better from COVID-19 will need a rethink of multilateralism</a></i>. (10 November 2020) 
 <p>
-<i><a href="https://twn.my/title2/wto.info/2020/ti201109.htm">Recovering better from COVID-19 will need a rethink of multilateralism</a></i>.
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i> (4 June 2020)
 <p>
 <a href="SDT">more on the development agenda …</a>
 
@@ -163,15 +166,20 @@ Session at the 2019 WTO Public Forum: <a href="/2019_WTO_PF_119">#119. Why are c
 <h2 id="agriculture"><a href="agriculture">Agriculture</a></h2>
 <i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:
 <a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>
+<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>.
+(Ranja Sengupta, ALAI, April 2018)
 <p>
-<a href="https://ourworldisnotforsale.net/2017/TWN_Agriculture.pdf"><i>Agriculture remains key</i></a>
+<a href="https://ourworldisnotforsale.net/2017/TWN_Agriculture.pdf"><i>Agriculture remains key</i></a>.
+(Ranja Sengupta, 22 November 2017)
 <p>
-<a href="/agricultural-price-crisis"><i>WTO summit to ignore price crisis, agricultural dumping</i></a>
+<a href="/agricultural-price-crisis"><i>WTO summit to ignore price crisis, agricultural dumping</i></a>.
+(Timothy Wise, 10 December 2017)
 <p>
-<i><a href="https://ourworldisnotforsale.net/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i>
+<i><a href="https://ourworldisnotforsale.net/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i>.
+(Timothy Wise, December 2017)
 <p>
-<i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>
+<i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>.
+(Sachin Kumar Jain, 9 December 2017)
 
 <h2><a href="digital" id="digital">Digital trade</a></h2>
 <i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>
