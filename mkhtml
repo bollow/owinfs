@@ -1,7 +1,7 @@
 #!/bin/bash
 for i in index about members contact news key-positions no-new-round WTO \
 	 statement-political-unity declaration-d-unite \
-	 documento-di-unita declaracion-unidad-politica ; do
+	 documento-di-unita declaracion-unidad-politica join ; do
   php special-page/$i.php > $i.html
 done
 for i in es fr; do
