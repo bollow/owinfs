@@ -129,6 +129,8 @@ Spanish:
 <b>Session at the 2019 WTO Public Forum</b>: <a href="/2019_WTO_PF_111">#111. What would services as the next trade frontier look like?</a>
 <p>
 <b>Session at the 2019 WTO Public Forum</b>: <a href="/2019_WTO_PF_119">#119. Why are computer and related services important?</a>
+<p>
+<a href="services">more on services …</a>
 
 <h2><a href="SDT">Development agenda</a></h2>
 Rich countries have blocked the development agenda since the founding of the WTO, and now are waging an assault against existing flexibilities. 
