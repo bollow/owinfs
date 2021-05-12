@@ -39,7 +39,7 @@ a:focus,
 a:active
 {
   text-decoration: none;
-  color: #000;
+  color: #cc3300;
 }
 
 #header
@@ -170,7 +170,7 @@ a:active
 #footer a:hover,
 #footer a:focus
 {
-  color: #f00;
+  color: #cc3300;
 }
 
 .group:after {
