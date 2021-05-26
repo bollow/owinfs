@@ -29,6 +29,15 @@ For extensive coverage of all proposals and statements regarding the waiver, ple
 <p>
 In addition, Least Developed Countries (LDCs) are not required to implement TRIPS rules. They currently have the right to a transition period on TRIPS, which is set to expire in June 2021. The LDCs have made a duly motivated request to extend the transition period, which should be granted for as long as they are LDCs as well as some years beyond. 
 
+<h2>LDC Extension of the Transition Period on TRIPS</h2>
+<a href="2021_MEPs_LDC_extension"><i>Letter from MEPs Calling on Commission to Support the request of the Least Developed Countries (LDCs) to the WTO TRIPS Council on the LDC transition period.</i></a> (20 May 2021)
+<p>
+<a href="https://www.bu.edu/gdp/2021/04/22/letter-to-the-ustr-and-eu-trade-commissioner-support-pandemic-recovery-for-least-developed-countries/"><i>Letter from more than 50 Academics to the USTR and EU Trade Commission in Favor of the LDC’s Request for Extending the Transition Period.</i></a> (22 April 2021) 
+<p>
+Statement from the Electronic Information for Libraries (EIFL), “<a href="https://www.eifl.net/news/eifl-calls-wto-support-ldc-request-0"><i>EIFL calls on the World Trade Organization (WTO) to grant a request by Least Developed Countries (LDCs) to extend the LDC TRIPS exemption.</i>”</a> (16 February 2021)
+<p>
+<a href="2021_CSOs_LDC_extension"><i>Civil Society Letter from 112 Organizations to Members of the WTO Concerning a Further Extension of the Transition Period for LDCs under article 66.1 of the TRIPS Agreement.</i></a> (4 February 2021)
+
 <h2>TRIPS Waiver Related to Covid-19</h2>
 The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/IP/C/W669.pdf&Open=True">joint submission</a> from India and South Africa in the WTO.  
 
