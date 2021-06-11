@@ -33,8 +33,7 @@ Some countries are pushing for anti-development, anti-public interest and pro-Bi
 </ol>
 
 <h2 id="1">Statements from civil society</h2>
-<a href="Stiglitz"><i>Prof. Stiglitz on digital trade</i> (3 min video)</a>
-(April 2, 2019)
+<a href="Stiglitz"><i>Prof. Stiglitz on digital trade</i></a> (3 min video, 12 April 2019)
 
 <p>
 

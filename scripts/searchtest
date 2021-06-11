@@ -1,0 +1,27 @@
+#!/usr/bin/php
+<?php
+include 'include/solr_connect_cfg.php';
+$options = array
+(
+    'hostname' => SOLR_SERVER_HOSTNAME,
+    'port'     => SOLR_SERVER_PORT,
+    'timeout'  => SOLR_SERVER_TIMEOUT,
+    'path'     => SOLR_PATH,
+);
+$client = new SolrClient($options);
+$query = new SolrQuery();
+  $query->setQuery('Deborah');
+  $query->setStart(0);
+  $query->setRows(50);
+  $query->addField('before_title')->addField('title')->addField('after_title')->addField('id')
+        ->addField('date');
+  $query->addSortField('date', SolrQuery::ORDER_DESC);
+  $query->setHighlight(true);
+  $query->addHighlightField('content');
+
+  $query_response = $client->query($query);
+
+  $response = $query_response->getResponse();
+
+  print_r($response);
+?>

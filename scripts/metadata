@@ -1,0 +1,20 @@
+#!/usr/bin/php
+<?php
+if ($argc!=2) {
+  echo "usage: metadata <file>\n";
+  exit;
+}
+$file=$argv[1];
+if (!file_exists($file)) {
+  echo "file '$file' not found\n";
+  exit;
+}
+if (!is_file($file)) {
+  echo "$file is not a regular file\n";
+  exit;
+}
+include 'include/document_metadata.php';
+echo "Author: $author\n";
+echo "Date: $date\n";
+echo "Language: $lang\n";
+?>
