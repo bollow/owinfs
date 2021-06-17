@@ -9,7 +9,6 @@ include 'include/sidebar_about.php';
 include 'include/navbar.php';
 include 'include/date_format.php';
 $query = (isset($_POST["query"]) ? $_POST["query"] : "");
-$query = 'Deborah';
 
 # simple wildcard-based date matching
 $query = preg_replace('/(date:\d\d\d\d)($|[^-*])/', '$1*', $query);
@@ -85,6 +84,7 @@ if (strlen($query)>2) {
   }
 
   ?>
+    <p>&nbsp;</p>
     <h1 class="title">In case you may want to modify your search query…</h1>
 <?php
 } else {

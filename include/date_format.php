@@ -11,11 +11,11 @@ function owinfs_date_format($date, $language) {
                   'July', 'August', 'September', 'October', 'November', 'December');
   }
   $date_parts=preg_split('/-/', $date);
-  if ($date_parts===false) {
-    if ($date="9999") {
+  if (count($date_parts)==1) {
+    if ($date=="9999") {
       return "theme page";
-    } elseif ($date="9998") {
-      return "information page";
+    } elseif ($date=="9998") {
+      return "OWINFS information page";
     } else  {
       return $date; # just a year number
     }
