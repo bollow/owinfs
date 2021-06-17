@@ -13,8 +13,7 @@ $query = new SolrQuery();
   $query->setQuery('OWINFS');
   $query->setStart(0);
   $query->setRows(50);
-  $query->addField('before_title')->addField('title')->addField('after_title')->addField('id')
-        ->addField('date');
+  $query->addField('searchresult');
   $query->addSortField('date', SolrQuery::ORDER_DESC);
   $query->setHighlight(true);
   $query->addHighlightField('content');

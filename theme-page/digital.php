@@ -61,7 +61,7 @@ French: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.pdf">pdf</
 <a href="https://ourworldisnotforsale.net/2017/R_MSMEs_reject.pdf">English</a>,
 <a href="https://ourworldisnotforsale.net/2017/R_MSMEs_reject_ES.pdf">Spanish</a>.
 (December 13, 2017)
-<p><!--Dec 12-->
+<p>
 <i><a href="https://ourworldisnotforsale.net/2017/Feminist_stmt.pdf">Statement by women’s rights organisations rejecting the WTO Declaration on Women’s Economic Empowerment</a></i>
 (December 12, 2017)
 

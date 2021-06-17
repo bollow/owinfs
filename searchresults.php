@@ -7,7 +7,6 @@ include 'include/head_etc.php'
 $sidebar_title="About OWINFS";
 include 'include/sidebar_about.php';
 include 'include/navbar.php';
-include 'include/date_format.php';
 $query = (isset($_POST["query"]) ? $_POST["query"] : "");
 
 # simple wildcard-based date matching
@@ -40,8 +39,8 @@ if (strlen($query)>2) {
   $q->setQuery($query);
   $q->setStart(0);
   $q->setRows(1000);
-  $q->addField('before_title')->addField('title')->addField('after_title')->addField('id')
-    ->addField('date')->addField('language');
+  $q->addField('searchresult');
+  $q->addField('id');
   $q->addSortField('date', SolrQuery::ORDER_DESC);
   $q->setHighlight(true);
   $q->addHighlightField('content');
@@ -69,15 +68,14 @@ if (strlen($query)>2) {
   }
 
   foreach ($response->response->docs as $m) {
-    $before_title=$m->before_title;
+    $searchresult=$m->searchresult;
     $href=$m->id;
-    $title=$m->title;
-    $date=owinfs_date_format($m->date, $m->language);
-    $after_title=$m->after_title;
-    $after_title=preg_replace('/\)\(/', ', ', $after_title."($date)");
-    echo "<p>$before_title <a href='$href'>$title</a> $after_title\n    <ul class='tail'>\n";
+    echo "\n<p>\n$searchresult\n    <ul class='tail'>\n";
     $highlights=$response->highlighting->$href->content;
     foreach ($highlights as $h) {
+      #any trailing number followed by a period should be removed, as it is probably
+      #not properly part of this highlight, but belongs to the following
+      $h=preg_replace('/\.[ \n]*\d*\.[ \n]*$/', '.', $h);
       echo "      <li><i>$h</i>";
     }
     echo "    </ul>";

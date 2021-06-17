@@ -37,10 +37,9 @@
 
    <field name="date" type="string" indexed="true" stored="true" required="true" />
    <field name="language" type="string" indexed="true" stored="true" required="true" />
-   <field name="before_title" type="string" indexed="false" stored="true" />
-   <field name="title" type="string" indexed="false" stored="true" required="true" />
-   <field name="after_title" type="string" indexed="false" stored="true" />
-   <!-- the link href is stored in the id field, see below -->
+   <field name="searchresult" type="string" stored="true" required="true" />
+   <!-- the link href is part of the searchresult, and it is in addition
+        also stored in the id field, see below -->
 
    <!-- For searching (language-dependent fields because stemming is language-dependent) -->
    <field name="text_en" type="text_en_splitting" indexed="true" stored="false" />

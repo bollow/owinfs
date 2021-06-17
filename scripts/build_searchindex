@@ -2,9 +2,14 @@
 <?php
 include 'include/solr_add_document.php';
 
-solr_add_htmlfile('', 'Prof. Stiglitz on digital trade', '(3 min video)',
-                  'Stiglitz', '2019-04-12', 'en', "Stiglitz.html");
+solr_add_htmlfile('2019-04-12', 'en Stiglitz |Prof. Stiglitz on digital trade|(3 min video)',
+                  "Stiglitz.html");
 
-solr_add_htmlfile('', 'About OWINFS: Our World Is Not For Sale', '',
-                  'about', '9998', 'en', "about.html");
+solr_add_htmlfile('9998', 'en about |About OWINFS: Our World Is Not For Sale|', "about.html");
+
+#solr_add_pdf('2019-04-01', 'en /2019/Digital_trade_2019-04-01-en.pdf |Letter from 315 CSOs from 90+ countries against Digital Trade talks in the WTO|
+#es /2019/Digital_trade_2019-04-01-es.pdf |Carta de la sociedad civil contra el establecimiento de normas sobre el comercio electrónico en la Organización Mundial del Comercio (OMC)|
+#fr /2019/Digital_trade_2019-04-01-fr.pdf |Lettre de la société civile contre les règles sur le commerce électronique à l’Organisation mondiale du commerce (OMC)|');
+
+
 ?>
