@@ -10,7 +10,7 @@ $options = array
 );
 $client = new SolrClient($options);
 $query = new SolrQuery();
-  $query->setQuery('Deborah');
+  $query->setQuery('OWINFS');
   $query->setStart(0);
   $query->setRows(50);
   $query->addField('before_title')->addField('title')->addField('after_title')->addField('id')
