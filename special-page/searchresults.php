@@ -79,6 +79,7 @@ if (strlen($query)>2) {
       $h=preg_replace('/\.[ \n]*\d*\.[ \n]*$/', '.', $h);
       # hacks to trip down snippets form lists of signatories
       if (preg_match(',\n\n[^\n]*<b>[^\n]*</b>([^\n]+\n)*,', $h, $matches)) {
+        echo "      <li>Match\n";
         $h=$matches[0];
       } elseif (preg_match(',\n\d+[^\n]*<b>[^\n]*</b>[^\n]*,', $h, $matches)) {
         $h=$matches[0];
