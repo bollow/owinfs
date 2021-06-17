@@ -46,7 +46,7 @@ if (strlen($query)>2) {
   $q->addHighlightField('content');
   $q->setHighlightSimplePre('<b>');
   $q->setHighlightSimplePost('</b>');
-  $q->setHighlightSnippets(3);
+  $q->setHighlightSnippets(4);
   $q->setHighlightFragmenter('regex');
 
   try {
@@ -77,9 +77,8 @@ if (strlen($query)>2) {
       # any trailing number followed by a period should be removed, as it is probably
       # not properly part of this highlight, but belongs to the following
       $h=preg_replace('/\.[ \n]*\d*\.[ \n]*$/', '.', $h);
-      # hacks to trip down snippets form lists of signatories
-      if (preg_match(',\n\n[^\n]*<b>[^\n]*</b>([^\n]+\n)*,', $h, $matches)) {
-        echo "      <li>Match\n";
+      # hacks to trim down snippets from lists of signatories
+      if (preg_match(',\n\n([^\n]+\n)*[^\n]*<b>[^\n]*</b>[^\n]*(\n[^\n]+)*,', $h, $matches)) {
         $h=$matches[0];
       } elseif (preg_match(',\n\d+[^\n]*<b>[^\n]*</b>[^\n]*,', $h, $matches)) {
         $h=$matches[0];
