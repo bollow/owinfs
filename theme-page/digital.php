@@ -41,16 +41,16 @@ Some countries are pushing for anti-development, anti-public interest and pro-Bi
 <a href="https://ourworldisnotforsale.net/2019/Digital_trade_2019-04-01-en.pdf">English</a>,
 <a href="https://ourworldisnotforsale.net/2019/Digital_trade_2019-04-01-es.pdf">Spanish</a>,
 <a href="https://ourworldisnotforsale.net/2019/Digital_trade_2019-04-01-fr.pdf">French</a>.
-(April 1, 2019)
+(1 April 2019)
 <p>
 <i>Statement against E-commerce Rules in the WTO</i>:
 <a href="https://ourworldisnotforsale.net/2019/Digital_trade_WEF.pdf">pdf</a>
 <a href="https://ourworldisnotforsale.net/2019/Digital_trade_WEF.docx">docx</a>
-(January 25, 2019)
+(25 January 2019)
 <p>
 <a href="https://ourworldisnotforsale.net/2019/JNC_Digital_colonisation.pdf"><i>E-commerce negotiations being launched at the WEF
 are really about rules for digital colonisation</i></a>
-(December 29, 2018)
+(29 December 2018)
 <p>
 <i>Statement from Civil Society Organizations working on eCommerce for Development, on the
 Africa eCommerce Week and Outcomes</i>, December 2018:
