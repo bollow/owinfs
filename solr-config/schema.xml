@@ -48,7 +48,8 @@
    <field name="text_other" type="text_general" indexed="true" stored="false" />
 
    <!-- For returning and highlighting document content. -->
-   <field name="content" type="text_general" indexed="false" stored="true" />
+   <field name="content" type="text_general" indexed="true" stored="true"
+	  termVectors="true" termPositions="true" termOffsets="true" />
 
    <!-- Valid attributes for fields:
      name: mandatory - the name for the field

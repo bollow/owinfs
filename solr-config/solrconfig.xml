@@ -677,8 +677,11 @@
       <str name="qf">text_en text_es text_fr text_other</str>
       <str name="hl.method">unified</str>
       <int name="hl.snippets">3</int>
-      <int name="hl.fragsize">300</int>
-       <!-- Change from JSON to XML format (the default prior to Solr 7.0)
+      <int name="hl.fragsize">100</int>
+      <str name="hl.usePhraseHighlighter">false</str>
+      <str name="hl.useFastVectorHighlighter">true</str>
+      <str name="hl.boundaryScanner">breakIterator</str>
+         <!-- Change from JSON to XML format (the default prior to Solr 7.0)
             <str name="wt">xml</str> 
          -->
     </lst>
@@ -948,16 +951,7 @@
         </lst>
       </fragmentsBuilder>
 
-      <boundaryScanner name="default"
-                       default="true"
-                       class="solr.highlight.SimpleBoundaryScanner">
-        <lst name="defaults">
-          <str name="hl.bs.maxScan">10</str>
-          <str name="hl.bs.chars">.,!? &#9;&#10;&#13;</str>
-        </lst>
-      </boundaryScanner>
-
-      <boundaryScanner name="breakIterator"
+      <boundaryScanner name="breakIterator" default="true"
                        class="solr.highlight.BreakIteratorBoundaryScanner">
         <lst name="defaults">
           <!-- type should be one of CHARACTER, WORD(default), LINE and SENTENCE -->
