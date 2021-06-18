@@ -17,7 +17,9 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
-Some countries are pushing for anti-development, anti-public interest and pro-Big Tech rules in the WTO under the guise of “e-commerce.” These countries tried, but failed, to pressure all WTO members to agree to launch multilateral negotiations during the December 2017 Ministerial. OWINFS members and most developing countries in the WTO have been successful thus far in stopping a mandate for multilateral negotiations towards an agreement. Unfortunately, Big Tech advocates launched negotiations towards a “plurilateral” in the WTO. These negotiations do not have a mandate in the WTO, as it seems that the majority of members realize that such rules would constrain development, limit regulatory oversight including of needed anti-trust reforms, harm workers and women, and erode democracy by giving unprecedented power to Big Tech over far too many aspects of our lives. 
+<div class="searchable">
+Some countries are pushing for anti-development, anti-public interest and pro-Big Tech rules in the WTO under the guise of “e-commerce.” These countries tried, but failed, to pressure all WTO members to agree to launch multilateral negotiations during the December 2017 Ministerial. OWINFS members and most developing countries in the WTO have been successful thus far in stopping a mandate for multilateral negotiations towards an agreement. Unfortunately, Big Tech advocates launched negotiations towards a “plurilateral” in the WTO. These negotiations do not have a mandate in the WTO, as it seems that the majority of members realize that such rules would constrain development, limit regulatory oversight including of needed anti-trust reforms, harm workers and women, and erode democracy by giving unprecedented power to Big Tech over far too many aspects of our lives.
+</div>
 
 
 <p>
@@ -53,17 +55,17 @@ are really about rules for digital colonisation</i></a>
 (29 December 2018)
 <p>
 <i>Statement from Civil Society Organizations working on eCommerce for Development, on the
-Africa eCommerce Week and Outcomes</i>, December 2018:
+Africa eCommerce Week and Outcomes</i>, 14 December 2018:
 English: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa.docx">docx</a>.
 French: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.docx">docx</a>.
 <p>
 <i>MSME associations reject MSMEs work program and ecommerce rules in WTO:</i>
 <a href="https://ourworldisnotforsale.net/2017/R_MSMEs_reject.pdf">English</a>,
 <a href="https://ourworldisnotforsale.net/2017/R_MSMEs_reject_ES.pdf">Spanish</a>.
-(December 13, 2017)
+(13 December 2017)
 <p>
 <i><a href="https://ourworldisnotforsale.net/2017/Feminist_stmt.pdf">Statement by women’s rights organisations rejecting the WTO Declaration on Women’s Economic Empowerment</a></i>
-(December 12, 2017)
+(12 December 2017)
 
 
 <h2 id="2">Key new reports</h2>
@@ -88,27 +90,27 @@ Economic and Fiscal Implications for the South</i></a>.
 <a href="https://ourworldisnotforsale.net/2019/Big_tech.pdf">pdf</a>,
 <a href="https://cepr.net/big-tech-busca-concretar-el-colonialismo-digital-en-la-omc/">Spanish</a>
 <a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">pdf</a>.
-(June 26, 2019)
+(26 June 2019)
 <p>
 
 
 <h2 id="3">Introductory articles</h2>
-<a href="https://www.equaltimes.org/the-future-is-digital-but-we">The future is digital, but we should keep digital chapters out of our trade deals</a> (Duncan McCann, October 1, 2020)
+<a href="https://www.equaltimes.org/the-future-is-digital-but-we">The future is digital, but we should keep digital chapters out of our trade deals</a> (Duncan McCann, 1 October 2020)
 <p>
-<a href="https://twn.my/title2/wto.info/2020/ti200813.htm">Digital rules in FTAs may undermine capacity to tax digital firms</a> (D. Ravi Kanth, August 14, 2020)
+<a href="https://twn.my/title2/wto.info/2020/ti200813.htm">Digital rules in FTAs may undermine capacity to tax digital firms</a> (D. Ravi Kanth, 14_August_2020)
 <p>
 <a href="https://unctad.org/news/should-digitally-delivered-products-be-exempted-customs-duties">Should digitally delivered products be exempted from customs duties?</a>
-(UNCTAD, July 16, 2020)
+(UNCTAD, 16 July 2020)
 <p>
 <i><a href="https://twn.my/title2/wto.info/2019/ti190417.htm">Development and E-com free flow of data rules are incompatible</a></i>.
-(April 19, 2019)
+(19 April 2019)
 <p>
 <i>South nations take firm stand on geo-economics of data:</i>
 <a href="http://www.twn.my/title2/wto.info/2019/ti190413.htm">English</a>
 <a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics.pdf">pdf</a>,
 <a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics_ES.pdf">Spanish</a>,
 <a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics_FR.pdf">French</a>.
-(April 17, 2019)
+(17 April 2019)
 <p>
 <i>South needs data digitalization policies, say CSO experts:</i>
 <a href="http://www.twn.my/title2/wto.info/2019/ti190412.htm">English</a>
@@ -136,10 +138,10 @@ French: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf"
 <a href="https://ourworldisnotforsale.net/2018/ITfC_E-commerce.pdf"><i>What development actors need to know about e-commerce</i></a>.
 (April 2018)
 <p>
-<i><a href="https://www.hindustantimes.com/opinion/get-off-the-big-data-partnership-bandwagon/story-DdSuKUrJW3OvxaUbUZ2j6N.html">Get off the big data partnerships bandwagon</i></a>.
+<i><a href="https://www.hindustantimes.com/opinion/get-off-the-big-data-partnership-bandwagon/story-DdSuKUrJW3OvxaUbUZ2j6N.html">Get off the big data partnerships bandwagon</a></i>.
 (March 10, 2018)
 <p>
-<a
+<i><a
 href="https://www.buzzfeednews.com/article/burcukilic/big-tech-is-pushing-for-a-new-kind-of-free-trade">Data
 is the new oil, so big tech is pushing for a digital free trade deal</a></i>.
 (December 13, 2017)

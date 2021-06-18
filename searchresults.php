@@ -71,21 +71,41 @@ if (strlen($query)>2) {
   foreach ($response->response->docs as $m) {
     $searchresult=$m->searchresult;
     $href=$m->id;
-    echo "\n<p>\n$searchresult\n    <ul class='tail'>\n";
+    echo "\n<p>\n$searchresult\n";
     $highlights=$response->highlighting->$href->content;
-    foreach ($highlights as $h) {
-      # any trailing number followed by a period should be removed, as it is probably
-      # not properly part of this highlight, but belongs to the following
-      $h=preg_replace('/\.[ \n]*\d*\.[ \n]*$/', '.', $h);
-      # hacks to trim down snippets from lists of signatories
-      if (preg_match(',\n\n([^\n]+\n)*[^\n]*<b>[^\n]*</b>[^\n]*(\n[^\n]+)*,', $h, $matches)) {
-        $h=$matches[0];
-      } elseif (preg_match(',\n\d+[^\n]*<b>[^\n]*</b>[^\n]*,', $h, $matches)) {
-        $h=$matches[0];
+    if (count($highlights)>0) {
+      echo "    <ul class='tail'>\n";
+      foreach ($highlights as $h) {
+        if (preg_match(',\|[^\|]*<b>[^\|]*</b>[^\|]*\|,', $h)) {
+	  # case of snippets with '|' separators: display all chunks that have matches
+	  foreach (explode('|', $h) as $chunk) {
+	    if (preg_match(',<b>.*</b>,', $chunk)) {
+	      echo "      <li><i>$chunk</i>\n";
+	    }
+	  }
+	} else {
+	  # remove any leading non-word characters
+	  $h=preg_replace('/^[^\w]+/', '', $h);
+          # any trailing number followed by a period should be removed, as it is probably
+          # not properly part of this highlight, but belongs to the following
+          $h=preg_replace('/\.[ \n]*\d*\.[ \n]*$/', '.', $h);
+	  # hack to trim down snippets where marked with '|' separators
+          if (preg_match(',\|[^\|]*<b>[^\|]*</b>[^\|]*\|,', $h, $matches)) {
+            $h=substr($matches[0],1,-1);
+          }
+          # hacks to trim down snippets from lists of signatories
+          if (preg_match(',\n\n([^\n]+\n)*[^\n]*<b>[^\n]*</b>[^\n]*(\n[^\n]+)*,', $h, $matches)) {
+            $h=$matches[0];
+          } elseif (preg_match(',\n\d+[^\n]*<b>[^\n]*</b>[^\n]*,', $h, $matches)) {
+            $h=$matches[0];
+          }
+          echo "      <li><i>$h</i>\n";
+	}
       }
-      echo "      <li><i>$h</i>\n";
+      echo "    </ul>\n";
+    } else {
+      echo "    <p>\n";
     }
-    echo "    </ul>\n";
   }
 
   ?>

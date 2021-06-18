@@ -30,8 +30,8 @@
         (Supported date formats are: “YYYY”, “YYYY-MM”, “YYYY-MM-DD”)</td>
   </tr>
   <tr>
-    <td><code>language:es AND Stiglitz</code></td>
-    <td>Search for Spanish-language documents containing the word “Stiglitz”.
+    <td><code>digital AND language:es</code></td>
+    <td>Search for Spanish-language documents containing the word “digital”.
         (Supported values for language are: “en”, “es”, “fr”, “other”)</td>
   </tr>
 </table>

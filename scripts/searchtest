@@ -10,7 +10,7 @@ $options = array
 );
 $client = new SolrClient($options);
 $query = new SolrQuery();
-  $query->setQuery('OWINFS');
+  $query->setQuery('taxation');
   $query->setStart(0);
   $query->setRows(50);
   $query->addField('searchresult');

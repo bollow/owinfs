@@ -17,6 +17,7 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
+<div class="searchable">
 Monopoly restrictions under the TRIPS agreement include patents on medicines (diagnostics, treatments, and vaccines) as well as copyright restrictions (such as on books, music, etc.) There is no economic evidence for the specific terms of the intellectual property restrictions in the WTO, which are the only WTO rules which actually restrict trade, reduce consumer choice, and increase prices thousands of times more than the marginal cost of production (and are therefore the opposite of “free” trade.) 
 <p>
 At the time of the founding of the WTO, developed countries pressured developing countries into agreeing to such monopolies on the guise that they would promote development and innovation. However, IP-related incomes for the OECD members swelled from less than USD 50 billion at the time of the founding of the WTO, to more than USD 350 billion in 2017, while developing country incomes from IP have remained flat at close to zero.
@@ -28,6 +29,7 @@ In October 2020, in the middle of the Covid pandemic, several developing countri
 For extensive coverage of all proposals and statements regarding the waiver, please see the website of the Third World Network, an OWINFS member which is co-leading the campaign to support this waiver in the WTO <a href="https://twn.my/title2/intellectual_property/trips_waiver_proposal.htm">https://twn.my/title2/intellectual_property/trips_waiver_proposal.htm</a> . 
 <p>
 In addition, Least Developed Countries (LDCs) are not required to implement TRIPS rules. They currently have the right to a transition period on TRIPS, which is set to expire in June 2021. The LDCs have made a duly motivated request to extend the transition period, which should be granted for as long as they are LDCs as well as some years beyond. 
+</div>
 
 <h2>LDC Extension of the Transition Period on TRIPS</h2>
 <a href="2021_MEPs_LDC_extension"><i>Letter from MEPs Calling on Commission to Support the request of the Least Developed Countries (LDCs) to the WTO TRIPS Council on the LDC transition period.</i></a> (20 May 2021)

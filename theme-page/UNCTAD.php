@@ -16,6 +16,7 @@ include 'include/navbar.php';
           <h1 class="title">UN Conference on Trade and Development (UNCTAD)</h1>
         </div> <!-- /#content-header -->
         <div id="content-area">
+<div class="searchable">
 <p>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021. 
 <p>
@@ -29,6 +30,7 @@ These and many other questions regarding debt, tax, climate, trade, industrial p
 Rather than responding with limited impact near the end of deliberations to the near-last version of the new mandate, CSOs from a variety of sectors are organizing their own vision of what UNCTAD’s mandate should be and organize to strengthen support for those policies well in advance of the decision-making moment of the UNCTAD XV Quadrennial Conference.
 <p>
 OWINFS is working in collaboration with the Financing for Development CSO Group (FfD CSO Group), the Third World Network (TWN), and the Third World Network - Africa to organize CSO advocacy towards UNCTAD XV. 
+</div>
 
 <h2>Towards UNCTAD XV (2021)</h2>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.

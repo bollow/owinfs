@@ -17,6 +17,7 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
+<div class="searchable">
 Setting rules for trade in goods is the original mandate of the General Agreement on Tariffs and Trade (GATT), the predecessor of the WTO. Goods negotiations include a legal recognition of Less Than Full Reciprocity (LTFR) which acknowledges the differing levels of development amongst WTO members. 
 <p>
 Talks on rules governing trade in goods in the WTO are predominantly located under the Non-Agricultural Market Access (NAMA) negotiations. These were part of the original Doha negotiations launched in 2001. Trade unions from developing countries fought vociferously against unfair tariff cuts that would have decimated jobs and workers’ collective bargaining power. They were successful in derailing an agreement to conclude the Doha Round in 2008. 
@@ -36,7 +37,7 @@ Rather than using trade to increase employment and prosperity, the WTO rules foc
 </ul>
 For civil society statements and updates on negotiations before the 2015 Ministerial, please see
 <a href="/o/en/themes/3087">here</a>. 
-
+</div>
 
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->

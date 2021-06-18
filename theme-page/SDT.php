@@ -17,6 +17,7 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
 
         <div id="content-area">
+<div class="searchable">
 Members of the WTO enjoy wildly different levels of development and advantages in global trade. Different rules benefit countries at various levels of development differently. Thus, at the time of the founding of the WTO, in recognition of this reality, developing countries advocated for flexibilities from the rules, because they realized that they would benefit developed economies but not developing economies. These rules are often called “Special and Differential Treatment (SDT) in the WTO. Otherwise, developing countries never would have agreed to the  existence of the WTO and its hyperglobalized, pro-corporate rules which prioritize corporations’ “rights” to trade over national economic goals such as development. 
 <p>
 Nevertheless, powerful rich countries ensured that WTO rules were skewed in their favor. Since the founding of the WTO, developing countries set forth a series of more than 100 proposals to address difficulties they had in implementing WTO rules that constrained their ability to develop their economies. Many of these “Implementation Issues” were included in the Doha Development Round in 2001, which rich countries claimed would focus on these development issues. Developing countries would never have agreed to launch a new round without these assurances. 
@@ -42,6 +43,7 @@ Unfortunately, in recent years, not only have developed countries opposed change
   <li>limiting the number of developing countries that can avail themselves of the SDT flexibilities to arbitrary invented criteria, among others.
 </ul>
 Civil society has long called for the transformation of the current global rules. Many civil society demands align with the development agenda of strengthening SDT.
+</div>
 <p>
 <b><i>Letter from Global Civil Society about the Agenda of the WTO</i></b>, October 9, 2017:<br>
 English:
@@ -58,18 +60,20 @@ Greek:
 <a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_GR.docx">docx</a>.
 <p>
 <a href="/2013/OWINFS_WTO_stmt.pdf"><b><i>WTO Turnaround: Food, Jobs and Sustainable Development First –</i></b></a> Statement (October 2013)
+<div class="searchable">
 <p>
 Current demands of OWINFS with regards to Policy Space for Development include:
 <ul class="tail">
   <li>A strong package of proposals for policy space for development, known as the Special and Differential Treatment agenda, must be re-centered as the main focus in the WTO and agreed to immediately. 
   <li>Attempts to prevent developing countries from accessing rights and flexibilities in the WTO through “differentiation” must be abandoned.
   <li>The expansion of binding commitments to cut tariffs through the Non-Agricultural Market Access (NAMA) negotiations, the Environmental Goods Agreement (EGA), or the pressuring of countries to join the expanded Information Technology Agreement (ITA-II) must be abandoned.
-  <li>Any agreement to limit subsidies in the Fisheries sector must not undermine sovereign rights already set out in the UN Convention on the Law of the Sea. Any outcome must include a strong component of S&DT provisions to ensure that developing countries can pursue sustainable development of their fishing sectors while the harmful subsidies of large industrial fleets must be disciplined.
+  <li>Any agreement to limit subsidies in the Fisheries sector must not undermine sovereign rights already set out in the UN Convention on the Law of the Sea. Any outcome must include a strong component of S&amp;DT provisions to ensure that developing countries can pursue sustainable development of their fishing sectors while the harmful subsidies of large industrial fleets must be disciplined.
   <li>The LDC package, including Duty-Free Quota-Free access for LDCs, a fair and immediate resolution to the demands of the cotton-producing countries, and a services waiver for LDCs, should be implemented immediately.
   <li>Proposals to increase administrative burdens of developing countries under the rubric of “transparency and notification” are wholly inappropriate and should be replaced with changes to make the institution function in a more transparent and democratic manner that is respectful of capacity constraints of member countries, including through not holding simultaneous meetings; ensuring that meetings properly documented and that interpretation is universally provided.  
   <li>If LDCs pursue accession into the WTO, their entry must not be conditioned on market access demands, but they should be able to accede on terms that allow them to use trade according to their development needs. These terms should not go beyond those applied to original LDC Members of the WTO. Countries that are “graduating” from LDC status should be provided flexibility to undertake new rules in ways that are compatible with their development trajectory.
   <li>A thorough assessment of existing constraints to countries’ ability to pursue domestic policies and use trade for development must be conducted so that rules across the WTO on intellectual property, agriculture, investment, services, and goods can then be transformed in accordance with structural transformation development policies.
 </ul>
+</div>
 
 <h2>Key Analysis of SDT Proposals</h2>
 
@@ -80,13 +84,13 @@ Current demands of OWINFS with regards to Policy Space for Development include:
 Various WTO Members submitted a Communication to the WTO in November 2018 which, if accepted, would affect the implementation of Members’ transparency and notification obligations at the WTO. It would strengthen the already burdensome notification obligations and introduce new punitive administrative measures should obligations not be complied with. This paper provides information about WTO Members’ current notification obligations and their level of compliance; looks at the history of discussions on notifications, particularly in the Working Group on Notification Obligations and Procedures which took place in 1995 – 1996; and provides an analysis of the Communication. 
 <p>
 <i><a href="https://www.southcentre.int/policy-brief-58-march-2019/">Why the US Proposals on Development will Affect all Developing Countries and Undermine WTO</a></i> (South Centre, March 2019)<br>
-The US submitted two highly problematic proposals to the WTO in January and February 2019, undermining the place of Special and Differential Treatment (S&D) for developing countries at the WTO.
+The US submitted two highly problematic proposals to the WTO in January and February 2019, undermining the place of Special and Differential Treatment (S&amp;D) for developing countries at the WTO.
 <p>
 <i><a href="https://www.southcentre.int/research-paper-86-september-2018/">US’ Section 301 Actions: Why They are Illegitimate and Misguided</a></i> (South Centre, September 2018)<br>
 This research paper examines the US’ Section 301 unilateral actions against China, stemming from the US’ concerns over China’s ambitious industrial policies and its rapid technological advancements. It looks in detail at why the US’ actions are in fact illegitimate and misguided.
 <p>
 <i><a href="https://www.southcentre.int/analytical-note-january-2017-3/">The WTO’s Special and Differential Treatment Negotiations (Paragraph 44)</a></i> (South Centre, January 2017)<br>
-Paragraph 44 of the 2001 Doha Ministerial Declaration mandates the ‘strengthening’ of Special and Differential Treatment (S&D) provisions in the WTO Agreement, and making them ‘more precise, effective and operational’. This Note tracks the evolution of these negotiations from the start of the Doha Round in 2001 until the Nairobi Ministerial in December 2015.
+Paragraph 44 of the 2001 Doha Ministerial Declaration mandates the ‘strengthening’ of Special and Differential Treatment (S&amp;D) provisions in the WTO Agreement, and making them ‘more precise, effective and operational’. This Note tracks the evolution of these negotiations from the start of the Doha Round in 2001 until the Nairobi Ministerial in December 2015.
 
 <h2>Key Updates &amp; Articles on the Negotiations</h2>
  

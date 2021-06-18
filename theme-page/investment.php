@@ -15,6 +15,8 @@ include 'include/navbar.php';
         <div id="content-header">
           <h1 class="title">Investment negotiations at WTO</h1>
         </div> <!-- /#content-header -->
+
+<div class="searchable">
 A new international agreement on investment, referred to as “the multilateral framework on investment facilitation”, is being intensively negotiated among 106 countries at the WTO. It is promoted as important for facilitating investments in different countries for development purposes. Its real impacts would entrench corporate power, given foreign corporations an enforceable right to lobby and pressure host states, and cripple the ability of states to leverage investment for sustainable development. 
 <p>
 This multilateral investment agreement on “investment facilitation” could open the door for further draconian investment rules similar to the failed 1990s Multilateral Investment Agreement (MAI). 
@@ -23,6 +25,7 @@ These impacts are especially serious for the Global South. Regulatory frameworks
 <p>
 Some WTO Members are negotiating rules on facilitating investment:
 <a href="https://bilaterals.org/?wto-plurilateral-investment">WTO plurilateral investment facilitation draft consolidated text</a> (as of 4 February 2021)
+</div>
 
 <h2>Statements and Analysis from Civil Society</h2>
 

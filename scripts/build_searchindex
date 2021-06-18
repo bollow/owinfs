@@ -1,15 +1,27 @@
 #!/usr/bin/php
 <?php
 include 'include/solr_add_document.php';
+$inputfile="data/articles2search";
 
-index_add('2019-04-12', 'en Stiglitz |Prof. Stiglitz on digital trade|(3 min video)',
-                  "Stiglitz.html");
-
-index_add('9998', 'en about |About OWINFS: Our World Is Not For Sale|', "about.html");
-
-index_add('2019-04-01', 'en /2019/Digital_trade_2019-04-01-en.pdf |Letter from 315 CSOs from 90+ countries against Digital Trade talks in the WTO|
-es /2019/Digital_trade_2019-04-01-es.pdf |Carta de la sociedad civil contra el establecimiento de normas sobre el comercio electrónico en la Organización Mundial del Comercio (OMC)|
-fr /2019/Digital_trade_2019-04-01-fr.pdf |Lettre de la société civile contre les règles sur le commerce électronique à l’Organisation mondiale du commerce (OMC)|');
-
+$in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
+while(!feof($in)) {
+  $line=fgets($in);
+  if (preg_match('/^\d\d\d\d(\-\d\d)?(\-\d\d)?\n/', $line)) {
+    $date=rtrim($line);
+    $linkdata="";
+    while (!feof($in) && $line!="\n") {
+      $line=fgets($in);
+      $linkdata.=$line;
+    }
+    $linkdata=rtrim($linkdata);
+    echo "index_add('$date', '$linkdata');";
+    index_add($date, $linkdata);
+  } else if ($line!="\n" && $line!="" && (strpos($line, "#")===FALSE))
+    # ignore comments and empty lines if outside of a block, otherwise die
+  {
+    die("date expected, but found: $line");
+  }
+}
 
 ?>
+

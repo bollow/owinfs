@@ -17,6 +17,7 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
+<div class="searchable">
 The top priority for a genuine development agenda in trade would be transforming the current rules on agriculture.
 <p>
 Rich countries, not the poor, are currently allowed to subsidize agriculture under WTO rules in the Agreement on Agriculture (AoA) – even in ways that distort trade and harm other countries’ domestic producers. By contrast, most developing countries are only allowed miniscule subsidies. Supports by China and India to farmers on a per capita basis remain miniscule – only a few hundred dollars per farmer, as compared to tens of thousands for the United States. Supports in Africans and many Middle Eastern countries and LDCs should be increased even if they don’t have existing programs.
@@ -32,6 +33,7 @@ Countries should have the right to protect their domestic markets from dumping b
 Countries should be able to use tariffs to protect domestic food markets. In any future negotiations, developing countries should not have to cut tariffs. In the case that there would be any future tariff cuts, then developing countries should have full recourse to Sensitive Products and Special Products. Developed countries should also be able to maintain tariffs that protect Food Security.
 <p>
 Subsidies that the US and the EU provide to cotton producers enrich a few thousand there, but have unfairly decimated production of hundreds of thousands of cotton farmers in Africa. <b>It is unfortunate that WTO members did not decide to significantly reduce or eliminate developed countries’ domestic supports for cotton at <a href="MC11">MC11</a></b>. 
+</div>
 
 <h2>Civil Society Statements and Analysis</h2>
 

@@ -26,36 +26,83 @@ function index_add_text($date, $id, $searchresult, $language, $extra_text, $text
   print_r($updateResponse->getResponse());
 }
 
+function pdf_html_textcontent($html) {
+  $dom=new DOMDocument();
+  $dom->loadHTML($html);
+  $dom->getElementsByTagName('title')[0]->textContent="";
+  # get rid of text that is repeated at the top of each page
+  foreach ($dom->getElementsByTagName('div') as $pg) {
+    $class=$pg->getAttribute('class');
+    if ($class=="page") {
+      $paras=$pg->getElementsByTagName('p');
+      $paras[1]->textContent="";
+    }
+  }
+  $textcontent=$dom->textContent;
+  $textcontent=preg_replace('/|•/', '', $textcontent);
+  return $textcontent;
+}
 
 function index_add_single_href($date, $href, $searchresult, $language, $extra_text) {
   if (strncasecmp($href,"http",4)==0) {
-    echo "$href: Case of URLs not implemented yet.\n";
-  } elseif (preg_match(',^/\d\d\d\d,',$href)) {
-    # local pdf document
-    $html=shell_exec("java -jar /home/norbert/docs/CustomerData/OWINFS/tika/tika-app-1.26.jar file:///home/norbert/docs/CustomerData/OWINFS/docs$href");
-    $dom=new DOMDocument();
-    $dom->loadHTML($html);
-    $dom->getElementsByTagName('title')[0]->textContent="";
-    # get rid of text that is repeated at the top of each page
-    foreach ($dom->getElementsByTagName('div') as $pg) {
-      $class=$pg->getAttribute('class');
-      if ($class=="page") {
-        $paras=$pg->getElementsByTagName('p');
-        $paras[1]->textContent="";
+    # a remote pdf document or html page
+    if (preg_match(',\.pdf$,i', $href)) {
+      $html=shell_exec("java -jar ".TIKA_PATH." $href");
+      $textcontent=pdf_html_textcontent($html);
+    } else {
+      # assume it's html
+      $dom=new DOMDocument();
+      $dom->loadHTMLFile($href);
+      $textcontent="";
+      foreach ($dom->getElementsByTagName('div') as $d) {
+        $class=$d->getAttribute('class');
+        if ($class=="WordSection1") {
+	  # TWN pages have such a div; the first paragraph is redundant
+	  $first_p=$d->getElementsByTagName('p')->item(0);
+	  $d->removeChild($first_p);
+          $textcontent.=$d->textContent." ";
+        } elseif ($class=="long content") {
+	  # pages from UNCTAD's Drupal
+          $textcontent.=$d->textContent." ";
+        }
+      }
+      if ($textcontent=="") {
+        $textcontent=$dom->textContent;
       }
     }
-    $textcontent=$dom->textContent;
+  } elseif (preg_match(',^/\d\d\d\d,',$href)) {
+    # local pdf document
+    $html=shell_exec("java -jar ".TIKA_PATH." file://".DOCUMENT_ROOT."docs$href");
+    $textcontent=pdf_html_textcontent($html);
   } else {
     # local html document
-    $file="/home/norbert/docs/CustomerData/OWINFS/OWINFS-git/$href.html";
+    $file=DOCUMENT_ROOT.$href.".html";
     $dom=new DOMDocument();
     $dom->loadHTMLFile($file);
-    # get rid of the textContent of any video elements, as that is probably a variation of
-    # “your browser does not support the <video> tag”
-    foreach ($dom->getElementsByTagName('video') as $e) {
-      $e->textContent="";
+    if ($date=="9999") {
+      # special case of a theme page
+      $textcontent="";
+      foreach ($dom->getElementsByTagName('div') as $d) {
+        $class=$d->getAttribute('class');
+        if ($class=="searchable") {
+          $textcontent.=$d->textContent." ";
+        }
+      }
+      foreach ($dom->getElementsByTagName('h2') as $h) {
+        $class=$h->getAttribute('class');
+        if ($class!="title") {
+          $textcontent.=" | ".$h->textContent.". | ";
+        }
+      }
+      echo "[[$textcontent]]\n";
+    } else {
+      # get rid of the textContent of any video elements, as that is probably a variation of
+      # “your browser does not support the <video> tag”
+      foreach ($dom->getElementsByTagName('video') as $e) {
+        $e->textContent="";
+      }
+      $textcontent=$dom->getElementById('content-area')->textContent;
     }
-    $textcontent=$dom->getElementById('content-area')->textContent;
   }
   index_add_text($date, $href, $searchresult, $language, $extra_text, $textcontent);
 }

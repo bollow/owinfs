@@ -15,6 +15,7 @@ include 'include/navbar.php';
         <div id="content-header">
           <h1 class="title">Services / GATS</h1>
         </div> <!-- /#content-header -->
+<div class="searchable">
 <p>
 The General Agreement on Trade in Services (GATS) is the agreement within the WTO that sets forth rules for how countries can regulate services, and gives transnational services suppliers rights not only to operate, but also rights in the way that they operate, in foreign countries. Countries have agreed to “bind” their services sectors to WTO rules in their Schedules in the GATS. This agreement was part of the founding of the WTO due to the lobbying of Big Finance and other transnational corporations (TNCs) in the services sector. The majority of developing countries have long opposed the expansion of the GATS, and talks faltered as the Doha round stalled. 
 <p>
@@ -35,6 +36,7 @@ OWINFS members have long maintained core demands with regards to services in the
   <li>Current and future public services in particular must be excluded from any existing or future agreements that include services with a broad and authentic carve-out. This must include services that may need to be re-municipalized in future.
   <li>In addition, a fundamental assessment of the implications of the GATS on ensuring proper regulatory oversight of services and ensuring access to quality public services should be undertaken by member states and the WTO. Any constraints on achieving the Sustainable Development Goals (SDGs) with regards to good health and well-being, inclusive and equitable quality education, clean water and sanitation, affordable and clean energy, and other services should be removed without challenge from the WTO rulebook.
 </ul>
+</div>
 
 <h2>Current Civil Society Statements and Analysis</h2>
 <i><a href="https://twn.my/title/tnd/td44.htm">Plurilateral Initiatives and their Interaction with WTO Rules</a></i>. (Kinda Mohamadieh, TWN, 2020)
