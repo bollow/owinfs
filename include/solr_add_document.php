@@ -72,7 +72,7 @@ function index_add_single_href($date, $href, $searchresult, $language, $extra_te
     }
   } elseif (preg_match(',^/\d\d\d\d,',$href)) {
     # local pdf document
-    $html=shell_exec("java -jar ".TIKA_PATH." file://".DOCUMENT_ROOT."docs$href");
+    $html=shell_exec("java -jar ".TIKA_PATH." file://".DOCUMENT_ROOT.$href);
     $textcontent=pdf_html_textcontent($html);
   } else {
     # local html document
