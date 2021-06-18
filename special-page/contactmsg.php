@@ -15,8 +15,8 @@ include 'include/navbar.php';
     <div id="content-area">
 <?php
 if ((isset($_POST["name"]) or isset($_POST["mail"]) or isset($_POST["subject"])) and
-    (eregi("(\r|\n)", $_POST["name"]) or eregi("(\r|\n)", $_POST["mail"]) or
-     eregi("(\r|\n)", $_POST["subject"]))) {
+    (preg_match(",\r|\n,", $_POST["name"]) or preg_match(",\r|\n,", $_POST["mail"]) or
+     preg_match(",\r|\n,", $_POST["subject"]))) {
       # Probably an attempted injection attack
       echo "Invaid data.";
 } elseif (isset($_POST["message"]) and strlen($_POST["message"])>2) {
