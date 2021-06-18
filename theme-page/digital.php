@@ -251,7 +251,9 @@ UNCTAD report: <i><a href="https://ourworldisnotforsale.net/2017/UNCTAD_competit
 
 <h2 id="6">Data as a Public Good, and Digital Industrialization for Development</h2>
 
-<a href="https://www.sef-bonn.org/en/publications/global-governance-spotlight/42019.html"><i>Digital public goods: A precondition for realising the SDGs</i></a>.
+<i>Digital public goods: A precondition for realising the SDGs:</i>
+<a href="https://www.sef-bonn.org/en/publications/global-governance-spotlight/42019.html">English</a>,
+<a href="/2019/Digital_public_goods_ES.pdf">Spanish</a>.
 (September 2019)
 <p>
 <i>Data localization: A matter of rule of law and economic development:</i>
