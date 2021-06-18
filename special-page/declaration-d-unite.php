@@ -7,7 +7,7 @@ include 'include/head_etc.php'
 <?php
 $language="fr";
 include 'include/sidebar_aboutpage.php';
-include 'include/navbar_fr.php';
+include 'include/navbar.php';
 ?>
 
       <div id="content" class="singlecolumn">
