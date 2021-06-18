@@ -22,6 +22,9 @@ The Sustainable Development Goal 14.6 has the target to “prohibit certain form
 </div>
 
 <h2>Statements and analysis from civil society</h2>
+<i><a href="/2021/PANG_May2021_text_analysis.pdf">PANG analysis of the May 2021 Chair's Draft Consolidated Text on Fisheries Subsidies Negotiations at the World Trade Organization</a></i>.
+(15 June 2021)
+<p>
 <i><a href="2021-03-17_TWN_Fisheries">Protecting the Problem – Fisheries subsidies negotiations and the WTO</a></i>. (17 March 2021)
 <p>
 <i><a href="/2021/PANG_Dec2020_text_analysis.pdf">PANG analysis of the December 2020 Chair's Draft Consolidated Text on Fisheries Subsidies Negotiations at the World Trade Organization</a></i>.
