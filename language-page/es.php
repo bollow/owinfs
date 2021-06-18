@@ -15,7 +15,7 @@ include 'include/navbar.php';
 include 'include/article_links.php';
 article_links("data/articles", "es");
 ?>
-        <h1>Cobertura de medios en español</h1>
+<h2>Cobertura mediática sobre la prohibición de las OSC en el 2017 Ministerial de la OMC</h2>
 <ol>
   <li><a href="https://www.pagina12.com.ar/79504-las-on-gs-en-la-lista-negra-de-macri">Las ONGs, en la lista negra de Macri</a>, <i>Pagina 12</i>
   </li><li><a href="http://www.perfil.com/politica/argentina-prohibio-a-64-activistas-participar-de-la-reunion-de-la-omc.phtml">Denuncian que el Gobierno prohibió el ingreso de 64 activistas a la OMC</a>, <i>Perfil</i>
