@@ -45,6 +45,8 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 
 <h2>Recent updates</h2>
 
+Letter from over 200 CSOs from around the world, calling on the European Commission and the EU Member States to reconsider its communications to the TRIPS Council and constructively engage in the text-based negotiations of the TRIPS waiver proposal supported by over 100 WTO members. (<a href="/2021/CSOs_to_EU_waiver.pdf">English</a>, <a href="/2021/CSOs_to_EU_waiver_ES.pdf">Spanish</a>, <a href="/2021/CSOs_to_EU_waiver_DE.pdf">German</a>) (29 June 2021)
+<p>
 Statements from civil society in response to the announcement of support for the TRIPS waiver by the USTR:
 <a href="https://www.citizenstrade.org/ctc/bidens-support-for-trips-waiver-unquestionably-the-right-thing-to-do/">Citizens Trade Campaign</a>;
 <a href="https://cepr.net/press-release/cepr-experts-applaud-us-decision-to-support-waiver-on-ip-protections-for-covid-19-vaccines-propose-next-steps-to-ensure-global-vaccine-access-and-an-end-to-the-pandemic/">Center for Economic and Policy Research</a>;

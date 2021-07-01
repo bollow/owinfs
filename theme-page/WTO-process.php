@@ -18,6 +18,9 @@ include 'include/navbar.php';
         
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
+<i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
+(22 June 2021)
+<p>
 <i>Over 200 organizations from 67 countries say:
 “Fundamentally transform the WTO: The WTO’s own policies have caused its
 existential crisis, which the COVID-19 crisis only amplified”</i>:

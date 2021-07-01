@@ -39,6 +39,9 @@ OWINFS members have long maintained core demands with regards to services in the
 </div>
 
 <h2>Current Civil Society Statements and Analysis</h2>
+<i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
+(22 June 2021)
+<p>
 <i><a href="https://twn.my/title/tnd/td44.htm">Plurilateral Initiatives and their Interaction with WTO Rules</a></i>. (Kinda Mohamadieh, TWN, 2020)
 <p>
 <i><a href="https://www.twn.my/title2/FTAs/Services/Full%20report%20for%20TD%20series_FORMAT_Ver6-FIN-09012020.pdf">Understanding the European Union’s understanding on computer and related services</a></i>. (Jane Kelsey, TWN, September 2020)

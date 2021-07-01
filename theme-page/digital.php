@@ -70,6 +70,9 @@ French: <a href="https://ourworldisnotforsale.net/2018/CSOs_Africa_FR.pdf">pdf</
 
 <h2 id="2">Key new reports</h2>
 
+<i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
+(22 June 2021)
+<p>
 <a href="/2021/UNCTAD_ser-rp-2021d1_en.pdf">UNCTAD Research Paper: <i>Joint Statement Initiative on E-Commerce (JSI):
 Economic and Fiscal Implications for the South</i></a>.
 (February 2021)
