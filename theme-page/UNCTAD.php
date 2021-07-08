@@ -93,7 +93,7 @@ UNCTAD Research Paper No. 65, April 2021.
 Economic and Fiscal Implications for the South</i></a>,
 February 2021.
 <p>
-<i><a href="https://ourworldisnotforsale.net/2019/ser-rp-2019d1_en.pdf">Growing Trade in Electronic Transmissions: Implications for the South</a>.</i>
+<i><a href="/2019/ser-rp-2019d1_en.pdf">Growing Trade in Electronic Transmissions: Implications for the South</a>.</i>
 UNCTAD Research Paper No. 29, February 2019.
 <p>
 UNCTAD <i>Trade and Development Report 2018: Power, Platforms and The Free Trade Delusion:
@@ -106,7 +106,7 @@ UNCTAD <i>Trade and Development Report 2018: Power, Platforms and The Free Trade
       <a href="https://unctad.org/en/PublicationChapters/tdr2018ch3_en.pdf">English</a>,
       <a href="/2019/UNCTAD_TDR2018_chapter_III_FR.pdf">French</a>.
 <p>
-Report: <i><a href="https://ourworldisnotforsale.net/2017/UNCTAD_competitiveness.pdf">Rising product digitalisation and losing trade competitiveness</a></i>, November 2017.
+Report: <i><a href="/2017/UNCTAD_competitiveness.pdf">Rising product digitalisation and losing trade competitiveness</a></i>, November 2017.
 
         </div> <!-- /#content-area -->
       </div> <!-- /#content -->

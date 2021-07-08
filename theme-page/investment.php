@@ -39,7 +39,7 @@ Some WTO Members are negotiating rules on facilitating investment:
 <p>
 <a href="/2019/TWN_102_investment.pdf"><i>Investment facilitation – Another plurilateral initiative at the WTO and its potential implications</i></a> (TWN, October 2019)
 <p>
-Rebuttal to “The WTO Investment Facilitation Initiative: Why It Matters” – background note: <i><a href="https://ourworldisnotforsale.net/2017/Investment_rebuttal.pdf">Investment Facilitation
+Rebuttal to “The WTO Investment Facilitation Initiative: Why It Matters” – background note: <i><a href="/2017/Investment_rebuttal.pdf">Investment Facilitation
 for Development: Opening the doors of the WTO for hard rules on investment</a></i>
 (December 2017)
 <p>

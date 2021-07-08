@@ -62,23 +62,23 @@ medical supplies and saving lives</i>:
 </ul>
 <p>
 <i>Letter from Global Civil Society about the Agenda of the WTO</i>:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda.pdf">English</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_ES.pdf">Spanish</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_FR.pdf">French</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_GR.pdf">Greek</a>.
+<a href="/2017/Global_MC11_agenda.pdf">English</a>,
+<a href="/2017/Global_MC11_agenda_ES.pdf">Spanish</a>,
+<a href="/2017/Global_MC11_agenda_FR.pdf">French</a>,
+<a href="/2017/Global_MC11_agenda_GR.pdf">Greek</a>.
 (9 October 2017)
 <p>
 <i>Global Civil Society letter on the Nairobi Ministerial of the World Trade Organization (WTO)</i>:
 <a href="o/en/signon/global-civil-society-letter-nairobi-ministerial-world-trade-organization-wto.html">English</a>, <a href="o/es/signon/carta-sociedad-civil-acerca-conferencia-ministerial-organizaci-n-mundial-del-comercio-omc-rea.html">Spanish</a>, <a href="o/fr/signon/lettre-soci-t-civile-sur-conf-rence-minist-rielle-nairobi-l-organisation-mondiale-commerce-om.html">French</a>.
 (9 December 2015)
 <p>
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt.pdf">
+<a href="/2013/OWINFS_WTO_stmt.pdf">
 <i>WTO Turnaround 2013: Food, Jobs and Sustainable
 Development First</i></a> – Statement:
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt.pdf">English</a>,
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_ES.pdf">Spanish</a>,
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_FR.pdf">French</a>,
-<a href="https://ourworldisnotforsale.net/2013/OWINFS_WTO_stmt_PT.pdf">Portuguese</a>.
+<a href="/2013/OWINFS_WTO_stmt.pdf">English</a>,
+<a href="/2013/OWINFS_WTO_stmt_ES.pdf">Spanish</a>,
+<a href="/2013/OWINFS_WTO_stmt_FR.pdf">French</a>,
+<a href="/2013/OWINFS_WTO_stmt_PT.pdf">Portuguese</a>.
 (28 October 2013)
 
 

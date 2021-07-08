@@ -18,47 +18,47 @@ include 'include/navbar.php';
     <p>
 Post-Ministerial Analysis: 
 <b><i>Results of the 11th ministerial conference of the WTO</i></b>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_ministerial_results.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_resultados.pdf">Spanish</a>
+<a href="/2018/ALAI_ministerial_results.pdf">English</a>, 
+<a href="/2018/ALAI_resultados.pdf">Spanish</a>
 <p>
 <b><i>The Peoples’ Summit parallel to the 11th WTO Ministerial Conference</i></b>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_peoples_summit.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_cumbre_pueblos.pdf">Spanish</a>
+<a href="/2018/ALAI_peoples_summit.pdf">English</a>, 
+<a href="/2018/ALAI_cumbre_pueblos.pdf">Spanish</a>
     <p>
     <p>
-<b><a href="https://ourworldisnotforsale.net/2017/OWINFS_Flyer.pdf">Our World is Not for Sale (OWINFS) one-page flyer</a></b>
+<b><a href="/2017/OWINFS_Flyer.pdf">Our World is Not for Sale (OWINFS) one-page flyer</a></b>
 
 <h2>Media information</h2>
 
 December 13, 2017<br />
 <b><i>Our World is Not for Sale (OWINFS) Final Statement on MC11:</i></b>
-<a href="https://ourworldisnotforsale.net/2017/OWINFS_final_stmt.pdf">English</a>,
-<a href="https://ourworldisnotforsale.net/2017/OWINFS_final_stmt_ES.pdf">Spanish</a>.
+<a href="/2017/OWINFS_final_stmt.pdf">English</a>,
+<a href="/2017/OWINFS_final_stmt_ES.pdf">Spanish</a>.
 </p><p>
 Media release (Dec 13, 2017):<br /><b><i>Global civil society reactions to end of WTO ministerial conference:</i></b>
-<a href="https://ourworldisnotforsale.net/2017/R_reactions.pdf">English</a>,
-<a href="https://ourworldisnotforsale.net/2017/R_reactions_ES.pdf">Spanish</a>.
+<a href="/2017/R_reactions.pdf">English</a>,
+<a href="/2017/R_reactions_ES.pdf">Spanish</a>.
 </p><p>
 Media release (Dec 13, 2017):<br /><b><i>On last day of WTO Ministerial, civil society distributes urgent recommendations to delegates attending heads of delegation meetings:</i></b>
-<a href="https://ourworldisnotforsale.net/2017/R_recommend.pdf">English</a>,
-<a href="https://ourworldisnotforsale.net/2017/R_recommend_ES.pdf">Spanish</a>.
+<a href="/2017/R_recommend.pdf">English</a>,
+<a href="/2017/R_recommend_ES.pdf">Spanish</a>.
 </p><p>
 
 Media release (Dec 11, 2017):<br />
-<b><i><a href="https://ourworldisnotforsale.net/2017/R_protest.pdf">Civil Society Protest at the Entrance of the WTO 11<sup>th</sup> Ministerial in Buenos Aires</a></i></b>
+<b><i><a href="/2017/R_protest.pdf">Civil Society Protest at the Entrance of the WTO 11<sup>th</sup> Ministerial in Buenos Aires</a></i></b>
 </p><p>
-<b>MEDIA AVAILABILITY: <a href="https://ourworldisnotforsale.net/2017/R_CSO_Press_contacts.pdf">Civil Society / NGO Contacts for MC11 WTO Ministerial Dec 10-13, 2017</a></b>
+<b>MEDIA AVAILABILITY: <a href="/2017/R_CSO_Press_contacts.pdf">Civil Society / NGO Contacts for MC11 WTO Ministerial Dec 10-13, 2017</a></b>
 </p><p>
 <b>Global Civil Society Shares What’s at Stake at MC 11: </b>
 <ul>
-  <li><b><a href="https://ourworldisnotforsale.net/2017/R_OWINFS_gender.pdf">Quote sheet on the <i>rejection of the WTO Declaration on “Women’s Economic Empowerment”</i></a></b>
- </li><li><b><a href="https://ourworldisnotforsale.net/2017/R_agriculture_fisheries.pdf">Quote sheet: <i>Civil Society Experts Outline What Is Needed to Protect the Development Mandate in Agriculture and Fisheries-Subsidies Negotiations in MC11</i></a></b>
-  </li><li><b><a href="https://ourworldisnotforsale.net/2017/R_OWINFS_investment.pdf">Quote sheet: <i>‘Investment facilitation for development’ is a Trojan horse for
+  <li><b><a href="/2017/R_OWINFS_gender.pdf">Quote sheet on the <i>rejection of the WTO Declaration on “Women’s Economic Empowerment”</i></a></b>
+ </li><li><b><a href="/2017/R_agriculture_fisheries.pdf">Quote sheet: <i>Civil Society Experts Outline What Is Needed to Protect the Development Mandate in Agriculture and Fisheries-Subsidies Negotiations in MC11</i></a></b>
+  </li><li><b><a href="/2017/R_OWINFS_investment.pdf">Quote sheet: <i>‘Investment facilitation for development’ is a Trojan horse for
 investment rules in WTO, say civil society advocates</i></a></b>
-  </li><li><b><a href="https://ourworldisnotforsale.net/2017/R_OWINFS_new_issues.pdf">Quote sheet: <i>Public interest legal experts warn of dangers of
+  </li><li><b><a href="/2017/R_OWINFS_new_issues.pdf">Quote sheet: <i>Public interest legal experts warn of dangers of
 WTO proposals on e-commerce, domestic regulation disciplines, investment
 facilitation and micro, small and medium enterprises (MSMEs)</i></a></b>
-  </li><li><a href="https://ourworldisnotforsale.net/2017/R_OWINFS_quote_sheet.pdf"><b><i>Quotes from Civil Society Experts</i></b></a>
+  </li><li><a href="/2017/R_OWINFS_quote_sheet.pdf"><b><i>Quotes from Civil Society Experts</i></b></a>
  </li><li><b><a href="https://www.facebook.com/owinfs/videos/1866417760338208/">Video from the press conference</a></b>
 </li></ul>
 </p><p>
@@ -68,7 +68,7 @@ facilitation and micro, small and medium enterprises (MSMEs)</i></a></b>
 </p><p>
 <b>OWINFS side event:</b>
 <ul>
-  <li>Tuesday, December 12, 10:15 – 11.45am: <a href="https://ourworldisnotforsale.net/2017/E_Agriculture.pdf">Protecting the Development Mandate in Agriculture and Fisheries-Subsidies negotiations in MC11</a>
+  <li>Tuesday, December 12, 10:15 – 11.45am: <a href="/2017/E_Agriculture.pdf">Protecting the Development Mandate in Agriculture and Fisheries-Subsidies negotiations in MC11</a>
 </li></ul>
 
 <hr />

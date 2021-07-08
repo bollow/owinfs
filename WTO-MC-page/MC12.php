@@ -113,8 +113,8 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 (October 2019)
 <p>
 <i>Market access the true aim of WTO fisheries subsidies negotiations</i>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>.
+<a href="/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
+<a href="/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>.
 (April 2018)
 <p>
 <a href="fish">more on fisheries …</a>
@@ -130,7 +130,7 @@ Some WTO Members are negotiating rules on facilitating investment:
 <p>
 <a href="/2019/TWN_102_investment.pdf"><i>Investment facilitation – Another plurilateral initiative at the WTO and its potential implications</i></a> (TWN, October 2019)
 <p>
-Rebuttal to “The WTO Investment Facilitation Initiative: Why It Matters” – background note: <i><a href="https://ourworldisnotforsale.net/2017/Investment_rebuttal.pdf">Investment Facilitation
+Rebuttal to “The WTO Investment Facilitation Initiative: Why It Matters” – background note: <i><a href="/2017/Investment_rebuttal.pdf">Investment Facilitation
 for Development: Opening the doors of the WTO for hard rules on investment</a></i>
 (December 2017)
 <p>
@@ -170,20 +170,20 @@ Spanish:
 
 <h2 id="agriculture"><a href="agriculture">Agriculture</a></h2>
 <i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>.
+<a href="/2018/ALAI_farmers.pdf">English</a>, 
+<a href="/2018/ALAI_normas_agrícolas.pdf">Spanish</a>.
 (Ranja Sengupta, ALAI, April 2018)
 <p>
-<a href="https://ourworldisnotforsale.net/2017/TWN_Agriculture.pdf"><i>Agriculture remains key</i></a>.
+<a href="/2017/TWN_Agriculture.pdf"><i>Agriculture remains key</i></a>.
 (Ranja Sengupta, 22 November 2017)
 <p>
 <a href="/agricultural-price-crisis"><i>WTO summit to ignore price crisis, agricultural dumping</i></a>.
 (Timothy Wise, 10 December 2017)
 <p>
-<i><a href="https://ourworldisnotforsale.net/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i>.
+<i><a href="/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i>.
 (Timothy Wise, December 2017)
 <p>
-<i><a href="https://ourworldisnotforsale.net/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>.
+<i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>.
 (Sachin Kumar Jain, 9 December 2017)
 
 <h2><a href="digital" id="digital">Digital trade</a></h2>
@@ -196,9 +196,9 @@ Spanish:
 <i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i>
 <p>
 Updated <i>Twelve Reasons</i>:
-English: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2.docx">docx</a>.
-Spanish: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
-French: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
+English: <a href="/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2.docx">docx</a>.
+Spanish: <a href="/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
+French: <a href="/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
 <p>
 <a href="digital#more">more on the digital economy …</a>
 
@@ -206,30 +206,30 @@ French: <a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf"
 <h2><a href="fr">L'économie numérique</a></h2>
 <i><a href="https://www.cetri.be/L-Afrique-francophone-face-au-e?lang=fr">L’Afrique francophone face au e-commerce à l’OMC</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2019/Tax_development_FR.pdf">Les impacts « anti-développement » des dispositions fiscales prévues dans les règles proposées sur le commerce numérique à l’OMC</a></i>
+<i><a href="/2019/Tax_development_FR.pdf">Les impacts « anti-développement » des dispositions fiscales prévues dans les règles proposées sur le commerce numérique à l’OMC</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2019/Digital_trade_2019-04-01-fr.pdf">Lettre de la société civile contre les règles sur le commerce électronique à l’Organisation mondiale du commerce (OMC)</a></i>
+<i><a href="/2019/Digital_trade_2019-04-01-fr.pdf">Lettre de la société civile contre les règles sur le commerce électronique à l’Organisation mondiale du commerce (OMC)</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2019/WTO_12_reasons_v2_FR.pdf">Douze raisons de s’opposer aux règles sur le commerce électronique à l’OMC</a></i>
+<i><a href="/2019/WTO_12_reasons_v2_FR.pdf">Douze raisons de s’opposer aux règles sur le commerce électronique à l’OMC</a></i>
 <p>
 <a href="fr">plus d'informations sur l'économie numérique …</a>
 
 
 <h2><a href="es">La economia digital</a></h2>
-<i><a href="https://ourworldisnotforsale.net/2019/Big_tech_ES.pdf">‘Big tech’ en la OMC</a></i>
+<i><a href="/2019/Big_tech_ES.pdf">‘Big tech’ en la OMC</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2019/TWN_data-geoeconomics_ES.pdf">Los países del Sur adoptan una postura firme
+<i><a href="/2019/TWN_data-geoeconomics_ES.pdf">Los países del Sur adoptan una postura firme
 sobre la geoeconomía de los datos</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2017/R_MSMEs_reject_ES.pdf">Las asociaciones de PYMES rechazan el programa de trabajo de PYMES y las Reglas de comercio electronico de la OMC</a></i>
+<i><a href="/2017/R_MSMEs_reject_ES.pdf">Las asociaciones de PYMES rechazan el programa de trabajo de PYMES y las Reglas de comercio electronico de la OMC</a></i>
 <i><a href="2019/WTO_12_reasons_v2_ES.pdf">Doce razones por las cuales debemos oponernos a las
 normas relativas al comercio digital en el marco de la OMC</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2017/ALAI_E-commerce_ES.pdf">El comercio electrónico y la OMC</a></i>
+<i><a href="/2017/ALAI_E-commerce_ES.pdf">El comercio electrónico y la OMC</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2017/Scasserra_labor_ES.pdf">Tecnología, comercio electrónico y empleo</a></i>
+<i><a href="/2017/Scasserra_labor_ES.pdf">Tecnología, comercio electrónico y empleo</a></i>
 <p>
-<i><a href="https://ourworldisnotforsale.net/2018/Scassera_gender_ES.pdf">Comercio electrónico, futuro del trabajo y su impacto en las mujeres</a></i>
+<i><a href="/2018/Scassera_gender_ES.pdf">Comercio electrónico, futuro del trabajo y su impacto en las mujeres</a></i>
 <p>
 <a href="es">más sobre la economia digital …</a>
 

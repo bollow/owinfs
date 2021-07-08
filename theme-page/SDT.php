@@ -47,17 +47,17 @@ Civil society has long called for the transformation of the current global rules
 <p>
 <b><i>Letter from Global Civil Society about the Agenda of the WTO</i></b>, October 9, 2017:<br>
 English:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda.docx">docx</a>.
+<a href="/2017/Global_MC11_agenda.pdf">pdf</a>,
+<a href="/2017/Global_MC11_agenda.docx">docx</a>.
 Spanish:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_ES.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_ES.docx">docx</a>.
+<a href="/2017/Global_MC11_agenda_ES.pdf">pdf</a>,
+<a href="/2017/Global_MC11_agenda_ES.docx">docx</a>.
 French:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_FR.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_FR.docx">docx</a>.
+<a href="/2017/Global_MC11_agenda_FR.pdf">pdf</a>,
+<a href="/2017/Global_MC11_agenda_FR.docx">docx</a>.
 Greek:
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_GR.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/Global_MC11_agenda_GR.docx">docx</a>.
+<a href="/2017/Global_MC11_agenda_GR.pdf">pdf</a>,
+<a href="/2017/Global_MC11_agenda_GR.docx">docx</a>.
 <p>
 <a href="/2013/OWINFS_WTO_stmt.pdf"><b><i>WTO Turnaround: Food, Jobs and Sustainable Development First –</i></b></a> Statement (October 2013)
 <div class="searchable">

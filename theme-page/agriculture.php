@@ -49,8 +49,8 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <p>
 <i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_farmers.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_normas_agrícolas.pdf">Spanish</a>.
+<a href="/2018/ALAI_farmers.pdf">English</a>, 
+<a href="/2018/ALAI_normas_agrícolas.pdf">Spanish</a>.
 (Ranja Sengupta, ALAI, April 2018)
 <p>
 <a href="/2017/TWN_Agriculture.pdf"><i>Agriculture remains key</i></a>.

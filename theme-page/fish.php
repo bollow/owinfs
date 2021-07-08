@@ -50,25 +50,25 @@ for the voice of small-scale fishers</a></i>. (August 2020)
 <a href="/2019/PANG_fisheries.pdf"><i>Fisheries subsidies negotiations and development in the World Trade Organization</i></a>. (2019)
 <p>
 <i>Market access the true aim of WTO fisheries subsidies negotiations</i>:
-<a href="https://ourworldisnotforsale.net/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
-<a href="https://ourworldisnotforsale.net/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>.
+<a href="/2018/ALAI_fisheries_subsidies.pdf">English</a>, 
+<a href="/2018/ALAI_subvenciones_pesca.pdf">Spanish</a>.
 (2018)
 <p>
 Quote sheet and video: <i>Civil Society Experts Outline What Is Needed to Protect the Development Mandate in Agriculture and Fisheries-Subsidies Negotiations in MC11:</i>
-<a href="https://ourworldisnotforsale.net/2017/R_agriculture_fisheries.pdf">English</a>,
-<a href="https://ourworldisnotforsale.net/2017/R_agriculture_fisheries_ES.pdf">Spanish</a>.
+<a href="/2017/R_agriculture_fisheries.pdf">English</a>,
+<a href="/2017/R_agriculture_fisheries_ES.pdf">Spanish</a>.
 (2017)
 <p>
 <i>Analysis regarding fisheries subsidies negotiations:</i>
 English:
-<a href="https://ourworldisnotforsale.net/2017/PANG_Fisheries.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/PANG_Fisheries.doc">doc</a>.
+<a href="/2017/PANG_Fisheries.pdf">pdf</a>,
+<a href="/2017/PANG_Fisheries.doc">doc</a>.
 French:
-<a href="https://ourworldisnotforsale.net/2017/PANG_Fisheries_FR.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/PANG_Fisheries_FR.doc">doc</a>.
+<a href="/2017/PANG_Fisheries_FR.pdf">pdf</a>,
+<a href="/2017/PANG_Fisheries_FR.doc">doc</a>.
 Spanish:
-<a href="https://ourworldisnotforsale.net/2017/PANG_Fisheries_ES.pdf">pdf</a>,
-<a href="https://ourworldisnotforsale.net/2017/PANG_Fisheries_ES.doc">doc</a>.
+<a href="/2017/PANG_Fisheries_ES.pdf">pdf</a>,
+<a href="/2017/PANG_Fisheries_ES.doc">doc</a>.
 (2017)
 <p>
 
