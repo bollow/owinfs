@@ -1,27 +1,29 @@
 #!/usr/bin/php
 <?php
 include 'include/solr_add_document.php';
-$inputfile="data/articles2search";
+process('data/searchdata_auto');
+process('data/searchdata_manual'); # after _auto so that corrections can be applied
 
-$in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
-while(!feof($in)) {
-  $line=fgets($in);
-  if (preg_match('/^\d\d\d\d(\-\d\d)?(\-\d\d)?\n/', $line)) {
-    $date=rtrim($line);
-    $linkdata="";
-    while (!feof($in) && $line!="\n") {
-      $line=fgets($in);
-      $linkdata.=$line;
+function process($inputfile){
+  $in=fopen($inputfile, "r") or die("Unable to open file '$inputfile'!");
+  while(!feof($in)) {
+    $line=fgets($in);
+    if (preg_match('/^\d\d\d\d(\-\d\d)?(\-\d\d)?\n/', $line)) {
+      $date=rtrim($line);
+      $linkdata="";
+      while (!feof($in) && $line!="\n") {
+        $line=fgets($in);
+        $linkdata.=$line;
+      }
+      $linkdata=rtrim($linkdata);
+      echo "index_add('$date', '$linkdata');";
+      index_add($date, $linkdata);
+    } else if ($line!="\n" && $line!="" && (strpos($line, "#")===FALSE))
+      # ignore comments and empty lines if outside of a block, otherwise die
+    {
+      die("date expected, but found: $line");
     }
-    $linkdata=rtrim($linkdata);
-    echo "index_add('$date', '$linkdata');";
-    index_add($date, $linkdata);
-  } else if ($line!="\n" && $line!="" && (strpos($line, "#")===FALSE))
-    # ignore comments and empty lines if outside of a block, otherwise die
-  {
-    die("date expected, but found: $line");
   }
 }
-
 ?>
 

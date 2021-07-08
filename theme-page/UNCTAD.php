@@ -37,14 +37,16 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <p>
 <i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD</a></i>:
 <a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">pdf</a>.
-April 6, 2021.
+(6 April 2021)
 <p>
-<a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a>, March 2021.
+<a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a>. (March 2021)
 <p>
+<div class="noindex">
 <i>The crisis in multilateralism: Solutions for inclusive and sustainable growth,</i>
 WTO Public Forum event with Richard Kozul-Wright, director of the division on Globalization and Development Strategies of UNCTAD, October 4, 2018. Full clip
 <a href="https://therealnews.com/stories/our-world-is-not-for-sale-2018-world-trade-organization-public-forum-2-2">here</a> and edited TV coverage
 <a href="https://therealnews.com/series/our-world-is-not-for-sale-2018-world-trade-organization-public-forum">here</a>. 
+</div>
 
 <h2>On UNCTAD XIV (2016)</h2>
 <a href="http://www.huffingtonpost.com/deborah-james/over-intransigence-of-ric_b_11146218.html"></i>Over intransigence of rich countries, developing countries win mandate on trade for development</i></a> (Huffington Post, 23 July 2016)
@@ -86,15 +88,15 @@ paradigm shift to address multiple crises with a strengthened UNCTAD at the fore
 (Letter from 203 CSOs from around the world, 22 April 2012)
 
 <h2>Some key documents from UNCTAD</h2>
-<i><a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a></i>,
-UNCTAD Research Paper No. 65, April 2021.
+<i><a href="/2021/ser-rp-2021d8_en.pdf">Reforming the international trading system for recovery, resilience and inclusive development</a></i>.
+(UNCTAD Research Paper No. 65, April 2021)
 <p>
 <a href="/2021/UNCTAD_ser-rp-2021d1_en.pdf">Research paper: <i>Joint Statement Initiative on E-Commerce (JSI):
 Economic and Fiscal Implications for the South</i></a>,
 February 2021.
 <p>
 <i><a href="/2019/ser-rp-2019d1_en.pdf">Growing Trade in Electronic Transmissions: Implications for the South</a>.</i>
-UNCTAD Research Paper No. 29, February 2019.
+(UNCTAD Research Paper No. 29, February 2019)
 <p>
 UNCTAD <i>Trade and Development Report 2018: Power, Platforms and The Free Trade Delusion:
 <a href="https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2227">English</a>,

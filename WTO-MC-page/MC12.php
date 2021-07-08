@@ -69,8 +69,11 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
       <a href="/2020/Fisheries_subsidies.pdf">English</a>,
       <a href="/2020/Fisheries_subsidies_ES.pdf">Spanish</a>,
       <a href="/2020/Fisheries_subsidies_FR.pdf">French</a>.
-      <a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
-(April 2020)
+(1 April 2020)
+<ul class="tail">
+  <li><a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
+      (6 April 2020)
+</ul>
 
 <h2><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
 <a href="TRIPS">See here.</a>
@@ -105,8 +108,11 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
       <a href="/2020/Fisheries_subsidies.pdf">English</a>,
       <a href="/2020/Fisheries_subsidies_ES.pdf">Spanish</a>,
       <a href="/2020/Fisheries_subsidies_FR.pdf">French</a>.
-      <a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
-(April 2020)
+(1 April 2020)
+<ul class="tail">
+  <li><a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
+      (6 April 2020)
+</ul>
 <p>
 
 <a href="/2019/PANG_fisheries.pdf"><i>Fisheries subsidies negotiations and development in the World Trade Organization</i></a>.
@@ -187,52 +193,55 @@ Spanish:
 (Sachin Kumar Jain, 9 December 2017)
 
 <h2><a href="digital" id="digital">Digital trade</a></h2>
-<i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>
+<i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>. (2020)
 <p>
-<i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i>
+<i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i>. (30 April 2020)
 <p>
-<i><a href="/surrendering">Digital trade rules and Big Tech: Surrendering public good to private power</a></i>
+<i><a href="/surrendering">Digital trade rules and Big Tech: Surrendering public good to private power</a></i>. (February 2020)
 <p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200601.htm">US to target countries that impose digital services taxes</a></i>.	
+(4 June 2020)
 <p>
 Updated <i>Twelve Reasons</i>:
 English: <a href="/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2.docx">docx</a>.
 Spanish: <a href="/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
 French: <a href="/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
+(31 March 2019)
 <p>
 <a href="digital#more">more on the digital economy …</a>
 
-
+<div class="noindex">
 <h2><a href="fr">L'économie numérique</a></h2>
-<i><a href="https://www.cetri.be/L-Afrique-francophone-face-au-e?lang=fr">L’Afrique francophone face au e-commerce à l’OMC</a></i>
+<i><a href="https://www.cetri.be/L-Afrique-francophone-face-au-e?lang=fr">L’Afrique francophone face au e-commerce à l’OMC</a></i>. (4 mai 2020)
 <p>
-<i><a href="/2019/Tax_development_FR.pdf">Les impacts « anti-développement » des dispositions fiscales prévues dans les règles proposées sur le commerce numérique à l’OMC</a></i>
+<i><a href="/2019/Tax_development_FR.pdf">Les impacts « anti-développement » des dispositions fiscales prévues dans les règles proposées sur le commerce numérique à l’OMC</a></i>. (20 septembre 2019)
 <p>
-<i><a href="/2019/Digital_trade_2019-04-01-fr.pdf">Lettre de la société civile contre les règles sur le commerce électronique à l’Organisation mondiale du commerce (OMC)</a></i>
+<i><a href="/2019/Digital_trade_2019-04-01-fr.pdf">Lettre de la société civile contre les règles sur le commerce électronique à l’Organisation mondiale du commerce (OMC)</a></i>. (1 avril 2019)
 <p>
-<i><a href="/2019/WTO_12_reasons_v2_FR.pdf">Douze raisons de s’opposer aux règles sur le commerce électronique à l’OMC</a></i>
+<i><a href="/2019/WTO_12_reasons_v2_FR.pdf">Douze raisons de s’opposer aux règles sur le commerce électronique à l’OMC</a></i>. (31 mars 2019)
 <p>
 <a href="fr">plus d'informations sur l'économie numérique …</a>
 
 
 <h2><a href="es">La economia digital</a></h2>
-<i><a href="/2019/Big_tech_ES.pdf">‘Big tech’ en la OMC</a></i>
+<i><a href="/2019/Big_tech_ES.pdf">‘Big tech’ en la OMC</a></i>. (junio 2019)
 <p>
 <i><a href="/2019/TWN_data-geoeconomics_ES.pdf">Los países del Sur adoptan una postura firme
-sobre la geoeconomía de los datos</a></i>
+sobre la geoeconomía de los datos</a></i>. (17 abril 2019)
 <p>
-<i><a href="/2017/R_MSMEs_reject_ES.pdf">Las asociaciones de PYMES rechazan el programa de trabajo de PYMES y las Reglas de comercio electronico de la OMC</a></i>
-<i><a href="2019/WTO_12_reasons_v2_ES.pdf">Doce razones por las cuales debemos oponernos a las
-normas relativas al comercio digital en el marco de la OMC</a></i>
+<i><a href="/2017/R_MSMEs_reject_ES.pdf">Las asociaciones de PYMES rechazan el programa de trabajo de PYMES y las Reglas de comercio electronico de la OMC</a></i>. (oct-nov 2017)
 <p>
-<i><a href="/2017/ALAI_E-commerce_ES.pdf">El comercio electrónico y la OMC</a></i>
+<i><a href="/2019/WTO_12_reasons_v2_ES.pdf">Doce razones por las cuales debemos oponernos a las
+normas relativas al comercio digital en el marco de la OMC</a></i>. (actualización, 31 marzo 2019)
 <p>
-<i><a href="/2017/Scasserra_labor_ES.pdf">Tecnología, comercio electrónico y empleo</a></i>
+<i><a href="/2017/ALAI_E-commerce_ES.pdf">El comercio electrónico y la OMC</a></i>. (17 noviembre 2017)
 <p>
-<i><a href="/2018/Scassera_gender_ES.pdf">Comercio electrónico, futuro del trabajo y su impacto en las mujeres</a></i>
+<i><a href="/2017/Scasserra_labor_ES.pdf">Tecnología, comercio electrónico y empleo</a></i>. (oct-nov 2017)
+<p>
+<i><a href="/2018/Scasserra_gender_ES.pdf">Comercio electrónico, futuro del trabajo y su impacto en las mujeres</a></i>. (2018)
 <p>
 <a href="es">más sobre la economia digital …</a>
-
+</div>
       </div> <!-- /#content-area -->
     </div> <!-- /#content -->
   </div> <!-- /#main -->

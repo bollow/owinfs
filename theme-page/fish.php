@@ -43,8 +43,11 @@ for the voice of small-scale fishers</a></i>. (August 2020)
       <a href="/2020/Fisheries_subsidies.pdf">English</a>,
       <a href="/2020/Fisheries_subsidies_ES.pdf">Spanish</a>,
       <a href="/2020/Fisheries_subsidies_FR.pdf">French</a>.
-      <a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
-(April 2020)
+(1 April 2020)
+<ul class="tail">
+  <li><a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
+      (6 April 2020)
+</ul>
 <p>
 
 <a href="/2019/PANG_fisheries.pdf"><i>Fisheries subsidies negotiations and development in the World Trade Organization</i></a>. (2019)

@@ -100,7 +100,7 @@ Economic and Fiscal Implications for the South</i></a>.
 <h2 id="3">Introductory articles</h2>
 <a href="https://www.equaltimes.org/the-future-is-digital-but-we">The future is digital, but we should keep digital chapters out of our trade deals</a> (Duncan McCann, 1 October 2020)
 <p>
-<a href="https://twn.my/title2/wto.info/2020/ti200813.htm">Digital rules in FTAs may undermine capacity to tax digital firms</a> (D. Ravi Kanth, 14_August_2020)
+<a href="https://twn.my/title2/wto.info/2020/ti200813.htm">Digital rules in FTAs may undermine capacity to tax digital firms</a> (D. Ravi Kanth, 14 August 2020)
 <p>
 <a href="https://unctad.org/news/should-digitally-delivered-products-be-exempted-customs-duties">Should digitally delivered products be exempted from customs duties?</a>
 (UNCTAD, 16 July 2020)
@@ -126,7 +126,7 @@ Twelve reasons to oppose <i>rules</i> on digital commerce in the WTO.
 English: <a href="/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2.docx">docx</a>.
 Spanish: <a href="/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
 French: <a href="/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
-(updated March 31, 2019)
+(updated 31 March 2019)
 <p>
 <i>Results of the 11th ministerial conference of the WTO</i>:
 <a href="/2018/ALAI_ministerial_results.pdf">English</a>, 
@@ -193,7 +193,6 @@ French: <a href="/2019/Munu_Africa_FR.pdf">pdf</a>, <a href="/2019/Munu_Africa_F
 (December 2018)
 <p>
 <i>Micro, small, and medium-sized enterprises (MSMEs) and e-commerce:</i>
-English:
 <a href="/2017/Hill_MSMEs_E-commerce.pdf">pdf</a>,
 <a href="/2017/Hill_MSMEs_E-commerce.docx">docx</a>.
 (December 2017)

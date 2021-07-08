@@ -48,7 +48,7 @@ for Development: Opening the doors of the WTO for hard rules on investment</a></
 <p>
 <i><a href="/o/en/signon/global-civil-society-letter-nairobi-ministerial-world-trade-organization-wto.html">Global Civil Society letter on the Nairobi Ministerial of the World Trade Organization (WTO)</a></i> (December 9, 2015)
 <p>
-<i><a href="/o/en/signon/global-civil-society-letter-unctad-secretary-general-investment-issues-and-role-unctad.html">Global Civil Society letter to UNCTAD Secretary General on Investment Issues</a></i>: <a href="/o/en/signon/global-civil-society-letter-unctad-secretary-general-investment-issues-and-role-unctad.html">English</a>, <a href="/o/es/signon/carta-sociedad-civil-sobre-r-gimen-inversiones-y-unctad-0.html">Spanish</a> (October 15, 2014)
+<i>Global Civil Society letter to UNCTAD Secretary General on Investment Issues</i>: <a href="/o/en/signon/global-civil-society-letter-unctad-secretary-general-investment-issues-and-role-unctad.html">English</a>, <a href="/o/es/signon/carta-sociedad-civil-sobre-r-gimen-inversiones-y-unctad-0.html">Spanish</a> (October 15, 2014)
 
 <h2>Updates &amp; Articles on the Negotiations</h2>
 <ul>
@@ -73,7 +73,7 @@ for Development: Opening the doors of the WTO for hard rules on investment</a></
   <li><a href="https://twn.my/title2/wto.info/2015/ti150910.htm">Investment accords - conceptual & procedural contentions</a>, by Andrew Cornford (23 Sept 15) 
   <li><a href="https://twn.my/title2/wto.info/2015/ti150909.htm">International trade, investment accords, increasing controversies</a>, by Andrew Cornford (23 Sept 15) 
   <li><a href="https://twn.my/title2/wto.info/2014/ti141204.htm">Statement and input for FfD discussions on trade and investment agreements</a> (19 Dec 14)
-  <li><a href="/o/en/signon/global-civil-society-letter-unctad-secretary-general-investment-issues-and-role-unctad.html">Global Civil Society letter to UNCTAD Secretary General on Investment Issues</a>: <a href="/o/en/signon/global-civil-society-letter-unctad-secretary-general-investment-issues-and-role-unctad.html">English</a>, <a href="/o/es/signon/carta-sociedad-civil-sobre-r-gimen-inversiones-y-unctad-0.html">Spanish</a> (15 Oct 2014)
+  <li>Global Civil Society letter to UNCTAD Secretary General on Investment Issues: <a href="/o/en/signon/global-civil-society-letter-unctad-secretary-general-investment-issues-and-role-unctad.html">English</a>, <a href="/o/es/signon/carta-sociedad-civil-sobre-r-gimen-inversiones-y-unctad-0.html">Spanish</a> (15 Oct 2014)
   <li><a href="https://twn.my/title2/wto.info/2013/twninfo130408.htm">Latin American states form alliance to tackle investment treaties</a>, by Meena Raman (30 Apr 13) 
   <li><a href="https://twn.my/title2/wto.info/2013/twninfo130405.htm">United Nations: International investment disputes on the rise</a>, by Kanaga Raja (23 Apr 13) 
   <li><a href="https://twn.my/title2/wto.info/2012/twninfo121002.htm">BITs, FTAs and damaging effects of their investment chapters</a>, by Meena Raman (08 Oct 12)

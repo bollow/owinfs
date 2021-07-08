@@ -20,20 +20,22 @@ Post-Ministerial Analysis:
 <b><i>Results of the 11th ministerial conference of the WTO</i></b>:
 <a href="/2018/ALAI_ministerial_results.pdf">English</a>, 
 <a href="/2018/ALAI_resultados.pdf">Spanish</a>
+(April 2018)
 <p>
 <b><i>The Peoples’ Summit parallel to the 11th WTO Ministerial Conference</i></b>:
 <a href="/2018/ALAI_peoples_summit.pdf">English</a>, 
 <a href="/2018/ALAI_cumbre_pueblos.pdf">Spanish</a>
-    <p>
+(April 2018)
     <p>
 <b><a href="/2017/OWINFS_Flyer.pdf">Our World is Not for Sale (OWINFS) one-page flyer</a></b>
+(December 2017)
 
 <h2>Media information</h2>
 
-December 13, 2017<br />
 <b><i>Our World is Not for Sale (OWINFS) Final Statement on MC11:</i></b>
 <a href="/2017/OWINFS_final_stmt.pdf">English</a>,
 <a href="/2017/OWINFS_final_stmt_ES.pdf">Spanish</a>.
+(December 13, 2017)
 </p><p>
 Media release (Dec 13, 2017):<br /><b><i>Global civil society reactions to end of WTO ministerial conference:</i></b>
 <a href="/2017/R_reactions.pdf">English</a>,
@@ -75,12 +77,12 @@ facilitation and micro, small and medium enterprises (MSMEs)</i></a></b>
 <h2>Argentine Government Revokes World Trade Organization’s Accreditation of Key Civil Society Organizations, Just Days before Ministerial Conference in Buenos Aires</h2>
 November 30, 2017: In an unprecedented action, the Argentine government has revoked the accreditation of 63 civil society experts -- trade unionists, development advocates, digital rights activists, environmentalists, and others -- just days before the 11th Ministerial meeting of the WTO (MC11) in Buenos Aires, advising the WTO that the experts will not be allowed in the country to participate in the meeting. The majority of the rejected organizations work together through the global Our World Is Not for Sale (OWINFS) network.
 </p><p>
-Full media advisory: <a href="/2017/R_Disaccreditation.docx">English</a> <a href="/2017/R_Disaccreditation_ES.docx">Spanish</a> <a href="/2017/R_Disaccreditation_FR.doc">French</a>
+Full media advisory: <a href="/2017/R_Disaccreditation.docx">English</a>, <a href="/2017/R_Disaccreditation_ES.docx">Spanish</a>, <a href="/2017/R_Disaccreditation_FR.doc">French</a>. (November 30, 2017)
 </p><p>
 Letter to the WTO:
 <a href="/2017/L_Disaccreditation.pdf">English</a>,
-<a href="/2017/L_Disaccreditation_ES.pdf">Spanish</a>.
-<a href="/2017/L_Disaccreditation_FR.pdf">French</a>
+<a href="/2017/L_Disaccreditation_ES.pdf">Spanish</a>,
+<a href="/2017/L_Disaccreditation_FR.pdf">French</a>. (November 30, 2017)
 </p>
 <p>
 December 2, 2017: For information on the public outcry about the above, and on how the Argentine government is justifying their actions, see e.g. here: <a href="https://www.alainet.org/en/articulo/189592">English</a>, <a href="https://www.alainet.org/es/articulo/189591">Spanish</a>.
@@ -121,20 +123,20 @@ Greek:
 </p><p><!--Dec 13-->
 <b><i>MSME associations reject MSMEs work program and ecommerce rules in WTO:</i></b>
 <a href="/2017/R_MSMEs_reject.pdf">English</a>,
-<a href="/2017/R_MSMEs_reject_ES.pdf">Spanish</a>.
+<a href="/2017/R_MSMEs_reject_ES.pdf">Spanish</a>. (13 December 2017)
 </p><p><!--Dec 12-->
-<b><i><a href="/2017/Feminist_stmt.pdf">Statement by women’s rights organisations rejecting the WTO Declaration on Women’s Economic Empowerment</a></i></b>
+<b><i><a href="/2017/Feminist_stmt.pdf">Statement by women’s rights organisations rejecting the WTO Declaration on Women’s Economic Empowerment</a></i></b>. (12 December 2017)
 </p><p><!--Dec 12-->
 <b>Rebuttal to “The WTO Investment Facilitation Initiative: Why It Matters” – background note: <i><a href="/2017/Investment_rebuttal.pdf">Investment Facilitation
-for Development: Opening the doors of the WTO for hard rules on investment</a></i></b>
+for Development: Opening the doors of the WTO for hard rules on investment</a></i></b>. (12 December 2017)
 </p><p><!--Dec 10-->
-<a href="o/gender-Trojan-horse.html"><b><i>Is “gender” a Trojan horse to introduce new issues at WTO?</i></b></a>
+<a href="o/gender-Trojan-horse.html"><b><i>Is “gender” a Trojan horse to introduce new issues at WTO?</i></b></a>. (10 December 2017)
 </p><p><!--Dec 10-->
-<a href="/2017/IBON_economic_rights.pdf"><b><i>A deadly irony for people’s economic rights as WTO opens talks on International Rights Day</i></b></a>
+<a href="/2017/IBON_economic_rights.pdf"><b><i>A deadly irony for people’s economic rights as WTO opens talks on International Rights Day</i></b></a>. (10 December 2017)
 </p><p><!--Dec 7-->
-<a href="/2017/TWN_DRD_analysis.pdf"><i><b>Analyses of Domestic Regulation Disciplines</b></i></a>
+<a href="/2017/TWN_DRD_analysis.pdf"><i><b>Analyses of Domestic Regulation Disciplines</b></i></a>. (7 December 2017)
 </p><p><!--Dec 7-->
-<a href="/2017/TWN_Africa.pdf"><i><b>What Africa wants at MC11</b></i></a>
+<a href="/2017/TWN_Africa.pdf"><i><b>What Africa wants at MC11</b></i></a>. (7 December 2017)
 </p><p><!--Dec 2-->
 <i><b>Fisheries subsidies negotiations</b>:</i>
 English:
@@ -146,6 +148,7 @@ French:
 Spanish:
 <a href="/2017/PANG_Fisheries_ES.pdf">pdf</a>,
 <a href="/2017/PANG_Fisheries_ES.doc">doc</a>.
+(2 December 2017)
 </p><p><!--Dec 1-->
 <i><b>“Domestic regulation” rules in the WTO</b>:</i>
 English:
@@ -154,11 +157,12 @@ English:
 Spanish:
 <a href="/2017/Domestic_Regulation_ES.pdf">pdf</a>,
 <a href="/2017/Domestic_Regulation_ES.doc">doc</a>.
+(1 December 2017)
 </p><p><!--Dec 1-->
 <i><b>The fourth industrial revolution will deepen the digital divide.</b> Alliance Sud Position on the Eleventh WTO Ministerial Conference:</i>
 <a href="/2017/AS_Digital_divide.pdf">English</a>,
 <a href="/2017/AS_Digital_divide_FR.pdf">French</a>.
-
+(1 December 2017)
 
 
 <h3>Key Analysis: E-commerce</h3>
@@ -173,6 +177,7 @@ French:
 Spanish:
 <a href="/2017/WTO_12_reasons_ES.pdf">pdf</a>,
 <a href="/2017/WTO_12_reasons_ES.doc">doc</a>.
+(May 12, 2017)
 </p><p>
 <i><b>E-commerce and the World Trade Organization<b>:</b></b></i>
 English:
@@ -184,38 +189,44 @@ Spanish:
 French:
 <a href="/2017/ALAI_E-commerce_FR.pdf">pdf</a>,
 <a href="/2017/ALAI_E-commerce_FR.docx">docx</a>.
+(November 17, 2017)
 </p><p>
-<a href="/2017/UNI_Digital_divide.pdf"><i><b>Risk of a deepening of the digital divide</b> – worrisome WTO discussions</i></a>
+<a href="/2017/UNI_Digital_divide.pdf"><i><b>Risk of a deepening of the digital divide</b> – worrisome WTO discussions</i></a>.
+(May 5, 2017)
 </p><p>
-<b><i><a href="/2017/TWN_E-commerce.pdf">Preliminary analysis of aspects of some WTO ecommerce proposals</a></i></b>
+<b><i><a href="/2017/TWN_E-commerce.pdf">Preliminary analysis of aspects of some WTO ecommerce proposals</a></i></b>.
+(December 10, 2017)
 </p><p>
-<b><i><a href="/2017/TWN_Source_code.pdf">Some preliminary implications of WTO source code proposal</a></i></b>
+<b><i><a href="/2017/TWN_Source_code.pdf">Some preliminary implications of WTO source code proposal</a></i></b>.
+(December 10, 2017)
 </p><p>
-<b><i><a href="/2017/TWN_Procurement.pdf">Some of the implications of ecommerce proposals for government procurement</a></i></b>
-
+<b><i><a href="/2017/TWN_Procurement.pdf">Some of the implications of ecommerce proposals for government procurement</a></i></b>.
+(December 10, 2017)
 </p><p>
 <i><b>Micro, small, and medium-sized enterprises (MSMEs) and e-commerce:</b></i>
-English:
 <a href="/2017/Hill_MSMEs_E-commerce.pdf">pdf</a>,
-<a href="/2017/Hill_MSMEs_E-commerce.docx">docx</a>.
+<a href="/2017/Hill_MSMEs_E-commerce.docx">docx</a>. (December 2017)
 </p><p>
-UNCTAD report: <b><i><a href="/2017/UNCTAD_competitiveness.pdf">Rising product digitalisation and losing trade competitiveness</a>.</i></b>
+UNCTAD report: <b><i><a href="/2017/UNCTAD_competitiveness.pdf">Rising product digitalisation and losing trade competitiveness</a>.</i></b> (September 2017)
 </p><p>
-Jane Kelsey: <b><i><a href="/2017/Kelsey_E-commerce.pdf">E-commerce: the development implications of future proofing global trade rules for GAFA</a></i></b>
+Jane Kelsey: <b><i><a href="/2017/Kelsey_E-commerce.pdf">E-commerce: the development implications of future proofing global trade rules for GAFA</a></i></b>. (13 December 2017)
 </p><p>
-<i><b>E-signatures and trade</b>:</i>
-English:
-<a href="/2017/Hill_E-signatures.pdf">pdf</a>.
+<i><a href="/2017/Hill_E-signatures.pdf">E-signatures and trade</b></a></i>.
+(November 2017)
 
 <h3>Key Analysis: Agriculture</h3>
 </p><p>
-<a href="/2017/TWN_Agriculture.pdf"><i><b>Agriculture remains key</b></i></a>
+<a href="/2017/TWN_Agriculture.pdf"><i><b>Agriculture remains key</b></i></a>.
+(22 November 2017)
 </p><p>
-<b><a href="o/agricultural-price-crisis.html"><i>WTO summit to ignore price crisis, agricultural dumping</i></a></b>
+<b><a href="o/agricultural-price-crisis.html"><i>WTO summit to ignore price crisis, agricultural dumping</i></a></b>.
+(December 10, 2017)
 </p><p>
-<b><i><a href="/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i></b>
+<b><i><a href="/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i></b>.
+(December 2017)
 </p><p>
-<b><i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i></b>
+<b><i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i></b>.
+(9 December 2017)
 </p>
 
 <?php

@@ -41,8 +41,11 @@ medical supplies and saving lives</i>:
       <a href="/2020/Fisheries_subsidies.pdf">English</a>,
       <a href="/2020/Fisheries_subsidies_ES.pdf">Spanish</a>,
       <a href="/2020/Fisheries_subsidies_FR.pdf">French</a>.<br>
-      <a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
-(1 April 2020)
+(1 April 2020)
+<ul class="tail">
+  <li><a href="/2020/Fisheries_subsidies_REPLY.pdf">Response from WTO DG Azevêdo</a>.
+      (6 April 2020)
+</ul>
 <p>
 <a href="2019-12-09"><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></a>. (9 December 2019)
 <p>
@@ -72,9 +75,7 @@ medical supplies and saving lives</i>:
 <a href="o/en/signon/global-civil-society-letter-nairobi-ministerial-world-trade-organization-wto.html">English</a>, <a href="o/es/signon/carta-sociedad-civil-acerca-conferencia-ministerial-organizaci-n-mundial-del-comercio-omc-rea.html">Spanish</a>, <a href="o/fr/signon/lettre-soci-t-civile-sur-conf-rence-minist-rielle-nairobi-l-organisation-mondiale-commerce-om.html">French</a>.
 (9 December 2015)
 <p>
-<a href="/2013/OWINFS_WTO_stmt.pdf">
-<i>WTO Turnaround 2013: Food, Jobs and Sustainable
-Development First</i></a> – Statement:
+<i>WTO Turnaround 2013: Food, Jobs and Sustainable Development First</i> – Statement:
 <a href="/2013/OWINFS_WTO_stmt.pdf">English</a>,
 <a href="/2013/OWINFS_WTO_stmt_ES.pdf">Spanish</a>,
 <a href="/2013/OWINFS_WTO_stmt_FR.pdf">French</a>,

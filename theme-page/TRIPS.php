@@ -41,12 +41,13 @@ Statement from the Electronic Information for Libraries (EIFL), “<a href="http
 <a href="2021_CSOs_LDC_extension"><i>Civil Society Letter from 112 Organizations to Members of the WTO Concerning a Further Extension of the Transition Period for LDCs under article 66.1 of the TRIPS Agreement.</i></a> (4 February 2021)
 
 <h2>TRIPS Waiver Related to Covid-19</h2>
-The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/IP/C/W669.pdf&Open=True">joint submission</a> from India and South Africa in the WTO.  
+The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/IP/C/W669.pdf&Open=True">joint submission</a> from India and South Africa in the WTO. (2 October 2020)
 
 <h2>Recent updates</h2>
 
 Letter from over 200 CSOs from around the world, calling on the European Commission and the EU Member States to reconsider its communications to the TRIPS Council and constructively engage in the text-based negotiations of the TRIPS waiver proposal supported by over 100 WTO members. (<a href="/2021/CSOs_to_EU_waiver.pdf">English</a>, <a href="/2021/CSOs_to_EU_waiver_ES.pdf">Spanish</a>, <a href="/2021/CSOs_to_EU_waiver_DE.pdf">German</a>) (29 June 2021)
 <p>
+<div class="noindex">
 Statements from civil society in response to the announcement of support for the TRIPS waiver by the USTR:
 <a href="https://www.citizenstrade.org/ctc/bidens-support-for-trips-waiver-unquestionably-the-right-thing-to-do/">Citizens Trade Campaign</a>;
 <a href="https://cepr.net/press-release/cepr-experts-applaud-us-decision-to-support-waiver-on-ip-protections-for-covid-19-vaccines-propose-next-steps-to-ensure-global-vaccine-access-and-an-end-to-the-pandemic/">Center for Economic and Policy Research</a>;
@@ -57,6 +58,7 @@ Statements from civil society in response to the announcement of support for the
 <a href="https://healthgap.org/press/statement-in-response-to-ustr-announcement-that-the-u-s-will-support-waiving-intellectual-property-protections-for-covid-19-vaccines/">Health GAP</a>;
 <a href="https://infojustice.org/archives/43147">American University Program on Information Justice and Intellectual Property</a>;
 <a href="http://aftinet.org.au/cms/node/2006">Australian Fair Trade and Investment Network</a>. (5 May 2021)
+</div>
 <p>
 <a href="https://ustr.gov/about-us/policy-offices/press-office/press-releases/2021/may/statement-ambassador-katherine-tai-covid-19-trips-waiver">US Expresses Support for the TRIPS Waiver</a>. (5 May 2021)
 <p>

@@ -57,9 +57,13 @@ function index_add_single_href($date, $href, $searchresult, $language, $extra_te
       foreach ($dom->getElementsByTagName('div') as $d) {
         $class=$d->getAttribute('class');
         if ($class=="WordSection1") {
-	  # TWN pages have such a div; the first paragraph is redundant
+	  # many TWN pages have such a div; the first paragraph is redundant
 	  $first_p=$d->getElementsByTagName('p')->item(0);
-	  $d->removeChild($first_p);
+	  try {
+	    $d->removeChild($first_p);
+	  } catch (Exception $e) {
+            echo "Caught exception: Could not directly remove first paragraph of WordSection1 in $href\n";
+          }
           $textcontent.=$d->textContent." ";
         } elseif ($class=="long content") {
 	  # pages from UNCTAD's Drupal
@@ -69,6 +73,7 @@ function index_add_single_href($date, $href, $searchresult, $language, $extra_te
       if ($textcontent=="") {
         $textcontent=$dom->textContent;
       }
+      print $textcontent;
     }
   } elseif (preg_match(',^/\d\d\d\d,',$href)) {
     # local pdf document

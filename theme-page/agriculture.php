@@ -45,7 +45,7 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 <i>Agreement on Agriculture and Food: Preliminary proposal</i>:
 <a href="https://www.sol-asso.fr/wp-content/uploads/2019/01/Agreement-on-Agriculture-and-Food-AoAF-SOLs-proposal-of-22-January-2019.pdf">English</a>,
 <a href="https://www.sol-asso.fr/wp-content/uploads/2019/01/Accord-sur-lagriculture-et-lalimentation-AsAA-de-lOMC-SOL-22-01-2019.pdf">French</a>.
-(Jacques Berthelot, SOL France, January 2019)
+(Jacques Berthelot, SOL France, 22 January 2019)
 
 <p>
 <i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:

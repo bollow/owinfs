@@ -1,0 +1,252 @@
+#!/usr/bin/perl -w
+# typical use:
+# scripts/php2searchdata WTO-MC-page/*.php theme-page/*.php
+-f $ARGV[0] or die "usage: php2searchdata inputfile...\n";
+-f "data/articles" or die "file data/articles not found.\n";
+
+open(IN, "data/articles");
+while (<IN>) {
+  if (/\w\w ([^ ]*?) (.*)/) {
+    my $link_target=$1;
+    my $t=$2;
+    $t=~s/\. \(.*?\)$//;
+    $title{$link_target}=$t;
+  }
+}
+close(IN);
+
+open(IN, "data/extra_nonenglish_titles");
+while (<IN>) {
+  if (/([^ ]*?) (.*)/) {
+    my $link_target=$1;
+    my $t=$2;
+    $title{$link_target}=$t;
+  }
+}
+close(IN);
+
+
+$/=undef;
+
+open (OUT, ">data/searchdata_auto");
+
+for $inputfile (@ARGV) {
+  print "Processing: $inputfile\n";
+  open(IN, $inputfile);
+  $inputdata=<IN>;
+  close(IN);
+
+  # we're looking for paragraphs that contain an article title with link(s) and date
+  $inputdata=~s,<div class="searchable">.*?</div>,,sg; #ignore content which is declared "searchable" even if it contains links
+  $inputdata=~s,<div class="noindex">.*?</div>,,sg; #ignore content which is declared "noindex"
+  $inputdata=~s,<a href="#[^"]*">.*?</a>,,sg; #ignore page-internal links
+  $inputdata=~s,<h.*?>.*?</h.>,<p>,sg; #subheadings are paragraph separators
+  $inputdata=~s,</?i>,,sg; #get rid of <i>...</i> markup
+  $inputdata=~s,</?b>,,sg; #get rid of <b>...</b> markup
+  $inputdata=~s,</?span[^>]*>,,sg; #get rid of <span class="...">...</span> markup
+  $inputdata=~s,<br ?/?>, ,sg; #get rid of <br> markup
+  $inputdata=~s,</p>,,g; #get rid of all </p>
+  $inputdata=~s,</?ul>,<p>,g; #treat list items like separate paragraphs
+  $inputdata=~s,</?ol>,<p>,g;
+  $inputdata=~s,</?li>,<p>,g;
+  for $p (split /<p>/, $inputdata) {
+    my $countlinks = () = $p=~/<a href=/g;
+    next unless $countlinks; #ignore paragraphs without links
+    $p=~s/^\n*//; #get rid of leading newlines
+    $p=~s/\n*$//; #get rid of trailing newlines
+    $p=~s/\n+/ /g; #replace any remaining newlines with " "
+    $p=~s/ / /g; #replace any nonbreaking space characters with ordinary space
+    $p=~s/  +/ /g; #replace any occurances of multiple secutive spaces by a single space
+    if ($countlinks==1) {
+      next if $p=~m,https://www.facebook.com/owinfs/videos/,;
+      $p=~m,(.*?) *<a href="([^"]*)".*?> *(.*?) *</a> *(.*),;
+      my $before_link=$1;
+      my $link_target=$2;
+      my $title=$3 or die "title undefined in $p\n";
+      my $after_link=$4;
+      next if $title=~m,^(See )?here,i; # a link to a page of links, not an article
+      next if $title=~m,^more on,; # a link to a theme page, not an article
+      my $date;
+      if ($after_link=~/\((.*), (.*)\)/) {
+        my $maybe_info=$1;
+	my $maybe_date=$2;
+	if ($maybe_info=~/[A-Z][a-z]+ \d\d?$/) {
+	  # deprecated date format: Month day, year
+	  $date=extract_date($after_link);
+	  $after_link="";
+	} elsif (extract_date($maybe_date)) {
+	  $after_link="($maybe_info)";
+	  $date=extract_date($maybe_date);
+	} elsif (extract_date($after_link)) {
+	  $date=extract_date($after_link);
+	  $after_link="";
+	} else {
+	  die "unrecognized date format: '$after_link' in: $p\n";
+	}
+      } elsif ($after_link=~/, (by .*?)\.? \((.*)\)/) {
+	my $d=$2;
+	$after_link="($1)";
+	$date=extract_date($d) or die "unrecognized date format: '$d' in: $p\n";
+      } elsif ($after_link=~/\d\d/) {
+	$date=extract_date($after_link) or die "unrecognized date format: '$after_link' in: $p\n";
+	$after_link="";
+      } elsif ($p=~/\((.*\d\d)\)/) {
+	my $d=$1;
+	$date=extract_date($d) or die "unrecognized date format: '$d' in: $p\n";
+      } elsif ($p=~/(.*\d\d):/) {
+	my $d=$1;
+	$date=extract_date($d) or die "unrecognized date format: '$d' in: $p\n";
+      } elsif ($p=~/(\d\d\d\d)/) {
+	$date=$1;
+      } else {
+	die "no date found in: $p\n";
+      }
+      print OUT "$date\nen $link_target $before_link|$title|$after_link\n\n";
+    } elsif ($countlinks==2 and
+      $p=~m,(.*?) ?<a href=['"]([^'"]*)['"]>(.*)</a>: <a href=['"][^'"]*['"]>pdf</a>. \((.*)\),) {
+      # case of a content page with an additional pdf link; the pdf link is ignored for indexing
+      # purposes
+      my $before_link=$1;
+      my $link_target=$2;
+      my $title=$3 or die "title undefined in $p\n";
+      my $after_link=$4;
+      my $date;
+      if ($after_link=~/(.*), (.*)/) {
+	$date=$2;
+	$after_link=$1;
+      } else {
+	$date=$after_link;
+	$after_link="";
+      }
+      $date=extract_date($date);
+      print OUT "$date\nen $link_target $before_link|$title|$after_link\n\n";
+    } else {
+      my $date;
+      if ($p=~/\(([^\)]*?\d\d\d?\d?)\)/) {
+	my $d=$1;
+	$date=extract_date($d) or die "unrecognized date format: '$d' in: $p\n";
+      } else {
+	$p=~/,([^,:]*):/;
+	my $d=$1;
+	$date=extract_date($d) or die "unrecognized date format: '$d' in: $p\n";
+      }
+      print OUT "$date\n";
+      if ($p=~/(.*?)[\.:]? (English:.*)/) {
+	my $english_title=$1;
+	my $after_title=$2;
+	my @links= $after_title=~m,[A-Z][a-z]+: *<a href=['"][^'"]*['"]>pdf</a>,g;
+	my $l;
+	for $l (@links) {
+	  $l=~m,([A-Z][a-z]+): *<a href=['"]([^'"]*)['"]>pdf</a>,g;
+	  my $link_target=$2;
+	  my $language=$1;
+	  print OUT language_dependent_line($language, $link_target, $english_title);
+	}
+      } else {
+	$p=~/(.*?):? *<a href=/;
+	my $english_title=$1;
+	my @links= $p=~m,<a href=['"][^'"]*['"]>.*?</a>,g;
+	my $l;
+	for $l (@links) {
+	  $l=~m,<a href=['"]([^'"]*)['"]>(.*?)</a>,g;
+	  my $link_target=$1;
+	  my $language=$2;
+	  next if $language eq "docx" or $language eq "doc";
+	  print OUT language_dependent_line($language, $link_target, $english_title);
+	}
+      }
+      print OUT "\n";
+    }
+  }
+}
+
+sub language_dependent_line {
+  my $language=shift;
+  my $link_target=shift;
+  my $english_title=shift;
+  my $language_code;
+  if ($language eq "English" or $language eq "pdf") {
+    return "en $link_target |$english_title|\n";
+  }
+  if ($language =~ /Spanish/) {
+    $language_code="es";
+  } elsif ($language =~ /French/) {
+    $language_code="fr";
+  } else {
+    print "other language: $language\n";
+    $language_code="other";
+  }
+  $title{$link_target} or die "undefined title for $link_target (language: $language)";
+  return "$language_code $link_target |$title{$link_target}|\n";
+}
+
+sub extract_date {
+  my $d=shift;
+  my $date;
+  my %months=(
+    January => "01",
+    February => "02",
+    March => "03",
+    April => "04",
+    May => "05",
+    June => "06",
+    July => "07",
+    August => "08",
+    September => "09",
+    October => "10",
+    November => "11",
+    December => "12",
+    Jan => "01",
+    Feb => "02",
+    Mar => "03",
+    Apr => "04",
+    Jun => "06",
+    Jul => "07",
+    Aug => "08",
+    Sep => "09",
+    Sept => "09",
+    Oct => "10",
+    Nov => "11",
+    Dec => "12",
+      );
+  if ($d=~/.*,(.*,.*)/) {
+    # more than one comma - being greedy, the first .* will throw away as much as needed
+    # to prevent an incorrect date result
+    $d=$1;
+  }
+  if ($d=~/([A-Z][a-z]+) ?(\d?\d?), (\d\d\d?\d?)\)?$/) {
+    $d="$2 $1 $3";
+  } elsif ($d!~/[A-Z][a-z]+( | )\d\d\d?\d?/ and
+	   $d=~/([A-Z][a-z]+) ?(\d?\d?), (\d\d\d?\d?)/) {
+    $d="$2 $1 $3";
+  }
+  if ($d=~/(\d\d?)( | )([A-Z][a-z]+)( | )(\d\d\d?\d?)/) {
+    my $year=$5;
+    if ($year<100) {
+      $year="20$year";
+    }
+    my $month=$months{$3} or die "unknown month '$3'\n";
+    my $day=$1;
+    if (length($day)==1) {
+      $day="0$day";
+    }
+    $date="$year-$month-$day";
+  } elsif ($d=~/([A-Z][a-z]+)( | )(\d\d\d?\d?)/) {
+    my $year=$3;
+    if ($year<100) {
+      $year="20$year";
+    }
+    my $month=$months{$1} or die "unknown month '$1'\n";
+    $date="$year-$month";
+  } elsif ($d=~/(\d\d\d?\d?)/) {
+    my $year=$1;
+    if ($year<100) {
+      $year="20$year";
+    }
+    $date=$year;
+  }
+  if ($date) {
+    print "$d → $date\n" if length($date)<10;
+    return $date;
+  }
+}
