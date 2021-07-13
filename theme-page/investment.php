@@ -30,6 +30,7 @@ Some WTO Members are negotiating rules on facilitating investment:
 <h2>Statements and Analysis from Civil Society</h2>
 
 <i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
+<a href="/2021/Kelsey_JSI_legitimacy_ES.pdf">Resumen en español</a>.
 (22 June 2021)
 <p>
 <a href="https://twn.my/title2/briefing_papers/investment_facilitation_series/Scope%20of%20IFF%20TWNIF%20Jul%202020%20Mohamadieh.pdf"><i>Scope of an investment facilitation framework: Implications for its developmental claim</i></a>

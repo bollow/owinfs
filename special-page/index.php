@@ -87,6 +87,7 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
 The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place Nov 30 - Dec 3, 2021 in Geneva.
 <p>
 <b><i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i></b>,  by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
+<a href="/2021/Kelsey_JSI_legitimacy_ES.pdf">Resumen en español</a>.
 <p>
 <b><i>Over 200 organizations from 67 countries say:
 “Fundamentally transform the WTO: The WTO’s own policies have caused its
