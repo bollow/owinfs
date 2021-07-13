@@ -101,22 +101,13 @@ December 10, 2017: Statement by Sally Burch:
 </p><p>
 December 13, 2017: <a href="/2017/PR_cs-rights.pdf">Open letter on civil society rights</a>
 
-<h2>Letter from Global Civil Society about the Agenda of the WTO</h2>
-Delivery date: 9 October, 2017
-</p><p>
-<a href="../signon/11th-wto-ministerial-letter-global-civil-society-about-agenda-wto.html">English</a>:
-<a href="/2017/Global_MC11_agenda.pdf">pdf</a>,
-<a href="/2017/Global_MC11_agenda.docx">docx</a>.
-Spanish:
-<a href="/2017/Global_MC11_agenda_ES.pdf">pdf</a>,
-<a href="/2017/Global_MC11_agenda_ES.docx">docx</a>.
-French:
-<a href="/2017/Global_MC11_agenda_FR.pdf">pdf</a>,
-<a href="/2017/Global_MC11_agenda_FR.docx">docx</a>.
-Greek:
-<a href="/2017/Global_MC11_agenda_GR.pdf">pdf</a>,
-<a href="/2017/Global_MC11_agenda_GR.docx">docx</a>.
-
+<h2>About the Agenda of the WTO</h2>
+Letter from Global Civil Society about the Agenda of the WTO: 
+<a href="/2017/Global_MC11_agenda.pdf">English</a>,
+<a href="/2017/Global_MC11_agenda_ES.pdf">Spanish</a>,
+<a href="/2017/Global_MC11_agenda_FR.pdf">French</a>,
+<a href="/2017/Global_MC11_agenda_GR.pdf">Greek</a>.
+(9 October 2017)
 
 <h2>Analysis of key issues for the 11<sup>th</sup> WTO Ministerial</h2>
 

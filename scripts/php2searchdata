@@ -37,28 +37,29 @@ for $inputfile (@ARGV) {
   close(IN);
 
   # we're looking for paragraphs that contain an article title with link(s) and date
+  $inputdata=~s,\<\!\-\-.*?\-\-\>,,sg; #strip comments
   $inputdata=~s,<div class="searchable">.*?</div>,,sg; #ignore content which is declared "searchable" even if it contains links
   $inputdata=~s,<div class="noindex">.*?</div>,,sg; #ignore content which is declared "noindex"
+  $inputdata=~s,</?div.*?>,<p>,sgi; #any remaining <div> or </div> are treated as parapraph separators
   $inputdata=~s,<a href="#[^"]*">.*?</a>,,sg; #ignore page-internal links
-  $inputdata=~s,<h.*?>.*?</h.>,<p>,sg; #subheadings are paragraph separators
-  $inputdata=~s,</?i>,,sg; #get rid of <i>...</i> markup
-  $inputdata=~s,</?b>,,sg; #get rid of <b>...</b> markup
-  $inputdata=~s,</?span[^>]*>,,sg; #get rid of <span class="...">...</span> markup
-  $inputdata=~s,<br ?/?>, ,sg; #get rid of <br> markup
-  $inputdata=~s,</p>,,g; #get rid of all </p>
-  $inputdata=~s,</?ul>,<p>,g; #treat list items like separate paragraphs
-  $inputdata=~s,</?ol>,<p>,g;
-  $inputdata=~s,</?li>,<p>,g;
-  for $p (split /<p>/, $inputdata) {
+  $inputdata=~s,<h.*?>.*?</h.>,<p>,sgi; #subheadings are paragraph separators
+  $inputdata=~s,</?i>,,sgi; #get rid of <i>...</i> markup
+  $inputdata=~s,</?b>,,sgi; #get rid of <b>...</b> markup
+  $inputdata=~s,</?span[^>]*>,,sgi; #get rid of <span class="...">...</span> markup
+  $inputdata=~s,<br ?/?>, ,sgi; #get rid of <br> markup
+  $inputdata=~s,</p>,,gi; #get rid of all </p>
+  $inputdata=~s,</?ul>,<p>,gi; #treat list items like separate paragraphs
+  $inputdata=~s,</?ol>,<p>,gi;
+  $inputdata=~s,</?li>,<p>,gi;
+  for $p (split /<p>/i, $inputdata) {
     my $countlinks = () = $p=~/<a href=/g;
     next unless $countlinks; #ignore paragraphs without links
     $p=~s/^\n*//; #get rid of leading newlines
     $p=~s/\n*$//; #get rid of trailing newlines
     $p=~s/\n+/ /g; #replace any remaining newlines with " "
     $p=~s/ / /g; #replace any nonbreaking space characters with ordinary space
-    $p=~s/  +/ /g; #replace any occurances of multiple secutive spaces by a single space
+    $p=~s/  +/ /g; #replace any occurances of multiple consecutive spaces by a single space
     if ($countlinks==1) {
-      next if $p=~m,https://www.facebook.com/owinfs/videos/,;
       $p=~m,(.*?) *<a href="([^"]*)".*?> *(.*?) *</a> *(.*),;
       my $before_link=$1;
       my $link_target=$2;
@@ -214,7 +215,7 @@ sub extract_date {
     # to prevent an incorrect date result
     $d=$1;
   }
-  if ($d=~/([A-Z][a-z]+) ?(\d?\d?), (\d\d\d?\d?)\)?$/) {
+  if ($d=~/([A-Z][a-z]+) ?(\d?\d?), (\d\d\d?\d?)\)? ?$/) {
     $d="$2 $1 $3";
   } elsif ($d!~/[A-Z][a-z]+( | )\d\d\d?\d?/ and
 	   $d=~/([A-Z][a-z]+) ?(\d?\d?), (\d\d\d?\d?)/) {

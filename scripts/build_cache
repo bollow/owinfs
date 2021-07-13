@@ -1,0 +1,32 @@
+#!/usr/bin/perl -w
+# build a cache of all linked-to pages
+# typical use:
+# scripts/build_cache WTO-MC-page/*.php theme-page/*.php
+-f $ARGV[0] or die "usage: build_cache inputfile...\n";
+$cache_dir="/srv/cache";
+-d $cache_dir or die "Error: Cache directory $cache_dir does not exist.\n";
+-w $cache_dir or die "Error: Cache directory $cache_dir is not writable.\n";
+
+$/=undef;
+$inputdata="";
+for $inputfile (@ARGV) {
+  print "Loading: $inputfile\n";
+  open(IN, $inputfile);
+  $inputdata.=<IN>;
+  close(IN);
+}
+
+chdir($cache_dir) or die "Error: Cannot chdir to cache directory $cache_dir\n";
+@links= $inputdata=~m,<a href=['"](http[^'"]*)['"],g;
+for $url (@links) {
+  $url=~m,://(.*),;
+  my $target_file=$1;
+  next if $target_file=~/^(www\.)?facebook\.com/;
+  next if $target_file=~/^(www\.)?cepr\.net/;
+  next if $target_file=~/^(www\.)?alainet\.org/;
+  next if $target_file=~/^(www\.)?twn\.my/;
+  $cmd="wget --force-directories --no-clobber '$url'";
+  print "$cmd\n";
+  system($cmd);
+  sleep 10;
+}

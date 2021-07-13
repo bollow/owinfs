@@ -15,12 +15,14 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
 
       <div id="content-area">
+<div class="searchable">
 The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place November 30 - December 3, 2021 in Geneva. Corporate boosters are advocating for expanding the failed model of the WTO through plurilateral agreements on
 <a href="#investment">investment facilitation</a>,
 <a href="#services">domestic regulation of services</a> and
 <a href="#digital">digital trade</a> (so-called e-commerce). They are also pursuing an agreement to discipline
 <a href="#fish">fisheries subsidies</a>, but without the mandate on development. Instead, negotiators should focus on transforming the existing rules to allow countries to pursue development and shared prosperity, in areas such as <a href="#agriculture">agriculture</a>,
 <a href="TRIPS">TRIPS</a>, and the <a href="#SDT">development agenda</a>.
+</div>
 <p>
 <i>Over 200 organizations from 67 countries say:
 “Fundamentally transform the WTO: The WTO’s own policies have caused its

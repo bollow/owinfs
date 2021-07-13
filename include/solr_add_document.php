@@ -1,6 +1,8 @@
 <?php
 include 'include/solr_connect_cfg.php';
 include 'include/date_format.php';
+define('CACHE_DIR', '/srv/cache');
+
 function index_add_text($date, $id, $searchresult, $language, $extra_text, $text) {
   $options = array
   (
@@ -45,14 +47,26 @@ function pdf_html_textcontent($html) {
 
 function index_add_single_href($date, $href, $searchresult, $language, $extra_text) {
   if (strncasecmp($href,"http",4)==0) {
-    # a remote pdf document or html page
+    # a remote pdf document or html page; if it isn't in the cache, we index only the title
+    $file=preg_replace(',^https?:/,i', CACHE_DIR, $href);
+    $file=preg_replace(',/$,', '/index.html', $file);
+    if (!file_exists($file)) {
+      print "$href not cached; indexing without textcontent\n";
+      index_add_text($date, $href, $searchresult, $language, $extra_text, "");
+      return;
+    }
     if (preg_match(',\.pdf$,i', $href)) {
-      $html=shell_exec("java -jar ".TIKA_PATH." $href");
+      $html=shell_exec("java -jar ".TIKA_PATH." file://$file");
       $textcontent=pdf_html_textcontent($html);
     } else {
-      # assume it's html
+      # assume it's html; this code also works correctly if it's actually plain text provided
+      # that that text does not contain matches for what is done to remove certain annoying
+      # parts of the html
       $dom=new DOMDocument();
-      $dom->loadHTMLFile($href);
+      $html=file_get_contents($file);
+      $html=preg_replace(',<script.*?</script>,si','',$html);
+      $html=preg_replace(',<style.*?</style>,si','',$html);
+      $dom->loadHTML($html);
       $textcontent="";
       foreach ($dom->getElementsByTagName('div') as $d) {
         $class=$d->getAttribute('class');
@@ -75,13 +89,16 @@ function index_add_single_href($date, $href, $searchresult, $language, $extra_te
       }
       print $textcontent;
     }
-  } elseif (preg_match(',^/\d\d\d\d,',$href)) {
+  } elseif (preg_match(',^/\d\d\d\d/,',$href)) {
     # local pdf document
     $html=shell_exec("java -jar ".TIKA_PATH." file://".DOCUMENT_ROOT.$href);
     $textcontent=pdf_html_textcontent($html);
   } else {
     # local html document
     $file=DOCUMENT_ROOT.$href.".html";
+    if (!preg_match(',\.html?$,i',$file)) {
+      $file.=".html";
+    }
     $dom=new DOMDocument();
     $dom->loadHTMLFile($file);
     if ($date=="9999") {
@@ -149,7 +166,7 @@ function index_add($date, $linkdata) {
       }
       $searchresult.=".";
     } elseif (strlen($after_title)>0
-              and ($title[-1]=="." or $title[-1]=="?" or $title[-1]=="!")) {
+              and ($title[strlen($title)-1]=="." or $title[strlen($title)-1]=="?" or $title[strlen($title)-1]=="!")) {
       $searchresult="$before_title <a href='$href'>$title</a> $after_title";
     } else {
       $searchresult="$before_title <a href='$href'>$title</a>. $after_title";
