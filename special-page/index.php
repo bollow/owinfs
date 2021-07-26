@@ -178,7 +178,7 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <h2><a href="digital">Digital trade</a></h2>
 Some countries are pushing for anti-development, anti-public interest and pro-Big Tech rules in the WTO under the guise of “e&#8209;commerce.”
 <p>
-<b><i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i></b>
+<b><i>Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</i></b>: <a href="/digital-trade-rules">English</a>, <a href="/digital-trade-rules_ES">Spanish</a>
 <p>
 <b><i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i></b>
 <p>

@@ -196,7 +196,9 @@ Spanish:
 (Sachin Kumar Jain, 9 December 2017)
 
 <h2><a href="digital" id="digital">Digital trade</a></h2>
-<i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>. (2020)
+<i>Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</i>:
+<a href="/digital-trade-rules">English</a>,
+<a href="/digital-trade-rules_ES">Spanish</a>. (2020)
 <p>
 <i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i>. (30 April 2020)
 <p>

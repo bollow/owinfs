@@ -78,7 +78,9 @@ French: <a href="/2018/CSOs_Africa_FR.pdf">pdf</a>, <a href="/2018/CSOs_Africa_F
 Economic and Fiscal Implications for the South</i></a>.
 (February 2021)
 <p>
-<i><a href="/digital-trade-rules">Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</a></i>. (2020)
+<i>Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</i>:
+<a href="/digital-trade-rules">English</a>,
+<a href="/digital-trade-rules_ES">Spanish</a>. (2020)
 <p>
 <i><a href="https://twn.my/title2/wto.info/2020/ti200812.htm">How ‘digital trade’ rules would impede taxation of the digitalised economy in the Global South</a></i>
 (Third World Network (TWN), August 2020)
