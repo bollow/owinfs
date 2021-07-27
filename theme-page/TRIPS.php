@@ -45,7 +45,11 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 
 <h2>Recent updates</h2>
 
-Letter from over 200 CSOs from around the world, calling on the European Commission and the EU Member States to reconsider its communications to the TRIPS Council and constructively engage in the text-based negotiations of the TRIPS waiver proposal supported by over 100 WTO members. (<a href="/2021/CSOs_to_EU_waiver.pdf">English</a>, <a href="/2021/CSOs_to_EU_waiver_ES.pdf">Spanish</a>, <a href="/2021/CSOs_to_EU_waiver_DE.pdf">German</a>) (29 June 2021)
+<a href="https://publicservices.international/resources/news/why-is-merkel-damaging-germanys-global-reputation---and-her-legacy---for-the-sake-of-pharma-profits?id=12038&lang=en"><i>Why is Merkel damaging Germany’s global reputation — and her legacy — for the sake of pharma profits?</i></a> (by PSI General Secretary Rosa Pavanelli, 20 July 2021)
+<p>
+Statement by public sector labor unions: <a href="/2021/PSI_TRIPS_Germany.pdf"><i>EU’s commitment urgently needed on vaccine scale up and TRIPS waiver</i></a>. (14 July 2021)
+<p>
+Letter from over 200 CSOs from around the world, <i>calling on the European Commission and the EU Member States to reconsider its communications to the TRIPS Council and constructively engage in the text-based negotiations of the TRIPS waiver proposal supported by over 100 WTO members</i>. (<a href="/2021/CSOs_to_EU_waiver.pdf">English</a>, <a href="/2021/CSOs_to_EU_waiver_ES.pdf">Spanish</a>, <a href="/2021/CSOs_to_EU_waiver_DE.pdf">German</a>) (29 June 2021)
 <p>
 <div class="noindex">
 Statements from civil society in response to the announcement of support for the TRIPS waiver by the USTR:
@@ -60,34 +64,34 @@ Statements from civil society in response to the announcement of support for the
 <a href="http://aftinet.org.au/cms/node/2006">Australian Fair Trade and Investment Network</a>. (5 May 2021)
 </div>
 <p>
-<a href="https://ustr.gov/about-us/policy-offices/press-office/press-releases/2021/may/statement-ambassador-katherine-tai-covid-19-trips-waiver">US Expresses Support for the TRIPS Waiver</a>. (5 May 2021)
+<a href="https://ustr.gov/about-us/policy-offices/press-office/press-releases/2021/may/statement-ambassador-katherine-tai-covid-19-trips-waiver"><i>US Expresses Support for the TRIPS Waiver</i></a>. (5 May 2021)
 <p>
-<a href="2021_US_Congress_letter">Letter from 110 Members of U.S. Congress to President Biden: Majority of Democratic Caucus call on White House to support TRIPS waiver for global vaccine access</a> (4 May 2021)
+<a href="2021_US_Congress_letter"><i>Letter from 110 Members of U.S. Congress to President Biden: Majority of Democratic Caucus call on White House to support TRIPS waiver for global vaccine access</i></a>. (4 May 2021)
 <p>
-<a href="https://www.bu.edu/gdp/2021/04/22/letter-to-the-ustr-and-eu-trade-commissioner-support-pandemic-recovery-for-least-developed-countries/">Academics’ letter to the USTR and EU Trade Commissioner: Support Pandemic Recovery for Least Developed Countries</a>
+<a href="https://www.bu.edu/gdp/2021/04/22/letter-to-the-ustr-and-eu-trade-commissioner-support-pandemic-recovery-for-least-developed-countries/"><i>Academics’ letter to the USTR and EU Trade Commissioner: Support Pandemic Recovery for Least Developed Countries</i></a>.
 (April 22, 2021)
 <p>
-<a href="https://haiweb.org/wp-content/uploads/2021/04/Joint-MP-MEP-Appeal-TRIPS-waiver-EN-FR-DE-ES-IT-April-2021.pdf">Joint appeal by 388 members of the European Parliament and of European national parliaments urging the EU and its member states to support a TRIPS waiver</a> (April 21, 2021)
+<a href="https://haiweb.org/wp-content/uploads/2021/04/Joint-MP-MEP-Appeal-TRIPS-waiver-EN-FR-DE-ES-IT-April-2021.pdf"><i>Joint appeal by 388 members of the European Parliament and of European national parliaments urging the EU and its member states to support a TRIPS waiver</i></a>. (April 21, 2021)
 <p>
-<a href="2021/Former_world_leaders.pdf">Former world leaders call on Biden to suspend Covid-19 vaccine patents</a> (Financial Times, April 15, 2021)
+<a href="2021/Former_world_leaders.pdf"><i>Former world leaders call on Biden to suspend Covid-19 vaccine patents</i></a>. (Financial Times, April 15, 2021)
 <p>
-<a href="2021-04-14_PVA-letter">FORMER HEADS OF STATE AND NOBEL LAUREATES CALL ON PRESIDENT BIDEN TO WAIVE INTELLECTUAL PROPERTY RULES FOR COVID VACCINES</a> (April 14, 2021)
+<a href="2021-04-14_PVA-letter">Former heads of state and Nobel laureates call on President Biden to waive intellectual property rules for COVID vaccines</a>. (April 14, 2021)
 <p>
-<a href="https://progressive.international/wire/2021-04-15-large-majority-of-us-voters-support-patent-waiver-on-covid-19-vaccines/en">Large majority of US voters support patent waiver on Covid-19 vaccines</a>
+<a href="https://progressive.international/wire/2021-04-15-large-majority-of-us-voters-support-patent-waiver-on-covid-19-vaccines/en"><i>Large majority of US voters support patent waiver on Covid-19 vaccines</i></a>
 (Progressive International, April 15, 2021)
 <p>
-<a href="https://www.twn.my/title2/intellectual_property/trips_waiver_proposal/CSOLetter_Dr.%20Ngozi.pdf">250 civil society organizations from around the world call on WTO Director General to facilitate a waiver on TRIPS to save lives</a>
+<a href="https://www.twn.my/title2/intellectual_property/trips_waiver_proposal/CSOLetter_Dr.%20Ngozi.pdf"><i>250 civil society organizations from around the world call on WTO Director General to facilitate a waiver on TRIPS to save lives</i></a>.
 (April 13, 2021)
 <p>
-<a href="https://newrepublic.com/article/162000/bill-gates-impeded-global-access-covid-vaccines">How Bill Gates Impeded Global Access to Covid Vaccines</a>: Through his hallowed foundation, the world’s de facto public health czar has been a stalwart defender of monopoly medicine (April 12, 2021)
+<a href="https://newrepublic.com/article/162000/bill-gates-impeded-global-access-covid-vaccines"><i>How Bill Gates Impeded Global Access to Covid Vaccines</i></a>: Through his hallowed foundation, the world’s de facto public health czar has been a stalwart defender of monopoly medicine. (April 12, 2021)
 <p>
-<a href="https://therevolvingdoorproject.org/pharma-in-the-white-house-financial-disclosures-reveal-officials-stake-in-vaccine-manufacturers/">Pharma In The White House: Financial Disclosures Reveal Officials' Stake In Vaccine Manufacturers</a>
+<a href="https://therevolvingdoorproject.org/pharma-in-the-white-house-financial-disclosures-reveal-officials-stake-in-vaccine-manufacturers/"><i>Pharma In The White House: Financial Disclosures Reveal Officials' Stake In Vaccine Manufacturers</i></a>.
 (Revolving Door Project, March 29, 2021)
 <p>
-<a href="https://www.livemint.com/news/india/european-parliamentarians-support-proposal-for-trips-waiver-on-covid-vaccine/amp-11616654484560.html">More than 50 European MEPs back proposal for TRIPS waiver on vaccines</a>
+<a href="https://www.livemint.com/news/india/european-parliamentarians-support-proposal-for-trips-waiver-on-covid-vaccine/amp-11616654484560.html"><i>More than 50 European MEPs back proposal for TRIPS waiver on vaccines</i></a>.
 (Livemint, March 26, 2021)
 <p>
-<a href="https://www.twn.my/title2/health.info/2021/hi210310.htm">Over 250 CSOs &amp; researchers join call in support of TRIPS waiver</a>
+<a href="https://www.twn.my/title2/health.info/2021/hi210310.htm"><i>Over 250 CSOs &amp; researchers join call in support of TRIPS waiver</i></a>.
 (TWN News Service, March 24, 2021)
 
 
