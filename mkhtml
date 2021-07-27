@@ -24,6 +24,7 @@ for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2021_transform_WTO 2021_transform_WTO_ES 2021_transform_WTO_FR \
 	 2012_OWINFS_UNCTAD13 2012_OWINFS_UNCTAD13_ES 2012_OWINFS_UNCTAD13_FR \
 	 2012_OWINFS_UNCTAD13_PT 2016_speech_UNCTAD14 \
-	 2021_MEPs_LDC_extension 2021_CSOs_LDC_extension 2021-06-10_Leterme ; do
+	 2021_MEPs_LDC_extension 2021_CSOs_LDC_extension 2021-06-10_Leterme \
+	 2021_SOL_China+India 2021_SOL_China+India_FR ; do
   php contentitem-page/$i.php > $i.html
 done

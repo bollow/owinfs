@@ -75,6 +75,13 @@ Current demands of OWINFS with regards to Policy Space for Development include:
 </ul>
 </div>
 
+<h2>Current Analysis from Civil Society</h2>
+
+<i>The developing country status of China and India at the WTO is largely justified</i>:
+<a href="2021_SOL_China+India">English</a>,
+<a href="2021_SOL_China+India_FR">French</a>.
+(Jacques Berthelot, SOL France, 25 July 2021)
+
 <h2>Key Analysis of SDT Proposals</h2>
 
 <i><a href="https://www.southcentre.int/book-by-the-south-centre-2020-3/">WTO reform and the crisis of multilateralism – A developing country perspective</a></i>.
