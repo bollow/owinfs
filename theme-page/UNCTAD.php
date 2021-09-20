@@ -35,7 +35,16 @@ OWINFS is working in collaboration with the Financing for Development CSO Group 
 <h2>Towards UNCTAD XV (2021)</h2>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
 <p>
-<i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD</a></i>:
+<i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i>. (22-24 September 2021)
+<p>
+<i><a href="/2021/Data_flows_UNCTAD_mandate.pdf">Letter on UNCTAD mandate language on data flows</a></i>. (18 September 2021)
+<p>
+<i><a href="/2021/Gender_justice_UNCTAD.pdf">Gender justice requires a broad mandate for UNCTAD</a></i>. (17 September 2021)
+<p>
+<i><a href="2021_CSO_summary_UNCTAD_mandate">The assault on UNCTAD’s mandate must be reversed</a></i>:
+<a href="/2021/CSO_summary_UNCTAD_mandate.pdf">pdf</a>. (15 September 2021)
+<p>
+<i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD Secretariat</a></i>:
 <a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">pdf</a>.
 (6 April 2021)
 <p>

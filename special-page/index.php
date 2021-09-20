@@ -169,7 +169,15 @@ Rich countries have blocked the development agenda since the founding of the WTO
 <h2><a href="UNCTAD">UNCTAD</a></h2>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
 <p>
-<b><i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD</a></i></b>
+<b><i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i></b>
+<p>
+<b><i><a href="/2021/Data_flows_UNCTAD_mandate.pdf">Letter on UNCTAD mandate language on data flows</a></i></b>
+<p>
+<b><i><a href="/2021/Gender_justice_UNCTAD.pdf">Gender justice requires a broad mandate for UNCTAD</a></i></b>
+<p>
+<b><i><a href="2021_CSO_summary_UNCTAD_mandate">The assault on UNCTAD’s mandate must be reversed</a></i></b>
+<p>
+<b><i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD Secretariat</a></i></b>
 <p>
 <b><a href="/2021/TWN_UNCTAD_issues.pdf"><i>TWN Brief on key issues for developing countries while negotiations continue on UNCTAD XV</i></a></b>
 <p>

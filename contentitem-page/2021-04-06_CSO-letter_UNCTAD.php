@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$html_title="";
+$html_title="Letter from CSOs to UNCTAD Secretariat";
 include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
@@ -13,7 +13,7 @@ include 'include/navbar.php';
       <div id="content" class="singlecolumn">
 <a href="/2021/CSOs_to_UNCTAD_2021-04-06.pdf">pdf</a>
         <div id="content-header">
-          <h1 class="title">Letter from CSOs to UNCTAD</h1>
+          <h1 class="title">Letter from CSOs to UNCTAD Secretariat</h1>
 	  <h4></h4>
         </div> <!-- /#content-header -->
 
