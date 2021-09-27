@@ -44,7 +44,9 @@ Statement from the Electronic Information for Libraries (EIFL), “<a href="http
 The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/IP/C/W669.pdf&Open=True">joint submission</a> from India and South Africa in the WTO. (2 October 2020)
 
 <h2>Recent updates</h2>
-
+<p>
+PSI (Public Services International): <a href="https://publicservices.international/campaigns/waive-wto-copyrights-on-covid-19-medical-products?id=11380&lang=en">Waive WTO copyrights on Covid-19 medical products!</a> (31 August 2021)
+<p>
 <a href="https://publicservices.international/resources/news/why-is-merkel-damaging-germanys-global-reputation---and-her-legacy---for-the-sake-of-pharma-profits?id=12038&lang=en"><i>Why is Merkel damaging Germany’s global reputation — and her legacy — for the sake of pharma profits?</i></a> (by PSI General Secretary Rosa Pavanelli, 20 July 2021)
 <p>
 Statement by public sector labor unions: <a href="/2021/PSI_TRIPS_Germany.pdf"><i>EU’s commitment urgently needed on vaccine scale up and TRIPS waiver</i></a>. (14 July 2021)
