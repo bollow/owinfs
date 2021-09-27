@@ -18,6 +18,12 @@ include 'include/navbar.php';
         
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
+<p>
+<i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i>:
+<a href="/2021_WTO-Turnaround">English</a>,
+<a href="/2021_WTO-Turnaround_ES">Spanish</a>,
+<a href="/2021_WTO-Turnaround_FR">French</a>. (27 September 2021)
+<p>
 <i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
 <a href="/2021/Kelsey_JSI_legitimacy_ES.pdf">Resumen en español</a>.
 (22 June 2021)

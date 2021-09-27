@@ -49,6 +49,12 @@ include 'include/navbar.php';
 
 
 <h2><a href="WTO-process">WTO reform</a></h2>
+
+<b><i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i></b>:
+<a href="2021_WTO-Turnaround">English</a>,
+<a href="2021_WTO-Turnaround_ES">Spanish</a>,
+<a href="2021_WTO-Turnaround_FR">French</a>.
+<p>
 <a href="2019-12-09"><b><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></b></a>
 <p>
 <a href="/2019/20_years.pdf"><b><i>The WTO 20 years after the 'battle of Seattle'</i></b></a>
@@ -85,6 +91,13 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
       <div class="col">
 <h1><a href="MC12">Towards MC12</a></h1>
 The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place Nov 30 - Dec 3, 2021 in Geneva.
+<p>
+<b><i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i></b>:
+<a href="2021_WTO-Turnaround">English</a>,
+<a href="2021_WTO-Turnaround_ES">Spanish</a>,
+<a href="2021_WTO-Turnaround_FR">French</a>.
+<p>
+<b><i><a href="/2021/CS-events_WTO-PF.pdf">Civil Society (free, virtual) Events at the WTO Public Forum (28 September - 1 October 2021)</a></i></b>.
 <p>
 <b><i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i></b>,  by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
 <a href="/2021/Kelsey_JSI_legitimacy_ES.pdf">Resumen en español</a>.
@@ -170,6 +183,8 @@ Rich countries have blocked the development agenda since the founding of the WTO
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
 <p>
 <b><i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i></b>
+<p>
+<b><i><a href="/2021_L_UNCTAD_mandate">Letter on trade, investment, digitalization, climate issues in the UNCTAD mandate</a></i></b>
 <p>
 <b><i><a href="/2021/Data_flows_UNCTAD_mandate.pdf">Letter on UNCTAD mandate language on data flows</a></i></b>
 <p>

@@ -24,6 +24,13 @@ The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place
 <a href="TRIPS">TRIPS</a>, and the <a href="#SDT">development agenda</a>.
 </div>
 <p>
+<i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i>:
+<a href="2021_WTO-Turnaround">English</a>,
+<a href="2021_WTO-Turnaround_ES">Spanish</a>,
+<a href="2021_WTO-Turnaround_FR">French</a>.
+<p>
+<i><a href="/2021/CS-events_WTO-PF.pdf">Civil Society (free, virtual) Events at the WTO Public Forum (28 September - 1 October 2021)</a></i>.
+<p>
 <i>Over 200 organizations from 67 countries say:
 “Fundamentally transform the WTO: The WTO’s own policies have caused its
 existential crisis, which the COVID-19 crisis only amplified”</i>:

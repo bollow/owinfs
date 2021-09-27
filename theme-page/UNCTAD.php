@@ -37,6 +37,8 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <p>
 <i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i>. (22-24 September 2021)
 <p>
+<i><a href="/2021/L_UNCTAD_mandate">Letter on trade, investment, digitalization, climate issues in the UNCTAD mandate</a></i>. (23 September 2021)
+<p>
 <i><a href="/2021/Data_flows_UNCTAD_mandate.pdf">Letter on UNCTAD mandate language on data flows</a></i>. (18 September 2021)
 <p>
 <i><a href="/2021/Gender_justice_UNCTAD.pdf">Gender justice requires a broad mandate for UNCTAD</a></i>. (17 September 2021)
