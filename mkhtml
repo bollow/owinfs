@@ -28,6 +28,7 @@ for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2021_SOL_China+India 2021_SOL_China+India_FR \
 	 2021_CSO_summary_UNCTAD_mandate 2021_L_UNCTAD_mandate \
 	 R_WTO-Turnaround 2021_WTO-Turnaround 2021_WTO-Turnaround_ES 2021_WTO-Turnaround_FR \
+	 2021_WTO-PF_5 2021_WTO-PF_7 2021_WTO-PF_55 \
 	 ; do
   php contentitem-page/$i.php > $i.html
 done

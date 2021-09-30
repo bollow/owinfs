@@ -9,6 +9,11 @@ $sidebar_title="Welcome to OWINFS";
 include 'include/sidebar_about.php';
 include 'include/navbar.php';
 ?>    <div id="content" class="columns">
+<!--
+&nbsp;&nbsp;&nbsp;<font color="red">WTO Public Forum:</font><br>
+&nbsp;&nbsp;&nbsp;<font color="red"><b>LIVE — Streaming now:</b></font> <b><a href="2021_WTO-PF_55">Agriculture & WTO in the time of a pandemic: Looking towards MC12</a></b>
+<p>
+-->
       <div class="col">
 
 
@@ -200,6 +205,8 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 
 <h2><a href="digital">Digital trade</a></h2>
 Some countries are pushing for anti-development, anti-public interest and pro-Big Tech rules in the WTO under the guise of “e&#8209;commerce.”
+<p>
+<b><i><a href="/2021/Build_back_better.pdf">Building back better with e-commerce: A feminist roadmap</a></i></b>
 <p>
 <b><i>Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</i></b>: <a href="/digital-trade-rules">English</a>, <a href="/digital-trade-rules_ES">Spanish</a>
 <p>
