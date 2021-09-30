@@ -69,7 +69,9 @@ French: <a href="/2018/CSOs_Africa_FR.pdf">pdf</a>, <a href="/2018/CSOs_Africa_F
 
 
 <h2 id="2">Key new reports</h2>
-
+<p>
+<i><a href="/2021/Build_back_better.pdf">Building back better with e-commerce: A feminist roadmap</a></i>. (September 2021)
+<p>
 <i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
 <a href="/2021/Kelsey_JSI_legitimacy_ES.pdf">Resumen en español</a>.
 (22 June 2021)
