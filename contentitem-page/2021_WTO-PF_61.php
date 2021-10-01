@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$html_title="2021 WTO Public Forum: 55. Agriculture &amp; WTO in the time of a pandemic: Looking towards MC12";
+$html_title="2021 WTO Public Forum: 61: Conditions for appropriate e-commerce in developing countries";
 include 'include/head_etc_with_videojs.php'
 ?>
     <div id="main" class="group">
@@ -12,9 +12,10 @@ include 'include/navbar.php';
 
       <div id="content" class="singlecolumn">
         <div id="content-header">
-          <h1 class="title">Agriculture &amp; WTO in the time of a pandemic: Looking towards MC12</h1>
-	  <h4>Thursday, 30 September 2021, 11:30 - 12:30 CEST</h4>
+          <h1 class="title">61: Conditions for appropriate e-commerce in developing countries</h1>
+	  <h4>Thursday, 30 September 2021, 13:30 - 14:30 CEST</h4>
         </div> <!-- /#content-header -->
+A session at the <a href="https://wtopf21.org/">WTO Public Forum</a>, restreamed…
   <video
     id="my-video"
     class="video-js"
@@ -22,10 +23,9 @@ include 'include/navbar.php';
     preload="auto"
     width="640"
     height="264"
-    poster="https://ourworldisnotforsale.net/55.jpg"
     data-setup="{}"
   >
-    <source src="https://owinfs.abidable.world/hls/wtopf-oiCuhUG6gFxB-55.m3u8" type="application/vnd.apple.mpegurl" />
+    <source src="https://owinfs.abidable.world/hls/wtopf-oiCuhUG6gFxB-61.m3u8" type="application/vnd.apple.mpegurl" />
     <p class="vjs-no-js">
       To view this video please enable JavaScript, and consider upgrading to a
       web browser that

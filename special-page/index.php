@@ -9,11 +9,14 @@ $sidebar_title="Welcome to OWINFS";
 include 'include/sidebar_about.php';
 include 'include/navbar.php';
 ?>    <div id="content" class="columns">
-<!--
-&nbsp;&nbsp;&nbsp;<font color="red">WTO Public Forum:</font><br>
-&nbsp;&nbsp;&nbsp;<font color="red"><b>LIVE — Streaming now:</b></font> <b><a href="2021_WTO-PF_55">Agriculture & WTO in the time of a pandemic: Looking towards MC12</a></b>
+&nbsp;&nbsp;&nbsp;<font color="red"><b>LIVE — Streaming now:</b></font><font color="red"> from the WTO Public Forum:</font><br>
+&nbsp;&nbsp;&nbsp;<b><a href="2021_WTO-PF_80">80. Data as a stock-in-trade in global trade: Looking beyond
+outdated notions around data flows</a>.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Fri 1 Oct, 10:00 - 11:00 CEST</b>
+&nbsp;&nbsp;&nbsp;<b><a href="2021_WTO-PF_79">79. Substantive and Legal Implications of the JSIs for Development
+and Strengthening the Multilateral<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trading System</a>.
+Fri 1 Oct, 10:00 - 11:00 CEST</b>
 <p>
--->
       <div class="col">
 
 
