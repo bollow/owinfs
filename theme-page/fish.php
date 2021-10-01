@@ -22,7 +22,8 @@ The Sustainable Development Goal 14.6 has the target to “prohibit certain form
 </div>
 
 <h2>Statements and analysis from civil society</h2>
-
+<i><a href="https://pina.com.fj/2021/09/23/wto-fisheries-subsidies-process-changes-to-disadvantage-developing-countries/">WTO Fisheries subsidies process changes to disadvantage developing countries</a></i>. (23 September 2021)
+<p>
 <i><a href="/2021/R_fisheries_subsidies.pdf">Global talks on Fisheries subsidies must target big subsidisers not development</a></i>.
 (13 July 2021)
 <p>
@@ -86,7 +87,36 @@ Spanish:
 <i><a href="http://wtocentre.iift.ac.in/FA/CWS%20review%20of%20%20WTO%20Fisheries%20Subsidies%20negotiations%20issues%202017.pdf">A review of fisheries subsidies issues in the context of WTO rules negotiations</a></i>. (Centre for WTO Studies, November 2016)
 
 <h2>News and updates on the negotiations</h2>
-
+<i><a href="https://twn.my/title2/wto.info/2021/ti210924.htm">WTO: ACP, African Group, India draw markers for balanced fisheries deal</a></i>, by D. Ravi Kanth. (27 September 2021)
+<p>
+<i><a href="https://pina.com.fj/2021/09/23/wto-fisheries-subsidies-process-changes-to-disadvantage-developing-countries/">WTO Fisheries subsidies process changes to disadvantage developing countries</a></i>, by Pita Ligaiula, PACNEWS. (23 September 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210902.htm">South countries concerned over securing S&amp;DT to their fisheries sector</a></i>, by D. Ravi Kanth. (2 September 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210803.htm">Chair of fisheries subsidies talks issues a &quot;course correction&quot; at WTO</a></i>, by D. Ravi Kanth. (4 August 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210722.htm">WTO DG's funding mechanism on fisheries fails to address core issues</a></i>, by D. Ravi Kanth. (25 July 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210719.htm">Ministers declare fisheries text as imbalanced &amp; preserves the status-quo</a></i>, by D. Ravi Kanth. (19 July 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210714.htm">Attempts to deny S&amp;DT to South in fisheries subsidies disciplines</a></i>, by D. Ravi Kanth. (15 July 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210712.htm">CSOs urge ministers to safeguard interests of small-scale fishers</a></i>, by D. Ravi Kanth. (14 July 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210706.htm">Questions posed to ministers on fisheries tilted against interests of South</a></i>, by D. Ravi Kanth. (7 July 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210703.htm">New draft fisheries text remains inimical to interests of Global South</a></i>, by D. Ravi Kanth. (2 July 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210618.htm">WTO DG expects ministers to act as &quot;good cop, bad cop&quot; in fishery talks</a></i>, by D. Ravi Kanth. (29 June 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210604.htm">Hypocritical positions, double-standards mark proposed WTO fisheries deal</a></i>, by D. Ravi Kanth. (10 June 2021)
+<p>
+  <i><a href="https://twn.my/title2/wto.info/2021/ti210602.htm">Developed countries support harmful fisheries subsidies at WTO</a></i>, by D. Ravi Kanth. (4 June 2021) 
+<p>
+  <i><a href="https://twn.my/title2/wto.info/2021/ti210519.htm">Developing countries express grave concern on latest fisheries text</a></i>, by D. Ravi Kanth. (27 May 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210515.htm">Rules chair's latest fisheries text seen as &quot;asymmetrical&quot;</a></i>, by D. Ravi Kanth. (17 May 2021)
+<p>
  <i><a href="https://twn.my/title2/wto.info/2021/ti210413.htm">WTO DG to convene virtual ministerial on fisheries end-July</a></i>, by D. Ravi Kanth. (23 April 2021) 
 <p>
  <i><a href="https://twn.my/title2/wto.info/2021/ti210403.htm">Agreement on fisheries subsidies trumps TRIPS waiver &amp; AB impasse</a></i>, by D. Ravi Kanth. (8 April 2021) 
