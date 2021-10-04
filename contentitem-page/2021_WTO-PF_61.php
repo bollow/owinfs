@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
-$html_title="2021 WTO Public Forum: 61: Conditions for appropriate e-commerce in developing countries";
-include 'include/head_etc_with_videojs.php'
+$html_title="2021 WTO Public Forum: 61. Conditions for appropriate e-commerce in developing countries";
+include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
 <?php
@@ -12,34 +12,42 @@ include 'include/navbar.php';
 
       <div id="content" class="singlecolumn">
         <div id="content-header">
-          <h1 class="title">61: Conditions for appropriate e-commerce in developing countries</h1>
+          <h1 class="title">61. Conditions for appropriate e-commerce in developing countries</h1>
 	  <h4>Thursday, 30 September 2021, 13:30 - 14:30 CEST</h4>
         </div> <!-- /#content-header -->
-A session at the <a href="https://wtopf21.org/">WTO Public Forum</a>, restreamed…
-  <video
-    id="my-video"
-    class="video-js"
-    controls
-    preload="auto"
-    width="640"
-    height="264"
-    data-setup="{}"
-  >
-    <source src="https://owinfs.abidable.world/hls/wtopf-oiCuhUG6gFxB-61.m3u8" type="application/vnd.apple.mpegurl" />
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank"
-        >supports HTML video</a
-      >
-    </p>
-  </video>
-
-  <script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
+A session at the <a href="https://wtopf21.org/">WTO Public Forum</a>.
+        <p>
+        <div id="content-area" class="video-with-context">
+	  <video width="568" height="320" poster="" controls>
+            <source src="/2021/WTO-PF_61.mp4" type="video/mp4">
+            Your browser does not support the video tag. You can still access the video
+	    through <a href="/2021/WTO-PF_61.mp4">this link</a>.
+          </video> 
 <p>
-Global agricultural production and trade, though relatively stable during the pandemic, are soon expected to be severely impacted. FAO has pointed towards the threats to food security, livelihoods and incomes and the need for corrective financial & trade policies. Key outstanding issues are on the table as we go towards the 12th Ministerial Conference. There are also new recommendations from 2020 suggesting an open trade regime. However, addressing the real needs of the pandemic necessitates a methodical assessment of the current needs vis a vis the current negotiations, mapping of the range of Member States’ positions and designing a responsive architecture for agriculture. The Working Session will explore; how MC12 can address the additional challenges posed by the pandemic, and what a reshaped agricultural trade agreement or negotiations spanning outstanding issues on the table along with newer solutions could look like, and what will be its key elements and principles. 
+Even before COVID-19, e-commerce was already the most important engine of world trade. A few
+countries and companies, however, have garnered the lion’s share of benefits from this ongoing
+process - especially the US and China and their digital platforms. The COVID crisis has not changedthis undesirable development, and may possibly accelerate it. At the same time, trade talks are
+ongoing at the WTO towards a plurilateral agreement on e-commerce. While transnational
+corporations are calling for a free flow of data, India, South Africa and some other developing
+countries, and even the EU, seek to establish data sovereignty. They are presenting new policies in
+this regard, including with data localisation requirements. Does there exist an in-between solution
+that would be best for developing countries? How should digital trade and data laws be designed for
+inclusion and poverty reduction? What could be WTO’s role in achieving this goal?
 <p>
-Organized by the Third World Network Trust India (TWN India); Madhyam Trust India; Society for International Development Italy (SID) 
+Panellists:
+<ul class="tail">
+  <li>Torbjörn Fredriksson, Chief at ICT Policy Section , UNCTAD
+  <li>Parminder Jeet Singh, Executive director , IT for Change, India
+  <li>Africa Kiiza, Program Coordinator Trade Policies and Negotiations, Southern and Eastern
+  <li>Africa Trade Information and Negotiations Institute, Uganda
+  <li>Vahini Naidu, Coordinator of the Trade for Development Program, South Centre
+</ul>
+<p>
+Moderator:
+<ul class="tail">
+  <li>Sven Hilbig, Policy Advisor Trade Policy and Digitalization, Bread for the World
+</ul>
+Organized by Bread for the World,
 <p>
 
 

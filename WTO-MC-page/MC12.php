@@ -30,10 +30,16 @@ The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place
 <a href="2021_WTO-Turnaround_FR">French</a>.
 <p>
 <i><a href="/2021/CS-events_WTO-PF.pdf">Civil Society (free, virtual) Events at the WTO Public Forum (28 September - 1 October 2021)</a></i>.
-<!--<ul class="tail">
-  <li><font color="red"><b>LIVE — Streaming now:</b></font> <a href="2021_WTO-PF_5">A WTO Reform agenda in support of decent work and just development</a>
-  <li><font color="red"><b>LIVE — Streaming now:</b></font> <a href="2021_WTO-PF_7">Copyright, trade and a TRIPS waiver for COVID</a>
-</ul>-->
+<ul class="tail">
+  <li><a href="2021_WTO-PF_22">22. Strengthening and streamlining national law responses beyond
+COVID- 19: Trade and intellectual property rules in the context of access
+to health technologies</a>. (29 September 2021)
+  <li><a href="2021_WTO-PF_61">61. Conditions for appropriate e-commerce in developing countries</a>. (30 September 2021)
+  <li><a href="2021_WTO-PF_72">72. MC12: What outcomes would strengthen multilateralism?</a>
+    (30 September 2021)
+  <li><a href="2021_WTO-PF_80">80. Data as a stock-in-trade in global trade: Looking beyond outdated
+notions around data flows</a>. (1 October 2021)
+</ul>
 <p>
 <i>Over 200 organizations from 67 countries say:
 “Fundamentally transform the WTO: The WTO’s own policies have caused its

@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
-$html_title="2021 WTO Public Forum: ";
-include 'include/head_etc_with_videojs.php'
+$html_title="2021 WTO Public Forum: Data as a stock-in-trade in global trade: Looking beyond outdated notions around data flows";
+include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
 <?php
@@ -15,28 +15,14 @@ include 'include/navbar.php';
           <h1 class="title">80. Data as a stock-in-trade in global trade: Looking beyond outdated notions around data flows</h1>
 	  <h4>Friday, 1 October 2021, 10:00 - 11:00 CEST</h4>
         </div> <!-- /#content-header -->
-A session at the <a href="https://wtopf21.org/">WTO Public Forum</a>, restreamed…
-
-  <video
-    id="my-video"
-    class="video-js"
-    controls
-    preload="auto"
-    width="640"
-    height="264"
-    data-setup="{}"
-  >
-    <source src="https://owinfs.abidable.world/hls/wtopf-oiCuhUG6gFxB-80.m3u8" type="application/vnd.apple.mpegurl" />
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank"
-        >supports HTML video</a
-      >
-    </p>
-  </video>
-
-  <script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
+A session at the <a href="https://wtopf21.org/">WTO Public Forum</a>.
+        <p>
+        <div id="content-area" class="video-with-context">
+	  <video width="568" height="320" poster="" controls>
+            <source src="/2021/WTO-PF_80.mp4" type="video/mp4">
+            Your browser does not support the video tag. You can still access the video
+	    through <a href="/2021/WTO-PF_80.mp4">this link</a>.
+          </video> 
 <p>
 Speakers:
 <ul class="tail">

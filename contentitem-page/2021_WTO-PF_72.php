@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 $html_title="2021 WTO Public Forum: MC12: What outcomes would strengthen multilateralism?";
-include 'include/head_etc_with_videojs.php'
+include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
 <?php
@@ -12,31 +12,17 @@ include 'include/navbar.php';
 
       <div id="content" class="singlecolumn">
         <div id="content-header">
-          <h1 class="title">MC12: What outcomes would strengthen multilateralism?</h1>
+          <h1 class="title">72. MC12: What outcomes would strengthen multilateralism?</h1>
 	  <h4>Thursday, 30 September 2021, 16:30 - 17:30 CEST</h4>
         </div> <!-- /#content-header -->
-A session at the <a href="https://wtopf21.org/">WTO Public Forum</a>, restreamed…
-[Note: Outside of the time of the session, the video player will display an “The media could not be loaded” error. Please reload the page after the session has started.]
-<video
-    id="my-video"
-    class="video-js"
-    controls
-    preload="auto"
-    width="640"
-    height="264"
-    data-setup="{}"
-  >
-    <source src="https://owinfs.abidable.world/hls/wtopf-oiCuhUG6gFxB-72.m3u8" type="application/vnd.apple.mpegurl" />
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank"
-        >supports HTML video</a
-      >
-    </p>
-  </video>
-
-  <script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
+A session at the <a href="https://wtopf21.org/">WTO Public Forum</a>.
+        <p>
+        <div id="content-area" class="video-with-context">
+	  <video width="568" height="320" poster="" controls>
+            <source src="/2021/WTO-PF_72.mp4" type="video/mp4">
+            Your browser does not support the video tag. You can still access the video
+	    through <a href="/2021/WTO-PF_72.mp4">this link</a>.
+          </video> 
 <p>
 Speakers:
 <ul>
