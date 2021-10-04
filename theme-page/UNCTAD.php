@@ -35,6 +35,14 @@ OWINFS is working in collaboration with the Financing for Development CSO Group 
 <h2>Towards UNCTAD XV (2021)</h2>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
 <p>
+<i><a href="/2021/Sachs+Weisbrot.pdf">Letter from Jeffrey Sachs, Director of the Center for Sustainable Development at Columbia University and Mark Weisbrot, Co-Director of the Center for Economic and Policy Research, Washington D.C. to UNCTAD Member States urging them to mandate UNCTAD to expand its work on financial and trade-related unilateral coercive measures</a></i>. (4 October 2021)
+<p>
+<i><a href="/2021/PSI_UNCTAD_mandate.pdf">Letter from Public Services International (PSI) Global Union Federation of more than 700 trade unions representing 30 million workers in 154 countries, to UNCTAD member states, urging them to strengthen UNCTAD’s mandate on tax, debt, finance, and trade for development</a></i>. (3 October 2021)
+<br>
+<i><a href="/2021/PSI-EPSU_UNCTAD_mandate.pdf">Similar Letter from PSI and EPSU to UNCTAD European member states</a></i>. (3 October 2021)
+<p>
+<i>Letters from the European Trade Union Confederation (ETUC) and the International Trade Union Confederation (ITUC) to <a href="/2021/ETUC-ITUC_to_MEPs.pdf">Members of the European Parliament</a> of the International Trade Committee; and to Madelaine Tuininga at the <a href="/2021/ETUC-ITUC_to_Tuininga.pdf">Directorate-General for Trade of the European Commission</a></i>. (30 September 2021)
+<p>
 <i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i>. (22-24 September 2021)
 <p>
 <i><a href="/2021/L_UNCTAD_mandate">Letter on trade, investment, digitalization, climate issues in the UNCTAD mandate</a></i>. (23 September 2021)

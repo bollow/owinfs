@@ -9,14 +9,6 @@ $sidebar_title="Welcome to OWINFS";
 include 'include/sidebar_about.php';
 include 'include/navbar.php';
 ?>    <div id="content" class="columns">
-&nbsp;&nbsp;&nbsp;<font color="red"><b>LIVE — Streaming now:</b></font><font color="red"> from the WTO Public Forum:</font><br>
-&nbsp;&nbsp;&nbsp;<b><a href="2021_WTO-PF_80">80. Data as a stock-in-trade in global trade: Looking beyond
-outdated notions around data flows</a>.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Fri 1 Oct, 10:00 - 11:00 CEST</b>
-&nbsp;&nbsp;&nbsp;<b><a href="2021_WTO-PF_79">79. Substantive and Legal Implications of the JSIs for Development
-and Strengthening the Multilateral<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trading System</a>.
-Fri 1 Oct, 10:00 - 11:00 CEST</b>
-<p>
       <div class="col">
 
 
@@ -189,6 +181,12 @@ Rich countries have blocked the development agenda since the founding of the WTO
       <div class="col">
 <h2><a href="UNCTAD">UNCTAD</a></h2>
 UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
+<p>
+<b><i><a href="/2021/Sachs+Weisbrot.pdf">Letter from Jeffrey Sachs and Mark Weisbrot to UNCTAD Member States on unilateral coercive measures</a></i></b>
+<p>
+<b><i><a href="/2021/PSI_UNCTAD_mandate.pdf">Letter from Public Services International (PSI) to UNCTAD member states urging them to strengthen UNCTAD’s mandate on tax, debt, finance, and trade for development</a></i></b>
+<p>
+<b><i><a href="/2021/PSI-EPSU_UNCTAD_mandate.pdf">Similar Letter from PSI and EPSU to UNCTAD European member states</a></i></b>
 <p>
 <b><i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i></b>
 <p>
