@@ -41,6 +41,8 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <br>
 <i><a href="/2021/PSI-EPSU_UNCTAD_mandate.pdf">Similar Letter from PSI and EPSU to UNCTAD European member states</a></i>. (3 October 2021)
 <p>
+<i><a href="/2021/CS_decl_UNCTAD_XV.pdf">Civil Society Declaration for UNCTAD XV, Bridgetown, Barbados</a></i>. (30 September 2021)
+<p>
 <i>Letters from the European Trade Union Confederation (ETUC) and the International Trade Union Confederation (ITUC) to <a href="/2021/ETUC-ITUC_to_MEPs.pdf">Members of the European Parliament</a> of the International Trade Committee; and to Madelaine Tuininga at the <a href="/2021/ETUC-ITUC_to_Tuininga.pdf">Directorate-General for Trade of the European Commission</a></i>. (30 September 2021)
 <p>
 <i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i>. (22-24 September 2021)

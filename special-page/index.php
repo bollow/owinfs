@@ -188,6 +188,8 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <p>
 <b><i><a href="/2021/PSI-EPSU_UNCTAD_mandate.pdf">Similar Letter from PSI and EPSU to UNCTAD European member states</a></i></b>
 <p>
+<b><i><a href="/2021/CS_decl_UNCTAD_XV.pdf">Civil Society Declaration for UNCTAD XV, Bridgetown, Barbados</a></i></b>
+<p>
 <b><i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i></b>
 <p>
 <b><i><a href="/2021_L_UNCTAD_mandate">Letter on trade, investment, digitalization, climate issues in the UNCTAD mandate</a></i></b>
