@@ -49,7 +49,7 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 <a href="2021_transform_WTO_FR">French</a>. (28 April 2021)
 <p>
 <i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>. (26 April 2021)
-
+<!--MAYBE_RECENT_DOCUMENTS-->
 <h2>COVID-19 crisis</h2>
 
 <i><a href="http://wtocentre.iift.ac.in/PolicyBrief/Policy_brief_1.pdf">Seeking market access behind the veil of combating COVID-19</a></i>.

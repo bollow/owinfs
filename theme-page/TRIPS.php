@@ -44,6 +44,7 @@ Statement from the Electronic Information for Libraries (EIFL), “<a href="http
 The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/IP/C/W669.pdf&Open=True">joint submission</a> from India and South Africa in the WTO. (2 October 2020)
 
 <h2>Recent updates</h2>
+<a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham "Walker Process" and in Favor of the TRIPS Waiver</a> (19 November 2021)
 <p>
 PSI (Public Services International): <a href="https://publicservices.international/campaigns/waive-wto-copyrights-on-covid-19-medical-products?id=11380&lang=en">Waive WTO copyrights on Covid-19 medical products!</a> (31 August 2021)
 <p>

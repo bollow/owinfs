@@ -92,6 +92,9 @@ Development First</b></i> – Statement (Oct  28, 2013)</b>:
 <h1><a href="MC12">Towards MC12</a></h1>
 The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place Nov 30 - Dec 3, 2021 in Geneva.
 <p>
+<!--MAYBE_RECENT_DOCUMENTS-->
+<b><i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham "Walker Process" and in Favor of the TRIPS Waiver</a></i></b>
+<p>
 <b><i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i></b>:
 <a href="2021_WTO-Turnaround">English</a>,
 <a href="2021_WTO-Turnaround_ES">Spanish</a>,
