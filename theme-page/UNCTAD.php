@@ -47,13 +47,13 @@ UNCTAD XV quadrennial conference is scheduled to take place virtually on October
 <p>
 <i><a href="/2021/UNCTAD_CSO_Forum_agenda.pdf">UNCTAD CSO Forum Agenda</a></i>. (22-24 September 2021)
 <p>
-<i><a href="/2021/L_UNCTAD_mandate">Letter on trade, investment, digitalization, climate issues in the UNCTAD mandate</a></i>. (23 September 2021)
+<i><a href="/2021/L_UNCTAD_mandate">Letter on Trade, Investment, Digitalization, Climate Issues in the UNCTAD mandate</a></i>, by CSOs, coordinated by OWINFS. (23 September 2021)
 <p>
-<i><a href="/2021/Data_flows_UNCTAD_mandate.pdf">Letter on UNCTAD mandate language on data flows</a></i>. (18 September 2021)
+<i><a href="/2021/Data_flows_UNCTAD_mandate.pdf">Letter on UNCTAD mandate language on data flows</a></i>, by IT for Change. (18 September 2021)
 <p>
-<i><a href="/2021/Gender_justice_UNCTAD.pdf">Gender justice requires a broad mandate for UNCTAD</a></i>. (17 September 2021)
+<i><a href="/2021/Gender_justice_UNCTAD.pdf">Gender Justice Requires a Broad Mandate for UNCTAD</a></i>, by the Gender and Trade Coalition. (17 September 2021)
 <p>
-<i><a href="2021_CSO_summary_UNCTAD_mandate">The assault on UNCTAD’s mandate must be reversed</a></i>:
+<i><a href="2021_CSO_summary_UNCTAD_mandate">The Assault on UNCTAD’s Mandate Must be Reversed</a>, statement on research pillar, trade, technology, climate, Palestine, taxation, Financing for Development (FfD) and debt issues by CSOs, coordinated by OWINFS</i>:
 <a href="/2021/CSO_summary_UNCTAD_mandate.pdf">pdf</a>. (15 September 2021)
 <p>
 <i><a href="2021-04-06_CSO-letter_UNCTAD">Letter from CSOs to UNCTAD Secretariat</a></i>:
