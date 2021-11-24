@@ -36,7 +36,10 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 </div>
 
 <h2>Civil Society Statements and Analysis</h2>
-
+<p>
+<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">Agricultural negotiations for MC12: A factsheet for developing countries</a></i>.
+(13 November 2021)
+<p>
 <i>Rebuilding the WTO for a sustainable global development</i>:
 <a href="https://www.sol-asso.fr/wp-content/uploads/2020/01/Rebuilding-the-WTO-for-a-sustainable-global-development-J.-Berthelot-July-12-2020.pdf">English</a>,
 <a href="https://www.sol-asso.fr/wp-content/uploads/2020/01/Reconstruire-lOMC-pour-un-d%C3%A9veloppement-plan%C3%A9taire-durable-J.-Berthelot-12-juillet-2020.pdf">French</a>.
@@ -67,6 +70,15 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Other Key Analysis</h2>
 <p>
+<i><a href="https://wtocentre.iift.ac.in/PolicyBrief/CWS_Policy%20Brief%20Domestic%20Support.pdf">Agriculture Negotiations at WTO MC12: Analysing Domestic Support</a></i>.
+(Abhijit Das, Sachin Kumar Sharma, Paavni Mathur, and Teesta Lahiri, September 2021)
+<p>
+<i><a href="https://wtocentre.iift.ac.in/PolicyBrief/CWS_Policy%20Brief%20on%20Market%20Access.pdf">Agriculture Negotiations at WTO MC12: Analysing Market Access</a></i>.
+(Abhijit Das, Sachin Kumar Sharma, Raihan Akhter, and Suvayan Neogi, September 2021)
+<p>
+<i><a href="https://wtocentre.iift.ac.in/workingpaper/et%20al_chair%20text_wto.pdf">Agricultural domestic support negotiations at the 12th WTO Ministerial Conference: Diluting the Development Agenda</a></i>
+(Sachin Kumar Sharma, Abhijit Das, Suvayan Neogi, Teesta Lahiri and Paavni Mathur, September 2021)
+<p>
  <i><a href="http://wtocentre.iift.ac.in/workingpaper/WorkingPaper64.pdf">Disciplining Trade-Distorting Support to Cotton in the US: An Unfinished Agenda in WTO Negotiations</a></i>. (Centre for WTO Studies, India, January 2021) 
 <p>
  <i><a href="http://wtocentre.iift.ac.in/workingpaper/Working%20Paper%2063.pdf">A Quantitative Analysis of Proposals on Domestic Support in WTO Agriculture Negotiations: Need for Reaffirming the Development Agenda</a></i>. (Centre for WTO Studies, India, September 2020) 
@@ -77,6 +89,28 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Articles &amp; Updates on the Negotiations</h2>
 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211012.htm">South unlikely to secure credible outcomes on agriculture at MC12</a></i>, by D. Ravi Kanth. (13 October 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210926.htm">WTO: FAO highlights importance of permanent solution for public stockholding</a></i>, by D. Ravi Kanth. (29 September 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210919.htm">India presses for outcome on public stockholding at MC12</a></i>, by D. Ravi Kanth. (20 September 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210908.htm">South countries criticize draft agri-text for creating unlevel playing field</a></i>, by D. Ravi Kanth. (13 September 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210904.htm">Doha Agriculture chair says her draft text is not ideal solution</a></i>, by D. Ravi Kanth. (6 September 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210809.htm">WTO Green Box subsidies: Recent trends and lessons going forward</a></i>, by Ranja Sengupta. (25 August 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210801.htm">Agriculture: Chair's draft ministerial decisions could harm interests of South</a></i>, by D. Ravi Kanth. (3 August 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210727.htm">Indonesia calls for outcome on permanent solution on PSH at MC12</a></i>, by D. Ravi Kanth. (30 July 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210713.htm">African Group exposes damage caused by trade-distorting farm subsidies</a></i>, by D. Ravi Kanth. (15 July 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210711.htm">African Group calls for robust deal on public stockholding at MC12</a></i>, by D. Ravi Kanth. (13 July 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210521.htm">Dim prospects for outcome on farm subsidies at MC12</a></i>, by D. Ravi Kanth. (31 May 2021) 
 <p>
  <i><a href="https://www.twn.my/title2/wto.info/2021/ti210208.htm">Agriculture talks in disarray over assault on development, S&amp;DT issues</a></i>, by D. Ravi Kanth. (10 February 2021)  
 <p>

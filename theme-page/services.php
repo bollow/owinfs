@@ -39,6 +39,9 @@ OWINFS members have long maintained core demands with regards to services in the
 </div>
 
 <h2>Current Civil Society Statements and Analysis</h2>
+<p>
+<i><a href="https://twn.my/title2/briefing_papers/twn/Domestic%20regulation%20TWNBP%20Oct%202021%20Kelsey.pdf">Briefing note on Services Domestic Regulation JSI text of 27 September 2021 (INF/SDR/1)</a></i> (Jane Kelsey, TWN, October 2021) 
+<p>
 <i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
 <a href="/2021/Kelsey_JSI_legitimacy_ES.pdf">Resumen en español</a>.
 (22 June 2021)
@@ -66,6 +69,9 @@ Spanish:
 Book: <i><a href="https://movendi.ngo/wp-content/uploads/2015/03/POLITICAL-ECONOMY-Serving-whose-interests-the-political-economy-of-international-trade-in-service.pdf">Serving Whose Interests? The political economy of trade in services agreements.</i></a>
 (Jane Kelsey, Routledge Cavendish, 2008)
 
+<h2>FINAL TEXT</h2>
+WTO Members negotiating a non-mandated plurilateral agreement for new disciplines on Domestic Regulation finalized their text, called a Reference Paper. In contravention to WTO rules, this Reference Paper was first published AFTER the text was finalized: <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/INF/SDR/1.pdf&Open=True">JOINT INITIATIVE ON SERVICES DOMESTIC REGULATION REFERENCE PAPER ON SERVICES DOMESTIC REGULATION</a>. (27 September 2021)
+
 <h2>Leaked Texts</h2>
 <i><a href="https://bilaterals.org/?wto-plurilateral-services-domestic-43658">WTO plurilateral services domestic regulation disciplines draft schedules</a></i>.
 These are the services sectors they are proposing the new rules would apply to.
@@ -77,6 +83,26 @@ These are the services sectors they are proposing the new rules would apply to.
 
 <h2>Some Articles &amp; Updates on the Negotiations</h2>
  
+<p>
+<i><a href="https://www.wto.org/english/news_e/news21_e/jssdr_05nov21_e.htm">Participants make headway in finalizing negotiations on services domestic regulation at MC12</a></i>, WTO News. (4 November 2021)
+<p>
+<i><a href="https://www.wto.org/english/news_e/news21_e/serv_25oct21_e.htm">Participants on track to conclude negotiations on services domestic regulation at MC12</a></i>, WTO News. (25 October 2021)
+<p>
+<span style='font-size:10.0pt;font-family:"Arial",sans-serif'><i><a href="https://twn.my/title2/wto.info/2021/ti211024.htm">Developing countries to lose from digital services tax of OECD</a></i>, by D. Ravi Kanth. (26 October 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210720.htm">JSI on services domestic regulation leads to plurilateralization at WTO</a></i>, by D. Ravi Kanth. (22 July 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210710.htm">Growing &quot;lawlessness&quot; at WTO ahead of MC12</a></i>, by D. Ravi Kanth. (12 July 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210510.htm">JSIs lack legal status, fragments WTO</a></i>, by D. Ravi Kanth. (10 May 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210506.htm">WTO DG acknowledges her &quot;mistake&quot; on JSIs</a></i>, by D. Ravi Kanth. (5 May 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210306.htm">Proponents fail to respond to challenge over legal status of JSIs</a></i>, by D. Ravi Kanth. (4 March 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210301.htm">Members sharply divided on WTO reform, fisheries subsidies &amp; JSIs</a></i>, by D. Ravi Kanth. (1 March 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210217.htm">JSIs will erode WTO's multilateral rules-based architecture</a></i>, by D. Ravi Kanth. (24 February 2021) 
 <p>
  <i><a href="https://www.twn.my/title2/wto.info/2020/ti200805.htm">Renewed JSI efforts to extend e-com duties moratorium to services</a></i>, by D. Ravi Kanth. (6 August 2020) 
 <p>

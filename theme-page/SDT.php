@@ -45,6 +45,12 @@ Unfortunately, in recent years, not only have developed countries opposed change
 Civil society has long called for the transformation of the current global rules. Many civil society demands align with the development agenda of strengthening SDT.
 </div>
 <p>
+<b><i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i></b>:
+<a href="2021_WTO-Turnaround">English</a>,
+<a href="2021_WTO-Turnaround_ES">Spanish</a>,
+<a href="2021_WTO-Turnaround_FR">French</a>.
+(September 2021)
+<p>
 <b><i>Letter from Global Civil Society about the Agenda of the WTO</i></b>, October 9, 2017:<br>
 English:
 <a href="/2017/Global_MC11_agenda.pdf">pdf</a>,
@@ -77,6 +83,9 @@ Current demands of OWINFS with regards to Policy Space for Development include:
 
 <h2>Current Analysis from Civil Society</h2>
 
+<p>
+<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>. (14 November 2021)
+<p>
 <i>The developing country status of China and India at the WTO is largely justified</i>:
 <a href="2021_SOL_China+India">English</a>,
 <a href="2021_SOL_China+India_FR">French</a>.
@@ -100,7 +109,25 @@ This research paper examines the US’ Section 301 unilateral actions against Ch
 <div class="noindex">Paragraph 44 of the 2001 Doha Ministerial Declaration mandates the ‘strengthening’ of Special and Differential Treatment (S&amp;D) provisions in the WTO Agreement, and making them ‘more precise, effective and operational’. This Note tracks the evolution of these negotiations from the start of the Doha Round in 2001 until the Nairobi Ministerial in December 2015.</div>
 
 <h2>Key Updates &amp; Articles on the Negotiations</h2>
- 
+
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211023.htm">Danger of WTO's Doha MC4 in 2001 repeating itself at MC12 in 2021</a></i>, by D. Ravi Kanth. (26 October 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210923.htm">US calls for post-MC12 action plan while Doha issues are marginalized</a></i>, by TWN. (27 September 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210902.htm">South countries concerned over securing S&amp;DT to their fisheries sector</a></i>, by D. Ravi Kanth. (2 September 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210807.htm">South faces moment of truth on development issues in run-up to MC12</a></i>, by D. Ravi Kanth. (13 August 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210728.htm">G90 calls for outcome on S&amp;DT at MC12</a></i>, by D. Ravi Kanth. (30 July 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210723.htm">South countries warn credibility of WTO hangs in balance at MC12</a></i>, by D. Ravi Kanth. (27 July 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210715.htm">WTO DG makes &quot;outlandish&quot; remarks on S&amp;DT at US think-tank</a></i>, by D. Ravi Kanth. (16 July 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210420.htm">North refuses to engage on S&amp;DT provisions on TBT, customs valuation</a></i>, by D. Ravi Kanth. (30 April 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210210.htm">Work begins on G90 proposals on improvements in S&amp;DT provisions</a></i>, by D. Ravi Kanth. (12 February 2021) 
 <p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti210323.htm">Updated TWN Briefing paper on International negotiations by virtual means in the time of the COVID-19 pandemic</a></i>. (24 March 2021) 
 <p>

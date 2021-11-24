@@ -25,48 +25,24 @@ Some countries are pushing for anti-development, anti-public interest and pro-Bi
 <p>
 <b>Table of contents:</b>
 <ol>
-  <li><a href="#1">Statements from civil society</a>
+  <li><a href="#1">Leaked Text</a>
   <li><a href="#2">Key new reports</a>
-  <li><a href="#3">Introductory articles</a>
-  <li><a href="#4">General Analysis of problems with the proposed negotiations on digital trade</a>
-  <li><a href="#5">Detailed analysis of problems with specific proposed provisions on digital trade</a>
-  <li><a href="#6">Data as a Public Good, and Digital Industrialization for Development</a>
-  <li><a href="#7">Updates and articles on the negotiations</a>
+  <li><a href="#3">Statements from civil society</a>
+  <li><a href="#4">Introductory articles</a>
+  <li><a href="#5">General Analysis of problems with the proposed negotiations on digital trade</a>
+  <li><a href="#6">Detailed analysis of problems with specific proposed provisions on digital trade</a>
+  <li><a href="#7">Data as a Public Good, and Digital Industrialization for Development</a>
+  <li><a href="#8">Updates and articles on the negotiations</a>
 </ol>
 
-<h2 id="1">Statements from civil society</h2>
-<a href="Stiglitz"><i>Prof. Stiglitz on digital trade</i></a> (3 min video, 12 April 2019)
 
-<p>
-
-<i>Letter from 315 CSOs from 90+ countries against Digital Trade talks in the WTO</i>:
-<a href="/2019/Digital_trade_2019-04-01-en.pdf">English</a>,
-<a href="/2019/Digital_trade_2019-04-01-es.pdf">Spanish</a>,
-<a href="/2019/Digital_trade_2019-04-01-fr.pdf">French</a>.
-(1 April 2019)
-<p>
-<i>Statement against E-commerce Rules in the WTO</i>:
-<a href="/2019/Digital_trade_WEF.pdf">pdf</a>
-<a href="/2019/Digital_trade_WEF.docx">docx</a>
-(25 January 2019)
-<p>
-<a href="/2019/JNC_Digital_colonisation.pdf"><i>E-commerce negotiations being launched at the WEF
-are really about rules for digital colonisation</i></a>
-(29 December 2018)
-<p>
-<i>Statement from Civil Society Organizations working on eCommerce for Development, on the
-Africa eCommerce Week and Outcomes</i>, 14 December 2018:
-English: <a href="/2018/CSOs_Africa.pdf">pdf</a>, <a href="/2018/CSOs_Africa.docx">docx</a>.
-French: <a href="/2018/CSOs_Africa_FR.pdf">pdf</a>, <a href="/2018/CSOs_Africa_FR.docx">docx</a>.
-<p>
-<i>MSME associations reject MSMEs work program and ecommerce rules in WTO:</i>
-<a href="/2017/R_MSMEs_reject.pdf">English</a>,
-<a href="/2017/R_MSMEs_reject_ES.pdf">Spanish</a>.
-(13 December 2017)
-<p>
-<i><a href="/2017/Feminist_stmt.pdf">Statement by women’s rights organisations rejecting the WTO Declaration on Women’s Economic Empowerment</a></i>
-(12 December 2017)
-
+<h2 id="1">Leaked text</h2>
+The following documents have been leaked at <a href="https://www.bilaterals.org/?-other-292-">https://www.bilaterals.org/?-other-292-</a>
+<ul>
+ <li>WTO plurilateral ecommerce draft consolidated revised text of 8 September 2021. 
+ <li>WTO plurilateral ecommerce draft consolidated text of 14 December 2020. 
+ <li>WTO plurilateral ecommerce stocktake text as of August 2020. 
+</ul>
 
 <h2 id="2">Key new reports</h2>
 <p>
@@ -101,8 +77,47 @@ Economic and Fiscal Implications for the South</i></a>.
 (26 June 2019)
 <p>
 
+<h2 id="3">Statements from civil society</h2>
 
-<h2 id="3">Introductory articles</h2>
+<i><a href="https://tradejusticeedfundorg.files.wordpress.com/2021/11/digitaltradeletter_final_110221-1.pdf ">In Letter to U.S. President, 53 Labor, Civil Rights, Consumer & other Organizations warn about harmful provisions in “Digital Trade” pacts: Big tech’s Trojan horse strategy to undermine government oversight, anti-trust accountability exposed ahead of APEC summit</a></i>. (2 November 2021)
+<p>
+<i><a href="2021_WTO-PF_80">Data as a stock-in-trade in global trade: Looking beyond outdated
+notions around data flows</a></i> (Civil Society Event at the WTO Public Forum, 1 October 2021)
+<p>
+<i><a href="2021_WTO-PF_61">Conditions for appropriate e-commerce in developing countries</a></i> (Civil Society Event at the WTO Public Forum, 30 September 2021)
+<p>
+<a href="Stiglitz"><i>Prof. Stiglitz on digital trade</i></a> (3 min video, 12 April 2019)
+<p>
+<i>Letter from 315 CSOs from 90+ countries against Digital Trade talks in the WTO</i>:
+<a href="/2019/Digital_trade_2019-04-01-en.pdf">English</a>,
+<a href="/2019/Digital_trade_2019-04-01-es.pdf">Spanish</a>,
+<a href="/2019/Digital_trade_2019-04-01-fr.pdf">French</a>.
+(1 April 2019)
+<p>
+<i>Statement against E-commerce Rules in the WTO</i>:
+<a href="/2019/Digital_trade_WEF.pdf">pdf</a>
+<a href="/2019/Digital_trade_WEF.docx">docx</a>
+(25 January 2019)
+<p>
+<a href="/2019/JNC_Digital_colonisation.pdf"><i>E-commerce negotiations being launched at the WEF
+are really about rules for digital colonisation</i></a>
+(29 December 2018)
+<p>
+<i>Statement from Civil Society Organizations working on eCommerce for Development, on the
+Africa eCommerce Week and Outcomes</i>, 14 December 2018:
+English: <a href="/2018/CSOs_Africa.pdf">pdf</a>, <a href="/2018/CSOs_Africa.docx">docx</a>.
+French: <a href="/2018/CSOs_Africa_FR.pdf">pdf</a>, <a href="/2018/CSOs_Africa_FR.docx">docx</a>.
+<p>
+<i>MSME associations reject MSMEs work program and ecommerce rules in WTO:</i>
+<a href="/2017/R_MSMEs_reject.pdf">English</a>,
+<a href="/2017/R_MSMEs_reject_ES.pdf">Spanish</a>.
+(13 December 2017)
+<p>
+<i><a href="/2017/Feminist_stmt.pdf">Statement by women’s rights organisations rejecting the WTO Declaration on Women’s Economic Empowerment</a></i>
+(12 December 2017)
+
+
+<h2 id="4">Introductory articles</h2>
 <a href="https://www.equaltimes.org/the-future-is-digital-but-we">The future is digital, but we should keep digital chapters out of our trade deals</a> (Duncan McCann, 1 October 2020)
 <p>
 <a href="https://twn.my/title2/wto.info/2020/ti200813.htm">Digital rules in FTAs may undermine capacity to tax digital firms</a> (D. Ravi Kanth, 14 August 2020)
@@ -175,7 +190,7 @@ French:
 <a href="/2017/UNI_Digital_divide.pdf"><i>Risk of a deepening of the digital divide – worrisome WTO discussions</i></a>.
 (UNI Global Union: May 5, 2017)
 
-<h2 id="4">General analysis of problems with the proposed negotiations on digital trade</h2>
+<h2 id="5">General analysis of problems with the proposed negotiations on digital trade</h2>
 
 <a href="/2019_WTO_PF_95">Future of WTO in a digitalised world</a>.
 Video recording of session #95 at the 2019 WTO Public Forum.
@@ -213,7 +228,7 @@ French: <a href="/2019/Munu_Africa_FR.pdf">pdf</a>, <a href="/2019/Munu_Africa_F
 <a href="/2017/AS_Digital_divide_FR.pdf">French</a>.
 (30 November 2017)
 
-<h2 id="5">Detailed analysis of problems with specific proposed provisions on digital trade</h2>
+<h2 id="6">Detailed analysis of problems with specific proposed provisions on digital trade</h2>
 
 Report: <i><a href="https://www.twn.my/title2/wto.info/2020/ti200812.htm">How ‘digital trade’ rules would impede taxation of the digitalised economy in the Global South</a></i>.
 (Jane Kelsey <i>et al</i>, TWN, 13 August 2020)
@@ -256,12 +271,15 @@ UNCTAD research paper: <i><a href="/2019/ser-rp-2019d1_en.pdf">Growing Trade in 
 UNCTAD report: <i><a href="/2017/UNCTAD_competitiveness.pdf">Rising product digitalisation and losing trade competitiveness</a>.</i>
 (September 2017)
 
-<h2 id="6">Data as a Public Good, and Digital Industrialization for Development</h2>
+<h2 id="7">Data as a Public Good, and Digital Industrialization for Development</h2>
+<p>
 
 <i>Digital public goods: A precondition for realising the SDGs:</i>
 <a href="https://www.sef-bonn.org/en/publications/global-governance-spotlight/42019.html">English</a>,
 <a href="/2019/Digital_public_goods_ES.pdf">Spanish</a>.
 (September 2019)
+<p>
+<i><a href="https://medium.com/@NYCTLC/what-makes-a-city-street-smart-23496d92f60d">What makes a city street smart?</a></i> (New York City Taxi and Limousine Commission, 31 January 2019)
 <p>
 <i>Data localization: A matter of rule of law and economic development:</i>
 <a href="/2018/ITfC_Data_localisation.pdf">English</a>,
@@ -297,8 +315,19 @@ UNCTAD report:
 <a href="/2018/ITfC_ind_num_pd.doc">French summary</a>.
 (December 2017)
 
-<h2 id="7">Updates and articles on the negotiations</h2>
-  <i><a href="https://www.twn.my/title2/wto.info/2021/ti210307.htm">US warns over moves to discontinue moratorium on e-commerce duties</a></i>, by D. Ravi Kanth. (5 March 2021)  
+<h2 id="8">Updates and articles on the negotiations</h2>
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210912.htm">Revised JSI e-com text undermines policy space for South</a></i>, by D. Ravi Kanth. (15 September 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210903.htm">UNCTAD: India, Indonesia &amp; Sri Lanka highlight their data protection policies</a></i>, by D. Ravi Kanth. (3 September 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210510.htm">JSIs lack legal status, fragments WTO</a></i>, by D. Ravi Kanth. (10 May 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210506.htm">WTO DG acknowledges her &quot;mistake&quot; on JSIs</a></i>, by D. Ravi Kanth. (5 May 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210419.htm">UNCTAD calls for new development pathways in reform of WTO</a></i>, by D. Ravi Kanth. (30 April 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti210307.htm">US warns over moves to discontinue moratorium on e-commerce duties</a></i>, by D. Ravi Kanth. (5 March 2021)  
 <p>
  <i><a href="https://www.twn.my/title2/wto.info/2021/ti210306.htm">Proponents fail to respond to challenge over legal status of JSIs</a></i>, by D. Ravi Kanth. (4 March 2021)  
 <p>

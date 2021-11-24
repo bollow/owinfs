@@ -13,6 +13,8 @@ include 'include/navbar.php';
 
       <div id="content" class="singlecolumn">
         <a href='/2021/L_Walker_Process.pdf'>pdf</a>
+	<p>
+	See also: <a href="2021_R_Walker_Letter">Media release</a>
         <div id="content-header">
           <h1 class="title">Open letter to WTO Director-General and all WTO Members</h1>
         </div> <!-- /#content-header -->

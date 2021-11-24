@@ -18,28 +18,48 @@ include 'include/navbar.php';
         <div id="content-area">
 <div class="searchable">
 <p>
-UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021. 
+UNCTAD XV quadrennial conference took place on October 3-8, 2021. 
 <p>
-UNCTAD is not the same organization that developing countries, at the initiative of pro-development scholars and with global support, created decades ago. The organization is at a crucial turning point. Its mandate for the next four years will be decided at the UNCTAD XV Conference. It is therefore essential for economic justice movements converge to advocacy for the preservation and further enhancement of UNCTAD developmental mandate.
+Developing countries have been devastated economically by the COVID-19 crisis, in many cases far worse than they were hit by the global recession of 2008, and without the massive financial support mobilized by developed countries to protect their citizens from the economic damage caused by COVID-19.
 <p>
-Will developed countries, with help from neoliberal elites within developing countries, continue to neuter its mandate on development policies that can truly advance socio-economic transformation through the integration of finance, macro-economic policy, technology, trade, and development? Will they continue to drive donor-based decision-making in one of the premier global pro-development agencies in the world? Will corporations extend their reach further within the institution, as they have within the UN in general, to drive policymaking in their interests? What will be the relationship of the institution with data monopoly platforms? What will be the fate of their clarion calls on unsustainable debt? How is the agency’s advice on investment evolving based on the actual evidence?
+This was the message from the UN Conference on Trade and Development (UNCTAD), as governments from around the world gathered, virtually and in Barbados, October 3-8, 2021, for the institution’s fifteenth conference. UNCTAD plays a unique role in the international economic governance ecosystem as the focal point for trade and development, acknowledging that trade doesn’t occur in a vacuum. The interrelated issues of finance, technology, investment, and sustainable development must also be addressed in a holistic manner for countries to be able to benefit from integration into the global economy and to achieve the Sustainable Development Goals (SDGs).
 <p>
-Or will the organization shift in a more developmental direction regarding digital industrialization? Will the division on Globalization and Development Strategies be resourced to continue its ground-breaking research, coherent analysis, and evidence-based policymaking conclusions and recommendations? Will the investment policies become more development-focused? Will competition policy work expand to include the issue of data monopolies? Will the sovereign debt restructuring work expand? Will the trade policymaking become more focused on the core issue of policy space? Will their mandate on fair taxation in the be expanded? Will UNCTAD champion a Green New Deal with the resources necessary to bring the concept into the mainstream?
+At the conference, member states finalized negotiations on the mandate of UNCTAD’s next four years. OWINFS is worked in collaboration with the Financing for Development CSO Group (FfD CSO Group), the Third World Network (TWN), and the Third World Network - Africa to organize CSO advocacy towards UNCTAD XV. 
 <p>
-These and many other questions regarding debt, tax, climate, trade, industrial policy, investment, digitalization, LDCs, competition policy, labor versus capital, and many other areas need to be investigated. UNCTAD can be a much greater force for good on our issues. It is imperative to ensure maximum impact of its power and budget in the right direction for the next four years. 
-Rather than responding with limited impact near the end of deliberations to the near-last version of the new mandate, CSOs from a variety of sectors are organizing their own vision of what UNCTAD’s mandate should be and organize to strengthen support for those policies well in advance of the decision-making moment of the UNCTAD XV Quadrennial Conference.
+Even though UNCTAD is designed to focus on trade for development, all UN countries can be members. And unfortunately, at every turn during the last year of negotiations, the EU delegation sought to diminish, constrain, or limit the ability of UNCTAD to assist developing countries in adjusting to the multiple crises and in transforming the current system.
 <p>
-OWINFS is working in collaboration with the Financing for Development CSO Group (FfD CSO Group), the Third World Network (TWN), and the Third World Network - Africa to organize CSO advocacy towards UNCTAD XV. 
-</div>
+The final Bridgetown Covenant assesses the major global challenges of growing inequality and vulnerabilities, including high levels of unsustainable debt; accelerating climate change and environmental degradation; and the widening digital divide and uneven speed of digital transformation. It identifies four major transformations needed to move to a “more resilient, digital and inclusive world of shared prosperity: transforming economies through diversification; fostering a more sustainable and more resilient economy; improving the way development is financed; and revitalizing multilateralism.” The Covenant then details how each transformative strategy can be realized and mandates UNCTAD to play a role through its analysis, capacity-building, and consensus-building pillars to achieve these strategies, toward achieving the SDGs. 
+<p>
+In the end, thanks to the hard work of some negotiators in the G77 and China, the agreement preserves UNCTAD’s mandate on key issues, and particularly those advocated for by civil society, such as its work on debt, IFFs, and taxation, which will be essential for developing countries to recover from the COVID-induced economic crisis.
+<p>
+The Civil Society Declaration for UNCTAD XV provides a blueprint for a much stronger vision for UNCTAD moving forward across a broad range of economic issues.
 
-<h2>Towards UNCTAD XV (2021)</h2>
-UNCTAD XV quadrennial conference is scheduled to take place virtually on October 3-8, 2021.
+<h2>Way Forward</h2>
+
+<p>
+Now that the negotiations on the mandate are concluded, it will be up to the incoming secretary-general, Rebeca Grynspan, and her staff to oversee its implementation. SG Grynspan is off to a good start in recognizing some of the most important issues to developing countries, such as SDRs; debt sustainability analysis and restructuring; stemming the hemorrhaging caused by illicit financial flows such as was revealed in the Pandora Papers; and recognizing the importance of research and evidence-based policies to inform the technical cooperation and consensus-building pillars, especially in UNCTAD’s work on trade and technology. She also seems to be breathing fresh air into UNCTAD’s collaboration with civil society, which will benefit members’ ability to access their expertise.
+<p>
+The world needs UNCTAD now more than ever. Civil society is poised to work with the institution to transform global finance and trade regimes. Governments and CSOs must work together with UNCTAD to provide developing countries the tools — and the transformed governance regimes — they need to “build back better” through these challenging and difficult times.
+
+<h2>UNCTAD XV (2021)</h2>
+
+<i><a href="https://www.ineteconomics.org/perspectives/blog/trade-and-development-backstory-the-struggle-over-the-unctad-15-mandate">Trade and development backstory: The struggle over the UNCTAD 15 mandate</a></i>, by Deborah James. (10 November 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211028.htm">UNCTAD calls for transformative green development policies at Glasgow</a></i>, by D. Ravi Kanth. (29 October 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211013.htm">UN: UNCTAD-15 closes after adopting a covenant &amp; political declaration</a></i>, by Kanaga Raja. (13 October 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211008.htm">UN: G77 reaffirms UNCTAD's role as focal point for trade &amp; development</a></i>, by Kanaga Raja. (7 October 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211006.htm">United Nations: UNCTAD-15 conference gets underway in Barbados</a></i>, by Kanaga Raja. (6 October 2021) 
 <p>
 <i><a href="/2021/Sachs+Weisbrot.pdf">Letter from Jeffrey Sachs, Director of the Center for Sustainable Development at Columbia University and Mark Weisbrot, Co-Director of the Center for Economic and Policy Research, Washington D.C. to UNCTAD Member States urging them to mandate UNCTAD to expand its work on financial and trade-related unilateral coercive measures</a></i>. (4 October 2021)
 <p>
 <i><a href="/2021/PSI_UNCTAD_mandate.pdf">Letter from Public Services International (PSI) Global Union Federation of more than 700 trade unions representing 30 million workers in 154 countries, to UNCTAD member states, urging them to strengthen UNCTAD’s mandate on tax, debt, finance, and trade for development</a></i>. (3 October 2021)
 <br>
 <i><a href="/2021/PSI-EPSU_UNCTAD_mandate.pdf">Similar Letter from PSI and EPSU to UNCTAD European member states</a></i>. (3 October 2021)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211002.htm">UNCTAD calls for taking &quot;data flows&quot; out of trade negotiations</a></i>, by D. Ravi Kanth. (1 October 2021)
 <p>
 <i><a href="/2021/CS_decl_UNCTAD_XV.pdf">Civil Society Declaration for UNCTAD XV, Bridgetown, Barbados</a></i>. (30 September 2021)
 <p>
@@ -69,7 +89,7 @@ WTO Public Forum event with Richard Kozul-Wright, director of the division on Gl
 <a href="https://therealnews.com/series/our-world-is-not-for-sale-2018-world-trade-organization-public-forum">here</a>. 
 </div>
 
-<h2>On UNCTAD XIV (2016)</h2>
+<h2>UNCTAD XIV (2016)</h2>
 <a href="http://www.huffingtonpost.com/deborah-james/over-intransigence-of-ric_b_11146218.html"></i>Over intransigence of rich countries, developing countries win mandate on trade for development</i></a> (Huffington Post, 23 July 2016)
 <p>
 <i><a href="2016_speech_UNCTAD14">Speech at the Committee of the Whole, UNCTAD XIV, Based on the CSO Forum Declaration</a></i>. (18 July 2016)
@@ -89,7 +109,7 @@ Letter from 331 Groups of Global Civil Society on UNCTAD’s Role and Mandate to
 <p>
 <i><a href="/o/it/node/24376.html">Global civil society letter to UNCTAD Secretary General on investment issues</a></i>. (15 October 2014)
 
-<h2>On UNCTAD XIII (2012)</h2>
+<h2>UNCTAD XIII (2012)</h2>
 <i><a href="https://www.huffpost.com/entry/unctad-xiii-conference_b_1462554">Victory at UNCTAD XIII.</a></i>
 (Huffington Post, 29 April 2012)
 <p>

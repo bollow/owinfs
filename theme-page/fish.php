@@ -25,6 +25,9 @@ The Sustainable Development Goal 14.6 has the target to “prohibit certain form
 <i><a href="/2021/PANG_Nov2021_text_analysis.pdf">PANG assessment of November Fisheries Chairs Text (276/Rev2)</a></i>.
 (18 November 2021)
 <p>
+<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">Fisheries subsidies negotiations towards the WTO’s 12th Ministerial Conference: Considerations for developing countries and LDCs</a></i>.
+(17 November 2021)
+<p>
 <i><a href="https://pina.com.fj/2021/09/23/wto-fisheries-subsidies-process-changes-to-disadvantage-developing-countries/">WTO Fisheries subsidies process changes to disadvantage developing countries</a></i>. (23 September 2021)
 <p>
 <i><a href="/2021/R_fisheries_subsidies.pdf">Global talks on Fisheries subsidies must target big subsidisers not development</a></i>.
@@ -90,6 +93,8 @@ Spanish:
 <i><a href="http://wtocentre.iift.ac.in/FA/CWS%20review%20of%20%20WTO%20Fisheries%20Subsidies%20negotiations%20issues%202017.pdf">A review of fisheries subsidies issues in the context of WTO rules negotiations</a></i>. (Centre for WTO Studies, November 2016)
 
 <h2>News and updates on the negotiations</h2>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211016.htm">Fears of "take-it-or-leave-it" deal on fisheries subsidies ahead of MC12 / US TRIPS Waiver position</a></i>, by D. Ravi Kanth (18 October 2021)
+<p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti210924.htm">WTO: ACP, African Group, India draw markers for balanced fisheries deal</a></i>, by D. Ravi Kanth. (27 September 2021)
 <p>
 <i><a href="https://pina.com.fj/2021/09/23/wto-fisheries-subsidies-process-changes-to-disadvantage-developing-countries/">WTO Fisheries subsidies process changes to disadvantage developing countries</a></i>, by Pita Ligaiula, PACNEWS. (23 September 2021)
