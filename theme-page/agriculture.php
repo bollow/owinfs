@@ -37,8 +37,7 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Civil Society Statements and Analysis</h2>
 <p>
-<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">Agricultural negotiations for MC12: A factsheet for developing countries</a></i>.
-(13 November 2021)
+<i>Agricultural negotiations for MC12: A factsheet for developing countries</i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta%20SPA.pdf">Spanish</a>. (Ranja Sengupta, TWN, 13 November 2021)
 <p>
 <i>Rebuilding the WTO for a sustainable global development</i>:
 <a href="https://www.sol-asso.fr/wp-content/uploads/2020/01/Rebuilding-the-WTO-for-a-sustainable-global-development-J.-Berthelot-July-12-2020.pdf">English</a>,
@@ -89,6 +88,12 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Articles &amp; Updates on the Negotiations</h2>
 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211114.htm">Agricultural negotiations factsheet for MC12</a></i>, by Ranja Sengupta. (16 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211113.htm">Doha agriculture chair's textual suggestions inimical to South's interests</a></i>, by D. Ravi Kanth. (12 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211106.htm">&quot;Rigged&quot; consultations process for agriculture &quot;deliverables&quot; at MC12?</a></i>, by D. Ravi Kanth. (8 November 2021) 
 <p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti211012.htm">South unlikely to secure credible outcomes on agriculture at MC12</a></i>, by D. Ravi Kanth. (13 October 2021) 
 <p>

@@ -16,14 +16,15 @@ include 'include/navbar.php';
 
       <div id="content-area">
 <div class="searchable">
-The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place November 30 - December 3, 2021 in Geneva.
- The Director-General took this decision despite a significant number of Ministers and their lead officials not being able to travel safely to Geneva for the MC12. Some may be unable to travel at all, because ongoing COVID-related travel disruptions mean that there are no commercial flights in and out of their countries or accessible transit points. Many are from countries that are basically unvaccinated. The obvious inequities will favour those with Swiss-recognised vaccinations, ease of travel, proximity and Geneva-based delegations – that is rich countries from the Global North.
+<p style="color:#fe0000;">
+<b>Update: MC12 has now been postponed</b>: <a href="https://www.wto.org/english/news_e/news21_e/mc12_26nov21_e.htm">Official announcement</a>
+<p>
+The 12<sup>th</sup> Ministerial Conference of the WTO <s>is</s> <span style="color:#fe0000;"><b>was</b></span> scheduled to take place November 30 - December 3, 2021 in Geneva.
+ The Director-General took that decision despite a significant number of Ministers and their lead officials not being able to travel safely to Geneva for the MC12. Some would be unable to travel at all, because ongoing COVID-related travel disruptions mean that there are no commercial flights in and out of their countries or accessible transit points. Many are from countries that are basically unvaccinated. The obvious inequities would favour those with Swiss-recognised vaccinations, ease of travel, proximity and Geneva-based delegations – that is rich countries from the Global North.
  <p>
-The WTO claims to be a consensus based organisation. The decision to hold a Ministerial when some Ministers are unable to attend will ensure that any decisions taken in this context will lack any pretence of legitimacy.
+Unbelievably, the institution whose rules enforce vaccine apartheid, attempted to have a meeting under conditions of vaccine apartheid, without having first resolved that apartheid by agreeing to the TRIPS waiver. Even though the decision to hold a Ministerial when some Ministers are unable to attend would ensure that any decisions taken in this context lack any pretence of legitimacy. The WTO claims to be a consensus based organisation.
  <p>
-Thus, the institution whose rules enforce vaccine apartheid is, unbelieveably, attempting to have a meeting under conditions of vaccine apartheid, without having first resolved that apartheid by agreeing to the TRIPS waiver. To proceed under these circumstances will further erode the WTO’s legitimacy, and undermine the credibility of the new Director-General, at a time when the Organization’s credibility is already at an all time low.  
- <p>
-The determination to proceed with the MC12 continues the long-standing efforts of rich and powerful WTO Members to control the WTO’s agenda and decisions and to marginalise the governments of the Global South and the world’s peoples.
+The determination to proceed with the MC12 continued the long-standing efforts of rich and powerful WTO Members to control the WTO’s agenda and decisions, and to marginalise the governments of the Global South and the world’s peoples.
  <p>
 Corporate boosters are advocating for expanding the failed model of the WTO through plurilateral agreements on
 <a href="#investment">investment facilitation</a>,
@@ -39,8 +40,12 @@ The most important agenda for the WTO is to remove intellectual property barrier
 </div>
 
 <p>
-<i><a href="2021_R_postpone_MC12">Letter to WTO Members: Postpone the 12th Ministerial - TRIPS Waiver Now!</a></i>  
-<a href="2021/L_postpone_MC12.pdf">English</a>, <a href="2021/L_postpone_MC12_ES.pdf">Spanish</a>, <a href="2021/L_postpone_MC12_FR.pdf">French</a>, <a href="2021_R_postpone_MC12">media release</a>. 
+<i><a href="2021-11-26_Quotes">Quotes: Problems with Holding WTO’s MC12 In-Person with the New Variants and European Travel Bans on Southern Africa</a></i>.
+(26 November 2021)
+<p>
+<i><a href="https://cepr.net/whats-at-stake-at-the-wto">What’s at Stake at the WTO?</a></i> (Deborah James, 25 November 2021)
+<p>
+<i><a href="2021_R_postpone_MC12">Letter to WTO Members: Postpone the 12th Ministerial - TRIPS Waiver Now!</a></i>   <a href="2021/L_postpone_MC12.pdf">English</a>, <a href="2021/L_postpone_MC12_ES.pdf">Spanish</a>, <a href="2021/L_postpone_MC12_FR.pdf">French</a>, <a href="2021_R_postpone_MC12">media release</a>. 
 (23 November 2021)
 <p>
 <i><a href="https://www.scoop.co.nz/stories/PO2111/S00166/wto-ministerial-shaping-up-to-repeat-the-power-politics-of-cop-26.htm">WTO Ministerial Shaping Up To Repeat The Power Politics Of COP 26</a></i>. (Professor Jane Kelsey, 17 November 2021)
@@ -61,10 +66,10 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 <p>
 <i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>. (26 April 2021)
 <?php
-#if (filesize("extra_data/MC12.extra_data")>3) {
-#  echo "<h2>Recent documents</h2>\n";
-#  include "extra_data/MC12.extra_data";
-#}
+if (filesize("extra_data/MC12.extra_data")>3) {
+  echo "<h2>Recent documents</h2>\n";
+  include "extra_data/MC12.extra_data";
+}
 ?>
 
 <h2><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
@@ -73,7 +78,7 @@ The global health community, civil society around the world, legislators, intern
 <p>
 <b><i><a href="2021_WTO_waiver_CTA">Global Call to Action: WTO Waiver <u>Now</u> to End the Pandemic!</a></i></b>
 <p>
-<a href="https://nov30noprofitoncovid.com/english/"><b>Join us in Mobilizations in Geneva During the MC12</b></a>
+<a href="2021-11-30_Quotes"><i>Quotes and photos from the press conference “No profit on covid”</b></a>. (30 November 2021)
 <p>
 Please <a href="TRIPS">see here</a> for extensive information on the importance of the TRIPS waiver.
 
@@ -81,13 +86,15 @@ Please <a href="TRIPS">see here</a> for extensive information on the importance 
 <h2>Sham “Walker Process”</h2>
 Having refused for over a year to agree to the waiver that would resolve the pandemic, trade negotiators from the EU, Switzerland, Canada, the UK, and a few other countries - representing the interests of Big Pharma over their own citizens and global public health - have invented a diversionary tactic called the “<a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">Walker Process</a>.” Allegedly a “WTO Response to the Covid-19,” this process is designed to try to save the WTO from its increasing irrelevance and illegitimacy, by drawing attention away from the WTO’s failure to remove the <a href="https://www.twn.my/title2/intellectual_property/trips_waiver_proposal.htm">barriers of its Trade-Related Intellectual Property Rules (TRIPS) agreement</a> to resolving the pandemic. 
 <p>
-<i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i>. (19 November 2021)
+<a href="https://www.bilaterals.org/?wto-response-to-the-pandemic">Leaked text</a>. (22 November 2021)
+<p>
+<i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i>: <a href="2021/L_Walker_Process.pdf">English</a>, <a href="2021/L_Walker_Process_AR.pdf">Arabic</a>. (19 November 2021)
 <p>
 <i><a href="2021_R_Walker_Letter">Press Release on CSO Open Letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i>. (19 November 2021)
 <p>
 <i><a href="2021/Quotes_Walker_Process.pdf">Quotes from Civil Society on the so-called Walker Process</a></i>. (18 November 2021)
 <p>
-<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>. (14 November 2021)
+<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>. (14 November 2021)
 <p>
 <i><a href="http://wtocentre.iift.ac.in/PolicyBrief/Policy_brief_1.pdf">Seeking market access behind the veil of combating COVID-19</a></i>.
 (Abhijit Das, Murali Kallummal and Sachin Kumar Sharma, Centre for WTO Studies, India, June 2020)
@@ -117,7 +124,7 @@ Having refused for over a year to agree to the waiver that would resolve the pan
 
 <h2><a href="WTO-process">WTO reform</a></h2>
 
-<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>. (14 November 2021)
+<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>. (14 November 2021)
 <p>
 <i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i>:
 <a href="/2021_WTO-Turnaround">English</a>,
@@ -145,6 +152,26 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 <a href="WTO-process">more on WTO process issues …</a>
 
 <h2>General news updates on negotiations at MC12</h2>
+<p>
+ <i><a href="https://theconversation.com/divided-and-paralysed-can-the-wto-negotiate-a-pandemic-recovery-plan-that-is-fair-for-all-172484">Divided and paralysed, can the WTO negotiate a pandemic recovery plan that is fair for all?</a></i>, by Jane Kelsey. (24 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211123.htm">Differences persist at WTO on &quot;deliverables&quot; for MC12</a></i>, by D. Ravi Kanth. (23 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211122.htm">Emergence of &quot;vaccine apartheid&quot; at WTO's upcoming MC12?</a></i>, by D. Ravi Kanth. (23 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211119.htm">New round of talks stoked by US, EU to transform WTO against South</a></i>, by D. Ravi Kanth. (19 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211118.htm">EU to push its trade-related environmental measures into WTO</a></i>, by D. Ravi Kanth. (18 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211116.htm">WTO reform &amp; WTO pandemic response</a></i>. (17 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211115.htm">EU &amp; Brazil proposal on WTO reforms - a &quot;monster&quot; in the making</a></i>, by D. Ravi Kanth. (16 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211111.htm">Discussions on fundamental WTO reforms fail to garner consensus</a></i>, by D. Ravi Kanth. (11 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211107.htm">US stymies LDCs' proposed best endeavour interim decision at WTO</a></i>, by D. Ravi Kanth. (9 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211103.htm">Prospects for a new &quot;stealth&quot; round of trade talks growing at WTO</a></i>, by D. Ravi Kanth. (3 November 2021) 
 <p>
  <i><a href="https://twn.my/title2/wto.info/2021/ti211101.htm">WTO: Walker process on response to pandemic raises questions of credibility</a></i>, by D. Ravi Kanth. (1 November 2021) 
 <p>
@@ -263,6 +290,9 @@ for Development: Opening the doors of the WTO for hard rules on investment</a></
 
 <h2 id="services"><a href="services">Services</a></h2>
 <p>
+<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Reference%20paper%20on%20SDR%20TWNMC12BP%20Nov%202021%20Mohamadieh.pdf">Reference paper on services domestic regulations:
+Overview of main content and regulatory implications</a></i> (Kinda Mohamadieh, TWN, November 2021)
+<p>
 <i><a href="https://twn.my/title2/briefing_papers/twn/Domestic%20regulation%20TWNBP%20Oct%202021%20Kelsey.pdf">Briefing note on Services Domestic Regulation JSI text of 27 September 2021 (INF/SDR/1)</a></i> (Jane Kelsey, TWN, October 2021) 
 <p>
 Briefing paper: <a href="/2019/TWN_103_services.pdf"><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></a>. (Kinda Mohamadieh, TWN, October 2019)
@@ -297,6 +327,9 @@ Spanish:
 
 
 <h2 id="agriculture"><a href="agriculture">Agriculture</a></h2>
+
+<i>Agricultural negotiations for MC12: A factsheet for developing countries</i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta%20SPA.pdf">Spanish</a>. (Ranja Sengupta, TWN, 13 November 2021)
+<p>
 <i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i>:
 <a href="/2018/ALAI_farmers.pdf">English</a>, 
 <a href="/2018/ALAI_normas_agrícolas.pdf">Spanish</a>.
@@ -311,8 +344,10 @@ Spanish:
 <i><a href="/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i>.
 (Timothy Wise, December 2017)
 <p>
-<i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>.
-(Sachin Kumar Jain, 9 December 2017)
+<i><a href="/2017/DTE_Food_security.pdf">For India, the fight at WTO will be about food security</a></i>. (Sachin Kumar Jain, 9 December 2017)
+
+<h2>Climate protection</h2>
+<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Short%20note%20-%20environment%20JSIs%20generally.pdf">Environment- and climate-related JSIs: Caveat emptor</a></i> (TWN, 25 November 2021)
 
 <h2><a href="digital" id="digital">Digital trade</a></h2>
 <i>Digital Trade Rules: A disastrous new constitution for the global economy written by and for Big Tech</i>:

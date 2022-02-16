@@ -40,6 +40,9 @@ OWINFS members have long maintained core demands with regards to services in the
 
 <h2>Current Civil Society Statements and Analysis</h2>
 <p>
+<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Reference%20paper%20on%20SDR%20TWNMC12BP%20Nov%202021%20Mohamadieh.pdf">Reference paper on services domestic regulations:
+Overview of main content and regulatory implications</a></i> (Kinda Mohamadieh, TWN, November 2021)
+<p>
 <i><a href="https://twn.my/title2/briefing_papers/twn/Domestic%20regulation%20TWNBP%20Oct%202021%20Kelsey.pdf">Briefing note on Services Domestic Regulation JSI text of 27 September 2021 (INF/SDR/1)</a></i> (Jane Kelsey, TWN, October 2021) 
 <p>
 <i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”

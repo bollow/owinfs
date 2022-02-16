@@ -93,6 +93,13 @@ Spanish:
 <i><a href="http://wtocentre.iift.ac.in/FA/CWS%20review%20of%20%20WTO%20Fisheries%20Subsidies%20negotiations%20issues%202017.pdf">A review of fisheries subsidies issues in the context of WTO rules negotiations</a></i>. (Centre for WTO Studies, November 2016)
 
 <h2>News and updates on the negotiations</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211121.htm">Briefing on WTO fisheries subsidies negotiations</a></i>, by Ranja Sengupta. (22 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211117.htm">China &amp; Russia reject inclusion of forced labour in fisheries disciplines</a></i>, by D. Ravi Kanth. (17 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211110.htm">Asymmetries aplenty in revised draft fisheries text for MC12</a></i>, by D. Ravi Kanth. (10 November 2021)
+<p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti211016.htm">Fears of "take-it-or-leave-it" deal on fisheries subsidies ahead of MC12 / US TRIPS Waiver position</a></i>, by D. Ravi Kanth (18 October 2021)
 <p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti210924.htm">WTO: ACP, African Group, India draw markers for balanced fisheries deal</a></i>, by D. Ravi Kanth. (27 September 2021)

@@ -317,6 +317,8 @@ UNCTAD report:
 
 <h2 id="8">Updates and articles on the negotiations</h2>
 <p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211124.htm">Battle-lines drawn on moratorium on e-commerce duties at MC12</a></i>, by D. Ravi Kanth. (23 November 2021) 
+<p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti210912.htm">Revised JSI e-com text undermines policy space for South</a></i>, by D. Ravi Kanth. (15 September 2021)
 <p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti210903.htm">UNCTAD: India, Indonesia &amp; Sri Lanka highlight their data protection policies</a></i>, by D. Ravi Kanth. (3 September 2021)

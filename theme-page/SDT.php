@@ -84,7 +84,7 @@ Current demands of OWINFS with regards to Policy Space for Development include:
 <h2>Current Analysis from Civil Society</h2>
 
 <p>
-<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>. (14 November 2021)
+<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>. (14 November 2021)
 <p>
 <i>The developing country status of China and India at the WTO is largely justified</i>:
 <a href="2021_SOL_China+India">English</a>,
@@ -110,6 +110,8 @@ This research paper examines the US’ Section 301 unilateral actions against Ch
 
 <h2>Key Updates &amp; Articles on the Negotiations</h2>
 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211105.htm">G90 to fight on for improvements in S&amp;DT at WTO</a></i>, by D. Ravi Kanth. (5 November 2021) 
 <p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti211023.htm">Danger of WTO's Doha MC4 in 2001 repeating itself at MC12 in 2021</a></i>, by D. Ravi Kanth. (26 October 2021)
 <p>

@@ -13,17 +13,17 @@ include 'include/navbar.php';
 <h2><a href="TRIPS">End the Pandemic!<br>TRIPS Waiver Now!</a></h2>
 
 <b><i><a href="2021_WTO_waiver_CTA">Global Call to Action: WTO Waiver <u>Now</u> to End the Pandemic!</a></i></b>
-<p style="font-size:17px; margin-bottom:5px;">
-<a href="https://nov30noprofitoncovid.com/english/"><b>Join us in Mobilizations in Geneva During the MC12</b></a>
-<p style="margin-top:5px;">
+<p>
 The global health community, civil society around the world, legislators, international agencies, former heads of state, and over 100 WTO members support the waiver on intellectual property rules on COVID-19 related treatments, diagnostics, and vaccines to end the pandemic. The TRIPS waiver can be agreed at any General Council meeting and does NOT require a Ministerial. This is the ONLY agenda that WTO Members should be focusing on at this time.
+<p>
+<a href="2021-11-30_Quotes"><b><i>Quotes and photos from the 2021-11-30 press conference “No profit on covid”</i></b></a>
 <p>
 <a href="TRIPS">more on ending the pandemic / TRIPS waiver now…</a>
 
 <h2>Sham “Walker Process”</h2>
 Having refused for over a year to agree to the waiver that would resolve the pandemic, trade negotiators from the EU, Switzerland, Canada, the UK, and a few other countries - representing the interests of Big Pharma over their own citizens and global public health - have invented a diversionary tactic called the “<a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">Walker Process</a>.” Allegedly a “WTO Response to the Covid-19,” this process is designed to try to save the WTO from its increasing irrelevance and illegitimacy, by drawing attention away from the WTO’s failure to remove the <a href="https://www.twn.my/title2/intellectual_property/trips_waiver_proposal.htm">barriers of its Trade-Related Intellectual Property Rules (TRIPS) agreement</a> to resolving the pandemic. 
 <p>
-<b><i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i></b>
+<b><i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i></b>: <a href="2021/L_Walker_Process.pdf">English</a>, <a href="2021/L_Walker_Process_AR.pdf">Arabic</a>
 <p>
 <b><i><a href="2021_R_Walker_Letter">Press Release on CSO Open Letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i></b>
 <p>
@@ -31,20 +31,24 @@ Having refused for over a year to agree to the waiver that would resolve the pan
 <p>
 <b><i><a href="2021/US_CSOs_waiver+MC12.pdf">US CSO Letter to Biden on TRIPS Waiver and MC12</a></i></b>
 <p>
-<b><i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i></b>
+<b><i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i></b>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>
 
 
       </div>
       <div class="col">
 <h1><a href="MC12">12<sup>th</sup> Ministerial Conference</a></h1>
-The 12<sup>th</sup> Ministerial Conference of the WTO is scheduled to take place Nov 30 - Dec 3, 2021 in Geneva.
+The 12<sup>th</sup> Ministerial Conference of the WTO <s>is</s> <span style="color:red"><b>was</b></span> scheduled to take place Nov 30 - Dec 3, 2021 in Geneva.
+<p style="color:#fe0000;">
+<b>Update: MC12 has been postponed.</b>
 <p>
-The institution whose rules enforce vaccine apartheid is, unbelieveably, attempting to have a meeting under conditions of vaccine apartheid, without having first resolved that apartheid by agreeing to the TRIPS waiver. The decision to hold a Ministerial when some Ministers are unable to attend will ensure that any decisions taken in this context will lack any pretence of legitimacy.
-<p>
+Unbelievably, the institution whose rules enforce vaccine apartheid, attempted to have a meeting under conditions of vaccine apartheid, without having first resolved that apartheid by agreeing to the TRIPS waiver. Even though the decision to hold a Ministerial when some Ministers are unable to attend would ensure that any decisions taken in this context lack any pretence of legitimacy.
 <?php
-#include "extra_data/index.extra_data";
+include "extra_data/index.extra_data";
 ?>
-<b><i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham "Walker Process" and in Favor of the TRIPS Waiver</a></i></b>
+<p>
+<b><i><a href="https://cepr.net/whats-at-stake-at-the-wto">What’s at stake at the WTO?</a></i></b>
+<p>
+<b><i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham "Walker Process" and in Favor of the TRIPS Waiver</a></i></b>: <a href="2021/L_Walker_Process.pdf">English</a>, <a href="2021/L_Walker_Process_AR.pdf">Arabic</a>
 <p>
 <b><i><a href="2021_R_postpone_MC12">Letter to WTO Members: Postpone the 12th Ministerial - TRIPS Waiver Now!</a></i></b>  
 <a href="2021/L_postpone_MC12.pdf">English</a>, <a href="2021/L_postpone_MC12_ES.pdf">Spanish</a>, <a href="2021/L_postpone_MC12_FR.pdf">French</a>, <a href="2021_R_postpone_MC12">media release</a>. 
@@ -90,7 +94,7 @@ Rich countries have blocked the development agenda since the founding of the WTO
 <a href="SDT">more on the development agenda …</a>
 
 <h2><a href="agriculture">Agriculture</a></h2>
-<b><i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">Agricultural negotiations for MC12: A factsheet for developing countries</a></i></b>
+<b><i>Agricultural negotiations for MC12: A factsheet for developing countries</i></b>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta%20SPA.pdf">Spanish</a>
 <p>
 <b><i>Inequitable WTO rules in agriculture continue to impact farmers in the developing world</i></b>:
 <a href="/2018/ALAI_farmers.pdf">English</a>, 
@@ -103,7 +107,7 @@ Rich countries have blocked the development agenda since the founding of the WTO
 <h2>Stop WTO Expansion!</h2>
 Pro-corporate governments at the WTO are attempting to pursue a failed agenda of WTO expansion. Developed countries are attempting to undermine the core fundamentals of the WTO's mandate as a multilateral institution and alter decision-making procedures by using MC12 to normalize the “Joint Statement Initiatives (JSIs)” launched at the Buenos Aires Ministerial and henceforward. 
 <p>
-<b><i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i></b>
+<b><i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i></b>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>
 <p>
 <b><i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i></b>,  by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
 <a href="/2021/Kelsey_JSI_legitimacy_ES.pdf">Resumen en español</a>.
