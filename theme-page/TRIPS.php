@@ -49,6 +49,8 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 
 <h2>Statements and letters from Civil Society</h2>
 <p>
+<a href="2022/L_WTO_2022-02-16.pdf"><i>Civil Society Open Letter to the WTO Director General</i></a>. (16&nbsp;February&nbsp;2022)
+<p>
 <i><a href="https://www.aspher.org/download/982/wfpha_gnaph_statement_waive_vaccine_ip_rights_25_nov_2021.pdf">Waive vaccine intellectual property rights now!
 Summary Statement from the Global Network for Academic Public Health and the World Federation of Public Health Associations</a></i>. (25 November 2021)
 <p>

@@ -12,6 +12,8 @@ include 'include/navbar.php';
       <div class="col">
 <h2><a href="TRIPS">End the Pandemic!<br>TRIPS Waiver Now!</a></h2>
 
+<a href="2022/L_WTO_2022-02-16.pdf"><b><i>Civil Society Open Letter to the WTO Director General</i></b> (16&nbsp;February&nbsp;2022)</a>
+<p>
 <b><i><a href="2021_WTO_waiver_CTA">Global Call to Action: WTO Waiver <u>Now</u> to End the Pandemic!</a></i></b>
 <p>
 The global health community, civil society around the world, legislators, international agencies, former heads of state, and over 100 WTO members support the waiver on intellectual property rules on COVID-19 related treatments, diagnostics, and vaccines to end the pandemic. The TRIPS waiver can be agreed at any General Council meeting and does NOT require a Ministerial. This is the ONLY agenda that WTO Members should be focusing on at this time.
