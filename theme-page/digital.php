@@ -46,6 +46,10 @@ The following documents have been leaked at <a href="https://www.bilaterals.org/
 
 <h2 id="2">Key new reports</h2>
 <p>
+<i><a href="https://www.southcentre.int/category/publications/research-papers/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220418.htm">Clash of narratives on data flows between UNCTAD, US &amp; WTO</a></i>. (D. Ravi Kanth, 22 April 2022)
+<p>
 <i><a href="/2021/Build_back_better.pdf">Building back better with e-commerce: A feminist roadmap</a></i>. (September 2021)
 <p>
 <i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”

@@ -18,10 +18,23 @@ include 'include/navbar.php';
         
         <div id="content-area">
 
-<b><i><a href="2021_WTO_waiver_CTA">Global Call to Action: WTO Waiver <u>Now</u> to End the Pandemic!</a></i></b>
+<span style="font-size:17px;"><b><i><a href="https://peoplesvaccine.org/take-action/mc12/">Global Days of Action for COVID VACCINE & TREATMENT EQUITY</a></i></b> (12-16 June 2022)</span>
+<p>
+<i><a href="https://www.twn.my/title2/briefing_papers/twn/Comments%20on%20leaked%20text%20TWNBP%20Apr%202022.pdf">Comments on the leaked draft text of discussions facilitated by the Director-General of the World Trade Organization with respect to the TRIPS Waiver proposal</a></i>.
+(TWN, April 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220218.htm">WTO fails to finalize TRIPS waiver and response to pandemic</a></i>. (D. Ravi Kanth, 18 February 2022)
+<p>
+<a href="2022/L_WTO_2022-02-16.pdf"><i>Civil Society Open Letter to the WTO Director General</i></a>. (16 February 2022)
+<p>
+<i><a href="2021_WTO_waiver_CTA">Global Call to Action: WTO Waiver <u>Now</u> to End the Pandemic!</a></i> (30 November - 3 December 2021)
 <p>
 <div class="searchable">
 Monopoly restrictions under the TRIPS agreement include patents on medicines (diagnostics, treatments, and vaccines) as well as copyright restrictions (such as on books, music, etc.) There is no economic evidence for the specific terms of the intellectual property restrictions in the WTO, which are the only WTO rules which actually restrict trade, reduce consumer choice, and increase prices thousands of times more than the marginal cost of production (and are therefore the opposite of “free” trade.) 
+<p>
+See also:
+<i><a href="https://www.washingtonpost.com/outlook/2022/05/27/spring-cleaning-2022-stoicism-biopics-sourdough/#SEBJJP7VRVCJLESP73XMLC7HA4-5">The patent system</a></i>, by Joseph E. Stiglitz.
+(Washington Post, 27 May 2022; scroll down until the in-page navigation menu is shown, then you can click on the heading “The patent system”)
 <p>
 At the time of the founding of the WTO, developed countries pressured developing countries into agreeing to such monopolies on the guise that they would promote development and innovation. However, IP-related incomes for the OECD members swelled from less than USD 50 billion at the time of the founding of the WTO, to more than USD 350 billion in 2017, while developing country incomes from IP have remained flat at close to zero.
 <p>
@@ -49,7 +62,25 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 
 <h2>Statements and letters from Civil Society</h2>
 <p>
-<a href="2022/L_WTO_2022-02-16.pdf"><i>Civil Society Open Letter to the WTO Director General</i></a>. (16&nbsp;February&nbsp;2022)
+<a href="https://docs.google.com/document/d/1a118c9DInx6xVkGCUJJsIm1Bj5_8fpoNuV9vL4DgMH4/edit">Access a Social Media Kit YOU can use to message world leaders<i></i></a>, now through MC12.
+<p>
+<a href="http://aftinet.org.au/cms/Civil-society-urges-new-govt-to-support-action-on-medicine-monopolies-at-WTO"><i>Australian Civil society groups urge new government to support strong action on COVID-19 medicine monopolies at WTO meeting</i></a>. (6 June 2022)
+<p>
+<a href="2022/UK-CS_WTO-letter.pdf"><i>U.K. Civil Society calls for full TRIPS waiver at WTO negotiations, criticising ‘deeply flawed’ Government consultation</i></a>. (31 May 2022)
+<p>
+<a href="https://healthjusticeinitiative.org.za/wp-content/uploads/2022/03/Letter-to-President-Ramaphosa-from-Stiglitz-Ghosh_220322_172652-1.pdf"><i>Letter to South African President Cyril Ramaphosa from Joseph Stiglitz, Jayati Ghosh and the Pan-African director of Oxfam</i></a>. (21 March 2022)
+<p>
+<a href="https://msfaccess.org/msf-urges-governments-reject-draft-covid-19-text-tabled-wto-would-set-negative-precedent"><i>MSF urges governments to reject the draft COVID-19 text tabled at WTO, that would set a negative precedent</i></a>. (3 May 2022)
+<p>
+<a href="https://peoplesvaccine.org/resources/media-releases/agm-day-of-action/"><i>Global activists mobilize for a people’s vaccine during pharma AGMs</i></a>. (28 April 2022)
+<p>
+<a href="https://www.oxfam.org/en/press-releases/media-reaction-response-reports-compromise-vaccines-trips-waiver"><i>Media reaction in response to reports of a compromise on the vaccines TRIPS waiver</i></a>. (16 March 2022)
+<p>
+<a href="https://www.commondreams.org/news/2022/03/15/appalling-deal-ip-waiver-reportedly-limited-covid-vaccines"><i>'Appalling': Deal on IP Waiver Reportedly Limited to Covid Vaccines</i></a>. (15 March 2022)
+<p>
+<a href="https://peoplesvaccine.org/resources/media-releases/world-leader-2-year-letter/"><i>130+ leading voices call for an end to vaccine monopolies after two years of pandemic</i></a>. (11 March 2022)
+<p>
+<a href="2022/L_WTO_2022-02-16.pdf"><i>Civil Society Open Letter to the WTO Director General</i></a>. (16 February 2022)
 <p>
 <i><a href="https://www.aspher.org/download/982/wfpha_gnaph_statement_waive_vaccine_ip_rights_25_nov_2021.pdf">Waive vaccine intellectual property rights now!
 Summary Statement from the Global Network for Academic Public Health and the World Federation of Public Health Associations</a></i>. (25 November 2021)
@@ -160,6 +191,9 @@ Various statements from civil society in support of TRIPS waiver:
 
 
 <h2>Statements by Intergovernmental Organizations in favor of the TRIPS waiver</h2>
+
+<a href="https://blogs.lse.ac.uk/covid19/2022/04/06/the-uns-winnie-byanyima-how-to-beat-pandemics/">Winnie Byanyima (Executive Director of UNAIDS and an Under-Secretary-General of the United Nations)</a> (6 April 2022)
+<p>
 <a href="https://twn.my/title2/intellectual_property/trips_waiver_proposal/67th%20OS_ACHPR%20Chairperson%20Opening%20Statement_ENG-1.pdf">African Commission of Human and Peoples' Rights</a> (13 November 2020)
 <p>
 <a href="https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=26484&amp;LangID=E">Statement by UN Human Rights Experts</a> (9 November 2020)
@@ -180,10 +214,14 @@ Various statements from civil society in support of TRIPS waiver:
 <h2>Opinion pieces</h2>
 
 <ul>
+  <li><a href="https://www.commondreams.org/news/2022/06/03/we-are-choosing-death-byanyima-stiglitz-slam-wto-inaction-vaccine-patents">'We Are Choosing Death': Byanyima, Stiglitz Slam WTO Inaction on Vaccine Patents</a>. (3 June 2022)
+  <li><a href="https://jamie-love.medium.com/the-quad-wto-proposal-on-covid-19-and-trips-proposal-is-tied-for-the-5th-best-option-for-exports-dd8f165efdee">The Quad WTO proposal on COVID 19 and TRIPS proposal is tied for the 5th best option for exports</a>. (Medium, 20 March 2022)
+  <li><a href="https://peoplesdispatch.org/2022/03/17/compromised-trips-waiver-will-prolong-pandemic-inequalities/">Compromised TRIPS Waiver will prolong pandemic inequalities</a>. (17 March 2022)
   <li><a href="https://www.theatlantic.com/ideas/archive/2021/05/biden-has-power-vaccinate-world/618802/">Biden has the power to vaccinate the world</a>.
       (Chelsea Clinton and Achal Prabhala, 5 May 2021)
   <li><a href="https://www.project-syndicate.org/commentary/covid19-intellectual-property-waiver-is-a-moral-imperative-by-jeffrey-d-sachs-2021-04">Share the Intellectual Property on COVID-19</a>
       (Jeffrey Sachs, 30 April 2021)
+  <li><a href="https://twn.my/title2/wto.info/2021/ti210219.htm">COVID-19: Addressing pandemic-induced global medical supply issues</a>. (24 February 2021)
   <li><a href="https://twn.my/title2/wto.info/2021/ti210219.htm" class="ListLabel_20_56"><span class="T1">COVID-19: Addressing pandemic-induced global medical supply issues</span></a><span class="T2"> (Dec 10, 2020)</span><span class="odfLiEnd"/> </li>
   <li><a href="https://scroll.in/article/979266/interview-why-covid-19-vaccines-should-be-a-global-public-good-and-not-be-hoarded-by-rich-countries" class="ListLabel_20_56"><span class="T1">Why Covid-19 vaccines should be a global public good and not be hoarded by rich countries</span></a><span class="T2"> (Dec 10, 2020)</span><span class="odfLiEnd"/> </li>
   <li><a href="https://www.croakey.org/australia-urged-to-support-proposal-to-waive-intellectual-property-rights-for-covid-19-medical-products/" class="ListLabel_20_56"><span class="T1">Australia urged to support proposal to waive intellectual property rights for COVID-19 medical products</span></a><span class="T2"> (Dec 8, 2020)</span><span class="odfLiEnd"/> </li>
@@ -207,7 +245,38 @@ Various statements from civil society in support of TRIPS waiver:
 </ul>
 
 <h2>News Reports from the Third World Network</h2>
-
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220611.htm">WTO: Anti-diversion provision in waiver decision text emerges as the next flash point</a></i>. (D. Ravi Kanth, 10 June 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220522.htm">WTO: DG to issue three best endeavour "Plan B" MC12 agriculture outcomes / TRIPS waiver informal drafting meeting</a></i>, by D. Ravi Kanth. (31 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220520.htm">WTO: TRIPS Council "outcome text" contradicts bracketed working document</a></i>. (30 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220514.htm">WTO DG, TRIPS Chair "manage" TRIPS Covid-19 negotiation process</a></i>, by D. Ravi Kanth. (18 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220507.htm">WTO DG's "TRIPS COVID-19" text goes into uncharted waters</a></i>, by D. Ravi Kanth. (10 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220502.htm">WTO Secretariat misleads on status &amp; content of intellectual property text, perpetuates confusion</a></i>. (4 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220501.htm">WTO DG’s proposed solution unsuitable for global public health crisis</a></i>, by Sangeeta Shashikant. (2 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220413.htm">US Patent System in "dire need of reform" - NYT Editorial Board calls for action</a></i>. (18 April 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220322.htm">Leaked IP text presented as "take it or leave it" by WTO Secretariat</a></i>. (29 March 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220314.htm">Proposed TRIPS waiver outcome not yet agreed among the Quad</a></i>. (17 March 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220222.htm">WTO: Dangers of "take-it-or-leave-it" compromise outcome on TRIPS waiver</a></i>, by D. Ravi Kanth. (24 February 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220104.htm">North blocks India's request for virtual ministerial on TRIPS waiver</a></i>, by D. Ravi Kanth. (14 January 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220102.htm">WTO: GC chair to hold talks on virtual ministerial on TRIPS component</a></i>, by D. Ravi Kanth. (12 January 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211210.htm">US, EU, India, South Africa hold talks on TRIPS waiver compromise</a></i>, by D. Ravi Kanth. (14 December 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211205.htm">Developing countries call for concluding work on TRIPS waiver</a></i>, by D. Ravi Kanth. (7 December 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211203.htm">Pressure mounts on WTO to show its "human face" on TRIPS waiver</a></i>, by D. Ravi Kanth. (2 December 2021) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2021/ti211122.htm">Emergence of &quot;vaccine apartheid&quot; at WTO's upcoming MC12?</a></i>, by D. Ravi Kanth. (23 November 2021) 
 <p>

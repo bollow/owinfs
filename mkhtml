@@ -30,7 +30,8 @@ for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 R_WTO-Turnaround 2021_WTO-Turnaround 2021_WTO-Turnaround_ES 2021_WTO-Turnaround_FR \
 	 2021_WTO-PF_22 2021_WTO-PF_61 2021_WTO-PF_72 2021_WTO-PF_80 2021_L_Walker_Process \
 	 2021_WTO_waiver_CTA 2021_R_Walker_Letter 2021_R_postpone_MC12 2021-11-26_Quotes \
-	 2021-11-30_Quotes \
+	 2021-11-30_Quotes 2022-06-10_briefing 2022_retract_access 2022-06-12_briefing \
+	 2022-06-13_R_protest \
 	 ; do
   php contentitem-page/$i.php > $i.html
 done

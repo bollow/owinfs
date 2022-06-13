@@ -33,6 +33,11 @@ Some WTO Members are negotiating rules on facilitating investment:
 
 <h2>Statements and Analysis from Civil Society</h2>
 
+<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Joint-statement%20initiative%20on%20IF%20WTOMC12BP%2020%20Nov%202021%20Mohamadieh.pdf">The plurilateral Joint-Statement Initiative on Investment Facilitation: Its developmental promise hangs in thin air</a></i>:
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Joint-statement%20initiative%20on%20IF%20WTOMC12BP%2020%20Nov%202021%20Mohamadieh.pdf">English</a>,
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Investment%20facilitation%20TWNBP%20MC12%20Mohamadieh%20Spa.pdf">Spanish</a>.
+(Kinda Mohamadieh, 20 November 2021)
+<p>
 <i><a href="2021/Kelsey_investment_JSI.pdf">Investment Facilitation Joint Statement Initiative: No home in the WTO,</a></i> by Jane Kelsey. (September 2021)
 <p>
 <i><a href="https://wp.twnnews.net/sendpress/eyJpZCI6IjU3MzQwIiwicmVwb3J0IjoiMzc4MCIsInZpZXciOiJ0cmFja2VyIiwidXJsIjoiaHR0cHM6XC9cL3R3bi5teVwvYW5ub3VuY2VtZW50XC9VbmNpdHJhbCUyMEZpZGRsZXMlMjBXaGlsZSUyMENvdW50cmllcyUyMEJ1cm4tJTIwS2Vsc2V5JTIwYW5kJTIwTW9oYW1hZGllaC1GaW5hbC5wZGYifQ/">UNCITRAL fiddles while countries burn,</a></i> by Jane Kelsey and Kinda Mohamadieh. (September 2021)

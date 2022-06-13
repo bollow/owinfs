@@ -22,10 +22,23 @@ The Sustainable Development Goal 14.6 has the target to “prohibit certain form
 </div>
 
 <h2>Statements and analysis from civil society</h2>
+<p>
+<i><a href="2022/NPSSFW_L.pdf">Letter to the Indian Government</a></i> and <i><a href="2022/NPSSFW_R.pdf">Press Statement</a></i> from National Platform for Small Scale Fish Workers (NPSSFW). (11 June 2022)
+<p>
+<i><a href="2022/NFF_Subsidies.pdf">Letter from the National Fishworkers' Forum India to the Commerce Minister of India on the issue of the proposed WTO Agreement to discipline fisheries subsidies which is slated to be concluded at MC12</a></i>. (9 June 2022)
+<p>
+<i>Letter from over 80 national and global fisherfolk and development organizations in favor of a pro-development outcome on fishing subsidies at MC12</i>: <a href="2022/L_Fisheries.pdf">English</a>, <a href="2022/L_Fisheries_FR.pdf">French</a>. (1 June 2022)
+<p>
+<i><a href="2022/PANG_Fisheries_Subsidies.pdf">Off the Hook:
+How the big subsidisers are avoiding responsibility
+in the WTO fisheries subsidies negotiations</a></i> (19 April 2022)
+<p>
 <i><a href="/2021/PANG_Nov2021_text_analysis.pdf">PANG assessment of November Fisheries Chairs Text (276/Rev2)</a></i>.
 (18 November 2021)
 <p>
-<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">Fisheries subsidies negotiations towards the WTO’s 12th Ministerial Conference: Considerations for developing countries and LDCs</a></i>.
+<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">Fisheries subsidies negotiations towards the WTO’s 12th Ministerial Conference: Considerations for developing countries and LDCs</a></i>:
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">English</a>,
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta%20Spa.pdf">Spanish</a>.
 (17 November 2021)
 <p>
 <i><a href="https://pina.com.fj/2021/09/23/wto-fisheries-subsidies-process-changes-to-disadvantage-developing-countries/">WTO Fisheries subsidies process changes to disadvantage developing countries</a></i>. (23 September 2021)
@@ -93,6 +106,8 @@ Spanish:
 <i><a href="http://wtocentre.iift.ac.in/FA/CWS%20review%20of%20%20WTO%20Fisheries%20Subsidies%20negotiations%20issues%202017.pdf">A review of fisheries subsidies issues in the context of WTO rules negotiations</a></i>. (Centre for WTO Studies, November 2016)
 
 <h2>News and updates on the negotiations</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220613.htm">Special and Differential Treatment takes a beating in the new Draft Fisheries Text submitted to Ministers for WTO MC12</a></i>. (Ranja Sengupta, 12 June 2022) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2021/ti211121.htm">Briefing on WTO fisheries subsidies negotiations</a></i>, by Ranja Sengupta. (22 November 2021) 
 <p>

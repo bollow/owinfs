@@ -19,6 +19,18 @@ include 'include/navbar.php';
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
 <p>
+<a href="https://www.twn.my/title2/wto.info/2022/ti220504.htm"><i>WTO: DG espouses reforms based on Northern priorities inimical to South</i></a>. (D. Ravi Kanth, 29 April 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220421.htm">South must ensure no "take-it-or-leave-it" decisions at MC12</a></i>, by D. Ravi Kanth. (27 April 2022) 
+<p>
+<a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS.pdf"><i>Looking towards WTO MC12: What’s on the table for developing countries and LDCs?</i></a>
+<a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS.pdf">English</a>,
+<a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS%20Spa.pdf">Spanish</a>,
+<a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS%20Fra.pdf">French</a>.
+(Kinda Mohamadieh and Ranja Sengupta, April 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220110.htm">LDCs mustn’t be burdened with onerous WTO accession commitments</a></i>. (D. Ravi Kanth, 21 January 2022)
+<p>
 <i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>. (14 November 2021)
 <p>
 <i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i>:
@@ -94,6 +106,10 @@ medical supplies and saving lives</i>:
 
 <h2>Updates on the negotiations</h2>
 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220612.htm">Trade: WTO DG expects two out of five possible outcomes at MC12</a></i>. (D. Ravi Kanth, 10 June 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220610.htm">WTO: DG’s alleged “pressure tactics” to push through decisions at MC12</a></i>. (D. Ravi Kanth, 9 June 2022) 
 <p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti211026.htm">Is WTO's MC12 paving the way for new trade negotiations?</a></i>, by D. Ravi Kanth. (28 October 2021)
 <p>

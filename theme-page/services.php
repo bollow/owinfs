@@ -40,10 +40,18 @@ OWINFS members have long maintained core demands with regards to services in the
 
 <h2>Current Civil Society Statements and Analysis</h2>
 <p>
-<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Reference%20paper%20on%20SDR%20TWNMC12BP%20Nov%202021%20Mohamadieh.pdf">Reference paper on services domestic regulations:
-Overview of main content and regulatory implications</a></i> (Kinda Mohamadieh, TWN, November 2021)
+<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Services%20TWNBP%20MC12%20Mohamadieh.pdf">Services</a></i>:
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Services%20TWNBP%20MC12%20Mohamadieh.pdf">English</a>,
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Services%20TWNBP%20MC12%20Mohamadieh%20Spa.pdf">Spanish</a>.
+(Kinda Mohamadieh, TWN, 10 November 2021)
 <p>
-<i><a href="https://twn.my/title2/briefing_papers/twn/Domestic%20regulation%20TWNBP%20Oct%202021%20Kelsey.pdf">Briefing note on Services Domestic Regulation JSI text of 27 September 2021 (INF/SDR/1)</a></i> (Jane Kelsey, TWN, October 2021) 
+<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Reference%20paper%20on%20SDR%20TWNMC12BP%20Nov%202021%20Mohamadieh.pdf">Reference paper on services domestic regulations:
+Overview of main content and regulatory implications</a></i>. (Kinda Mohamadieh, TWN, November 2021)
+<p>
+<i><a href="https://www.twn.my/title2/briefing_papers/twn/GATS%20certification%20TWNBP%20Nov%202021%20Kelsey.pdf">Certification of GATS schedules and the plurilateral reference paper on services domestic regulation</a></i>.
+(Jane Kelsey, November 2021)
+<p>
+<i><a href="https://twn.my/title2/briefing_papers/twn/Domestic%20regulation%20TWNBP%20Oct%202021%20Kelsey.pdf">Briefing note on Services Domestic Regulation JSI text of 27 September 2021 (INF/SDR/1)</a></i> (Jane Kelsey, October 2021) 
 <p>
 <i><a href="/2021/Kelsey_JSI_legitimacy.pdf">Why the Joint Statement Initiatives Lack Legal Legitimacy in the WTO</a></i>, by Law Professor Jane Kelsey, a rebuttal to a previous document by Hamid Mamdouh, “Plurilateral Negotiations and Outcomes in the WTO.”
 <a href="/2021/Kelsey_JSI_legitimacy_ES.pdf">Resumen en español</a>.
@@ -51,7 +59,7 @@ Overview of main content and regulatory implications</a></i> (Kinda Mohamadieh, 
 <p>
 <i><a href="https://twn.my/title/tnd/td44.htm">Plurilateral Initiatives and their Interaction with WTO Rules</a></i>. (Kinda Mohamadieh, TWN, 2020)
 <p>
-<i><a href="https://www.twn.my/title2/FTAs/Services/Full%20report%20for%20TD%20series_FORMAT_Ver6-FIN-09012020.pdf">Understanding the European Union’s understanding on computer and related services</a></i>. (Jane Kelsey, TWN, September 2020)
+<i><a href="https://www.twn.my/title2/FTAs/Services/Full%20report%20for%20TD%20series_FORMAT_Ver6-FIN-09012020.pdf">Understanding the European Union’s understanding on computer and related services</a></i>. (Jane Kelsey, September 2020)
 <p>
 Briefing paper: <a href="/2019/TWN_103_services.pdf"><i>Disciplining non-discriminatory domestic regulations in the services sectors – Another plurilateral track at the WTO</i></a>. (Kinda Mohamadieh, TWN, October 2019)
 <p>
@@ -85,7 +93,8 @@ These are the services sectors they are proposing the new rules would apply to.
 <i><a href="https://bilaterals.org/?wto-plurilateral-services-domestic">WTO plurilateral services domestic regulation disciplines draft text as of 18 December 2020</a></i>.
 
 <h2>Some Articles &amp; Updates on the Negotiations</h2>
- 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220407.htm">WTO Services Division propagates "dangerous" narrative on JSIs</a></i>. (D. Ravi Kanth, 11 April 2022)
 <p>
 <i><a href="https://www.wto.org/english/news_e/news21_e/jssdr_05nov21_e.htm">Participants make headway in finalizing negotiations on services domestic regulation at MC12</a></i>, WTO News. (4 November 2021)
 <p>

@@ -888,11 +888,11 @@ include 'include/navbar.php';
 		</td>
 	</tr>
 	<tr>
-		<td style="border: none; padding: 0cm">
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">India
 			Forum for Biotech &amp; Food Security</font></font>
 		</td>
-		<td style="border: none; padding: 0cm">
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">India</font></font>
 		</td>
 	</tr>
@@ -1147,6 +1147,14 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Nei til EU</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Norway</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">New
 			Economics Foundation</font></font>
 		</td>
@@ -1165,11 +1173,11 @@ include 'include/navbar.php';
 		</td>
 	</tr>
 	<tr>
-		<td style="border: none; padding: 0cm">
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">New
 			Zealand Council of Trade Unions (NZCTU)</font></font>
 		</td>
-		<td style="border: none; padding: 0cm">
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">New
 			Zealand</font></font>
 		</td>

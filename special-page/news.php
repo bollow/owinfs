@@ -20,6 +20,119 @@ For articles on specific areas of negotiations, such as e.g. <a href="fish">fish
         </div> <!-- /#content-header -->
         
         <div id="content-area"> 
+
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220613.htm">Special and Differential Treatment takes a beating in the new Draft Fisheries Text submitted to Ministers for WTO MC12</a></i>. (Ranja Sengupta, 12 June 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220612.htm">Trade: WTO DG expects two out of five possible outcomes at MC12</a></i>. (D. Ravi Kanth, 10 June 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220610.htm">WTO: DG’s alleged “pressure tactics” to push through decisions at MC12</a></i>. (D. Ravi Kanth, 9 June 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220522.htm">WTO: DG to issue three best endeavour "Plan B" MC12 agriculture outcomes / TRIPS waiver informal drafting meeting</a></i>, by D. Ravi Kanth. (31 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220521.htm">MC12 draft "outcome" document mired in divergences at WTO</a></i>, by D. Ravi Kanth. (25 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220519.htm">MC12 “modalities” suggest negotiations on five issues at WTO</a></i>, by TWN. (24 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220517.htm">Developing countries to face the blame if MC12 fails?</a></i>, by D. Ravi Kanth. (18 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220515.htm">WTO DG appears focused on "Plan B" declarations at MC12</a></i>, by D. Ravi Kanth. (16 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220513.htm">WTO: DG downplays MC12 prospects amidst divergences among members</a></i>, by D. Ravi Kanth. (12 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220510.htm">WTO Members still far apart on many issues five weeks before MC12</a></i>, by D. Ravi Kanth. (10 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220508.htm">WTO's MC12 remains shrouded in confusion on format of the meeting</a></i>, by D. Ravi Kanth. (5 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220505.htm">Stocktaking meeting being planned for end May before MC12</a></i>, by D. Ravi Kanth. (3 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220421.htm">South must ensure no "take-it-or-leave-it" decisions at MC12</a></i>, by D. Ravi Kanth. (27 April 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220409.htm">MC12 a stocktaking meeting or with any meaningful deliverables?</a></i>, by D. Ravi Kanth. (13 April 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220324.htm">WTO: DG calls for “convergence-building” on controversial issues for MC12</a></i>, by D. Ravi Kanth. (31 March 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220323.htm">WTO’s MC12 tentatively on 12-15 June, despite Russia-Ukraine war</a></i>, by D. Ravi Kanth. (29 March 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220317.htm">Linking draft IP “compromise” with MC12 deliverables?</a></i>, by D. Ravi Kanth. (18 March 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220224.htm">Call for former GC chair to oversee talks on WTO response to pandemic</a></i>, by D. Ravi Kanth. (24 February 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220219.htm">WTO's MC12 likely to be held in the week of 13 June</a></i>, by D. Ravi Kanth. (22 February 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220210.htm">WTO’s MC12 to be held in May amid lack of progress in all areas?</a></i>, by D. Ravi Kanth. (11 February 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220111.htm">Trade ministers fail to converge on major WTO issues</a></i>, by D. Ravi Kanth. (24 January 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220105.htm">Switzerland to host mini-ministerial on WTO’s priorities for 2022</a></i>, by D. Ravi Kanth. (14 January 2022)
+<p>
+ <i><a href="https://theconversation.com/divided-and-paralysed-can-the-wto-negotiate-a-pandemic-recovery-plan-that-is-fair-for-all-172484">Divided and paralysed, can the WTO negotiate a pandemic recovery plan that is fair for all?</a></i>, by Jane Kelsey. (24 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211123.htm">Differences persist at WTO on &quot;deliverables&quot; for MC12</a></i>, by D. Ravi Kanth. (23 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211122.htm">Emergence of &quot;vaccine apartheid&quot; at WTO's upcoming MC12?</a></i>, by D. Ravi Kanth. (23 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211119.htm">New round of talks stoked by US, EU to transform WTO against South</a></i>, by D. Ravi Kanth. (19 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211118.htm">EU to push its trade-related environmental measures into WTO</a></i>, by D. Ravi Kanth. (18 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211116.htm">WTO reform &amp; WTO pandemic response</a></i>. (17 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211115.htm">EU &amp; Brazil proposal on WTO reforms - a &quot;monster&quot; in the making</a></i>, by D. Ravi Kanth. (16 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211111.htm">Discussions on fundamental WTO reforms fail to garner consensus</a></i>, by D. Ravi Kanth. (11 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211107.htm">US stymies LDCs' proposed best endeavour interim decision at WTO</a></i>, by D. Ravi Kanth. (9 November 2021) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2021/ti211103.htm">Prospects for a new &quot;stealth&quot; round of trade talks growing at WTO</a></i>, by D. Ravi Kanth. (3 November 2021) 
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti211101.htm">WTO: Walker process on response to pandemic raises questions of credibility</a></i>, by D. Ravi Kanth. (1 November 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211026.htm">Is WTO's MC12 paving the way for new trade negotiations?</a></i>, by D. Ravi Kanth. (28 October 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211025.htm">WTO: Four South countries propose bold approach on response to pandemic</a></i>, by D. Ravi Kanth. (27 October 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211023.htm">Danger of WTO's Doha MC4 in 2001 repeating itself at MC12 in 2021</a></i>, by D. Ravi Kanth. (26 October 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211014.htm">Battle shifts to WTO on &quot;take-it-or-leave-it&quot; agreements at MC12</a></i>, by D. Ravi Kanth. (14 October 2021) 
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti211011.htm">G20 officials bicker over industrial subsidies, data flows &amp; WTO reforms</a></i>, by D. Ravi Kanth. (12 October 2021)  
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti211010.htm">WTO General Council meeting exposes fissures ahead of MC12</a></i>, by D. Ravi Kanth. (11 October 2021)  
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti211009.htm">Ministers deliver divergent messages on WTO &quot;deliverables&quot; for MC12</a></i>, by D. Ravi Kanth. (8 October 2021)  
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti211007.htm">WTO DG delivers mixed signals for MC12</a></i>, by D. Ravi Kanth. (7 October 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210923.htm">US calls for post-MC12 action plan while Doha issues are marginalized</a></i>, by TWN. (27 September 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210910.htm">Concerns voiced over possible &quot;rigged&quot; decisions at MC12</a></i>, by D. Ravi Kanth. (14 September 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210906.htm">WTO: Opposition to inclusion of export restrictions in Covid-19 response</a></i>, by D. Ravi Kanth. (8 September 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210807.htm">South faces moment of truth on development issues in run-up to MC12</a></i>, by D. Ravi Kanth. (13 August 2021) 
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti210726.htm">Members remain divided on MC12 issues at WTO General Council meet</a></i>, by D. Ravi Kanth. (30 July 2021)  
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti210723.htm">South countries warn credibility of WTO hangs in balance at MC12</a></i>, by D. Ravi Kanth. (27 July 2021)  
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210704.htm">WTO DG tasks DDGs to deliver on controversial, non-mandated issues</a></i>, by D. Ravi Kanth. (5 July 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210617.htm">Developed countries unlikely to deliver on mandated issues at MC12</a></i>, by D. Ravi Kanth. (29 June 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210510.htm">JSIs lack legal status, fragments WTO</a></i>, by D. Ravi Kanth. (10 May 2021) 
+<p>
+<i><a href="https://twn.my/title2/wto.info/2021/ti210508.htm">UN: UNCTAD unveils portal on Covid-19's impact on trade &amp; development</a></i>, by Kanaga Raja. (6 May 2021) 
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti210505.htm">Differences on deliverables for WTO's 12th ministerial conference</a></i>, by D. Ravi Kanth. (5 May 2021)  
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti210504.htm">WTO DG indifferent to Doha TNC mandate?</a></i>, by D. Ravi Kanth. (4 May 2021)  
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti210503.htm">CSOs call for transformation of WTO that &quot;puts people first&quot;</a></i>, by D. Ravi Kanth. (4 May 2021)  
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti210419.htm">UNCTAD calls for new development pathways in reform of WTO</a></i>, by D. Ravi Kanth. (30 April 2021)  
+<p>
+ <i><a href="https://twn.my/title2/wto.info/2021/ti210418.htm">UNCTAD Paper: &nbsp;Reforming international trading system for recovery, resilience &amp; inclusive development</a></i>. (30 April 2021)  
 <p>
   <i><a href="https://www.twn.my/title2/wto.info/2021/ti210401.htm">Several WTO members oppose hybrid negotiating sessions at MC12</a></i>, by D. Ravi Kanth. (1 April 2021)  
 <p>

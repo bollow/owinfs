@@ -84,14 +84,25 @@ Current demands of OWINFS with regards to Policy Space for Development include:
 <h2>Current Analysis from Civil Society</h2>
 
 <p>
-<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>. (14 November 2021)
+<a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS.pdf"><i>Looking towards WTO MC12: What’s on the table for developing countries and LDCs?</i></a>
+<a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS.pdf">English</a>,
+<a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS%20Spa.pdf">Spanish</a>,
+<a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS%20Fra.pdf">French</a>.
+(Kinda Mohamadieh and Ranja Sengupta, April 2022)
+<p>
+<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>. (14 November 2021)
+<p>
+<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/SDT%20TWNBP%20MC12%20Mohamadieh.pdf">Special and differential treatment</a></i>:
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/SDT%20TWNBP%20MC12%20Mohamadieh.pdf">English</a>,
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/SDT%20TWNBP%20MC12%20Mohamadieh%20Spa.pdf">Spanish</a>.
+(Kinda Mohamadieh, 10 November 2021)
 <p>
 <i>The developing country status of China and India at the WTO is largely justified</i>:
 <a href="2021_SOL_China+India">English</a>,
 <a href="2021_SOL_China+India_FR">French</a>.
 (Jacques Berthelot, SOL France, 25 July 2021)
 
-<h2>Key Analysis of SDT Proposals</h2>
+<h2>Key analysis of SDT proposals</h2>
 
 <i><a href="https://www.southcentre.int/book-by-the-south-centre-2020-3/">WTO reform and the crisis of multilateralism – A developing country perspective</a></i>.
 (Faizel Ismail, South Centre, 2020) 
@@ -108,8 +119,9 @@ This research paper examines the US’ Section 301 unilateral actions against Ch
 <i><a href="https://www.southcentre.int/analytical-note-january-2017-3/">The WTO’s Special and Differential Treatment Negotiations (Paragraph 44)</a></i> (South Centre, January 2017)<br>
 <div class="noindex">Paragraph 44 of the 2001 Doha Ministerial Declaration mandates the ‘strengthening’ of Special and Differential Treatment (S&amp;D) provisions in the WTO Agreement, and making them ‘more precise, effective and operational’. This Note tracks the evolution of these negotiations from the start of the Doha Round in 2001 until the Nairobi Ministerial in December 2015.</div>
 
-<h2>Key Updates &amp; Articles on the Negotiations</h2>
-
+<h2>Key updates &amp; articles on the negotiations</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220319.htm">UN: Doha Programme of Action for LDCs (2022-2031) adopted with some reservations</a></i>. (Prerna Bomzan, 24 March 2022)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2021/ti211105.htm">G90 to fight on for improvements in S&amp;DT at WTO</a></i>, by D. Ravi Kanth. (5 November 2021) 
 <p>

@@ -37,6 +37,11 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Civil Society Statements and Analysis</h2>
 <p>
+<a href="2022/TH_Agriculture.pdf">Civil society submission on agriculture related issues at WTO MC12, from 16 Thai farmers’ and other organizations</a>:
+<a href="2022/TH_Agriculture.pdf">English</a>,
+<a href="2022/TH_Agriculture_TH.pdf">Thai</a>.
+(8 June 2022)
+<p>
 <i>Agricultural negotiations for MC12: A factsheet for developing countries</i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta%20SPA.pdf">Spanish</a>. (Ranja Sengupta, TWN, 13 November 2021)
 <p>
 <i>Rebuilding the WTO for a sustainable global development</i>:
@@ -69,6 +74,10 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Other Key Analysis</h2>
 <p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220511.htm">UN SR on the right to food - A reform of the global trade architecture and the AoA must for dealing with food crises</a></i>. (12 May 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220308.htm">UN: Global food prices hit all-time high in February, says FAO</a></i>. (Kanaga Raja, 9 March 2022)
+<p>
 <i><a href="https://wtocentre.iift.ac.in/PolicyBrief/CWS_Policy%20Brief%20Domestic%20Support.pdf">Agriculture Negotiations at WTO MC12: Analysing Domestic Support</a></i>.
 (Abhijit Das, Sachin Kumar Sharma, Paavni Mathur, and Teesta Lahiri, September 2021)
 <p>
@@ -87,7 +96,36 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
  <i><a href="http://wtocentre.iift.ac.in/workingpaper/WorkingPaper59.pdf">Special Safeguard Mechanism for Agriculture: Implications for Developing Members at the WTO</a></i>. (Centre for WTO Studies, India, August 2020) 
 
 <h2>Articles &amp; Updates on the Negotiations</h2>
-
+<p>
+<i><a href="https://www.livemint.com/news/world/india-proposes-options-for-permanent-solution-on-food-security-at-wto/amp-11654342722242.html">India proposes options for permanent solution on food security at WTO</a></i>, by Dilasha Seth. (5 June 2022) 
+<p>
+<i><a href="https://m.economictimes.com/news/economy/foreign-trade/60-wto-nations-back-new-method-on-food-subsidies/articleshow/91948851.cms">60 WTO nations back new method on food subsidies</a></i>, by Kirtika Suneja. (2 June 2022) 
+<p>
+<i><a href="https://www.timesnownews.com/exclusive/60-nations-including-india-want-new-wto-rules-on-food-subsidy-to-battle-inflation-article-91960473">60 nations including India want new WTO rules on food subsidy to battle inflation</a></i>. (2 June 2022) 
+<p>
+<i><a href="https://krishijagran.com/agriculture-world/india-s-struggle-for-permanent-solution-to-msp-raises-concerns-at-wto/">India’s Struggle for Permanent Solution to MSP Raises Concerns at WTO</a></i>, by Shivam Dwivedi. (2 June 2022) 
+<p>
+<i><a href="https://www.thehindubusinessline.com/economy/agri-business/indias-struggle-for-permanent-solution-to-msp-worries-at-wto-gains-momentum/article65484732.ece">India’s struggle for permanent solution to MSP worries at WTO gains momentum</a></i>, by Amiti Sen. (1 June 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220522.htm">WTO: DG to issue three best endeavour "Plan B" MC12 agriculture outcomes / TRIPS waiver informal drafting meeting</a></i>, by D. Ravi Kanth. (31 May 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220423.htm">Conclude permanent solution on PSH at MC12, say participants</a></i>. (D. Ravi Kanth, 27 April 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220417.htm">Attempts at “freezing” agricultural outcomes at MC12</a></i>. (D. Ravi Kanth, 21 April 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220416.htm">LDCs outline their priorities on agriculture for WTO's MC12</a></i>. (D. Ravi Kanth, 20 April 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220405.htm">WTO: Chair of Doha agriculture talks "misleading" members, says Indonesia</a></i>. (D. Ravi Kanth, 6 April 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220402.htm">WTO members agree on TRQ under-fill mechanism</a></i>. (D. Ravi Kanth, 31 March 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220313.htm">Brazil opposes permanent solution on public stockholding at WTO</a></i>. (D. Ravi Kanth, 14 March 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220213.htm">India sharply criticizes chair’s text on agriculture at WTO</a></i>. (D. Ravi Kanth, 15 February 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220112.htm">South countries criticize "trust deficit" in agriculture outcomes at WTO</a></i>. (D. Ravi Kanth, 25 January 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220107.htm">WTO: Looming North-South battle over market price support programs</a></i>. (D. Ravi Kanth, 18 January 2022)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2021/ti211114.htm">Agricultural negotiations factsheet for MC12</a></i>, by Ranja Sengupta. (16 November 2021) 
 <p>

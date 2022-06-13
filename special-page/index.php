@@ -39,21 +39,21 @@ Having refused for over a year to agree to the waiver that would resolve the pan
       </div>
       <div class="col">
 <h1><a href="MC12">12<sup>th</sup> Ministerial Conference</a></h1>
-The 12<sup>th</sup> Ministerial Conference of the WTO <s>is</s> <span style="color:red"><b>was</b></span> scheduled to take place Nov 30 - Dec 3, 2021 in Geneva.
-<p style="color:#fe0000;">
-<b>Update: MC12 has been postponed.</b>
+After being twice postponed, the 12<sup>th</sup> Ministerial Conference of the WTO is now
+taking place 12-15 June 2022 in Geneva.
 <p>
-Unbelievably, the institution whose rules enforce vaccine apartheid, attempted to have a meeting under conditions of vaccine apartheid, without having first resolved that apartheid by agreeing to the TRIPS waiver. Even though the decision to hold a Ministerial when some Ministers are unable to attend would ensure that any decisions taken in this context lack any pretence of legitimacy.
+<a href="2022-06-13_R_protest"><b><i>Civil Society Protest at the Entrance of the WTO 12th Ministerial in Geneva</i></b></a>. (13 June 2022)
+<p>
+<a href="2022-06-12_briefing"><b><i>Civil Society at MC12 Denounce Ministerial Agenda, Call for Transformation of WTO Rules</i></b></a>. (press conference recording, 12 June 2022)
+<p>
+<a href="2022_retract_access"><b><i>NGO statement on the WTO decision to retract their previously granted access to the Ministerial Conference on its opening day</i></b></a>. (12 June 2022)
+<p>
+<a href="2022-06-10_briefing"><b><i>Online press conference with civil society and academic experts on the stakes for MC12</i></b></a>. (recording, 10 June 2022)
+<p>
+<a href="https://www.ineteconomics.org/perspectives/blog/why-whats-going-on-right-now-at-the-wto-matters"><b><i>Why what’s going on right now at the WTO matters</i></b></a>.
 <?php
 include "extra_data/index.extra_data";
 ?>
-<p>
-<b><i><a href="https://cepr.net/whats-at-stake-at-the-wto">What’s at stake at the WTO?</a></i></b>
-<p>
-<b><i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham "Walker Process" and in Favor of the TRIPS Waiver</a></i></b>: <a href="2021/L_Walker_Process.pdf">English</a>, <a href="2021/L_Walker_Process_AR.pdf">Arabic</a>
-<p>
-<b><i><a href="2021_R_postpone_MC12">Letter to WTO Members: Postpone the 12th Ministerial - TRIPS Waiver Now!</a></i></b>  
-<a href="2021/L_postpone_MC12.pdf">English</a>, <a href="2021/L_postpone_MC12_ES.pdf">Spanish</a>, <a href="2021/L_postpone_MC12_FR.pdf">French</a>, <a href="2021_R_postpone_MC12">media release</a>. 
 <p>
 <b><i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i></b>:
 <a href="2021_WTO-Turnaround">English</a>,
