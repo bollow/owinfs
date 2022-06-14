@@ -20,7 +20,8 @@ For articles on specific areas of negotiations, such as e.g. <a href="fish">fish
         </div> <!-- /#content-header -->
         
         <div id="content-area"> 
-
+<p>
+<a href="https://www.theguardian.com/commentisfree/2022/jun/13/wto-market-knows-best-ideology-failed-world-trade-organization"><i>The WTO, with its ‘market knows best’ ideology, has failed. It’s time to bury it</i></a>. (Nick Dearden, The Guardian, 13 June 2022)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220613.htm">Special and Differential Treatment takes a beating in the new Draft Fisheries Text submitted to Ministers for WTO MC12</a></i>. (Ranja Sengupta, 12 June 2022) 
 <p>

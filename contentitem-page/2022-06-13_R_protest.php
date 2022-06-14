@@ -11,6 +11,8 @@ include 'include/navbar.php';
 ?>
 
       <div id="content" class="singlecolumn">
+      <img src="2022/2022-06-13_protest.jpg">
+      <p>
         13 June 2022
         <div id="content-header">
           <h1 class="title">Civil Society Protest at the Entrance of the WTO 12<sup>th</sup> Ministerial in Geneva</h1>

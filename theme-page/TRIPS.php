@@ -64,6 +64,10 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 <p>
 <a href="https://docs.google.com/document/d/1a118c9DInx6xVkGCUJJsIm1Bj5_8fpoNuV9vL4DgMH4/edit">Access a Social Media Kit YOU can use to message world leaders<i></i></a>, now through MC12.
 <p>
+<a href="https://igj.or.id/indonesian-civil-society-group-open-letter-regarding-trips-waiver-agreement-draft-in-wto/?lang=en"><i>Indonesian Civil Society Group Open Letter regarding TRIPS Waiver Agreement Draft in WTO</i></a>: <a href="https://igj.or.id/indonesian-civil-society-group-open-letter-regarding-trips-waiver-agreement-draft-in-wto/?lang=en">English</a>, <a href="https://igj.or.id/surat-terbuka-kelompok-masyarakat-sipil-indonesia-terhadap-draft-perjanjian-trips-waiver-di-wto/">Indonesian</a>. (13 June 2022)
+<p>
+<a href="2022/C20-VAHWG_TRIPS_waiver.pdf"><i>Civil-20 Vaccine Access &amp; Global Health Working Group Statement</i></a>. (13 June 2022)
+<p>
 <a href="http://aftinet.org.au/cms/Civil-society-urges-new-govt-to-support-action-on-medicine-monopolies-at-WTO"><i>Australian Civil society groups urge new government to support strong action on COVID-19 medicine monopolies at WTO meeting</i></a>. (6 June 2022)
 <p>
 <a href="2022/UK-CS_WTO-letter.pdf"><i>U.K. Civil Society calls for full TRIPS waiver at WTO negotiations, criticising ‘deeply flawed’ Government consultation</i></a>. (31 May 2022)

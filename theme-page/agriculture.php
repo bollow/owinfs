@@ -37,6 +37,9 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Civil Society Statements and Analysis</h2>
 <p>
+<i><a href="2022/TWN_Agriculture.pdf">Agriculture and food security negotiations text at WTO MC12: Implications for developing countries</a></i>.
+(Ranja Sengupta, TWN, 13 June 2022)
+<p>
 <a href="2022/TH_Agriculture.pdf">Civil society submission on agriculture related issues at WTO MC12, from 16 Thai farmers’ and other organizations</a>:
 <a href="2022/TH_Agriculture.pdf">English</a>,
 <a href="2022/TH_Agriculture_TH.pdf">Thai</a>.

@@ -20,17 +20,27 @@ The 12<sup>th</sup> Ministerial Conference of the WTO was scheduled to take plac
 (<a href="https://www.wto.org/english/news_e/news21_e/mc12_26nov21_e.htm">Official announcement</a>.)
 <span style="color:#fe0000;"><b>It has been rescheduled for 12-15 June 2022 in Geneva.</b></span>
 <p>
-<a href="2022-06-13_R_protest"><b><i>Civil Society Protest at the Entrance of the WTO 12th Ministerial in Geneva</i></b></a>. (13 June 2022)
+<a href="2022-06-14_R_protest"><b><i>Civil society lampoon exclusive “green rooms” in protest performance</i></b></a>. (14 June 2022)
+<p>
+<a href="https://www.theguardian.com/commentisfree/2022/jun/13/wto-market-knows-best-ideology-failed-world-trade-organization"><b><i>The WTO, with its ‘market knows best’ ideology, has failed. It’s time to bury it</i></b></a>. (Nick Dearden, The Guardian, 13 June 2022)
+<p>
+<a href="2022-06-13_R_protest"><b><i>Civil society protest at the entrance of the WTO 12th ministerial in Geneva</i></b></a>. (13 June 2022)
+<p>
+<a href="2022-06-12_R_police"><b><i>Police stop peaceful demonstrators outside WTO</i></b></a>. (12 June 2022)
 <p>
 <a href="2022-06-12_briefing"><b><i>Civil Society at MC12 Denounce Ministerial Agenda, Call for Transformation of WTO Rules</i></b></a>.<br>
 (press conference recording, 12 June 2022)
 <p>
 <a href="2022_retract_access"><b><i>NGO statement on the WTO decision to retract their previously granted access to the Ministerial Conference on its opening day</i></b></a>. (12 June 2022)
 <p>
+<a href="https://www.meer.com/en/69929-the-global-south-in-the-wto"><b><i>The Global South in the WTO: Time to move from the defensive to the offensive</i></b></a>. (Walden Bello, 12 June 2022)
+<p>
 <a href="2022-06-10_briefing"><b><i>Online press conference with civil society and academic experts on the stakes for MC12</i></b></a>.<br>
 (recording, 10 June 2022)
 <p>
-<a href="https://www.ineteconomics.org/perspectives/blog/why-whats-going-on-right-now-at-the-wto-matters"><b><i>Why what’s going on right now at the WTO matters</i></b></a>. (Deborah James, 10 June 2022)
+<a href="https://www.ineteconomics.org/perspectives/blog/why-whats-going-on-right-now-at-the-wto-matters"><b><i>Why what’s going on right now at the WTO matters</i></b></a>:
+<a href="https://www.ineteconomics.org/perspectives/blog/why-whats-going-on-right-now-at-the-wto-matters">English</a>,
+<a href="2022_importante">Spanish</a>. (Deborah James, 10 June 2022)
 <p>
 <a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS.pdf"><b><i>Looking towards WTO MC12: What’s on the table for developing countries and LDCs?</i></b></a>
 <a href="https://www.twn.my/title2/briefing_papers/twn/WTO%20MC12%20TWNBP%20Apr%202022%20KM&RS.pdf">English</a>,
@@ -93,11 +103,15 @@ if (filesize("extra_data/MC12.extra_data")>3) {
 }
 ?>
 
-<h2><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
+<h2 id="waiver"><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
 
 The global health community, civil society around the world, legislators, international agencies, former heads of state, and over 100 WTO members support the waiver on intellectual property rules on COVID-19 related treatments, diagnostics, and vaccines to end the pandemic. The TRIPS waiver can be agreed at any General Council meeting and does NOT require a Ministerial. This is the ONLY agenda that WTO Members should be focusing on at this time. 
 <p>
 <span style="font-size:17px;"><b><i><a href="https://peoplesvaccine.org/take-action/mc12/">Global Days of Action for COVID VACCINE & TREATMENT EQUITY</a></i></b> (12-16 June 2022)</span>
+<p>
+<a href="https://igj.or.id/indonesian-civil-society-group-open-letter-regarding-trips-waiver-agreement-draft-in-wto/?lang=en"><i>Indonesian Civil Society Group Open Letter regarding TRIPS Waiver Agreement Draft in WTO</i></a>: <a href="https://igj.or.id/indonesian-civil-society-group-open-letter-regarding-trips-waiver-agreement-draft-in-wto/?lang=en">English</a>, <a href="https://igj.or.id/surat-terbuka-kelompok-masyarakat-sipil-indonesia-terhadap-draft-perjanjian-trips-waiver-di-wto/">Indonesian</a>. (13 June 2022)
+<p>
+<a href="2022/C20-VAHWG_TRIPS_waiver.pdf"><i>Civil-20 Vaccine Access &amp; Global Health Working Group Statement</i></a>. (13 June 2022)
 <p>
 <i><a href="https://www.washingtonpost.com/outlook/2022/05/27/spring-cleaning-2022-stoicism-biopics-sourdough/#SEBJJP7VRVCJLESP73XMLC7HA4-5">The patent system</a></i>, by Joseph E. Stiglitz.
 (Washington Post, 27 May 2022; scroll down until the in-page navigation menu is shown, then you can click on the heading “The patent system”)
@@ -113,10 +127,16 @@ The global health community, civil society around the world, legislators, intern
 <p>
 <a href="2021-11-30_Quotes"><i>Quotes and photos from the press conference “No profit on covid”</b></a>.</i> (30 November 2021)
 <p>
-Please <a href="TRIPS">see here</a> for extensive information on the importance of the TRIPS waiver.
+Please <a href="TRIPS">see here</a> for extensive information on the importance of the TRIPS waiver.<br>
+See also: <a href="#pandemic">WTO’s response to the pandemic</a>
 
 
 <h2><a href="WTO-process">WTO reform</a></h2>
+<p>
+<a href="https://www.downtoearth.org.in/news/governance/proposed-wto-reform-aims-to-bully-developing-nations-civil-society-members-83264"><i>Proposed WTO reform aims to bully developing nations: Civil society members</i></a>. (Himanshu N, Down To Earth, 13 June 2022)
+<p>
+<a href="2022-06-12_briefing"><b><i>Civil Society at MC12 Denounce Ministerial Agenda, Call for Transformation of WTO Rules</i></b></a>.<br>
+(press conference recording, 12 June 2022)
 <p>
 <a href="https://www.twn.my/title2/wto.info/2022/ti220504.htm"><i>WTO: DG espouses reforms based on Northern priorities inimical to South</i></a>. (D. Ravi Kanth, 29 April 2022)
 <p>
@@ -150,11 +170,19 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 
 <h2><a href="fish" id="fish">Fisheries</a></h2>
 <p>
+Indonesian <i><a href="https://igj.or.id/civil-society-group-open-letter-regarding-fisheries-subsidy-negotiations-in-wto/?lang=en">Civil society group open letter regarding fisheries subsidy negotiations in WTO</a></i>. (12 June 2022)
+<p>
+<i><a href="2022/TWN_Fisheries-SDT.pdf">Special and Differential Treatment takes a beating in the new Draft Fisheries Text submitted to Ministers for WTO MC12</a></i>.
+(Ranja Sengupta, TWN, 11 June 2022)
+<p>
 <i><a href="2022/NPSSFW_L.pdf">Letter to the Indian Government</a></i> and <i><a href="2022/NPSSFW_R.pdf">Press Statement</a></i> from National Platform for Small Scale Fish Workers (NPSSFW). (11 June 2022)
 <p>
 <i><a href="2022/NFF_Subsidies.pdf">Letter from the National Fishworkers' Forum India to the Commerce Minister of India on the issue of the proposed WTO Agreement to discipline fisheries subsidies which is slated to be concluded at MC12</a></i>. (9 June 2022)
 <p>
 <i>Letter from over 80 national and global fisherfolk and development organizations in favor of a pro-development outcome on fishing subsidies at MC12</i>: <a href="2022/L_Fisheries.pdf">English</a>, <a href="2022/L_Fisheries_FR.pdf">French</a>. (1 June 2022)
+<p>
+<i><a href="2022/TWN_Fisheries.pdf">Fisheries subsidies negotiations towards the WTO’s 12th Ministerial Conference: Considerations for developing countries and LDCs</a></i>.
+(Ranja Sengupta, TWN, 27 May 2022)
 <p>
 <i><a href="2022/PANG_Fisheries_Subsidies.pdf">Off the Hook:
 How the big subsidisers are avoiding responsibility
@@ -166,7 +194,9 @@ in the WTO fisheries subsidies negotiations</a></i>. (19 April 2022)
 <i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">Fisheries subsidies negotiations towards the WTO’s 12th Ministerial Conference: Considerations for developing countries and LDCs</a></i>:
 <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">English</a>,
 <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta%20Spa.pdf">Spanish</a>.
-(Ranja Sengupta, 17 November 2021)
+(Ranja Sengupta, 17 November 2021)<br>
+Note: In English, an <a href="2022/TWN_Fisheries.pdf">updated version</a> is avaliable.
+(27 May 2022)
 <p>
 <a href="2021-03-17_TWN_Fisheries">Protecting the Problem – Fisheries subsidies negotiations and the WTO</a> (17 March 2021)
 <p>
@@ -195,6 +225,9 @@ in the WTO fisheries subsidies negotiations</a></i>. (19 April 2022)
 
 
 <h2 id="agriculture"><a href="agriculture">Agriculture</a></h2>
+<p>
+<i><a href="2022/TWN_Agriculture.pdf">Agriculture and food security negotiations text at WTO MC12: Implications for developing countries</a></i>.
+(Ranja Sengupta, TWN, 13 June 2022)
 <p>
 <a href="2022/TH_Agriculture.pdf">Civil society submission on agriculture related issues at WTO MC12, from 16 Thai farmers’ and other organizations</a>:
 <a href="2022/TH_Agriculture.pdf">English</a>,
@@ -273,6 +306,67 @@ in the WTO fisheries subsidies negotiations</a></i>. (19 April 2022)
 <i><a href="https://www.twn.my/title2/wto.info/2020/ti200602.htm">South sets out developmental priorities in face of COVID-19</a></i> (4 June 2020)
 <p>
 <a href="SDT">more on the development agenda …</a>
+
+
+<h2 id="moratorium">Moratorium on customs duties on electronic transmissions</h2>
+<i><a href="https://www.southcentre.int/category/publications/research-papers/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
+<p>
+see also: <a href="#digital">Digital trade JSI</a>
+
+
+<h2 id="pandemic">WTO Response to the Pandemic</h2>
+Having refused for over a year to agree to the waiver that would resolve the pandemic, trade negotiators from the EU, Switzerland, Canada, the UK, and a few other countries - representing the interests of Big Pharma over their own citizens and global public health - have invented a diversionary tactic called the “<a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">Walker Process</a>.” Allegedly a “WTO Response to the Covid-19,” this process is designed to try to save the WTO from its increasing irrelevance and illegitimacy, by drawing attention away from the WTO’s failure to remove the <a href="https://www.twn.my/title2/intellectual_property/trips_waiver_proposal.htm">barriers of its Trade-Related Intellectual Property Rules (TRIPS) agreement</a> to resolving the pandemic. 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220611.htm">WTO: Anti-diversion provision in waiver decision text emerges as the next flash point</a></i>. (D. Ravi Kanth, 10 June 2022) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220216.htm">WTO: GC chair issues draft ministerial declaration on response to pandemic</a></i>. (D. Ravi Kanth, 17 February 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220208.htm">WTO: GC chair calls for "strategic pause" in WTO response to pandemic talks</a></i>. (D. Ravi Kanth, 7 February 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220204.htm">WTO GC chair continues consultations amid differences on Walker text</a></i>. (D. Ravi Kanth, 4 February 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220201.htm">WTO entering into "dangerous" times?</a></i>. (D. Ravi Kanth, 28 January 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220113.htm">Meeting on WTO’s response to pandemic amid sharp divergences</a></i>. (D. Ravi Kanth, 26 January 2022)
+<p>
+<a href="https://www.bilaterals.org/?wto-response-to-the-pandemic">Leaked text</a>. (22 November 2021)
+<p>
+<i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i>: <a href="2021/L_Walker_Process.pdf">English</a>, <a href="2021/L_Walker_Process_AR.pdf">Arabic</a>. (19 November 2021)
+<p>
+<i><a href="2021_R_Walker_Letter">Press Release on CSO Open Letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i>. (19 November 2021)
+<p>
+<i><a href="2021/Quotes_Walker_Process.pdf">Quotes from Civil Society on the so-called Walker Process</a></i>. (18 November 2021)
+<p>
+<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>,
+<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20Ara.pdf">Arabic</a>. (14 November 2021)
+<p>
+<i><a href="http://wtocentre.iift.ac.in/PolicyBrief/Policy_brief_1.pdf">Seeking market access behind the veil of combating COVID-19</a></i>.
+(Abhijit Das, Murali Kallummal and Sachin Kumar Sharma, Centre for WTO Studies, India, June 2020)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200521.htm">COVID-19: South opposes attempts to foist trade liberalization measures</a></i>
+(20 May 2020)
+<p>
+<i><a href="https://www.southcentre.int/policy-brief-77-may-2020/">COVID-19 and WTO: Debunking developed countries’ narratives on trade measures.</a></i>
+(May 2020)
+<p>
+<i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i>.
+(7 May 2020)
+<p>
+<i><a href="https://www.southcentre.int/policy-brief-77-may-2020/">COVID-19 and WTO: Debunking developed countries’ narratives on trade measures</a></i>.
+(South Centre, May 2020)
+<p>
+<i>Letter from 400 organizations from more than 150 countries to WTO Members: Stop all trade and
+      investment treaty negotiations during the COVID-19 outbreak and refocus on access to
+      medical supplies and saving lives</i>:
+      <a href="2020-04-30_letter_Focus_saving_lives">English</a>,
+      <a href="2020-04-30_carta_Salvar_vidas">Spanish</a>,
+      <a href="2020-04-30_lettre_Sauvetage_de_vies">French</a>.
+(30 April 2020)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i>
+(22 April 2020)
+<p>
+See also: <a href="#waiver">Access to medicines, TRIPS waiver</a>
 
 
 <h2>Joint Statement Initiatives (JSIs)</h2>
@@ -388,65 +482,9 @@ Spanish: <a href="/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="/2019/WTO_12
 French: <a href="/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
 (31 March 2019)
 <p>
-<a href="digital#more">more on the digital economy …</a>
+<a href="digital#more">more on the digital economy …</a><br>
+see also: <a href="#moratorium">Moratorium on customs duties on electronic transmissions</a>
 
-
-
-<h2>Moratorium on customs duties on electronic transmissions</h2>
-<i><a href="https://www.southcentre.int/category/publications/research-papers/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
-
-
-<h2>WTO Response to the Pandemic</h2>
-Having refused for over a year to agree to the waiver that would resolve the pandemic, trade negotiators from the EU, Switzerland, Canada, the UK, and a few other countries - representing the interests of Big Pharma over their own citizens and global public health - have invented a diversionary tactic called the “<a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">Walker Process</a>.” Allegedly a “WTO Response to the Covid-19,” this process is designed to try to save the WTO from its increasing irrelevance and illegitimacy, by drawing attention away from the WTO’s failure to remove the <a href="https://www.twn.my/title2/intellectual_property/trips_waiver_proposal.htm">barriers of its Trade-Related Intellectual Property Rules (TRIPS) agreement</a> to resolving the pandemic. 
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2022/ti220611.htm">WTO: Anti-diversion provision in waiver decision text emerges as the next flash point</a></i>. (D. Ravi Kanth, 10 June 2022) 
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2022/ti220216.htm">WTO: GC chair issues draft ministerial declaration on response to pandemic</a></i>. (D. Ravi Kanth, 17 February 2022)
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2022/ti220208.htm">WTO: GC chair calls for "strategic pause" in WTO response to pandemic talks</a></i>. (D. Ravi Kanth, 7 February 2022)
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2022/ti220204.htm">WTO GC chair continues consultations amid differences on Walker text</a></i>. (D. Ravi Kanth, 4 February 2022)
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2022/ti220201.htm">WTO entering into "dangerous" times?</a></i>. (D. Ravi Kanth, 28 January 2022)
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2022/ti220113.htm">Meeting on WTO’s response to pandemic amid sharp divergences</a></i>. (D. Ravi Kanth, 26 January 2022)
-<p>
-<a href="https://www.bilaterals.org/?wto-response-to-the-pandemic">Leaked text</a>. (22 November 2021)
-<p>
-<i><a href="2021_L_Walker_Process">Open letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i>: <a href="2021/L_Walker_Process.pdf">English</a>, <a href="2021/L_Walker_Process_AR.pdf">Arabic</a>. (19 November 2021)
-<p>
-<i><a href="2021_R_Walker_Letter">Press Release on CSO Open Letter to WTO Director General and all WTO Members Against the Sham “Walker Process” and in Favor of the TRIPS Waiver</a></i>. (19 November 2021)
-<p>
-<i><a href="2021/Quotes_Walker_Process.pdf">Quotes from Civil Society on the so-called Walker Process</a></i>. (18 November 2021)
-<p>
-<i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>,
-<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20Ara.pdf">Arabic</a>. (14 November 2021)
-<p>
-<i><a href="http://wtocentre.iift.ac.in/PolicyBrief/Policy_brief_1.pdf">Seeking market access behind the veil of combating COVID-19</a></i>.
-(Abhijit Das, Murali Kallummal and Sachin Kumar Sharma, Centre for WTO Studies, India, June 2020)
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200521.htm">COVID-19: South opposes attempts to foist trade liberalization measures</a></i>
-(20 May 2020)
-<p>
-<i><a href="https://www.southcentre.int/policy-brief-77-may-2020/">COVID-19 and WTO: Debunking developed countries’ narratives on trade measures.</a></i>
-(May 2020)
-<p>
-<i><a href="https://asiatimes.com/2020/05/the-insanity-of-business-as-usual-trade-negotiations/">The insanity of business-as-usual trade negotiations: While most nations are focused on coping with Covid-19 and its aftermath, some rich countries are pushing binding WTO rules</a></i>.
-(7 May 2020)
-<p>
-<i><a href="https://www.southcentre.int/policy-brief-77-may-2020/">COVID-19 and WTO: Debunking developed countries’ narratives on trade measures</a></i>.
-(South Centre, May 2020)
-<p>
-<i>Letter from 400 organizations from more than 150 countries to WTO Members: Stop all trade and
-      investment treaty negotiations during the COVID-19 outbreak and refocus on access to
-      medical supplies and saving lives</i>:
-      <a href="2020-04-30_letter_Focus_saving_lives">English</a>,
-      <a href="2020-04-30_carta_Salvar_vidas">Spanish</a>,
-      <a href="2020-04-30_lettre_Sauvetage_de_vies">French</a>.
-(30 April 2020)
-<p>
-<i><a href="https://www.twn.my/title2/wto.info/2020/ti200417.htm">COVID-19: Trade policy choices during and after pandemic</a></i>
-(22 April 2020)
 
 <h2>General news updates on negotiations at MC12</h2>
 <p>

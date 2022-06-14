@@ -19,7 +19,9 @@ include 'include/navbar.php';
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
 <p>
-<a href="https://www.twn.my/title2/wto.info/2022/ti220504.htm"><i>WTO: DG espouses reforms based on Northern priorities inimical to South</i></a>. (D. Ravi Kanth, 29 April 2022)
+<a href="https://www.downtoearth.org.in/news/governance/proposed-wto-reform-aims-to-bully-developing-nations-civil-society-members-83264"><i>Proposed WTO reform aims to bully developing nations: Civil society members</i></a>. (Himanshu N, Down To Earth, 13 June 2022)
+<p>
+<a href="https://www.twn.my/title2/wto.info/2022/ti220504.htm"><i>WTO: DG espouses reforms based on Northern priorities inimical to South</i></a>. (D. Ravi Kanth, 29 April 2022)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220421.htm">South must ensure no "take-it-or-leave-it" decisions at MC12</a></i>, by D. Ravi Kanth. (27 April 2022) 
 <p>
