@@ -28,11 +28,17 @@ for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2021_SOL_China+India 2021_SOL_China+India_FR \
 	 2021_CSO_summary_UNCTAD_mandate 2021_L_UNCTAD_mandate \
 	 R_WTO-Turnaround 2021_WTO-Turnaround 2021_WTO-Turnaround_ES 2021_WTO-Turnaround_FR \
-	 2021_WTO-PF_22 2021_WTO-PF_61 2021_WTO-PF_72 2021_WTO-PF_80 2021_L_Walker_Process \
-	 2021_WTO_waiver_CTA 2021_R_Walker_Letter 2021_R_postpone_MC12 2021-11-26_Quotes \
+	 2021_WTO-PF_22 2021_WTO-PF_61 2021_WTO-PF_72 2021_WTO-PF_80 \
+	 2021_PF_fisheries 2021_PF_agriculture \
+	 2021_L_Walker_Process \
+	 2021_WTO_waiver_CTA 2021_R_Walker_Letter 2021_R_postpone_MC12 \
+	 2021-11-24_briefing 2021-11-26_Quotes \
 	 2021-11-30_Quotes 2022-06-10_briefing 2022_retract_access 2022-06-12_briefing \
 	 2022-06-12_R_police 2022-06-13_R_protest 2022_importante 2022-06-14_R_protest \
-	 ; do
+	 2022-06-15_R_blame 2022-06-15_R_protest 2022-06-16_R_protest \
+	 2022-06-16_R_waiver-failure 2022_Faule_Kompromisse 2022_Domestic_regulation \
+         2022-07-27_webinar 2022-07-27_webinar_ES \
+    ; do
   php contentitem-page/$i.php > $i.html
 done
 

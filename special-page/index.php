@@ -17,6 +17,8 @@ include 'include/navbar.php';
 <p>
 The global health community, civil society around the world, legislators, international agencies, former heads of state, and over 100 WTO members support the waiver on intellectual property rules on COVID-19 related treatments, diagnostics, and vaccines to end the pandemic. The TRIPS waiver can be agreed at any General Council meeting and does NOT require a Ministerial. This is the ONLY agenda that WTO Members should be focusing on at this time.
 <p>
+<a href="2022-06-16_R_waiver-failure"><b><i>298 public health, labor &amp; other groups condemn WTO's failure to waive rules standing in the way of COVID vaccine &amp; treatment access</i></b></a> (16 June 2022)
+<p>
 <b><i><a href="https://peoplesvaccine.org/take-action/mc12/">Global Days of Action for COVID VACCINE & TREATMENT EQUITY</a></i></b> (12-16 June 2022)
 <p>
 <b><i><a href="https://www.twn.my/title2/briefing_papers/twn/Comments%20on%20leaked%20text%20TWNBP%20Apr%202022.pdf">Comments on the leaked draft text of discussions facilitated by the Director-General of the World Trade Organization with respect to the TRIPS Waiver proposal</a></i></b>.
@@ -40,8 +42,18 @@ Having refused for over a year to agree to the waiver that would resolve the pan
 
       <div class="col">
 <h1><a href="MC12">12<sup>th</sup> Ministerial Conference</a></h1>
-After being twice postponed, the 12<sup>th</sup> Ministerial Conference of the WTO is now
-taking place 12-15 June 2022 in Geneva.
+After being twice postponed, the 12th Ministerial Conference of the WTO has now
+taken place 12-16 June 2022 in Geneva.
+<p>
+<a href="2022-06-16_R_waiver-failure"><b><i>298 public health, labor &amp; other groups condemn WTO's failure to waive rules standing in the way of COVID vaccine &amp; treatment access</i></b></a> (16 June 2022)
+<p>
+<a href="2022-06-16_R_protest"><b><i>Civil society corrects mainstream media narrative on who is really to blame at MC12</i></b></a> (16 June 2022)
+<p>
+<a href="2022-06-15_R_blame"><b><i>Don’t blame developing countries for lack of consensus at the WTO!</i></b></a> (15 June 2022)
+<p>
+<a href="2022-06-15_R_protest"><b><i>Civil society performs “die-in” protest to condemn delay and destruction of meaningful TRIPS waiver inside the WTO 12th Ministerial</i></b></a> (15 June 2022)
+<p>
+<a href="2022/L_Waiver_2022-06-15.pdf"><b><i>Joint CSO call to all WTO Trade Ministers to not accept the current draft of Ministerial Decision on the TRIPS Agreement and demand a real Waiver</i></b></a> (15 June 2022)
 <p>
 <a href="2022-06-14_R_protest"><b><i>Civil society lampoon exclusive “green rooms” in protest performance</i></b></a>. (14 June 2022)
 <p>
@@ -76,6 +88,9 @@ existential crisis, which the COVID-19 crisis only amplified”</i></b>:
 
 <h2><a href="fish">Fisheries</a></h2>
 WTO members are working to finalize new disciplines on Fisheries Subsidies at MC12. However, many members, abetted by the WTO Director-General, are trying to ensure that these exclude development considerations which are part of the mandate. Developing countries - which have not contributed to the global collapse in fish stocks - need fisheries for their livelihoods and for food security.
+<p>
+<b><i><a href="2022/PANG_Fisheries_agreement.pdf">What does the WTO Fisheries Subsidies Agreement mean for sustainability and development?</a></i></b>
+(17 June 2022)
 <p>
 <b><i><a href="2022/TWN_Fisheries-SDT.pdf">Special and Differential Treatment takes a beating in the new Draft Fisheries Text submitted to Ministers for WTO MC12</a></i></b>.
 (11 June 2022)
@@ -183,11 +198,11 @@ Some countries are pushing for anti-development, anti-public interest and pro-Bi
 <b><i><a href="https://www.ituc-csi.org/e-commerce-wto-corporate-greed">E-commerce proposals at the WTO: a recipe for corporate greed</a></i></b>
 <p>
 <b><i>Twelve Reasons</i></b> (2019):<br>
-English: <a href="/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2.docx">docx</a>.
-Spanish: <a href="/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
-French: <a href="/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
+<a href="/2019/WTO_12_reasons_v2.pdf">English</a>, 
+<a href="/2019/WTO_12_reasons_v2_ES.pdf">Spanish</a>,
+<a href="/2019/WTO_12_reasons_v2_FR.pdf">French</a>.
 <p>
-<a href="digital#more">more on digital economy …</a>
+<a href="digital">more on digital economy …</a>
 
       </div> <!-- /col -->
     </div> <!-- /#content -->

@@ -62,7 +62,14 @@ The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filena
 
 <h2>Statements and letters from Civil Society</h2>
 <p>
+<a href="https://healthgap.org/press/statement-from-asia-russell-health-gap-executive-director-on-the-failure-of-the-wtos-mc12-to-deliver-a-trips-waiver-for-covid-19-vaccines-treatments-and-tests/
+"><i>Statement from Asia Russell, Health GAP Executive Director, on the failure of the WTO’s MC12 to deliver a TRIPS Waiver for COVID-19 vaccines, treatments, and tests</a></i> (17 June 2022)
+<p>
 <a href="https://docs.google.com/document/d/1a118c9DInx6xVkGCUJJsIm1Bj5_8fpoNuV9vL4DgMH4/edit">Access a Social Media Kit YOU can use to message world leaders<i></i></a>, now through MC12.
+<p>
+<a href="2022/L_Waiver_2022-06-15.pdf"><i>Joint CSO call to all WTO Trade Ministers to not accept the current draft of Ministerial Decision on the TRIPS Agreement and demand a real Waiver</i></a>. (15 June 2022)
+<p>
+<a href="https://www.fortuneindia.com/macro/150-civil-society-groups-back-india-stand-at-wto-ask-to-reject-pandemic-waiver-text/108605"><i>﻿150 CSOs back India's stand at WTO; seek rejection of pandemic waiver text</i></a>. (Fortune India, 15 June 2022)
 <p>
 <a href="https://igj.or.id/indonesian-civil-society-group-open-letter-regarding-trips-waiver-agreement-draft-in-wto/?lang=en"><i>Indonesian Civil Society Group Open Letter regarding TRIPS Waiver Agreement Draft in WTO</i></a>: <a href="https://igj.or.id/indonesian-civil-society-group-open-letter-regarding-trips-waiver-agreement-draft-in-wto/?lang=en">English</a>, <a href="https://igj.or.id/surat-terbuka-kelompok-masyarakat-sipil-indonesia-terhadap-draft-perjanjian-trips-waiver-di-wto/">Indonesian</a>. (13 June 2022)
 <p>
@@ -218,6 +225,7 @@ Various statements from civil society in support of TRIPS waiver:
 <h2>Opinion pieces</h2>
 
 <ul>
+  <li><a href="https://www.dailymaverick.co.za/article/2022-06-15-south-africa-must-say-no-to-rich-nations-and-wto-bullying-in-geneva/">Say no to rich nations and WTO bullying in Geneva – why South Africa should stand up and not be silenced</a>. (Yousuf Vawda, Fatima Hassan and Tian Johnson, Daily Maverick, 15 June 2022)
   <li><a href="https://www.commondreams.org/news/2022/06/03/we-are-choosing-death-byanyima-stiglitz-slam-wto-inaction-vaccine-patents">'We Are Choosing Death': Byanyima, Stiglitz Slam WTO Inaction on Vaccine Patents</a>. (3 June 2022)
   <li><a href="https://jamie-love.medium.com/the-quad-wto-proposal-on-covid-19-and-trips-proposal-is-tied-for-the-5th-best-option-for-exports-dd8f165efdee">The Quad WTO proposal on COVID 19 and TRIPS proposal is tied for the 5th best option for exports</a>. (Medium, 20 March 2022)
   <li><a href="https://peoplesdispatch.org/2022/03/17/compromised-trips-waiver-will-prolong-pandemic-inequalities/">Compromised TRIPS Waiver will prolong pandemic inequalities</a>. (17 March 2022)

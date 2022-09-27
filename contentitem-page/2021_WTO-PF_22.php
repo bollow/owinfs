@@ -17,12 +17,9 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
 A session at the <a href="https://wtopf21.org/">WTO Public Forum</a>.
         <p>
-        <div id="content-area" class="video-with-context">
-	  <video width="568" height="320" poster="" controls>
-            <source src="/2021/WTO-PF_22.mp4" type="video/mp4">
-            Your browser does not support the video tag. You can still access the video
-	    through <a href="/2021/WTO-PF_22.mp4">this link</a>.
-          </video> 
+<a href="https://www.youtube.com/watch?v=JSldEneFPww">Video</a>
+<p>
+        <div id="content-area" class="video">
 <p>
 Panelists:
 <ul class="tail">

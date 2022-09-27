@@ -47,6 +47,8 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 <p>
 <i>Agricultural negotiations for MC12: A factsheet for developing countries</i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta%20SPA.pdf">Spanish</a>. (Ranja Sengupta, TWN, 13 November 2021)
 <p>
+<i><a href="2021_PF_agriculture">Agriculture &amp; WTO in the time of a pandemic: Looking towards MC12</a></i>. (Civil Society Event at the WTO Public Forum, 30 September 2021)
+<p>
 <i>Rebuilding the WTO for a sustainable global development</i>:
 <a href="https://www.sol-asso.fr/wp-content/uploads/2020/01/Rebuilding-the-WTO-for-a-sustainable-global-development-J.-Berthelot-July-12-2020.pdf">English</a>,
 <a href="https://www.sol-asso.fr/wp-content/uploads/2020/01/Reconstruire-lOMC-pour-un-d%C3%A9veloppement-plan%C3%A9taire-durable-J.-Berthelot-12-juillet-2020.pdf">French</a>.

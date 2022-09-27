@@ -23,7 +23,8 @@ Proponents then launched talks towards a services-only pact, the Trade in Servic
 <p>
 Now, a dangerous corporate agenda is behind a new effort to have new rules limiting domestic regulation of services, within the General Agreement on Trade in Services (GATS) of the WTO. “Domestic Regulation” (DR) rules would restrict the types of rules that governments can make even if the rules are applied the same to foreign and domestic companies. They would even apply to domestic (non-traded) services (like construction) as well as services that are traded (like air travel). The proposed rules would apply to private companies as well as to public services not covered by the narrow public services exception. 
 <p>
-While proponents argue that the “right to regulate” would still be safeguarded, the WTO has ruled in the past that “Members’ regulatory sovereignty is an essential pillar of the progressive liberalization of trade in services, but this sovereignty ends whenever rights of other Members under the GATS are impaired.” Thus the “right to regulate” ends where the WTO rules begin. None of the documents on the negotiations have been made public, yet the text has been finalized and Members are intending to finalize the agreement before or during the upcoming 12th Ministerial Conference (MC12) in Geneva in December, 2021. 
+While proponents argue that the “right to regulate” would still be safeguarded, the WTO has ruled in the past that “Members’ regulatory sovereignty is an essential pillar of the progressive liberalization of trade in services, but this sovereignty ends whenever rights of other Members under the GATS are impaired.” Thus the “right to regulate” ends where the WTO rules begin.
+Using the undemocratic WTO as the platform, some governments completed negotiations on a new deal in late 2021. The new “<a href="https://www.wto.org/english/news_e/news21_e/jssdr_02dec21_e.htm">Reference Paper on Services Domestic Regulation</a>” is a corporate lobbyists’ charter and more. Those governments want to bring the text into effect by early 2023 through the backdoor after developing countries have blocked consensus support for it in the WTO. So, we have a short window to stop our countries from adhering to the text.
 <p>
 In addition, some countries are seeking to restart the negotiations to expand the scope and coverage of the GATS in the WTO. This would involve countries agreeing to subject even more services sectors to the disciplines of the WTO, which would further privilege foreign transnational services providers at the expense of domestic services. Services sectors currently targeted include environmental (engineering, architecture, construction (water related), distribution, data processing, consulting); tourism and related; agriculture related (services incidental to agriculture such as wholesale trade in live animals, sale on contract of food products, wholesale trade in food and beverage, food retailing); and logistics. 
 This agenda also overlaps with the digital trade negotiations, as many services sectors targeted relate to the information and communications sector, and rules on cross-border data transfer are also included in the GATS. 
@@ -39,6 +40,12 @@ OWINFS members have long maintained core demands with regards to services in the
 </div>
 
 <h2>Current Civil Society Statements and Analysis</h2>
+<p>
+<i><a href="https://doi.org/10.1093/jiel/jgac004">The illegitimacy of Joint Statement Initiatives and their systemic implications for the WTO</a></i>, by Jane Kelsey. Journal of International Economic Law, Volume 25, Issue 1. (March 2022)
+<p>
+<i><a href="2022_Domestic_regulation">“Domestic Regulation” Rules in the World Trade Organization (WTO)</a></i> (2-page Briefing, 10 June 2022)
+<p>
+<i><a href="https://www.youtube.com/watch?v=bamwdedf8VI">Webinar on The Corporate Threat to Democratic Regulation of Our Services: the WTO’s “Domestic Regulation” Agreement</a></i> (1 June 2022)
 <p>
 <i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Services%20TWNBP%20MC12%20Mohamadieh.pdf">Services</a></i>:
 <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Services%20TWNBP%20MC12%20Mohamadieh.pdf">English</a>,

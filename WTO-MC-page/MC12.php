@@ -17,10 +17,39 @@ include 'include/navbar.php';
       <div id="content-area">
 <div class="searchable">
 The 12<sup>th</sup> Ministerial Conference of the WTO was scheduled to take place Nov 30 - Dec 3, 2021 in Geneva, but it was postponed due to Omicron.
-(<a href="https://www.wto.org/english/news_e/news21_e/mc12_26nov21_e.htm">Official announcement</a>.)
-<span style="color:#fe0000;"><b>It has been rescheduled for 12-15 June 2022 in Geneva.</b></span>
+(<a href="https://www.wto.org/english/news_e/news21_e/mc12_26nov21_e.htm">Official announcement</a>.) It has been rescheduled for 12-15 June 2022 in Geneva. Then extended through June 16.
+<p>
+<a href="2022-07-27_webinar"><b><i>Webinar on WTO MC12 outcomes and implications</i></b></a>.
+<a href="2022-07-27_webinar">English</a>,
+<a href="2022-07-27_webinar_ES">Spanish</a>. (OWINFS, 27 July 2022)
+<p>
+<a href="https://www.ineteconomics.org/perspectives/blog/the-world-trade-organization-after-the-12th-ministerial-conference"><b><i>The World Trade Organization after the 12th Ministerial Conference</i></b></a>.
+<a href="https://www.ineteconomics.org/perspectives/blog/the-world-trade-organization-after-the-12th-ministerial-conference">English</a>,
+<a href="2022/OMC_apres_CM.docx">French</a>.
+(Deborah James, 22 June 2022)
+<p>
+In German: <a href="2022_Faule_Kompromisse"><b><i>Faule Kompromisse in der WTO - keine gerechten Lösungen für alle erreicht</i></b></a>. (Forum Umwelt und Entwicklung, 17 June 2022)
+<p>
+In French: <a href="https://blogs.letemps.ch/isolda-agazzi/2022/06/17/omc-un-succes-en-trompe-loeil/"><b><i>OMC: un succès en trompe l’œil</i></b></a>. (Isolda Agazzi, 17 June 2022)
+<p>
+<a href="2022-06-16_R_waiver-failure"><b><i>298 public health, labor &amp; other groups condemn WTO's failure to waive rules standing in the way of COVID vaccine &amp; treatment access</i></b></a>. (16 June 2022)
+<p>
+<a href="2022-06-16_R_protest"><b><i>Civil society corrects mainstream media narrative on who is really to blame at MC12</i></b></a>. (16 June 2022)
+<p>
+<a href="https://www.cetri.be/Sauver-l-OMC-ou-repondre-a-l?lang=fr"><b><i>Sauver l’OMC… ou répondre à l’urgence sociale et environnementale?</b></i></a>. (Cédric Leterme,
+<a href="https://www.lemonde.fr/idees/article/2022/06/15/l-omc-se-cantonne-essentiellement-a-faire-respecter-les-regles-commerciales-existantes_6130446_3232.html">Le Monde</a>, 15 June 2022)
+<p>
+<a href="2022-06-15_R_blame"><b><i>Don’t blame developing countries for lack of consensus at the WTO!</i></b></a> (15 June 2022)
+<p>
+<a href="2022-06-15_R_protest"><b><i>Civil society performs “die-in” protest to condemn delay and destruction of meaningful TRIPS waiver inside the WTO 12th Ministerial</i></b></a>. (15 June 2022)
+<p>
+<a href="2022/L_Waiver_2022-06-15.pdf"><b><i>Joint CSO call to all WTO Trade Ministers to not accept the current draft of Ministerial Decision on the TRIPS Agreement and demand a real Waiver</i></b></a>. (15 June 2022)
+<p>
+<a href="https://www.fortuneindia.com/macro/150-civil-society-groups-back-india-stand-at-wto-ask-to-reject-pandemic-waiver-text/108605"><b><i>﻿150 CSOs back India's stand at WTO; seek rejection of pandemic waiver text</i></b></a>. (Fortune India, 15 June 2022)
 <p>
 <a href="2022-06-14_R_protest"><b><i>Civil society lampoon exclusive “green rooms” in protest performance</i></b></a>. (14 June 2022)
+<p>
+<a href="https://www.ituc-csi.org/IMG/pdf/global_union_statement_wto_mc12.pdf"><b><i>Global unions statement to the 12th WTO Ministerial Conference (MC12)</i></b></a>. (14 June 2022)
 <p>
 <a href="https://www.theguardian.com/commentisfree/2022/jun/13/wto-market-knows-best-ideology-failed-world-trade-organization"><b><i>The WTO, with its ‘market knows best’ ideology, has failed. It’s time to bury it</i></b></a>. (Nick Dearden, The Guardian, 13 June 2022)
 <p>
@@ -74,7 +103,9 @@ The most important agenda for the WTO is to remove intellectual property barrier
 <i><a href="2021-11-26_Quotes">Quotes: Problems with Holding WTO’s MC12 In-Person with the New Variants and European Travel Bans on Southern Africa</a></i>.
 (26 November 2021)
 <p>
-<i><a href="https://cepr.net/whats-at-stake-at-the-wto">What’s at Stake at the WTO?</a></i> (Deborah James, 25 November 2021)
+<i><a href="https://cepr.net/whats-at-stake-at-the-wto/">What’s at Stake at the WTO?</a></i> (Deborah James, 25 November 2021)
+<p>
+<i><a href="2021-11-24_briefing">Upcoming WTO Ministerial: A failure for the world in the making</a></i> (Online press conference, 24 November 2021)
 <p>
 <i><a href="2021_R_postpone_MC12">Letter to WTO Members: Postpone the 12th Ministerial - TRIPS Waiver Now!</a></i>   <a href="2021/L_postpone_MC12.pdf">English</a>, <a href="2021/L_postpone_MC12_ES.pdf">Spanish</a>, <a href="2021/L_postpone_MC12_FR.pdf">French</a>, <a href="2021_R_postpone_MC12">media release</a>. 
 (23 November 2021)
@@ -107,13 +138,23 @@ if (filesize("extra_data/MC12.extra_data")>3) {
 
 The global health community, civil society around the world, legislators, international agencies, former heads of state, and over 100 WTO members support the waiver on intellectual property rules on COVID-19 related treatments, diagnostics, and vaccines to end the pandemic. The TRIPS waiver can be agreed at any General Council meeting and does NOT require a Ministerial. This is the ONLY agenda that WTO Members should be focusing on at this time. 
 <p>
-<span style="font-size:17px;"><b><i><a href="https://peoplesvaccine.org/take-action/mc12/">Global Days of Action for COVID VACCINE & TREATMENT EQUITY</a></i></b> (12-16 June 2022)</span>
+<a href="https://healthgap.org/press/statement-from-asia-russell-health-gap-executive-director-on-the-failure-of-the-wtos-mc12-to-deliver-a-trips-waiver-for-covid-19-vaccines-treatments-and-tests/
+"><i>Statement from Asia Russell, Health GAP Executive Director, on the failure of the WTO’s MC12 to deliver a TRIPS Waiver for COVID-19 vaccines, treatments, and tests</a></i>. (17 June 2022)
+<p>
+<i><a href="https://peoplesvaccine.org/take-action/mc12/">Global Days of Action for COVID VACCINE & TREATMENT EQUITY</a></i>. (12-16 June 2022)
+<p>
+<a href="2022/L_Waiver_2022-06-15.pdf"><i>Joint CSO call to all WTO Trade Ministers to not accept the current draft of Ministerial Decision on the TRIPS Agreement and demand a real Waiver</i></a>. (15 June 2022)
+<p>
+<a href="https://www.fortuneindia.com/macro/150-civil-society-groups-back-india-stand-at-wto-ask-to-reject-pandemic-waiver-text/108605"><i>﻿150 CSOs back India's stand at WTO; seek rejection of pandemic waiver text</i></a>. (Fortune India, 15 June 2022)
+<p>
+<a href="https://www.dailymaverick.co.za/article/2022-06-15-south-africa-must-say-no-to-rich-nations-and-wto-bullying-in-geneva/"><i>Say no to rich nations and WTO bullying in Geneva – why South Africa should stand up and not be silenced</i></a>. (Yousuf Vawda, Fatima Hassan and Tian Johnson,
+Daily Maverick, 15 June 2022)
 <p>
 <a href="https://igj.or.id/indonesian-civil-society-group-open-letter-regarding-trips-waiver-agreement-draft-in-wto/?lang=en"><i>Indonesian Civil Society Group Open Letter regarding TRIPS Waiver Agreement Draft in WTO</i></a>: <a href="https://igj.or.id/indonesian-civil-society-group-open-letter-regarding-trips-waiver-agreement-draft-in-wto/?lang=en">English</a>, <a href="https://igj.or.id/surat-terbuka-kelompok-masyarakat-sipil-indonesia-terhadap-draft-perjanjian-trips-waiver-di-wto/">Indonesian</a>. (13 June 2022)
 <p>
 <a href="2022/C20-VAHWG_TRIPS_waiver.pdf"><i>Civil-20 Vaccine Access &amp; Global Health Working Group Statement</i></a>. (13 June 2022)
 <p>
-<i><a href="https://www.washingtonpost.com/outlook/2022/05/27/spring-cleaning-2022-stoicism-biopics-sourdough/#SEBJJP7VRVCJLESP73XMLC7HA4-5">The patent system</a></i>, by Joseph E. Stiglitz.
+<i><a href="https://www.washingtonpost.com/outlook/2022/05/27/spring-cleaning-2022-stoicism-biopics-sourdough/">The patent system</a></i>, by Joseph E. Stiglitz.
 (Washington Post, 27 May 2022; scroll down until the in-page navigation menu is shown, then you can click on the heading “The patent system”)
 <p>
 <i><a href="https://www.twn.my/title2/briefing_papers/twn/Comments%20on%20leaked%20text%20TWNBP%20Apr%202022.pdf">Comments on the leaked draft text of discussions facilitated by the Director-General of the World Trade Organization with respect to the TRIPS Waiver proposal</a></i>.
@@ -133,9 +174,11 @@ See also: <a href="#pandemic">WTO’s response to the pandemic</a>
 
 <h2><a href="WTO-process">WTO reform</a></h2>
 <p>
+<a href="https://www.ituc-csi.org/IMG/pdf/global_union_statement_wto_mc12.pdf"><i>Global unions statement to the 12th WTO Ministerial Conference (MC12)</i></a>. (14 June 2022)
+<p>
 <a href="https://www.downtoearth.org.in/news/governance/proposed-wto-reform-aims-to-bully-developing-nations-civil-society-members-83264"><i>Proposed WTO reform aims to bully developing nations: Civil society members</i></a>. (Himanshu N, Down To Earth, 13 June 2022)
 <p>
-<a href="2022-06-12_briefing"><b><i>Civil Society at MC12 Denounce Ministerial Agenda, Call for Transformation of WTO Rules</i></b></a>.<br>
+<a href="2022-06-12_briefing"><i>Civil Society at MC12 Denounce Ministerial Agenda, Call for Transformation of WTO Rules</i></a>.<br>
 (press conference recording, 12 June 2022)
 <p>
 <a href="https://www.twn.my/title2/wto.info/2022/ti220504.htm"><i>WTO: DG espouses reforms based on Northern priorities inimical to South</i></a>. (D. Ravi Kanth, 29 April 2022)
@@ -170,6 +213,9 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 
 <h2><a href="fish" id="fish">Fisheries</a></h2>
 <p>
+<b><i><a href="2022/PANG_Fisheries_agreement.pdf">What does the WTO Fisheries Subsidies Agreement mean for sustainability and development?</a></i></b>
+(PANG, 17 June 2022)
+<p>
 Indonesian <i><a href="https://igj.or.id/civil-society-group-open-letter-regarding-fisheries-subsidy-negotiations-in-wto/?lang=en">Civil society group open letter regarding fisheries subsidy negotiations in WTO</a></i>. (12 June 2022)
 <p>
 <i><a href="2022/TWN_Fisheries-SDT.pdf">Special and Differential Treatment takes a beating in the new Draft Fisheries Text submitted to Ministers for WTO MC12</a></i>.
@@ -190,13 +236,6 @@ in the WTO fisheries subsidies negotiations</a></i>. (19 April 2022)
 <p>
 <i><a href="/2021/PANG_Nov2021_text_analysis.pdf">PANG assessment of November Fisheries Chairs Text (276/Rev2)</a></i>.
 (18 November 2021)
-<p>
-<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">Fisheries subsidies negotiations towards the WTO’s 12th Ministerial Conference: Considerations for developing countries and LDCs</a></i>:
-<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">English</a>,
-<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta%20Spa.pdf">Spanish</a>.
-(Ranja Sengupta, 17 November 2021)<br>
-Note: In English, an <a href="2022/TWN_Fisheries.pdf">updated version</a> is avaliable.
-(27 May 2022)
 <p>
 <a href="2021-03-17_TWN_Fisheries">Protecting the Problem – Fisheries subsidies negotiations and the WTO</a> (17 March 2021)
 <p>
@@ -269,7 +308,7 @@ Note: In English, an <a href="2022/TWN_Fisheries.pdf">updated version</a> is ava
 <i><a href="/2017/TWN_Agriculture.pdf">Agriculture remains key</a></i>.
 (Ranja Sengupta, 22 November 2017)
 <p>
-<a href="/agricultural-price-crisis"><i>WTO summit to ignore price crisis, agricultural dumping</i></a>.
+<a href="https://www.newsclick.in/wto-summit-ignore-price-crisis-agricultural-dumping"><i>WTO summit to ignore price crisis, agricultural dumping</i></a>.
 (Timothy Wise, 10 December 2017)
 <p>
 <i><a href="/2017/Wise_Food_security.pdf">WTO and Food Security: Biting the hand that feeds the poor</a></i>.
@@ -309,7 +348,7 @@ Note: In English, an <a href="2022/TWN_Fisheries.pdf">updated version</a> is ava
 
 
 <h2 id="moratorium">Moratorium on customs duties on electronic transmissions</h2>
-<i><a href="https://www.southcentre.int/category/publications/research-papers/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
+<i><a href="https://www.southcentre.int/research-paper-157-3-june-2022/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
 <p>
 see also: <a href="#digital">Digital trade JSI</a>
 
@@ -410,6 +449,10 @@ for Development: Opening the doors of the WTO for hard rules on investment</a></
 
 <h3 id="services"><a href="services">Services</a> JSI</h3>
 <p>
+<i><a href="2022_Domestic_regulation">“Domestic Regulation” Rules in the World Trade Organization (WTO)</a></i> (2-page Briefing, 10 June 2022)
+<p>
+<i><a href="https://www.youtube.com/watch?v=bamwdedf8VI">Webinar on The Corporate Threat to Democratic Regulation of Our Services: the WTO’s “Domestic Regulation” Agreement</a></i> (1 June 2022)
+<p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220407.htm">WTO Services Division propagates "dangerous" narrative on JSIs</a></i>. (D. Ravi Kanth, 11 April 2022)
 <p>
 <i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Services%20TWNBP%20MC12%20Mohamadieh.pdf">Services</a></i>:
@@ -477,12 +520,12 @@ Spanish:
 (4 June 2020)
 <p>
 Updated <i>Twelve Reasons</i>:
-English: <a href="/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2.docx">docx</a>.
-Spanish: <a href="/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
-French: <a href="/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
+<a href="/2019/WTO_12_reasons_v2.pdf">English</a>, 
+<a href="/2019/WTO_12_reasons_v2_ES.pdf">Spanish</a>,
+<a href="/2019/WTO_12_reasons_v2_FR.pdf">French</a>.
 (31 March 2019)
 <p>
-<a href="digital#more">more on the digital economy …</a><br>
+<a href="digital">more on the digital economy …</a><br>
 see also: <a href="#moratorium">Moratorium on customs duties on electronic transmissions</a>
 
 

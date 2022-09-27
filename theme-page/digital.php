@@ -46,7 +46,7 @@ The following documents have been leaked at <a href="https://www.bilaterals.org/
 
 <h2 id="2">Key new reports</h2>
 <p>
-<i><a href="https://www.southcentre.int/category/publications/research-papers/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
+<i><a href="https://www.southcentre.int/research-paper-157-3-june-2022/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220418.htm">Clash of narratives on data flows between UNCTAD, US &amp; WTO</a></i>. (D. Ravi Kanth, 22 April 2022)
 <p>
@@ -79,11 +79,13 @@ Economic and Fiscal Implications for the South</i></a>.
 <a href="https://cepr.net/big-tech-busca-concretar-el-colonialismo-digital-en-la-omc/">Spanish</a>
 <a href="/2019/Big_tech_ES.pdf">pdf</a>.
 (26 June 2019)
-<p>
+
 
 <h2 id="3">Statements from civil society</h2>
-
-<i><a href="https://tradejusticeedfundorg.files.wordpress.com/2021/11/digitaltradeletter_final_110221-1.pdf ">In Letter to U.S. President, 53 Labor, Civil Rights, Consumer & other Organizations warn about harmful provisions in “Digital Trade” pacts: Big tech’s Trojan horse strategy to undermine government oversight, anti-trust accountability exposed ahead of APEC summit</a></i>. (2 November 2021)
+<p>
+<i><a href="https://doi.org/10.1093/jiel/jgac004">The illegitimacy of Joint Statement Initiatives and their systemic implications for the WTO</a></i>, by Jane Kelsey. Journal of International Economic Law, Volume 25, Issue 1. (March 2022)
+<p>
+<i><a href="https://tradejusticeedfundorg.files.wordpress.com/2021/11/digitaltradeletter_final_110221-1.pdf">In Letter to U.S. President, 53 Labor, Civil Rights, Consumer & other Organizations warn about harmful provisions in “Digital Trade” pacts: Big tech’s Trojan horse strategy to undermine government oversight, anti-trust accountability exposed ahead of APEC summit</a></i>. (2 November 2021)
 <p>
 <i><a href="2021_WTO-PF_80">Data as a stock-in-trade in global trade: Looking beyond outdated
 notions around data flows</a></i> (Civil Society Event at the WTO Public Forum, 1 October 2021)
@@ -147,9 +149,9 @@ French: <a href="/2018/CSOs_Africa_FR.pdf">pdf</a>, <a href="/2018/CSOs_Africa_F
 (April 15, 2019)
 <p>
 Twelve reasons to oppose <i>rules</i> on digital commerce in the WTO.
-English: <a href="/2019/WTO_12_reasons_v2.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2.docx">docx</a>.
-Spanish: <a href="/2019/WTO_12_reasons_v2_ES.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_ES.doc">doc</a>.
-French: <a href="/2019/WTO_12_reasons_v2_FR.pdf">pdf</a>, <a href="/2019/WTO_12_reasons_v2_FR.docx">docx</a>.
+<a href="/2019/WTO_12_reasons_v2.pdf">English</a>, 
+<a href="/2019/WTO_12_reasons_v2_ES.pdf">Spanish</a>,
+<a href="/2019/WTO_12_reasons_v2_FR.pdf">French</a>.
 (updated 31 March 2019)
 <p>
 <i>Results of the 11th ministerial conference of the WTO</i>:
@@ -192,13 +194,21 @@ French:
 (June 13, 2017)
 <p>
 <a href="/2017/UNI_Digital_divide.pdf"><i>Risk of a deepening of the digital divide – worrisome WTO discussions</i></a>.
-(UNI Global Union: May 5, 2017)
+(UNI Global Union, 5 May 2017)
 
 <h2 id="5">General analysis of problems with the proposed negotiations on digital trade</h2>
-
+<p>
+<i><a href="2021_WTO-PF_80">Data as a stock-in-trade in global trade: Looking beyond outdated
+notions around data flows</a></i> (Civil Society Event at the WTO Public Forum, 1 October 2021)
+<p>
+<i><a href="2021_WTO-PF_61">Conditions for appropriate e-commerce in developing countries</a></i> (Civil Society Event at the WTO Public Forum, 30 September 2021)
+<p>
 <a href="/2019_WTO_PF_95">Future of WTO in a digitalised world</a>.
 Video recording of session #95 at the 2019 WTO Public Forum.
 (10 October 2019)
+<p>
+<i><a href="2019/Kelsey_EU-CRS_summary.pdf">Understanding the EU’s Understanding
+on Computer and Related Services</a></i>. (TWN briefing paper, Jane Kelsey, September 2019)
 <p>
 <i>Why the dominant digital trade paradigm will not work for women in the global south:</i>
 <a href="https://itforchange.net/node/1635">English</a>
@@ -255,6 +265,9 @@ Video recording of session #119 at the 2019 WTO Public Forum.
 <a href="/2019/Tax_development_FR.pdf">French</a>.
 (September 2019)
 <p>
+<i><a href="2019/Kelsey_EU-CRS_full.pdf">Understanding the EU’s Understanding
+on Computer and Related Services</a></i>. (detailed paper, Jane Kelsey, September 2019)
+<p>
 UNCTAD research paper: <i><a href="/2019/ser-rp-2019d1_en.pdf">Growing Trade in Electronic Transmissions: Implications for the South</a>.</i>
 (February 2019)
 <p>
@@ -282,6 +295,9 @@ UNCTAD report: <i><a href="/2017/UNCTAD_competitiveness.pdf">Rising product digi
 <a href="https://www.sef-bonn.org/en/publications/global-governance-spotlight/42019.html">English</a>,
 <a href="/2019/Digital_public_goods_ES.pdf">Spanish</a>.
 (September 2019)
+<p>
+<i><a href="2019/BftW_Digitalisation.pdf">Global Justice 4.0: The Impacts of Digitalisation and the Global South</a></i>.
+(Bread for the World, September 2019)
 <p>
 <i><a href="https://medium.com/@NYCTLC/what-makes-a-city-street-smart-23496d92f60d">What makes a city street smart?</a></i> (New York City Taxi and Limousine Commission, 31 January 2019)
 <p>
@@ -318,6 +334,8 @@ UNCTAD report:
 <i>Digital industrialisation in developing countries</i>: <a href="/2018/ITfC_Digital_industrialisa.pdf">English</a>,
 <a href="/2018/ITfC_ind_num_pd.doc">French summary</a>.
 (December 2017)
+<p>
+<i><a href="https://statistics.gov.rw/file/5410/download?token=r0nXaTAv">Rwanda National Data Policy</a></i>. (April 2017)
 
 <h2 id="8">Updates and articles on the negotiations</h2>
 <p>

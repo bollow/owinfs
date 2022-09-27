@@ -19,6 +19,8 @@ include 'include/navbar.php';
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
 <p>
+<a href="https://www.ituc-csi.org/IMG/pdf/global_union_statement_wto_mc12.pdf"><i>Global unions statement to the 12th WTO Ministerial Conference (MC12)</i></a>. (14 June 2022)
+<p>
 <a href="https://www.downtoearth.org.in/news/governance/proposed-wto-reform-aims-to-bully-developing-nations-civil-society-members-83264"><i>Proposed WTO reform aims to bully developing nations: Civil society members</i></a>. (Himanshu N, Down To Earth, 13 June 2022)
 <p>
 <a href="https://www.twn.my/title2/wto.info/2022/ti220504.htm"><i>WTO: DG espouses reforms based on Northern priorities inimical to South</i></a>. (D. Ravi Kanth, 29 April 2022)
@@ -34,6 +36,8 @@ include 'include/navbar.php';
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220110.htm">LDCs mustn’t be burdened with onerous WTO accession commitments</a></i>. (D. Ravi Kanth, 21 January 2022)
 <p>
 <i><a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">WHAT’S COOKING FOR MC12? Two processes that could reshape the WTO in the interest of the most powerful</a></i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/WTO%20reform%20&%20WTO%20pandemic%20response%20TWNBP%20MC12%20SPA.pdf">Spanish</a>. (14 November 2021)
+<p>
+<i><a href="https://www.youtube.com/watch?v=ThfNlNGWrxo">Substantive and legal implications of the JSIs for development and strengthening the multilateral trading system</a></i> (Civil Society Event at the WTO Public Forum, 1 October 2021)
 <p>
 <i>Global Civil Society Calls for a WTO Turnaround: New Multilateral Trade Rules for People-Centered Shared Prosperity and Sustainable Development (2021)</i>:
 <a href="/2021_WTO-Turnaround">English</a>,

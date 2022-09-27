@@ -23,6 +23,9 @@ The Sustainable Development Goal 14.6 has the target to “prohibit certain form
 
 <h2>Statements and analysis from civil society</h2>
 <p>
+<i><a href="2022/PANG_Fisheries_agreement.pdf">What does the WTO Fisheries Subsidies Agreement mean for sustainability and development?</a></i>
+(PANG, 17 June 2022)
+<p>
 Indonesian <i><a href="https://igj.or.id/civil-society-group-open-letter-regarding-fisheries-subsidy-negotiations-in-wto/?lang=en">Civil society group open letter regarding fisheries subsidy negotiations in WTO</a></i>. (12 June 2022)
 <p>
 <i><a href="2022/TWN_Fisheries-SDT.pdf">Special and Differential Treatment takes a beating in the new Draft Fisheries Text submitted to Ministers for WTO MC12</a></i>.
@@ -44,12 +47,7 @@ in the WTO fisheries subsidies negotiations</a></i> (19 April 2022)
 <i><a href="/2021/PANG_Nov2021_text_analysis.pdf">PANG assessment of November Fisheries Chairs Text (276/Rev2)</a></i>.
 (18 November 2021)
 <p>
-<i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">Fisheries subsidies negotiations towards the WTO’s 12th Ministerial Conference: Considerations for developing countries and LDCs</a></i>:
-<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta.pdf">English</a>,
-<a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Fisheries%20subsidies%20TWNBP%20MC12%20Sengupta%20Spa.pdf">Spanish</a>.
-(17 November 2021)<br>
-Note: In English, an <a href="2022/TWN_Fisheries.pdf">updated version</a> is avaliable.
-(27 May 2022)
+<i><a href="2021_PF_fisheries">Catching development – Acting together for sustainable fisheries trade</a></i>. (Civil Society Event at the WTO Public Forum, 30 September 2021)
 <p>
 <i><a href="https://pina.com.fj/2021/09/23/wto-fisheries-subsidies-process-changes-to-disadvantage-developing-countries/">WTO Fisheries subsidies process changes to disadvantage developing countries</a></i>. (23 September 2021)
 <p>
