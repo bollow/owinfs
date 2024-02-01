@@ -37,7 +37,7 @@ for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2022-06-12_R_police 2022-06-13_R_protest 2022_importante 2022-06-14_R_protest \
 	 2022-06-15_R_blame 2022-06-15_R_protest 2022-06-16_R_protest \
 	 2022-06-16_R_waiver-failure 2022_Faule_Kompromisse 2022_Domestic_regulation \
-         2022-07-27_webinar 2022-07-27_webinar_ES \
+         2022-07-27_webinar 2022-07-27_webinar_ES 2023_EU_digital_trade 2023_UE_comercio_digital \
     ; do
   php contentitem-page/$i.php > $i.html
 done

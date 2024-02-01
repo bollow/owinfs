@@ -46,6 +46,8 @@ The following documents have been leaked at <a href="https://www.bilaterals.org/
 
 <h2 id="2">Key new reports</h2>
 <p>
+<i><a href="/2023_EU_digital_trade">EU digital trade rules: Undermining attempts to rein in big tech</a></i>. (Deborah James, March 2023)
+<p>
 <i><a href="https://www.southcentre.int/research-paper-157-3-june-2022/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220418.htm">Clash of narratives on data flows between UNCTAD, US &amp; WTO</a></i>. (D. Ravi Kanth, 22 April 2022)
@@ -225,6 +227,10 @@ French: <a href="/2019/Munu_Africa_FR.pdf">pdf</a>, <a href="/2019/Munu_Africa_F
 <p>
 <i><a href="/2018/RLS_Africa.pdf">Why E-Commerce won’t work for Africa’s development.</a></i>
 (December 2018)
+<p>
+<i><a href="/2018/GJN_E-pocalypse_Now_Ecom_2018-05.pdf">E-pocalypse Now. How the e-commerce trade agenda promotes corporate power and
+threatens the global south</a>.</i>
+(Global Justice Now, May 2018)
 <p>
 <i>Micro, small, and medium-sized enterprises (MSMEs) and e-commerce:</i>
 <a href="/2017/Hill_MSMEs_E-commerce.pdf">pdf</a>,
