@@ -19,6 +19,8 @@ include 'include/navbar.php';
         <div id="content-area">
 <div class="searchable">
 Some countries are pushing for anti-development, anti-public interest and pro-Big Tech rules in the WTO under the guise of “e-commerce.” These countries tried, but failed, to pressure all WTO members to agree to launch multilateral negotiations during the December 2017 Ministerial. OWINFS members and most developing countries in the WTO have been successful thus far in stopping a mandate for multilateral negotiations towards an agreement. Unfortunately, Big Tech advocates launched negotiations towards a “plurilateral” in the WTO. These negotiations do not have a mandate in the WTO, as it seems that the majority of members realize that such rules would constrain development, limit regulatory oversight including of needed anti-trust reforms, harm workers and women, and erode democracy by giving unprecedented power to Big Tech over far too many aspects of our lives.
+<p>
+Before digital trade was a significant aspect of global trade, members of the WTO agreed to a “moratorium” on customs duties on electronic transmissions. It’s high time for this tax holiday for Big Tech to come to an end. Countries should have the right to decide if taxing Amazon e-books, Netflix movies, Apple music, Microsoft software, or video games is in their national interest, as these foreign operators compete tariff-free against domestic small and medium business competitors. WTO members should allow the moratorium to lapse, rather than be renewed, at MC13. 
 </div>
 
 
@@ -32,13 +34,14 @@ Some countries are pushing for anti-development, anti-public interest and pro-Bi
   <li><a href="#5">General Analysis of problems with the proposed negotiations on digital trade</a>
   <li><a href="#6">Detailed analysis of problems with specific proposed provisions on digital trade</a>
   <li><a href="#7">Data as a Public Good, and Digital Industrialization for Development</a>
-  <li><a href="#8">Updates and articles on the negotiations</a>
+  <li><a href="#updates">Updates and articles on the negotiations</a>
 </ol>
 
 
 <h2 id="1">Leaked text</h2>
 The following documents have been leaked at <a href="https://www.bilaterals.org/?-other-292-">https://www.bilaterals.org/?-other-292-</a>
 <ul>
+ <li><a href="https://www.bilaterals.org/IMG/pdf/wto_electronic_commerce_negotiations-jan_2024.pdf">WTO electronic commerce draft Chair’s text</a> (Jan 2024)
  <li>WTO plurilateral ecommerce draft consolidated revised text of 8 September 2021. 
  <li>WTO plurilateral ecommerce draft consolidated text of 14 December 2020. 
  <li>WTO plurilateral ecommerce stocktake text as of August 2020. 
@@ -46,7 +49,19 @@ The following documents have been leaked at <a href="https://www.bilaterals.org/
 
 <h2 id="2">Key new reports</h2>
 <p>
+<i><a href="https://www.ictd.ac/publication/are-trade-rules-undermining-taxation-of-the-digital-economy-in-africa/">Are Trade Rules Undermining Taxation of the Digital Economy in Africa?</a></i>
+(Karishma Banga and Alexander Beyleveld, February 2024)
+<p>
+<i><a href="https://dtalliance.org/2023/09/27/understanding-the-wto-joint-statement-initiative-on-e-commerce-2/">Understanding the WTO Joint Statement Initiative on E-Commerce</a></i>.
+(updated December 2023)
+<p>
+<i><a href="https://www.commondreams.org/opinion/wto-trade-rules-big-tech">US trade policy shift on big tech offers hope despite huge fights ahead</a></i>.
+(Deborah James, December 2023)
+<p>
 <i><a href="/2023_EU_digital_trade">EU digital trade rules: Undermining attempts to rein in big tech</a></i>. (Deborah James, March 2023)
+<p>
+<i><a href="https://www.southcentre.int/sc-statement-on-ustr-jsi-e-commerce-decision-15-november-2023/">SC Statement on USTR JSI E-Commerce Decision</a></i>.
+(South Centre, November 2023)
 <p>
 <i><a href="https://www.southcentre.int/research-paper-157-3-june-2022/">WTO moratorium on customs duties on electronic transmissions: How much tariff revenue have developing countries lost?</a></i> (South Centre, 3 June 2022)
 <p>
@@ -84,6 +99,15 @@ Economic and Fiscal Implications for the South</i></a>.
 
 
 <h2 id="3">Statements from civil society</h2>
+<p>
+<i><a href="https://dtalliance.org/wp-content/uploads/2024/01/JSI-Civil-Society-Letter-2024.pdf">50+ Consumer and Digital Rights Groups Urge Countries to Abandon WTO E-Commerce JSI Terms on Data Flows and Source Code</a></i>.
+(January 2024)
+<p>
+<i>Letter to Latin American governments: no more digital trade negotiations!</i>
+<a href="/2023/LatAm_Letter_digital_trade.pdf">English</a>,
+<a href="/2023/LatAm_Letter_digital_trade_ES.pdf">Spanish</a>,
+<a href="/2023/LatAm_Letter_digital_trade_PT.pdf">Portuguese</a>.
+(December 2023)
 <p>
 <i><a href="https://doi.org/10.1093/jiel/jgac004">The illegitimacy of Joint Statement Initiatives and their systemic implications for the WTO</a></i>, by Jane Kelsey. Journal of International Economic Law, Volume 25, Issue 1. (March 2022)
 <p>
@@ -126,11 +150,16 @@ French: <a href="/2018/CSOs_Africa_FR.pdf">pdf</a>, <a href="/2018/CSOs_Africa_F
 
 
 <h2 id="4">Introductory articles</h2>
-<a href="https://www.equaltimes.org/the-future-is-digital-but-we">The future is digital, but we should keep digital chapters out of our trade deals</a> (Duncan McCann, 1 October 2020)
 <p>
-<a href="https://twn.my/title2/wto.info/2020/ti200813.htm">Digital rules in FTAs may undermine capacity to tax digital firms</a> (D. Ravi Kanth, 14 August 2020)
+<i>Free Trade and Digitalization Agreements</i>:
+<a href="2023/CSA_digital.pdf">English</a>, <a href="2023/CSA_digital_ES.pdf">Spanish</a>
+(Trade Union Confederation of Workers of the Americas, November 2023)
 <p>
-<a href="https://unctad.org/news/should-digitally-delivered-products-be-exempted-customs-duties">Should digitally delivered products be exempted from customs duties?</a>
+<i><a href="https://www.equaltimes.org/the-future-is-digital-but-we">The future is digital, but we should keep digital chapters out of our trade deals</a></i> (Duncan McCann, 1 October 2020)
+<p>
+<i><a href="https://twn.my/title2/wto.info/2020/ti200813.htm">Digital rules in FTAs may undermine capacity to tax digital firms</a></i> (D. Ravi Kanth, 14 August 2020)
+<p>
+<i><a href="https://unctad.org/news/should-digitally-delivered-products-be-exempted-customs-duties">Should digitally delivered products be exempted from customs duties?</a></i>
 (UNCTAD, 16 July 2020)
 <p>
 <i><a href="https://twn.my/title2/wto.info/2019/ti190417.htm">Development and E-com free flow of data rules are incompatible</a></i>.
@@ -343,7 +372,32 @@ UNCTAD report:
 <p>
 <i><a href="https://statistics.gov.rw/file/5410/download?token=r0nXaTAv">Rwanda National Data Policy</a></i>. (April 2017)
 
-<h2 id="8">Updates and articles on the negotiations</h2>
+<h2 id="updates">Updates and articles on the negotiations</h2>
+<p>
+<a href="https://www.revistaanfibia.com/no-volvamos-a-ser-potosi/">No volvamos a ser Potosí</a>, by Sofía Scasserra
+(Spanish, 30 January 2024)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240111.htm">WTO: Controversial JSI e-commerce decision eyed for MC13</a></i>, by D. Ravi Kanth. (29 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231208.htm">UN: Digital divide persists despite growth in global Internet connectivity</a></i>, by Kanaga Raja. (14 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231205.htm">Trade: WTO, IMF, UNCTAD, WB issue report on advancing e-com moratorium</a></i>, by D. Ravi Kanth. (11 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231204.htm">WTO: Decisions on e-com, diagnostics & therapeutics cast shadow on MC13</a></i>, by D. Ravi Kanth. (8 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231115.htm">Washington Takes a Step Toward Greater Openness in Digital Trade</a></i>, by Burcu Kilic. (16 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231109.htm">WTO: JSIs’ “hidden” goals aimed to mislead developing countries?</a></i>, by D. Ravi Kanth. (20 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231106.htm">WTO: “Domino effect” of US pullout of proposals from JSI e-com talks</a></i>, by D. Ravi Kanth. (10 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231020.htm">WTO: US drops proposals on data flows, source code, computing facilities</a></i>, by D. Ravi Kanth. (27 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230911.htm">Trade: North countries “shown the mirror” at WTO on e-com moratorium</a></i>, by D. Ravi Kanth. (21 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230710.htm">WTO: India, South Africa push back against proponents of e-com moratorium</a></i>, by D. Ravi Kanth. (21 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230416.htm">Trade: Indonesia demonstrates why e-commerce moratorium must end</a></i>, by D. Ravi Kanth. (28 April 2023) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2021/ti211124.htm">Battle-lines drawn on moratorium on e-commerce duties at MC12</a></i>, by D. Ravi Kanth. (23 November 2021) 
 <p>

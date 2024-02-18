@@ -5,7 +5,7 @@ include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
 <?php
-$this_theme="WTO Process Issues";
+$this_theme="WTO Reform &amp; Process";
 include 'include/sidebar_themes.php';
 include 'include/navbar.php';
 ?>
@@ -13,7 +13,7 @@ include 'include/navbar.php';
       <div id="content" class="singlecolumn">
 
         <div id="content-header">
-          <h1 class="title">WTO Process Issues</h1>
+          <h1 class="title">WTO Reform &amp; Process</h1>
         </div> <!-- /#content-header -->
         
         <div id="content-area">
@@ -110,8 +110,87 @@ medical supplies and saving lives</i>:
 (28 October 2013)
 
 
-<h2>Updates on the negotiations</h2>
-
+<h2 id="updates">Updates on the negotiations</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240202.htm">Trade: Outcome on WTO dispute settlement reform unlikely at MC13</a></i>, by D. Ravi Kanth. (31 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240201.htm">Trade: WTO’s MC13 Outcome Document far from closure</a></i>, by D. Ravi Kanth. (31 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240115.htm">WTO: Reform of dispute settlement system hangs in limbo for MC13</a></i>, by D. Ravi Kanth. (30 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240113.htm">UN: Global order under threat by a retreat from multilateralism – G77</a></i>, by D. Ravi Kanth. (29 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240112.htm">UN: South being left behind by an unjust international order – UNCTAD SG</a></i>, by D. Ravi Kanth. (29 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240110.htm">WTO: Attempts to declare partial victory on DSS reform at MC13</a></i>, by D. Ravi Kanth. (26 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240109.htm">WTO: Draft decision on dispute settlement reform silent on Appellate Body</a></i>, by D. Ravi Kanth. (22 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240105.htm">WTO: China, Pakistan propose MC13 ministerial statement on supply chains</a></i>, by D. Ravi Kanth. (16 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240101.htm">WTO: Informal talks on dispute settlement reform exclude appellate review</a></i>, by D. Ravi Kanth. (11 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231213.htm">WTO: Draft ministerial decision silent on appellate review in DSS reform</a></i>, by D. Ravi Kanth. (20 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231209.htm">WTO: A clash of narratives and fault-lines on MC13 deliverables</a></i>, by D. Ravi Kanth. (15 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231112.htm">WTO: Is GC chair’s “way forward to MC13” top-down & prescriptive?</a></i>, by D. Ravi Kanth. (22 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231113.htm">What does success look like for MC13?</a></i>, by Jane Kelsey. (19 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231023.htm">WTO: DG & GC chair issue SOM summary replete with discrepancies</a></i>, by D. Ravi Kanth. (31 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231022.htm">WTO: 34 countries press for formalization of DS reform discussions</a></i>, by D. Ravi Kanth. (30 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231021.htm">WTO: MC13 to transform a multilateral trade body into a plurilateral one?</a></i>, by D. Ravi Kanth. (30 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231015.htm">WTO: South countries challenge DG on advancing EU agenda at SOM</a></i>, by D. Ravi Kanth. (16 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231011.htm">WTO: Attempts to weaken dispute settlement system, enforcement function</a></i>, by D. Ravi Kanth. (11 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230914.htm">Trade: Indonesia voices grave concern over dispute settlement talks at WTO</a></i>, by D. Ravi Kanth. (25 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230910.htm">WTO: Draft report on DSS reform talks, restoration of two-stage DSS doubtful</a></i>, by D. Ravi Kanth. (22 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230909.htm">WTO: Retreat on trade & industrial policy, will UR rule-book be discarded?</a></i>, by D. Ravi Kanth. (20 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230908.htm">WTO: Secretariat in turmoil over alleged nepotism in top officials’ selection</a></i>, by D. Ravi Kanth. (19 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230801.htm">WTO: African Group seeks transparency &amp; inclusiveness in DS reform talks</a></i>, by D. Ravi Kanth. (1 August 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230720.htm">Trade: Can South safeguard two-tier dispute settlement system at WTO?</a></i>, by D. Ravi Kanth. (31 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230719.htm">WTO: “Top-down” approach to foist non-mandated issues for MC13?</a></i>, by D. Ravi Kanth. (27 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230715.htm">Trade: WTO members show little convergence on WTO reforms</a></i>, by D. Ravi Kanth. (26 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230713.htm">Trade: African Group issues key principles on institutional reform of WTO</a></i>, by D. Ravi Kanth. (25 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230711.htm">Trade: WTO members highlight differing priority issues for MC13</a></i>, by D. Ravi Kanth. (24 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230704.htm">WTO: No room for trade disputes on national security issues, says US</a></i>, by D. Ravi Kanth. (10 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230613.htm">Trade: South pushes back against North's overarching WTO reform proposals</a></i>, by D. Ravi Kanth. (22 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230607.htm">Trade: Several Members rebuff US proposal on Appellate Review at WTO</a></i>, by D. Ravi Kanth. (14 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230603.htm">WTO: Developing countries left at receiving end of DS reform</a></i>, by D. Ravi Kanth. (6 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230602.htm">WTO: UK, US raise controversial proposals on DS reform</a></i>, by D. Ravi Kanth. (2 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230601.htm">WTO: Sharp concerns over lack of transparency &amp; inclusivity in DS reform</a></i>, by D. Ravi Kanth. (1 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230502.htm">Trade: India tables comprehensive proposal on improving WTO’s functioning</a></i>, by D. Ravi Kanth. (8 May 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230415.htm">WTO: US proposals on dispute settlement reform could hurt smaller countries</a></i>, by D. Ravi Kanth. (27 April 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230414.htm">WTO: In a radical overhaul, US proposes single-tier dispute settlement system></a></i>, by D. Ravi Kanth. (26 April 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230403.htm">Trade: US says consensus needed on WTO dispute settlement reform</a></i>, by D. Ravi Kanth. (4 April 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230201.htm">WTO: Reforms focused on “development modalities” aimed at polarization?</a></i>, by D. Ravi Kanth. (1 February 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230104.htm">WTO: China calls US “unilateral bully, rule breaker &amp; supply chain disruptor”</a></i>, by D. Ravi Kanth. (31 January 2023) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220612.htm">Trade: WTO DG expects two out of five possible outcomes at MC12</a></i>. (D. Ravi Kanth, 10 June 2022) 
 <p>

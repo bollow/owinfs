@@ -99,7 +99,15 @@ These are the services sectors they are proposing the new rules would apply to.
 <p>
 <i><a href="https://bilaterals.org/?wto-plurilateral-services-domestic">WTO plurilateral services domestic regulation disciplines draft text as of 18 December 2020</a></i>.
 
-<h2>Some Articles &amp; Updates on the Negotiations</h2>
+<h2 id="updates">Some Articles &amp; Updates on the Negotiations</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230703.htm">Trade: WTO-WB report on services-led export diversification harmful to South?</a></i>, by D. Ravi Kanth. (6 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230310.htm">WTO: JSI members on services DR “frustrate” India &amp; South Africa</a></i>, by D. Ravi Kanth. (29 March 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230302.htm">Trade: South Africa elicits responses from 35 JSI members on services DR</a></i>, by D. Ravi Kanth. (15 March 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230205.htm">WTO: India, South Africa sharply object to JSI on services domestic regulation</a></i>, by D. Ravi Kanth. (8 February 2023) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220407.htm">WTO Services Division propagates "dangerous" narrative on JSIs</a></i>. (D. Ravi Kanth, 11 April 2022)
 <p>

@@ -68,7 +68,15 @@ for Development: Opening the doors of the WTO for hard rules on investment</a></
 <p>
 <i>Global Civil Society letter to UNCTAD Secretary General on Investment Issues</i>: <a href="/o/en/signon/global-civil-society-letter-unctad-secretary-general-investment-issues-and-role-unctad.html">English</a>, <a href="/o/es/signon/carta-sociedad-civil-sobre-r-gimen-inversiones-y-unctad-0.html">Spanish</a>. (15 October 2014)
 
-<h2>Updates &amp; Articles on the Negotiations</h2>
+<h2 id="updates">Updates &amp; Articles on the Negotiations</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231212.htm">WTO: IFD initiative “illegal” and not part of MC13 agenda, says India</a></i>, by D. Ravi Kanth. (19 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231206.htm">WTO: Investment Facilitation surfaces as a plurilateral deal at GC</a></i>, by D. Ravi Kanth. (12 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231109.htm">WTO: JSIs’ “hidden” goals aimed to mislead developing countries?</a></i>, by D. Ravi Kanth. (21 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230701.htm">Trade: Draft IFD agreement may violate WTO’s Marrakesh Agreement</a></i>, by D. Ravi Kanth. (4 July 2023) 
 <p>
 <i><a href="https://twn.my/title2/wto.info/2021/ti211026.htm">Is WTO's MC12 paving the way for new trade negotiations?</a></i>, by D. Ravi Kanth. (28 October 2021)
 <p>

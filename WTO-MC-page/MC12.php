@@ -5,7 +5,7 @@ include 'include/head_etc.php'
 ?>
     <div id="main" class="group">
 <?php
-$this_mc="Towards MC12";
+$this_mc="MC12";
 include 'include/sidebar_ministerials.php';
 include 'include/navbar.php';
 ?>

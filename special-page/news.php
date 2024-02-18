@@ -11,15 +11,43 @@ include 'include/navbar.php';
 ?>
 
       <div id="content" class="singlecolumn">
-
-For articles on specific areas of negotiations, such as e.g. <a href="fish">fisheries</a> or
-<a href="digital">digital trade</a>, please see those theme pages.
+<p>
+Most current news items specifically address a particular area of negotiations; please see
+those theme pages:
+<ul class="tail">
+  <li><a href="digital">Digital Trade</a>
+  <li><a href="climate">Trade &amp; Environment</a>
+  <li><a href="SDT">Development Agenda / SDT</a>
+  <li><a href="fish">Fisheries</a>
+  <li><a href="agriculture">Food &amp; Agriculture</a>
+  <li><a href="TRIPS">Intellectual Property/TRIPS</a>
+  <li><a href="investment">Investment</a>
+  <li><a href="services">Services / GATS</a>
+  <li><a href="UNCTAD">UNCTAD</a>
+  <li><a href="WTO-process">WTO Reform &amp; Process</a>
+</ul>
 
         <div id="content-header">
           <h1 class="title">General News and Articles on the WTO Negotiations</h1>
         </div> <!-- /#content-header -->
         
         <div id="content-area"> 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240201.htm">Trade: WTO’s MC13 Outcome Document far from closure</a></i>, by D. Ravi Kanth. (31 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240108.htm">WTO: DG hopes for agreements on fisheries, development, IFD at MC13</a></i>, by D. Ravi Kanth. (24 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231209.htm">WTO: A clash of narratives and fault-lines on MC13 deliverables</a></i>, by D. Ravi Kanth. (15 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231101.htm">WTO: Outcomes on TRIPS, development, DSS, agriculture a priority for MC13</a></i>, by D. Ravi Kanth. (3 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231019.htm">WTO: Senior officials say their views on agriculture & DS reform “doctored”</a></i>, by D. Ravi Kanth. (26 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230909.htm">WTO: Retreat on trade & industrial policy, will UR rule-book be discarded?</a></i>, by D. Ravi Kanth. (20 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230906.htm">WTO: DG remains upbeat on MC13, promotes GPA for “green” procureme</a></i>, by D. Ravi Kanth. (14 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230711.htm">Trade: WTO members highlight differing priority issues for MC13</a></i>, by D. Ravi Kanth. (24 July 2023) 
 <p>
 <a href="https://www.theguardian.com/commentisfree/2022/jun/13/wto-market-knows-best-ideology-failed-world-trade-organization"><i>The WTO, with its ‘market knows best’ ideology, has failed. It’s time to bury it</i></a>. (Nick Dearden, The Guardian, 13 June 2022)
 <p>

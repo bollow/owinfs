@@ -17,19 +17,26 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
+<p>
 
-<span style="font-size:17px;"><b><i><a href="https://peoplesvaccine.org/take-action/mc12/">Global Days of Action for COVID VACCINE & TREATMENT EQUITY</a></i></b> (12-16 June 2022)</span>
+<i><a href="https://www.commondreams.org/news/wto-patents-big-pharma">WTO pens 'Love Letter to Patents' as world suffers from big pharma greed</a></i>.
+(14 February 2024)
 <p>
-<i><a href="https://www.twn.my/title2/briefing_papers/twn/Comments%20on%20leaked%20text%20TWNBP%20Apr%202022.pdf">Comments on the leaked draft text of discussions facilitated by the Director-General of the World Trade Organization with respect to the TRIPS Waiver proposal</a></i>.
-(TWN, April 2022)
+<i><a href="https://www.bu.edu/gdp/files/2024/02/GEGI-PB-027-DOHA-FIN.pdf">Reigniting the Spirit of the Doha Declaration: Why a TRIPS Waiver Extension is Key to the Legitimacy of the World Trade Organization</a></i>.
+(Rachel Thrasher, February 2024)
 <p>
-<i><a href="https://www.twn.my/title2/wto.info/2022/ti220218.htm">WTO fails to finalize TRIPS waiver and response to pandemic</a></i>. (D. Ravi Kanth, 18 February 2022)
+<i><a href="https://www.citizen.org/news/corporate-greed-and-rich-countries-cowardice-lead-wto-to-abandon-proposed-sharing-of-covid-treatment-technologies/">Corporate greed and rich countries’ cowardice lead WTO to abandon proposed sharing of COVID treatment technologies</a></i>.
+(Global Trade Watch, 31 January 2024)
 <p>
-<a href="2022/L_WTO_2022-02-16.pdf"><i>Civil Society Open Letter to the WTO Director General</i></a>. (16 February 2022)
-<p>
-<i><a href="2021_WTO_waiver_CTA">Global Call to Action: WTO Waiver <u>Now</u> to End the Pandemic!</a></i> (30 November - 3 December 2021)
-<p>
+<i><a href="https://jamie-love.medium.com/the-wto-will-conclude-negotiations-over-trips-and-covid-19-without-extending-june-17-2022-decision-1e3c15434922">The WTO will conclude negotiations over TRIPS and COVID 19 without extending the June 17, 2022 decision to therapeutics or diagnostics</a></i>.
+(James Love, 30 January 2024)
+
 <div class="searchable">
+<p>
+It is outrageous that some rich countries blocked the approval of a waiver of TRIPS patent monopolies that restricted developing countries’ access to vaccines, diagnostics, and treatments throughout the Covid-19 pandemic and to today. 
+<p>
+Members came to an agreement on some provisions in 2022, only for vaccines, but the ‘agreement’ in no way reflected the original proposals, and was designed to be unworkable; in fact, it have not been able to be utilized, as expert CSOs predicted. For MC13, countries, at the very minimum, should have agreed to extend the provisions to diagnostics and treatments, and to keep negotiating on this life-or-death topic. But it appears that Big Pharma and its government allies in Switzerland, the EU and the US, has blocked the extension of even these paltry provisions to tests and treatments. 
+<p>
 Monopoly restrictions under the TRIPS agreement include patents on medicines (diagnostics, treatments, and vaccines) as well as copyright restrictions (such as on books, music, etc.) There is no economic evidence for the specific terms of the intellectual property restrictions in the WTO, which are the only WTO rules which actually restrict trade, reduce consumer choice, and increase prices thousands of times more than the marginal cost of production (and are therefore the opposite of “free” trade.) 
 <p>
 See also:
@@ -61,6 +68,17 @@ The letter was endorsed by major global health, development, and human rights gr
 The original <a href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/IP/C/W669.pdf&Open=True">joint submission</a> from India and South Africa in the WTO. (2 October 2020)
 
 <h2>Statements and letters from Civil Society</h2>
+<p>
+<a href="https://peoplesvaccine.org/take-action/mc12/">Global Days of Action for COVID VACCINE & TREATMENT EQUITY</a></i> (12-16 June 2022)
+<p>
+<i><a href="https://www.twn.my/title2/briefing_papers/twn/Comments%20on%20leaked%20text%20TWNBP%20Apr%202022.pdf">Comments on the leaked draft text of discussions facilitated by the Director-General of the World Trade Organization with respect to the TRIPS Waiver proposal</a></i>.
+(TWN, April 2022)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2022/ti220218.htm">WTO fails to finalize TRIPS waiver and response to pandemic</a></i>. (D. Ravi Kanth, 18 February 2022)
+<p>
+<a href="2022/L_WTO_2022-02-16.pdf"><i>Civil Society Open Letter to the WTO Director General</i></a>. (16 February 2022)
+<p>
+<i><a href="2021_WTO_waiver_CTA">Global Call to Action: WTO Waiver <u>Now</u> to End the Pandemic!</a></i> (30 November - 3 December 2021)
 <p>
 <a href="https://healthgap.org/press/statement-from-asia-russell-health-gap-executive-director-on-the-failure-of-the-wtos-mc12-to-deliver-a-trips-waiver-for-covid-19-vaccines-treatments-and-tests/
 "><i>Statement from Asia Russell, Health GAP Executive Director, on the failure of the WTO’s MC12 to deliver a TRIPS Waiver for COVID-19 vaccines, treatments, and tests</a></i> (17 June 2022)
@@ -256,7 +274,23 @@ Various statements from civil society in support of TRIPS waiver:
 (May 7, 2020)
 </ul>
 
-<h2>News Reports from the Third World Network</h2>
+<h2 id="updates">News Reports from the Third World Network</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231102.htm">WTO: US continues its ambivalent position on diagnostics &amp; therapeutics</a></i>, by D. Ravi Kanth. (7 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231016.htm">WTO: Revised modalities for SOM omits PSH and TRIPS</a></i>, by D. Ravi Kanth. (16 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230707.htm">Trade: African Group exposes failures of WTO’s TRIPS Agreement</a></i>, by D. Ravi Kanth. (12 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230611.htm">Trade: Decision on COVID-19 diagnostics & therapeutics doubtful by MC13?</a></i>, by D. Ravi Kanth. (20 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230609.htm">WTO: South “ups the ante” on COVID-19 diagnostics & therapeutics</a></i>, by D. Ravi Kanth. (14 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230305.htm">WTO: US holds decision on diagnostics &amp; therapeutics hostage to ITC probe</a></i>, by D. Ravi Kanth. (22 March 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230103.htm">Trade: Swiss Minister opposes TRIPS Decision on diagnostics &amp; therapeutics</a></i>, by D. Ravi Kanth. (25 January 2023)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230101.htm">Trade: Ministers must address WTO’s failure on diagnostics & therapeutics</a></i>, by D. Ravi Kanth. (17 January 2023) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220611.htm">WTO: Anti-diversion provision in waiver decision text emerges as the next flash point</a></i>. (D. Ravi Kanth, 10 June 2022) 
 <p>

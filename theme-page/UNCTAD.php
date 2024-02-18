@@ -41,6 +41,24 @@ Now that the negotiations on the mandate are concluded, it will be up to the inc
 <p>
 The world needs UNCTAD now more than ever. Civil society is poised to work with the institution to transform global finance and trade regimes. Governments and CSOs must work together with UNCTAD to provide developing countries the tools — and the transformed governance regimes — they need to “build back better” through these challenging and difficult times.
 
+<h2 id="updates">Recent updates from Third World Network</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231007.htm">UN: World economy in dire straits, need for a “new paradigm” – UNCTAD</a></i>, by D. Ravi Kanth. (6 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231006.htm">UN: UNCTAD backs G90 proposal for more policy space, upholds S&amp;DT</a></i>, by D. Ravi Kanth. (6 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231003.htm">Trade: UNCTAD issues “positive” trade &amp; environment agenda for BRICS</a></i>, by D. Ravi Kanth. (2 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230705.htm">UN: Global FDI falls in 2022 due to poly-crisis, says UNCTAD</a></i>, by Kanaga Raja. (10 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230409.htm">UN: Developing countries face “lost decade” &amp; deepening distress – UNCTAD</a></i>, by D. Ravi Kanth. (14 April 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230309.htm">UN: Global trade growth slows in last half of 2022, says UNCTAD</a></i>, by Kanaga Raja. (28 March 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230202.htm">Trade: UNCTAD’s TDR offers “positive” trade &amp; environment agenda</a></i>, by D. Ravi Kanth. (3 February 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230102.htm">UN: Global FDI momentum weakened in 2022, says UNCTAD</a></i>, by Kanaga Raja. (19 January 2023) 
+
 <h2>UNCTAD XV (2021)</h2>
 
 <i><a href="https://www.ineteconomics.org/perspectives/blog/trade-and-development-backstory-the-struggle-over-the-unctad-15-mandate">Trade and development backstory: The struggle over the UNCTAD 15 mandate</a></i>, by Deborah James. (10 November 2021)

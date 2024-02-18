@@ -24,7 +24,7 @@ Rich countries, not the poor, are currently allowed to subsidize agriculture und
 <p>
 But the SDGs entreat countries to increase investment in sustainable agriculture. Also, there is growing acceptance of the “right to food” as a human right. One of the international best practices for supporting farmers’ livelihoods, ensuring food security, and promoting rural development is “public stockholding.” But these programs - in dozens developing countries - often run afoul of WTO rules – even though the agriculture supported is not traded in global markets.
 <p>
-Countries should have the right to support the production of food that is consumed domestically. Thus, Public Stockholding programs for Food Security must be considered as part of the Green Box, and thus not subject to limits or reductions commitments. WTO members agreed to find a permanent solution to the public stockholding programs by December 2017. <b><i>At MC12, WTO members should deliver a positive resolution on the public stockholding issue that allows all developing countries to implement food security programs without onerous restrictions that are not demanded of developed countries’ trade distorting subsidies.</i></b>
+Countries should have the right to support the production of food that is consumed domestically. Thus, Public Stockholding programs for Food Security must be considered as part of the Green Box, and thus not subject to limits or reductions commitments. WTO members agreed to find a permanent solution to the public stockholding programs by December 2017. <b><i>At MC13, WTO members should deliver a positive resolution on the public stockholding issue that allows all developing countries to implement food security programs without onerous restrictions that are not demanded of developed countries’ trade distorting subsidies.</i></b>
 <p>
 Countries should not have the right to damage other countries’ markets. Thus, export subsidies should be banned, and this includes domestic subsidies that go towards products that are exported. Domestically subsidized food should not be exported in a way that damages other countries’ markets, whether it was in a public stockholding program or is used as feed or other inputs for exported food. 
 <p>
@@ -32,10 +32,23 @@ Countries should have the right to protect their domestic markets from dumping b
 <p>
 Countries should be able to use tariffs to protect domestic food markets. In any future negotiations, developing countries should not have to cut tariffs. In the case that there would be any future tariff cuts, then developing countries should have full recourse to Sensitive Products and Special Products. Developed countries should also be able to maintain tariffs that protect Food Security.
 <p>
-Subsidies that the US and the EU provide to cotton producers enrich a few thousand there, but have unfairly decimated production of hundreds of thousands of cotton farmers in Africa. <b>It is unfortunate that WTO members did not decide to significantly reduce or eliminate developed countries’ domestic supports for cotton at <a href="MC11">MC11</a></b>. 
+Subsidies that the US and the EU provide to cotton producers enrich a few thousand there, but have unfairly decimated production of hundreds of thousands of cotton farmers in Africa. <b>It is unfortunate that WTO members did not decide to significantly reduce or eliminate developed countries’ domestic supports for cotton at <a href="MC12">MC12</a></b>. 
 </div>
 
 <h2>Civil Society Statements and Analysis</h2>
+<p>
+<i><a href="2024/TWN_Agriculture_negotiations.pdf">Negotiations on agriculture &amp; food security towards MC13</a></i>.
+(Ranja Sengupta, TWN, January 2024)
+<p>
+<i><a href="2023/TWN_AMS.pdf">Extra AMS entitlements under the WTO Agreement on Agriculture
+continue to confer additional policy space for developed countries</a></i>.
+(Ranja Sengupta, TWN, April 2023)
+<p>
+<i><a href="https://www.southcentre.int/policy-brief-115-14-february-2023/">Policy responses for fostering South-South and Triangular Cooperation in response to the food crisis in the area of trade</a></i>.
+(Peter Lunenborg, South Centre, February 2023)
+<p>
+<i><a href="2022/TWN_Agriculture_outcomes.pdf">Agriculture negotiations at the WTO and key outcomes of the 12th Ministerial Conference</a></i>.
+(Ranja Sengupta, TWN, October 2022)
 <p>
 <i><a href="2022/TWN_Agriculture.pdf">Agriculture and food security negotiations text at WTO MC12: Implications for developing countries</a></i>.
 (Ranja Sengupta, TWN, 13 June 2022)
@@ -48,6 +61,8 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 <i>Agricultural negotiations for MC12: A factsheet for developing countries</i>: <a href="https://twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta.pdf">English</a>, <a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Agri%20factsheet%20TWNBP%20MC12%20Sengupta%20SPA.pdf">Spanish</a>. (Ranja Sengupta, TWN, 13 November 2021)
 <p>
 <i><a href="2021_PF_agriculture">Agriculture &amp; WTO in the time of a pandemic: Looking towards MC12</a></i>. (Civil Society Event at the WTO Public Forum, 30 September 2021)
+<p>
+<i><a href="2021/TWN_Green_Box.pdf">WTO Green Box subsidies: Recent trends and lessons going forward</a></i>. (Ranja Sengupta, TWN, July 2021)
 <p>
 <i>Rebuilding the WTO for a sustainable global development</i>:
 <a href="https://www.sol-asso.fr/wp-content/uploads/2020/01/Rebuilding-the-WTO-for-a-sustainable-global-development-J.-Berthelot-July-12-2020.pdf">English</a>,
@@ -100,9 +115,47 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 <p>
  <i><a href="http://wtocentre.iift.ac.in/workingpaper/WorkingPaper59.pdf">Special Safeguard Mechanism for Agriculture: Implications for Developing Members at the WTO</a></i>. (Centre for WTO Studies, India, August 2020) 
 
-<h2>Articles &amp; Updates on the Negotiations</h2>
+<h2 id="updates">Articles &amp; Updates on the Negotiations</h2>
 <p>
-<i><a href="https://www.livemint.com/news/world/india-proposes-options-for-permanent-solution-on-food-security-at-wto/amp-11654342722242.html">India proposes options for permanent solution on food security at WTO</a></i>, by Dilasha Seth. (5 June 2022) 
+<i><a href="https://indianexpress.com/article/business/economy/india-susceptible-to-trade-disputes-without-permanent-solution-for-food-security-9160098/">‘India susceptible to trade disputes without permanent solution for food security’</a></i> (14 February 2024) 
+<p>
+<i><a href="https://www.thehindubusinessline.com/economy/wto-mc13-india-needs-permanent-solution-to-public-stockholding-as-peace-clause-limits-options/article67842589.ece">WTO MC13: India needs permanent solution to public stockholding as ‘peace clause’ limits options</a></i> (13 February 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240207.htm">WTO: Clash over domestic support & market access mandate for MC13</a></i>, by D. Ravi Kanth. (8 February 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240205.htm">WTO: Constructive talks on agri-text, but unbridgeable differences persist</a></i>, by D. Ravi Kanth. (6 February 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240203.htm">WTO: Members endorse chair’s agri-text, large majority rally behind PSH</a></i>, by D. Ravi Kanth. (1 February 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240114.htm">WTO: Chair issues draft agriculture text replete with asymmetries</a></i>, by D. Ravi Kanth. (30 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240106.htm">WTO: US, Costa Rica, Paraguay say ministerial mandates lack sanctity on PSH</a></i>, by D. Ravi Kanth. (19 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240103.htm">WTO: Chair intensifies efforts for breakthrough on agriculture for MC13</a></i>, by D. Ravi Kanth. (12 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231119.htm">WTO: Mini-ministerial on agriculture fails to provide guidance for MC13</a></i>, by D. Ravi Kanth. (30 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231114.htm">WTO: Cairns Group faces backlash for “hijacking” agri-talks before MC13</a></i>, by D. Ravi Kanth. (24 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231110.htm">Trade: WTO DG changes focus from PSH to all issues for MC13</a></i>, by D. Ravi Kanth. (21 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231019.htm">WTO: Senior officials say their views on agriculture & DS reform “doctored”</a></i>, by D. Ravi Kanth. (26 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231017.htm">WTO: GC chair’s report suggests bleak outcomes for TRIPS &amp; PSH</a></i>, by D. Ravi Kanth. (19 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231010.htm">WTO: US, EU, South American countries block permanent solution on PSH</a></i>, by D. Ravi Kanth. (10 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230803.htm">WTO: African Group, Pakistan table proposal on disciplining domestic support</a></i>, by D. Ravi Kanth. (4 August 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230802.htm">WTO: African Group & Pakistan call for a decision on SSM at MC13</a></i>, by D. Ravi Kanth. (3 August 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230709.htm">WTO: Members welcome Doha agriculture chair’s initiatives on crucial issues</a></i>, by D. Ravi Kanth. (20 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230506.htm">Extra AMS entitlements under the WTO Agreement on Agriculture continue to confer additional policy space for developed countries</a></i>, by Ranja Sengupta. (17 May 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230411.htm">WTO: US &amp; allies adopt “bellicose” strategy against India on agriculture</a></i>, by D. Ravi Kanth. (17 April 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230401.htm">WTO: India exposes “double standards” of farm-exporters in agriculture talks</a></i>, by D. Ravi Kanth. (31 March 2023) 
 <p>
 <i><a href="https://m.economictimes.com/news/economy/foreign-trade/60-wto-nations-back-new-method-on-food-subsidies/articleshow/91948851.cms">60 WTO nations back new method on food subsidies</a></i>, by Kirtika Suneja. (2 June 2022) 
 <p>

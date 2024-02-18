@@ -18,10 +18,27 @@ include 'include/navbar.php';
         
         <div id="content-area">
 <div class="searchable">
-The Sustainable Development Goal 14.6 has the target to “prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing and eliminate subsidies that contribute to Illegal, Unreported and Unregulated fishing.” However developed countries are pushing to ignore the second half of that mandate which states that “appropriate and effective special and differential treatment (SDT) for developing and least-developed countries should be an integral part” of negotiations.
+<p>
+Negotiations on fisheries subsidies have a long history in the WTO, but were intensified following the launch of the Sustainable Development Goals (SDGs), which include a target on eliminating subsidies to Illegal Unreported and Unregulated (IUU) fishing and prohibiting certain subsidies that contribute to overcapacity and overfishing while recognizing appropriate and effective special and differential treatment for developing and least developed countries. Developed countries are pushing to ignore the second half of that mandate.
+<p>
+In June 2022, the World Trade Organization (WTO) concluded the Agreement on Fisheries Subsidies, an agreement that was intended to address the problematic aspects of subsidies to fishing. 
+<p>
+While much fanfare was made about the outcome, there is little to suggest that the SDG mandate has been met, with those most responsible for overfishing being let off the hook of any meaningful commitments.
+<p>
+Negotiations for an expanded agreement are ongoing, but it remains to be seen whether the WTO Members will agree on an outcome that truly addresses the problems of overfishing and IUU fishing.
 </div>
 
 <h2>Statements and analysis from civil society</h2>
+<p>
+<i><a href="2023/PANG_large_fleets.pdf">Large-scale fleets should be target of fish subsidies talks, WTO hears</a></i>
+(PANG, 15 September 2023)
+<p>
+<i><a href="2023/PANG_small_fishers.pdf">Q &amp; A: Small Scale Fishers and the World Trade Organization’s Agreement on
+Fisheries Subsidies</a></i>
+(PANG, June 2023)
+<p>
+<i><a href="2023/PANG_fisheries_subsidies.pdf">Empty Harvest: A Briefing Paper on The World Trade Organization Agreement on Fisheries Subsidies</a></i>
+(PANG, February 2023)
 <p>
 <i><a href="2022/PANG_Fisheries_agreement.pdf">What does the WTO Fisheries Subsidies Agreement mean for sustainability and development?</a></i>
 (PANG, 17 June 2022)
@@ -108,12 +125,65 @@ Spanish:
 <p>
 
 <h2>Other analysis</h2>
-<i><a href="https://www.southcentre.int/research-paper-122-november-2020/">Analysis of the overcapacity and overfishing pillar of the WTO fisheries subsidies negotiations</a></i>.
-(South Centre Research Paper, November 2020)
 <p>
-<i><a href="http://wtocentre.iift.ac.in/FA/CWS%20review%20of%20%20WTO%20Fisheries%20Subsidies%20negotiations%20issues%202017.pdf">A review of fisheries subsidies issues in the context of WTO rules negotiations</a></i>. (Centre for WTO Studies, November 2016)
+<i><a href="https://www.southcentre.int/policy-brief-109-31-march-2022/">Draft Fisheries Subsidies Agreement: some key issues to address for a sustainable catch</a></i>.
+(South Centre Policy Brief, March 2022)
+<p>
+<i><a href="https://www.southcentre.int/research-paper-122-november-2020/">Analysis of the overcapacity and overfishing pillar of the WTO fisheries subsidies negotiations</a></i>.
+(South Centre Research Paper, November 2020)
+<p>
+<i><a href="https://www.frontiersin.org/articles/10.3389/fmars.2020.539214/full#F5">The global fisheries subsidies divide between small- and large-scale fisheries</a></i>.
+(Anna Schuhbauer <i>et al</i>, September 2020)
+<p>
+<i><a href="http://wtocentre.iift.ac.in/FA/CWS%20review%20of%20%20WTO%20Fisheries%20Subsidies%20negotiations%20issues%202017.pdf">A review of fisheries subsidies issues in the context of WTO rules negotiations</a></i>. (Centre for WTO Studies, November 2016)
 
-<h2>News and updates on the negotiations</h2>
+<h2 id="updates">News and updates on the negotiations</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240206.htm">WTO: Fisheries chair acknowledges significant divergences ahead of MC13</a></i>, by D. Ravi Kanth. (7 February 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240204.htm">WTO: Chair silent on calling distant-water fishing a prohibited subsidy</a></i>, by D. Ravi Kanth. (2 February 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240108.htm">WTO: DG hopes for agreements on fisheries, development, IFD at MC13</a></i>, by D. Ravi Kanth. (24 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240107.htm">WTO: South punished instead of disciplining big subsidizers at fisheries talks</a></i>, by D. Ravi Kanth. (23 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240104.htm">WTO: Doha fisheries chair remains upbeat on an outcome at MC13</a></i>, by D. Ravi Kanth. (18 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2024/ti240102.htm">WTO: Chair issues consolidated fisheries text for final push towards MC13</a></i>, by D. Ravi Kanth. (11 January 2024) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231202.htm">WTO: South countries face crucial test in safeguarding S&amp;DT in fisheries talks</a></i>, by D. Ravi Kanth. (6 December 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231118.htm">WTO: Chair to discuss “legal form of new disciplines” on fisheries subsidies</a></i>, by D. Ravi Kanth. (28 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231108.htm">WTO: South countries must seek robust S&DT in fisheries subsidies agreement</a></i>, by D. Ravi Kanth. (16 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231104.htm">Trade: A fisheries subsidies agreement appears doubtful at WTO’s MC13</a></i>, by D. Ravi Kanth. (8 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231012.htm">WTO: Fisheries chair needs to discuss Indian proposal along with his draft text</a></i>, by D. Ravi Kanth. (11 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230915.htm">Trade: ACP group exposes asymmetries in chair’s draft fisheries text</a></i>, by D. Ravi Kanth. (26 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230913.htm">Trade: India turns the tables against big subsidizers in Doha fisheries talks</a></i>, by D. Ravi Kanth. (22 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230903.htm">Trade: Doha fisheries chair issues draft text at WTO, but asymmetries persist</a></i>, by D. Ravi Kanth. (8 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230708.htm">WTO: Many countries welcome Indonesia’s proposal on OCOF disciplines</a></i>, by D. Ravi Kanth. (18 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230702.htm">WTO: 4th “Fish Week” to focus on concrete ideas to address OCOF subsidies</a></i>, by D. Ravi Kanth. (5 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230606.htm">WTO: ACP calls for OCOF subsidy prohibition on large-scale industrial fishing</a></i>, by D. Ravi Kanth. (9 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230605.htm">WTO: China proposes OCOF subsidy disciplines framework in fisheries talks</a></i>, by D. Ravi Kanth. (8 June 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230501.htm">WTO: South raises developmental issues at second “Fish Week”</a></i>, by D. Ravi Kanth. (5 May 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230410.htm">WTO: Doha fisheries chair poses questions to members for second “fish week”</a></i>, by D. Ravi Kanth. (17 April 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230402.htm">WTO: Need to remove carve-outs for big subsidizers in Doha fisheries talks</a></i>, by D. Ravi Kanth. (3 April 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230308.htm">WTO: Fisheries talks highlight CBDR, reverse S&amp;DT, polluter-pays principle</a></i>, by D. Ravi Kanth. (28 March 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230304.htm">Trade: New chair brings fresh life to fisheries subsidies negotiations</a></i>, by D. Ravi Kanth. (22 March 2023) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220613.htm">Special and Differential Treatment takes a beating in the new Draft Fisheries Text submitted to Ministers for WTO MC12</a></i>. (Ranja Sengupta, 12 June 2022) 
 <p>

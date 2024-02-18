@@ -102,6 +102,14 @@ Current demands of OWINFS with regards to Policy Space for Development include:
 <a href="2021_SOL_China+India_FR">French</a>.
 (Jacques Berthelot, SOL France, 25 July 2021)
 
+<h2>Current South Centre papers</h2>
+<p>
+<i><a href="https://www.southcentre.int/research-paper-183-15-september-2023/">Least Developed Countries and their progress on the Sustainable Development Goals</a></i>.
+(South Centre Research Paper, September 2023)
+<p>
+<i><a href="https://www.southcentre.int/southviews-no-245-27-february-2023/">Towards a WTO anchored in SDGs</a></i>.
+(Mohan Kumar, South Centre Southviews Paper, February 2023)
+
 <h2>Key analysis of SDT proposals</h2>
 
 <i><a href="https://www.southcentre.int/book-by-the-south-centre-2020-3/">WTO reform and the crisis of multilateralism – A developing country perspective</a></i>.
@@ -119,7 +127,31 @@ This research paper examines the US’ Section 301 unilateral actions against Ch
 <i><a href="https://www.southcentre.int/analytical-note-january-2017-3/">The WTO’s Special and Differential Treatment Negotiations (Paragraph 44)</a></i> (South Centre, January 2017)<br>
 <div class="noindex">Paragraph 44 of the 2001 Doha Ministerial Declaration mandates the ‘strengthening’ of Special and Differential Treatment (S&amp;D) provisions in the WTO Agreement, and making them ‘more precise, effective and operational’. This Note tracks the evolution of these negotiations from the start of the Doha Round in 2001 until the Nairobi Ministerial in December 2015.</div>
 
-<h2>Key updates &amp; articles on the negotiations</h2>
+<h2 id="updates">Updates &amp; articles on the negotiations</h2>
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231101.htm">WTO: Outcomes on TRIPS, development, DSS, agriculture a priority for MC13</a></i>, by D. Ravi Kanth. (3 November 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231004.htm">WTO: India calls for cross-retaliation in trade disputes as part of S&amp;DT</a></i>, by D. Ravi Kanth. (3 October 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti231001.htm">WTO: South Africa calls for decision on six African Group proposals at MC13</a></i>, by D. Ravi Kanth. (29 September 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230716.htm">Trade: Pakistan calls for WTO action to assist South facing multiple crises</a></i>, by D. Ravi Kanth. (27 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230706.htm">WTO: African Group calls for “re-balancing” reforms for industrialization</a></i>, by D. Ravi Kanth. (11 July 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230513.htm">WTO: African Group calls for fundamental reform of subsidy rules</a></i>, by D. Ravi Kanth. (30 May 2023)
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230512.htm">WTO: IP regime should not constrain South’s industrialization – South Africa</a></i>, by D. Ravi Kanth. (25 May 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230508.htm">WTO: DG gives “short shrift” to developing country concerns for MC13</a></i>, by D. Ravi Kanth. (19 May 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230307.htm">Trade: Will WTO deliver on G-90 issues by MC13?</a></i>, by D. Ravi Kanth. (27 March 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230204.htm">WTO: Reform talks focused on development modalities open “Pandora’s Box”</a></i>, by D. Ravi Kanth. (7 February 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230203.htm">Trade: Widening divide among WTO members over development, S&amp;DT</a></i>, by D. Ravi Kanth. (6 February 2023) 
+<p>
+<i><a href="https://www.twn.my/title2/wto.info/2023/ti230201.htm">WTO: Reforms focused on “development modalities” aimed at polarization?</a></i>, by D. Ravi Kanth. (1 February 2023) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220319.htm">UN: Doha Programme of Action for LDCs (2022-2031) adopted with some reservations</a></i>. (Prerna Bomzan, 24 March 2022)
 <p>
