@@ -19,6 +19,20 @@ include 'include/navbar.php';
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
 <p>
+<i><a href="2024-02-28_reform">WTO reform, systemic issues and JSIs: what is on the table at MC13?</a></i> (28 February 2024)
+<p>
+<i><a href="2024/2024-02-27_R_DG.pdf">WTO D-G abuses authority to try to get WTO-illegal Investment Facilitation adopted at MC13</a></i>.
+(27 February 2024)
+<p>
+<i>NGOs call for free speech to be restored at WTO Ministerial in UAE</i>: <a href="2024-02-26_R_free_speech">English</a>, <a href="2024-02-26_R_free_speech_ES">Spanish</a>. (26 February 2024)
+<p>
+<i><a href="2024-02-26_briefing">Civil Society at WTO’s 13th Ministerial Conference (MC13) in Abu Dhabi call for pro-development outcome, end to WTO expansion agenda</a></i>.
+(OWINFS briefing, 26 February 2024)
+<p>
+<i><a href="2024/TWN_dispute_settlement.pdf">Dispute settlement reform: The informal process and the way forward after MC13</a></i>. (Kinda Mohamadieh, TWN, 22 February 2024)
+<p>
+<i><a href="2024/TWN_dispute_settlement_commentary.pdf">Commentary on the draft text of the informal discussions on dispute settlement reform</i></a>. (Kinda Mohamadieh, TWN, February 2024)
+<p>
 <a href="https://www.ituc-csi.org/IMG/pdf/global_union_statement_wto_mc12.pdf"><i>Global unions statement to the 12th WTO Ministerial Conference (MC12)</i></a>. (14 June 2022)
 <p>
 <a href="https://www.downtoearth.org.in/news/governance/proposed-wto-reform-aims-to-bully-developing-nations-civil-society-members-83264"><i>Proposed WTO reform aims to bully developing nations: Civil society members</i></a>. (Himanshu N, Down To Earth, 13 June 2022)

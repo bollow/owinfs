@@ -33,6 +33,18 @@ those theme pages:
         
         <div id="content-area"> 
 <p>
+<b><span style="color:#d00000;">MC13 OUTCOME ANALYSIS:</span></b><br>
+<b><i><a href="2024/2024-03-01_R_collapse.pdf">MC13 collapse – Developing countries successfully push back against radical new WTO expansion agenda, but outcome fails developing countries as well</a></i></b>: <a href="2024/2024-03-01_R_collapse.pdf">pdf</a>, <a href="2024/2024-03-01_R_collapse.docx">docx</a>. (1 Mar 2024)
+<p>
+<i>NGOs call for free speech to be restored at WTO Ministerial in UAE</i>: <a href="2024-02-26_R_free_speech">English</a>, <a href="2024-02-26_R_free_speech_ES">Spanish</a>. (26 February 2024)
+<p>
+<i>What’s at stake at the WTO’s 13th Ministerial Conference this month in Abu Dhabi?</i>
+<a href="https://cepr.net/whats-at-stake-at-the-wtos-13th-ministerial-conference-this-month-in-abu-dhabi/">English</a>, <a href="2024/At_stake_MC13_FR.pdf">French</a>, <a href="At_stake_MC13_ES">Spanish</a>.
+(Deborah James, CEPR, February 2024)
+<p>
+<i><a href="2024-02-20_briefing">Food security, fisherfolk livelihoods, taxing big tech, and multilateralism itself hang in the balance at WTO ministerial</a></i>.
+(OWINFS media briefing, 20 February 2024)
+<p>
 <i><a href="https://www.twn.my/title2/wto.info/2024/ti240201.htm">Trade: WTO’s MC13 Outcome Document far from closure</a></i>, by D. Ravi Kanth. (31 January 2024) 
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2024/ti240108.htm">WTO: DG hopes for agreements on fisheries, development, IFD at MC13</a></i>, by D. Ravi Kanth. (24 January 2024) 

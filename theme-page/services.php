@@ -15,6 +15,10 @@ include 'include/navbar.php';
         <div id="content-header">
           <h1 class="title">Services / GATS</h1>
         </div> <!-- /#content-header -->
+<p>
+<i><a href="2024-02-27_R_services">What adopting the JSI SDR is and is not, and what civil society says needs to happen next</a></i>.
+(27 February 2024)
+
 <div class="searchable">
 <p>
 The General Agreement on Trade in Services (GATS) is the agreement within the WTO that sets forth rules for how countries can regulate services, and gives transnational services suppliers rights not only to operate, but also rights in the way that they operate, in foreign countries. Countries have agreed to “bind” their services sectors to WTO rules in their Schedules in the GATS. This agreement was part of the founding of the WTO due to the lobbying of Big Finance and other transnational corporations (TNCs) in the services sector. The majority of developing countries have long opposed the expansion of the GATS, and talks faltered as the Doha round stalled. 
@@ -40,6 +44,9 @@ OWINFS members have long maintained core demands with regards to services in the
 </div>
 
 <h2>Current Civil Society Statements and Analysis</h2>
+<p>
+<i><a href="2024-02-27_R_services">What adopting the JSI SDR is and is not, and what civil society says needs to happen next</a></i>.
+(27 February 2024)
 <p>
 <i><a href="https://doi.org/10.1093/jiel/jgac004">The illegitimacy of Joint Statement Initiatives and their systemic implications for the WTO</a></i>, by Jane Kelsey. Journal of International Economic Law, Volume 25, Issue 1. (March 2022)
 <p>

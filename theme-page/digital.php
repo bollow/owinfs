@@ -17,6 +17,9 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
+<p>
+<i><a href="2024-02-27_digital">Implications of digital-related issues at MC13 and beyond</a></i>. (27 February 2024)
+
 <div class="searchable">
 Some countries are pushing for anti-development, anti-public interest and pro-Big Tech rules in the WTO under the guise of “e-commerce.” These countries tried, but failed, to pressure all WTO members to agree to launch multilateral negotiations during the December 2017 Ministerial. OWINFS members and most developing countries in the WTO have been successful thus far in stopping a mandate for multilateral negotiations towards an agreement. Unfortunately, Big Tech advocates launched negotiations towards a “plurilateral” in the WTO. These negotiations do not have a mandate in the WTO, as it seems that the majority of members realize that such rules would constrain development, limit regulatory oversight including of needed anti-trust reforms, harm workers and women, and erode democracy by giving unprecedented power to Big Tech over far too many aspects of our lives.
 <p>
@@ -34,20 +37,33 @@ Before digital trade was a significant aspect of global trade, members of the WT
   <li><a href="#5">General Analysis of problems with the proposed negotiations on digital trade</a>
   <li><a href="#6">Detailed analysis of problems with specific proposed provisions on digital trade</a>
   <li><a href="#7">Data as a Public Good, and Digital Industrialization for Development</a>
-  <li><a href="#updates">Updates and articles on the negotiations</a>
+  <li><a href="#8">Updates and articles on the negotiations</a>
 </ol>
 
 
 <h2 id="1">Leaked text</h2>
+<p>
 The following documents have been leaked at <a href="https://www.bilaterals.org/?-other-292-">https://www.bilaterals.org/?-other-292-</a>
-<ul>
- <li><a href="https://www.bilaterals.org/IMG/pdf/wto_electronic_commerce_negotiations-jan_2024.pdf">WTO electronic commerce draft Chair’s text</a> (Jan 2024)
- <li>WTO plurilateral ecommerce draft consolidated revised text of 8 September 2021. 
- <li>WTO plurilateral ecommerce draft consolidated text of 14 December 2020. 
- <li>WTO plurilateral ecommerce stocktake text as of August 2020. 
+<ul class="tail">
+ <li><a href="https://www.bilaterals.org/IMG/pdf/jsi_e-comm_text_feb_2024.pdf">WTO electronic commerce draft Chair’s text</a>. (21 February 2024)
+ <li><a href="https://www.bilaterals.org/IMG/pdf/wto_electronic_commerce_negotiations-jan_2024.pdf">WTO electronic commerce draft Chair’s text</a>. (15 January 2024)
+ <li><a href="https://www.bilaterals.org/IMG/pdf/wto_plurilateral_ecommerce_draft_consolidated_text_september_2021.pdf">WTO plurilateral ecommerce draft consolidated revised text</a>. (8 September 2021</a>)
+ <li><a href="https://www.bilaterals.org/IMG/pdf/wto_plurilateral_ecommerce_draft_consolidated_text.pdf">WTO plurilateral ecommerce draft consolidated text</a>. (14 December 2020)
+ <li><a href="https://www.bilaterals.org/IMG/pdf/wto_plurilateral_ecommerce_stocktake_text.pdf">WTO plurilateral ecommerce stocktake text</a>. (19 August 2020)
 </ul>
 
 <h2 id="2">Key new reports</h2>
+<p>
+<i><a href="2024/TWN_ecommerce.pdf">Analysis of e-commerce JSI chairs’ text</a></i>. (Jane Kelsey, 23 February 2024)
+<p>
+<i><a href="2024/ITfC_AI.pdf">Digital trade rules and AI regulation – a primer</a></i>.
+(Jai Vipra, IT for Change, February 2024)
+<p>
+<i><a href="https://www.citizen.org/article/fact-sheet-wto-moratorium-on-customs-duties-on-electronic-transmissions/">Fact Sheet: WTO Moratorium on Customs Duties on Electronic Transmissions</a></i>
+(Public Citizen, 16 February 2024)
+<p>
+<i><a href="https://www.citizen.org/article/understanding-the-moratorium-on-customs-duties-on-electronic-transmissions/">Understanding the Moratorium on Customs Duties on Electronic Transmissions: Fact checking “Digital Trade for Development”</a></i>
+(Public Citizen, 16 February 2024)
 <p>
 <i><a href="https://www.ictd.ac/publication/are-trade-rules-undermining-taxation-of-the-digital-economy-in-africa/">Are Trade Rules Undermining Taxation of the Digital Economy in Africa?</a></i>
 (Karishma Banga and Alexander Beyleveld, February 2024)
@@ -372,7 +388,7 @@ UNCTAD report:
 <p>
 <i><a href="https://statistics.gov.rw/file/5410/download?token=r0nXaTAv">Rwanda National Data Policy</a></i>. (April 2017)
 
-<h2 id="updates">Updates and articles on the negotiations</h2>
+<h2 id="8">Updates and articles on the negotiations</h2>
 <p>
 <a href="https://www.revistaanfibia.com/no-volvamos-a-ser-potosi/">No volvamos a ser Potosí</a>, by Sofía Scasserra
 (Spanish, 30 January 2024)

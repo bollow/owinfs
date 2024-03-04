@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in test index about members contact search news key-positions no-new-round WTO \
+for i in index about members contact search news key-positions no-new-round WTO \
 	 statement-political-unity declaration-d-unite \
 	 documento-di-unita declaracion-unidad-politica join ; do
   php special-page/$i.php > $i.html
@@ -38,6 +38,10 @@ for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
 	 2022-06-15_R_blame 2022-06-15_R_protest 2022-06-16_R_protest \
 	 2022-06-16_R_waiver-failure 2022_Faule_Kompromisse 2022_Domestic_regulation \
          2022-07-27_webinar 2022-07-27_webinar_ES 2023_EU_digital_trade 2023_UE_comercio_digital \
+         2024-02-20_briefing 2024-02-26_R_free_speech 2024-02-26_R_free_speech_ES \
+	 2024-02-22_climate 2024-02-26_briefing 2024-02-26_agriculture 2024-02-27_fisherfolk \
+	 2024-02-27_digital 2024-02-27_R_services 2024-02-27_Quotes At_stake_MC13_ES \
+	 2024-02-28_reform \
     ; do
   php contentitem-page/$i.php > $i.html
 done

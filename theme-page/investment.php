@@ -33,6 +33,22 @@ Some WTO Members are negotiating rules on facilitating investment:
 
 <h2>Statements and Analysis from Civil Society</h2>
 <p>
+<i>Open letter from civil society to the Chair of the MC13 opposing WTO plurilateral on investment facilitation</i>: <a href="2024/2024-02-29_L_IF.pdf">Letter</a>, <a href="2024/2024-02-29_R_L_IF.pdf">Press release</a>. (29 February 2024)
+<p>
+<i><a href="2024/2024-02-28_R_IF.pdf">WTO-illegal Investment Facilitation rejected at MC13</a></i>. (28 February 2024)
+<p>
+<i><a href="2024/2024-02-28_IF_India+SA.pdf">Important breaking news: Statement being circulated on behalf of the delegations of South Africa and India</a></i>. (28 February 2024)
+<p>
+<i><a href="2024/R_investment.pdf">Stop the illegitimate anti-development Investment Facilitation Agreement now!</a></i> (25 Feb 2024)
+<p>
+<i><a href="2024/TWN_investment.pdf">Comments on the investment facilitation framework: Are there real benefits to bringing it under the umbrella of the WTO?</a></i> (Kinda Mohamadieh, TWN, 21 February 2024)
+<p>
+<i><a href="2024/TWN_investment_commentary.pdf">Commentary on the investment facilitation text</a></i>. (Kinda Mohamadieh, TWN, 21 February 2024)
+<p>
+<i><a href="https://www.madhyam.org.in/making-sense-of-investment-facilitation-for-development-agreement-ii/">Making Sense of Investment Facilitation for Development Agreement (II)</a></i>, by Avaljit Singh. (20 February 2024)
+<p>
+<i><a href="https://www.madhyam.org.in/making-sense-of-investment-facilitation-for-development-agreement-i/">Making Sense of Investment Facilitation for Development Agreement (I)</a></i>, by Avaljit Singh. (28 November 2023)
+<p>
 <i><a href="https://doi.org/10.1093/jiel/jgac004">The illegitimacy of Joint Statement Initiatives and their systemic implications for the WTO</a></i>, by Jane Kelsey. Journal of International Economic Law, Volume 25, Issue 1. (March 2022)
 <p>
 <i><a href="https://www.twn.my/title2/briefing_papers/MC12/briefings/Joint-statement%20initiative%20on%20IF%20WTOMC12BP%2020%20Nov%202021%20Mohamadieh.pdf">The plurilateral Joint-Statement Initiative on Investment Facilitation: Its developmental promise hangs in thin air</a></i>:

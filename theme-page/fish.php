@@ -30,14 +30,42 @@ Negotiations for an expanded agreement are ongoing, but it remains to be seen wh
 
 <h2>Statements and analysis from civil society</h2>
 <p>
-<i><a href="2023/PANG_large_fleets.pdf">Large-scale fleets should be target of fish subsidies talks, WTO hears</a></i>
+<i><a href="2024/2024-03-01_R_fish.pdf">WTO Fish deal; failing to properly address overfishing to meet SDG Mandate</a></i>. (1 Mar 2024)
+<p>
+<i><a href="2024-02-27_fisherfolk">Fisherfolk and civil society call for WTO fisheries subsidies talks to target the problem, not small-scale fishers</a>.</i> (27 February 2024)
+<p>
+<i>Civil society open letter to ministers on WTO fisheries subsidies negotiations</i>:
+<a href="2024/L_fish.pdf">English</a>,
+<a href="2024/L_fish_ES.pdf">Spanish</a>,
+<a href="2024/L_fish_FR.pdf">French</a>. (Feb 2024)
+<p>
+<i><a href="2024/PANG_small_fishers_MC13.pdf">Q &amp; A: Small scale fishers, and subsidies for fishing capacity</a></i>.
+(PANG, 21 February 2023)
+<p>
+<i><a href="2024/TWN_Fishing_subsidies.pdf">Fishing subsidies negotiations towards MC13: Some key issues</a>.</i> (Ranja Sengupta, Third World Network, 20 February 2024)
+<p>
+<i><a href="/2024/L_Indonesian_fisherfolks.pdf">Open Letter from Indonesian Fisherfolks Group on fisheries subsidies negotiations at the Ministerial Conference 13th of WTO</a></i>.
+(23 February 2024)
+<ul class="tail">
+  <li>Press release: <a href="/2024/R_Indonesian_fisherfolks.pdf">Ahead of the 13th WTO Ministerial Conference: Prohibition of fisheries subsidies at the WTO threatens the
+sustainability of small and traditional fisherfolks</a>. (24 February 2024)
+</ul>
+<p>
+<i><a href="/2024/NFF_small-scale_fishers.pdf">Comprehensive considerations and urgent plea for Indian small-scale fishers in WTO fisheries subsidies negotiations at MC13</a></i>.
+(National Fishworkers’ Forum, 20 February 2024)
+<p>
+<i><a href="https://www.thefinancetoday.net/article/national/24071/WTOs-draft-text-will-obstruct-Bangladeshs-fisheries-development">Civil Society Seminar on the eve of WTO MC13:
+WTO’s draft text will obstruct Bangladesh’s fisheries development</a></i>.
+(18 February 2024)
+<p>
+<i><a href="2023/PANG_large_fleets.pdf">Large-scale fleets should be target of fish subsidies talks, WTO hears</a></i>.
 (PANG, 15 September 2023)
 <p>
 <i><a href="2023/PANG_small_fishers.pdf">Q &amp; A: Small Scale Fishers and the World Trade Organization’s Agreement on
-Fisheries Subsidies</a></i>
+Fisheries Subsidies</a></i>.
 (PANG, June 2023)
 <p>
-<i><a href="2023/PANG_fisheries_subsidies.pdf">Empty Harvest: A Briefing Paper on The World Trade Organization Agreement on Fisheries Subsidies</a></i>
+<i><a href="2023/PANG_fisheries_subsidies.pdf">Empty Harvest: A Briefing Paper on The World Trade Organization Agreement on Fisheries Subsidies</a></i>.
 (PANG, February 2023)
 <p>
 <i><a href="2022/PANG_Fisheries_agreement.pdf">What does the WTO Fisheries Subsidies Agreement mean for sustainability and development?</a></i>

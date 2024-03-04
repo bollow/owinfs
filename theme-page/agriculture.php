@@ -37,6 +37,16 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Civil Society Statements and Analysis</h2>
 <p>
+<i><a href="2024/L_Indian_farmers.pdf">Letter from an Indian farmers’ network</a></i>.
+(Sanyukta Kisan Morcha (non-political), 26 February 2024)
+<p>
+<i><a href="2024/ICCFM_pre_MC13.pdf">Safeguard food security, food sovereignty and ensure peasants rights at the WTO MC13</a></i>.
+(Indian Coordination Committee of Farmers Movements, 23 February 2024)
+<p>
+<i><a href="2024/TWN_agriculture.pdf">Agriculture and food security in MC13: Going forward
+or backward?</a></i>
+(Ranja Sengupta, TWN, 23 February 2024)
+<p>
 <i><a href="2024/TWN_Agriculture_negotiations.pdf">Negotiations on agriculture &amp; food security towards MC13</a></i>.
 (Ranja Sengupta, TWN, January 2024)
 <p>

@@ -23,6 +23,8 @@ Some WTO members are negotiating plurilateral agreements under the rubric of “
 Many of these initiatives represent a brazen attempt to pry open developing country markets for developed country exports by calling them “environmental” goods or services. At the same time, while blocking increased flexibilities for developing countries, developed countries are pushing for expanded flexibilities for themselves to use WTO-illegal unilateral measures, such as are included in the Carbon Border Adjustment Measures (CBAMs) of the EU, and Inflation Reduction Act (IRA) of the United States.
 <p>
 With the inappropriate support of the WTO Secretariat and without a multilateral mandate, a few initiatives are being taken by some members on trade and environment issues. These include the: Trade and Environmental Sustainability Structured Discussions (TESSD); Fossil Fuel Subsidy Reform; an Agreement on Climate Change, Trade and Sustainability (ACCTS) and the Informal Dialogue on Plastics Pollution and Environmentally Sustainable Plastics Trade (IDP).
+<p>
+<i><a href="2024-02-22_climate">Rich countries force WTO climate agenda: Justice missing for developing countries</a></i>. (22 February 2024)
 
 <h2>Positive Agenda for Trade and the Environment</h2>
 <p>
@@ -36,7 +38,12 @@ UNCTAD’s <i><a href="https://unctad.org/system/files/official-document/tdr2023
 
 <h2>Trade and Environmental Sustainability Structured Discussions (TESSD)</h2>
 <p>
-<i><a href="https://www.twn.my/title2/wto.info/2023/ti231117.htm">Risks in trade as a solution for environmental problems</a></i>. (Abhijit Das, 28 November 2023)
+<i><a href="2024/TWN_environment.pdf">Risks in trade as a solution for environmental problems</a></i>. (Abhijit Das, 22 February 2024)
+<ul class="tail">
+  <li>This is a revised and updated version of a <a href="https://www.twn.my/title2/wto.info/2023/ti231117.htm">TWN Briefing Paper published in November 2023</a>.
+</ul>
+<p>
+<i>Risks in trade as a solution for environmental problems</a></i>. (Abhijit Das, 28 November 2023)
 <p>
 [Interview] <i><a href="https://india.mongabay.com/2023/11/unpacking-wtos-involvement-in-trade-and-environment-negotiation-at-cop28/">Unpacking WTO’s involvement in trade and environment negotiation at COP28 with Abhijit Das</a></i>. (28 November 2023)
 <p>

@@ -47,6 +47,14 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Africa Trade Network</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">international</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Action
 			Group on Erosion, Technology and Concentration (ETC Group)</font></font>
 		</td>
@@ -258,6 +266,15 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">ATTAC
+			/ The trade campaign</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Norway</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Australia
 			Fair Trade and Investment Network (AFTINET)</font></font>
 		</td>
@@ -383,6 +400,14 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">CEPR</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">USA</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">CEO
 			Corporate Europe Observatory</font></font>
 		</td>
@@ -445,8 +470,7 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="background: transparent" style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">COAST /
-			Equity BD</font></font>
+			<font face="Arial"><font size="2" style="font-size: 10pt">COAST Foundation</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Bangladesh&nbsp;</font></font>
@@ -860,6 +884,15 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Humundi</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Belgium</font></font>
+			
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">IBON
 			International</font></font>
 		</td>
@@ -926,7 +959,7 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
-			<font face="Arial"><font size="2" style="font-size: 10pt">Insitute
+			<font face="Arial"><font size="2" style="font-size: 10pt">Institute
 			for the Global Dialogue </font></font>
 			
 		</td>
@@ -982,6 +1015,14 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Internet Bolivia</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			Bolivia
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">International
 			Union of Foodworkers (IUF)</font></font>
 		</td>
@@ -1007,6 +1048,14 @@ include 'include/navbar.php';
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">New
 			Zealand</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">ITUC</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">international</font></font>
 		</td>
 	</tr>
 	<tr>
@@ -1151,6 +1200,14 @@ include 'include/navbar.php';
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Norway</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">NFF</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">India</font></font>
 		</td>
 	</tr>
 	<tr>
@@ -1302,7 +1359,7 @@ include 'include/navbar.php';
 	<tr>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Public
-			Citizen's Global Trade Watch</font></font>
+			Citizen</font></font>
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">U.S.</font></font>
@@ -1376,6 +1433,15 @@ include 'include/navbar.php';
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Uruguay </font></font>
+			
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffff" style="background: #ffffff" style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Rethink Trade</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">USA</font></font>
 			
 		</td>
 	</tr>
@@ -1578,6 +1644,14 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Swadeshi Andolan SKM NP</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">India</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Tanzania
 			Trade and Economic Justice Forum</font></font>
 		</td>
@@ -1774,6 +1848,14 @@ include 'include/navbar.php';
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Gambia</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">WTO Studies Centre</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">India</font></font>
 		</td>
 	</tr>
 	<tr>
