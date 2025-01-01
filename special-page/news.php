@@ -33,8 +33,10 @@ those theme pages:
         
         <div id="content-area"> 
 <p>
+<b><i><a href="2024-11-28_OWINFS">Our World Is Not For Sale: 25 Years of fighting the WTO</a></i></b>. (28 Nov 2024)
+<p>
 <b><span style="color:#d00000;">MC13 OUTCOME ANALYSIS:</span></b><br>
-<b><i><a href="2024/2024-03-01_R_collapse.pdf">MC13 collapse – Developing countries successfully push back against radical new WTO expansion agenda, but outcome fails developing countries as well</a></i></b>: <a href="2024/2024-03-01_R_collapse.pdf">pdf</a>, <a href="2024/2024-03-01_R_collapse.docx">docx</a>. (1 Mar 2024)
+<b><i><a href="2024-03-01_R_collapse">MC13 collapse – Developing countries successfully push back against radical new WTO expansion agenda, but outcome fails developing countries as well</a></i></b>. (1 March 2024)
 <p>
 <i>NGOs call for free speech to be restored at WTO Ministerial in UAE</i>: <a href="2024-02-26_R_free_speech">English</a>, <a href="2024-02-26_R_free_speech_ES">Spanish</a>. (26 February 2024)
 <p>

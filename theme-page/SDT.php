@@ -109,6 +109,9 @@ Current demands of OWINFS with regards to Policy Space for Development include:
 <p>
 <i><a href="https://www.southcentre.int/southviews-no-245-27-february-2023/">Towards a WTO anchored in SDGs</a></i>.
 (Mohan Kumar, South Centre Southviews Paper, February 2023)
+<p>
+<i><a href="southcentre.int/book-by-the-south-centre-2019-2/">The politics of trade in the era of hyperglobalisation: A Southern African Perspective</a></i>.
+(Rob Davies, book by the South Centre, 2019)
 
 <h2>Key analysis of SDT proposals</h2>
 

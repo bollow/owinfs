@@ -22,20 +22,19 @@ include 'include/navbar.php';
 <div class="searchable">
 The 13<sup>th</sup> Ministerial Conference of the WTO was scheduled to take place 26-29 February 2024 in Abu Dhabi. It was extended for an extra day, through 1 March.
 <p>
-<b><span style="color:#d00000;">MC13 OUTCOME ANALYSIS:</span></b><br>
-<b><i><a href="2024/2024-03-01_R_collapse.pdf">MC13 collapse – Developing countries successfully push back against radical new WTO expansion agenda, but outcome fails developing countries as well</a></i></b>: <a href="2024/2024-03-01_R_collapse.pdf">pdf</a>, <a href="2024/2024-03-01_R_collapse.docx">docx</a>. (1 Mar 2024)
+<b>MC13 OUTCOME ANALYSIS:</b>
+<p>
+<b><i><a href="2024/Post-MC13.docx">MC13 collapse: WTO outcome fails development, workers, and the environment, again</a></i></b>: <a href="2024/Post-MC13.docx">English</a>, <a href="2024/Post-MC13_FR.docx">French</a>. (Deborah James, 11 March 2024)
+<p>
+<b><i><a href="2024-03-01_R_collapse">MC13 collapse – Developing countries successfully push back against radical new WTO expansion agenda, but outcome fails developing countries as well</a></i></b>. (1 March 2024)
+<p>
+<b>EARLIER DOCUMENTS:</b>
 <p>
 <i>Open letter from civil society to the Chair of the MC13 opposing WTO plurilateral on investment facilitation</i>: <a href="2024/2024-02-29_L_IF.pdf">Letter</a>, <a href="2024/2024-02-29_R_L_IF.pdf">Press release</a>. (29 February 2024)
 <p>
-<i><a href="2024/2024-02-28_R_IF.pdf">WTO-illegal Investment Facilitation rejected at MC13</a></i>. (28 February 2024)
+<i><a href="2024/2024-02-29_R_banners.pdf">Civil society quotes on the current negotiations; Images: Banners that were banned from MC13</a></i>. (29 February 2024)
 <p>
-<i><a href="2024/2024-02-28_IF_India+SA.pdf">Important breaking news: Statement being circulated on behalf of the delegations of South Africa and India</a></i>. (28 February 2024)
-<p>
-<i><a href="2024/2024-02-27_R_DG.pdf">WTO D-G abuses authority to try to get WTO-illegal Investment Facilitation adopted at MC13</a></i>.
-(27 February 2024)
-<p>
-<i><a href="2024-02-27_R_services">What adopting the JSI SDR is and is not, and what civil society says needs to happen next</a></i>.
-(27 February 2024)
+<i><a href="2024/2024-02-28_R_repression.pdf">WTO loses legitimacy as affected communities, CSOs shut out of normal participation at MC13 in Abu Dhabi</a></i> (28 February 2024)
 <p>
 <i><a href="2024-02-27_Quotes">Media Advisory: CSO Quotes on WTO Negotiations</a></i>.
 (27 February 2024)
@@ -94,6 +93,8 @@ of the World Trade Organization (WTO MC13)</i>:
 <i><a href="2024-02-27_digital">Implications of digital-related issues at MC13 and beyond</a></i>. (27 February 2024)
 <p id="1a">
 Before digital trade was a significant aspect of global trade, members of the WTO agreed to a <b>“moratorium” on customs duties on electronic transmissions</b>. It’s high time for this tax holiday for Big Tech to come to an end. Countries should have the right to decide if taxing Amazon e-books, Netflix movies, Apple music, Microsoft software, or video games is in their national interest, as these foreign operators compete tariff-free against domestic small and medium business competitors. WTO members should allow the moratorium to lapse, rather than be renewed, at MC13.
+<p>
+<i><a href="2024/2024-02-29_R_standing_firm.pdf">Civil society groups congratulate and support South Africa, India, Indonesia for standing firm against e-commerce duties moratorium, and refusing to give tax breaks to big tech</a></i>. (29 February 2024)
 <p>
 <i><a href="https://www.citizen.org/article/fact-sheet-wto-moratorium-on-customs-duties-on-electronic-transmissions/">Fact Sheet: WTO Moratorium on Customs Duties on Electronic Transmissions</a></i>
 (Public Citizen, 16 February 2024)
@@ -191,7 +192,10 @@ sustainability of small and traditional fisherfolks</a>. (24 February 2024)
 <i><a href="https://www.thefinancetoday.net/article/national/24071/WTOs-draft-text-will-obstruct-Bangladeshs-fisheries-development">Civil Society Seminar on the eve of WTO MC13:
 WTO’s draft text will obstruct Bangladesh’s fisheries development</a></i>.
 (18 February 2024)
-<p><p>
+<p>
+<i><a href="https://ourworldisnotforsale.net/2024-02-17_fishers">The upcoming World Trade Organization Ministerial: What does it mean for small-scale fishers?</a></i>
+(Online event, 17 February 2024)
+<p>
 <i><a href="2023/PANG_large_fleets.pdf">Large-scale fleets should be target of fish subsidies talks, WTO hears</a></i>.
 (PANG, 15 September 2023)
 <p>
@@ -208,6 +212,9 @@ Fisheries Subsidies</a></i>.
 <h2><a id="4" href="agriculture">Food & Agriculture</a></h2>
 <p>
 Countries should have the right to support the production of food that is consumed domestically. Thus, Public Stockholding programs for Food Security must be considered as part of the Green Box, and thus not subject to limits or reductions commitments. WTO members agreed to find a permanent solution to the public stockholding programs by December 2017. At MC13, WTO members should deliver a positive resolution on the public stockholding issue that allows all developing countries to implement food security programs without onerous restrictions that are not demanded of developed countries’ trade distorting subsidies.
+<p>
+<i><a href="2024/2024-02-27_R_farmers.pdf">Will MC13 fail again in addressing farmers’ discontent around the world?</a></i>
+(27 February 2024)
 <p>
 <i><a href="2024/L_Indian_farmers.pdf">Letter from an Indian farmers’ network</a></i>.
 (Sanyukta Kisan Morcha (non-political), 26 February 2024)
@@ -262,7 +269,7 @@ Members came to an agreement on some provisions in 2022, only for vaccines, but 
 <p>
 <i><a href="2024/2024-02-28_R_IF.pdf">WTO-illegal Investment Facilitaton rejected at MC13</a></i>. (28 February 2024)
 <p>
-<i><a href="2024/2024-02-28_IF_India+SA.pdf">Important breaking news: Statement being circulated on behalf of the delegations of South Africa and India</a></i>. (28 February 2024)
+<i><a href="2024/2024-02-28_IF_India+SA.pdf">Statement being circulated on behalf of the delegations of South Africa and India: No consensus for the adoption of the Investment Facilitation Plurilateral JSI in the MC13</a></i>. (28 February 2024)
 <p>
 <i><a href="2024/2024-02-27_R_DG.pdf">WTO D-G abuses authority to try to get WTO-illegal Investment Facilitation adopted at MC13</a></i>.
 (27 February 2024)
@@ -336,6 +343,8 @@ climate change: Implications and options for Africa</a></i>
 Pro-corporate governments at the WTO are attempting to pursue a failed agenda of WTO expansion. Developed countries are attempting to undermine the core fundamentals of the WTO's mandate as a multilateral institution and alter decision-making procedures by using “Joint Statement Initiatives (JSIs)” launched at the Buenos Aires Ministerial and henceforward. 
 <p>
 <i><a href="2024-02-28_reform">WTO reform, systemic issues and JSIs: what is on the table at MC13?</a></i> (28 February 2024)
+<p>
+<i><a href="2024/2024-02-28_R_repression.pdf">WTO loses legitimacy as affected communities, CSOs shut out of normal participation at MC13 in Abu Dhabi</a></i> (28 February 2024)
 <p>
 <i><a href="2024/2024-02-27_R_DG.pdf">WTO D-G abuses authority to try to get WTO-illegal Investment Facilitation adopted at MC13</a></i>.
 (27 February 2024)

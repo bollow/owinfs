@@ -58,6 +58,9 @@ sustainability of small and traditional fisherfolks</a>. (24 February 2024)
 WTO’s draft text will obstruct Bangladesh’s fisheries development</a></i>.
 (18 February 2024)
 <p>
+<i><a href="https://ourworldisnotforsale.net/2024-02-17_fishers">The upcoming World Trade Organization Ministerial: What does it mean for small-scale fishers?</a></i>
+(Online event, 17 February 2024)
+<p>
 <i><a href="2023/PANG_large_fleets.pdf">Large-scale fleets should be target of fish subsidies talks, WTO hears</a></i>.
 (PANG, 15 September 2023)
 <p>

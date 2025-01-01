@@ -116,6 +116,8 @@ Economic and Fiscal Implications for the South</i></a>.
 
 <h2 id="3">Statements from civil society</h2>
 <p>
+<i><a href="2024/2024-02-29_R_standing_firm.pdf">Civil society groups congratulate and support South Africa, India, Indonesia for standing firm against e-commerce duties moratorium, and refusing to give tax breaks to big tech</a></i>. (29 February 2024)
+<p>
 <i><a href="https://dtalliance.org/wp-content/uploads/2024/01/JSI-Civil-Society-Letter-2024.pdf">50+ Consumer and Digital Rights Groups Urge Countries to Abandon WTO E-Commerce JSI Terms on Data Flows and Source Code</a></i>.
 (January 2024)
 <p>

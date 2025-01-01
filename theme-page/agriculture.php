@@ -37,6 +37,9 @@ Subsidies that the US and the EU provide to cotton producers enrich a few thousa
 
 <h2>Civil Society Statements and Analysis</h2>
 <p>
+<i><a href="2024/2024-02-27_R_farmers.pdf">Will MC13 fail again in addressing farmers’ discontent around the world?</a></i>
+(27 February 2024)
+<p>
 <i><a href="2024/L_Indian_farmers.pdf">Letter from an Indian farmers’ network</a></i>.
 (Sanyukta Kisan Morcha (non-political), 26 February 2024)
 <p>

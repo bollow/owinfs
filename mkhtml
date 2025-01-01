@@ -41,7 +41,7 @@ for i in shrink-or-sink 2019_WTO_PF_95 2019_WTO_PF_111 2019_WTO_PF_119 \
          2024-02-20_briefing 2024-02-26_R_free_speech 2024-02-26_R_free_speech_ES \
 	 2024-02-22_climate 2024-02-26_briefing 2024-02-26_agriculture 2024-02-27_fisherfolk \
 	 2024-02-27_digital 2024-02-27_R_services 2024-02-27_Quotes At_stake_MC13_ES \
-	 2024-02-28_reform \
+	 2024-02-28_reform 2024-03-01_R_collapse 2024-02-17_fishers 2024-11-28_OWINFS \
     ; do
   php contentitem-page/$i.php > $i.html
 done

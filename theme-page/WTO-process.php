@@ -19,7 +19,15 @@ include 'include/navbar.php';
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
 <p>
-<i><a href="2024-02-28_reform">WTO reform, systemic issues and JSIs: what is on the table at MC13?</a></i> (28 February 2024)
+<i><a href="2024/2024-09-12_R_WTOPF24.pdf">At WTO “Public” Forum, critics sidelined in favor of neoliberal echo chamber</a></i>. (12 September 2024)
+<p>
+<i><a href="2024/2024-09-09_to_WTO_DG_Mtng_request.pdf">Letter to WTO DG: Meeting request</a></i>. (9 September 2024)
+<p>
+<i><a href="2024/2024-07-17_L_WTOPF24.pdf">Letter to WTO DG: Concerns about how the WTOPF24 is being organised this year and how this will impact meaningful participation of civil society voices</a></i>. (17 July 2024)
+<p>
+<i><a href="2024-02-28_reform">WTO reform, systemic issues and JSIs: what is on the table at MC13?</a></i>. (28 February 2024)
+<p>
+<i><a href="2024/2024-02-28_R_repression.pdf">WTO loses legitimacy as affected communities, CSOs shut out of normal participation at MC13 in Abu Dhabi</a></i> (28 February 2024)
 <p>
 <i><a href="2024/2024-02-27_R_DG.pdf">WTO D-G abuses authority to try to get WTO-illegal Investment Facilitation adopted at MC13</a></i>.
 (27 February 2024)
@@ -89,6 +97,12 @@ medical supplies and saving lives</i>:
 </ul>
 <p>
 <a href="2019-12-09"><i>As WTO dispute settlement system collapses, civil society calls attention to need for fundamental change in global trade</i></a>. (9 December 2019)
+<p>
+<a href="https://www.southcentre.int/research-paper-92-march-2019/"><i>Notification and transparency issues in the WTO and the US’ November 2018 communication</i></a>. (Aileen Kwa and Peter Lunenborg, South Centre research paper, March 2019)
+<p>
+<a href="https://www.southcentre.int/policy-brief-58-march-2019/"><i>Why the US proposals on development will affect all developing countries and undermine WTO</i></a>. (Aileen Kwa and Peter Lunenborg, South Centre policy brief, March 2019)
+<p>
+<a href="https://www.southcentre.int/research-paper-86-september-2018/"><i>US’ section 301 actions: Why they are illegitimate and misguided</i></a>. (Aileen Kwa and Peter Lunenborg, South Centre research paper, September 2018)
 <p>
 30 November 2017: In an unprecedented action, the Argentine government has revoked the accreditation of 63 civil society experts — trade unionists, development advocates, digital rights activists, environmentalists, and others — just days before the 11th Ministerial meeting of the WTO (MC11) in Buenos Aires, advising the WTO that the experts will not be allowed in the country to participate in the meeting. The majority of the rejected organizations work together through the global Our World Is Not for Sale (OWINFS) network. 
 <ul class="tail">

@@ -76,6 +76,9 @@ climate change: Implications and options for Africa</a></i>
 
 <h2>General criticism</h2>
 <p>
+<i><a href="2024/CSST_energy.pdf">Powering ahead or falling behind: Can developing countries
+build a just and sustainable energy future on a warming planet?</a></i> (Richard Kozul-Wright, November 2024)
+<p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220518.htm">Attempts to pry open South markets on environmental goods &amp; services</a></i>. (D. Ravi Kanth, 20 May 2022)
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2022/ti220211.htm">North wants climate change issues as its new “trade weapons” at WTO</a></i>. (D. Ravi Kanth, 9 February 2022)

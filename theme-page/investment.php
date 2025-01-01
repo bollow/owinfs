@@ -39,6 +39,9 @@ Some WTO Members are negotiating rules on facilitating investment:
 <p>
 <i><a href="2024/2024-02-28_IF_India+SA.pdf">Important breaking news: Statement being circulated on behalf of the delegations of South Africa and India</a></i>. (28 February 2024)
 <p>
+<i><a href="2024/2024-02-27_R_DG.pdf">WTO D-G abuses authority to try to get WTO-illegal Investment Facilitation adopted at MC13</a></i>.
+(27 February 2024)
+<p>
 <i><a href="2024/R_investment.pdf">Stop the illegitimate anti-development Investment Facilitation Agreement now!</a></i> (25 Feb 2024)
 <p>
 <i><a href="2024/TWN_investment.pdf">Comments on the investment facilitation framework: Are there real benefits to bringing it under the umbrella of the WTO?</a></i> (Kinda Mohamadieh, TWN, 21 February 2024)
