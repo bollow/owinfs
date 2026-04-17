@@ -28,6 +28,9 @@ With the inappropriate support of the WTO Secretariat and without a multilateral
 
 <h2>Positive Agenda for Trade and the Environment</h2>
 <p>
+<i><a href="2024/CSST_energy.pdf">Powering ahead or falling behind: Can developing countries
+build a just and sustainable energy future on a warming planet?</a></i> (Richard Kozul-Wright, November 2024)
+<p>
 UNCTAD’s <i><a href="https://unctad.org/system/files/official-document/tdr2023ch2_en.pdf">Trade and Development Report 2023 - Chapter 2</a></i> underscores the need for "Revisiting existing international trade agreements to create policy space for countries to redesign their production, consumption, and trading profiles to face contemporary global challenges".  
 <p>
 <i><a href="https://www.twn.my/title2/wto.info/2023/ti231003.htm">UNCTAD issues “positive” trade &amp; environment agenda for BRICS</a></i>.

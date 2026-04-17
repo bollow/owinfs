@@ -19,6 +19,8 @@ include 'include/navbar.php';
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
 <p>
+<i><a href="/2025/2025-10-21_Letter_CS_participation.pdf">Letter requesting a protocol agreement securing civil society participation at MC14</a></i>. (21 October 2025)
+<p>
 <i><a href="2024/2024-09-12_R_WTOPF24.pdf">At WTO “Public” Forum, critics sidelined in favor of neoliberal echo chamber</a></i>. (12 September 2024)
 <p>
 <i><a href="2024/2024-09-09_to_WTO_DG_Mtng_request.pdf">Letter to WTO DG: Meeting request</a></i>. (9 September 2024)

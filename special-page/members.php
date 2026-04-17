@@ -16,7 +16,7 @@ include 'include/navbar.php';
         </div> <!-- /#content-header -->
         
         <div id="content-area">
-          <p>193 organizations are members of OWINFS.</p>
+          <p>199 organizations are members of OWINFS.</p>
           <table class="views-table cols-2">
     <thead>
     <tr>
@@ -459,6 +459,14 @@ include 'include/navbar.php';
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Canada</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Confederación Latinoamericana y del Caribe de Trabajadores Estatales (CLATE)</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Argentina</font></font>
 		</td>
 	</tr>
 	<tr>
@@ -1256,6 +1264,22 @@ include 'include/navbar.php';
 	</tr>
 	<tr>
 		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">People’s Coalition on Food Sovereignty</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Philippines</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Platform Aarde Boer Consument</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Netherlands</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Polaris
 			Institute</font></font>
 		</td>
@@ -1376,6 +1400,15 @@ include 'include/navbar.php';
 		</td>
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Uruguay </font></font>
+			
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffff" style="background: #ffffff" style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Regions Refocus</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">International</font></font>
 			
 		</td>
 	</tr>
@@ -1586,6 +1619,15 @@ include 'include/navbar.php';
 		</td>
 	</tr>
 	<tr>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Tanzania
+			Tanzania Trade and Investment Coalition (TATIC)</font></font>
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Tanzania</font></font>
+		</td>
+	</tr>
+	<tr>
 		<td style="background: transparent" style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">Tax
 			Justice Network, Africa</font></font>
@@ -1612,6 +1654,16 @@ include 'include/navbar.php';
 		<td style="border: 1px solid #000000;">
 			<font face="Arial"><font size="2" style="font-size: 10pt">South
 			Africa</font></font>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">The
+			People’s Coalition for Fisheries Justice (KIARA) </font></font>
+			
+		</td>
+		<td style="border: 1px solid #000000;">
+			<font face="Arial"><font size="2" style="font-size: 10pt">Indonesia</font></font>
 		</td>
 	</tr>
 	<tr>

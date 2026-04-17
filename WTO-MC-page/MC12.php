@@ -127,12 +127,6 @@ existential crisis, which the COVID-19 crisis only amplified”</i>:
 <a href="2021_transform_WTO_FR">French</a>. (28 April 2021)
 <p>
 <i><a href="/2021/to_WTO-DG_2021-04-26.pdf">Letter to WTO Director General from members of Our World Is Not for Sale</a></i>. (26 April 2021)
-<?php
-if (filesize("extra_data/MC12.extra_data")>3) {
-  echo "<h2>Recent documents</h2>\n";
-  include "extra_data/MC12.extra_data";
-}
-?>
 
 <h2 id="waiver"><a href="TRIPS">Access to medicines, TRIPS waiver</a></h2>
 

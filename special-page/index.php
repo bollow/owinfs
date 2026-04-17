@@ -10,12 +10,71 @@ include 'include/sidebar_about.php';
 include 'include/navbar.php';
 ?>    <div id="content" class="columns">
       <div class="col">
-<p>
 <a href="es">Recursos actuales en español</a>
 <br>
 <a href="fr">Ressources actuelles en français</a>
 <p>
+<b><i><a href="2025-11-18_solidarity">Global solidarity against Trump’s tariff attacks</a></i></b>. (18 Nov 2025)
+<p>
 <b><i><a href="2024-11-28_OWINFS">Our World Is Not For Sale: 25 Years of fighting the WTO</a></i></b>. (28 Nov 2024)
+
+<h1><a href="MC14">14<sup>th</sup> Ministerial Conference + going forward</a></h1>
+<p>
+The 14<sup>th</sup> Ministerial Conference of the WTO has taken place 26-29 March 2026 in Cameroon.
+<p>
+<b><i><a href="MC14-conclusion">Statement on Conclusion of MC14: WTO Attempts to Save Face With Desperate ‘To Be Continued’ Outcome as U.S. Plays Spoiler on Behalf of Big Tech</a></i></b>.
+<a href="2026/MC14-conclusion.pdf">English pdf</a>.<br>
+<a href="MC14-conclusion_FR">French translation</a>.
+<a href="2026/MC14-conclusion_FR.pdf">French pdf</a>.
+(30 March 2026)
+<ul class="tail">
+  <li><a href="MC14-conclusion#digital">E-Commerce and digital trade</a>.
+  <li><a href="MC14-conclusion#process">Process, power dynamics, and WTO “reform”</a>.
+  <li><a href="MC14-conclusion#agriculture">Agriculture</a>.
+  <li><a href="MC14-conclusion#fish">Fisheries subsidies</a>.
+  <li><a href="MC14-conclusion#investment">Investment facilitation “for development”</a>.
+  <li><a href="MC14-conclusion#industry">Industrial policy and development</a>.
+  <li><a href="MC14-conclusion#gender">Gender</a>.
+  <li><a href="MC14-conclusion#climate">Climate Change</a>.
+</ul>
+<p>
+<b><a href="2026-03-28_press_conference">NGO press conference: Updates and reflections on day 3 of MC14.</b>
+(28 March 2026)
+<ul class="tail">
+  <li>E-Commerce.
+  <li>Investment facilitation.
+  <li>Fisheries subsidies.
+  <li>Agriculture.
+</ul>
+<p>
+<b><i><a href="https://owinfs.org/2026/R_cso-repression.pdf">WTO Secretariat's sidelining of civil society continues at MC14 in Cameroon</i></b></a>.
+(28 March 2026)
+<p>
+<b><i><a href="2026-03-26_press_conference">OWINFS press conference</a></i></b>.
+(26 March 2026)
+<ul class="tail">
+  <li>WTO Reform and Plurilaterals / JSIs and Process Issues for MC14.
+  <li>E-Commerce.
+  <li>Agriculture and Fisheries.
+</ul>
+ <p>
+<b><i><a href="2026/2026-03_stmt_WTO_reform.pdf">Civil society statement on the WTO reform</a>.</i></b>
+(March 2026)
+<br>
+<b><a href="2026/2026-03_R_WTO_reform.pdf">Press release</a></b>. (25 March 2026)
+<p>
+Civil society statement:
+<b><i><a href="/2026/2026-03_stmt_Israel.pdf">WTO Members should suspend Israel’s MFN treatment</a>.</i></b>
+(March 2026)
+<br>
+<b><a href="2026/2026-03_R_Israel.pdf">Press statement</a></b>: <a href="2026/2026-03_R_Israel.pdf">pdf</a> <a href="2026/2026-03_R_Israel.docx">docx</a>
+(26 March 2026)
+<p>
+<i><a href="2026-02-20_webinar">Pre-MC14 OWINFS strategic webinar: Americas/Europe/Africa</a></i></b>. (20 Feb 2026)
+<p>
+<b><i><a href="2026-01-23_webinar">Pre-MC14 OWINFS strategic webinar: Asia and Oceania perspectives</a></i></b>. (23 Jan 2026)
+<p>
+<b><i><a href="/2025/2025-10-21_Letter_CS_participation.pdf">Letter requesting a protocol agreement securing civil society participation at MC14</a></i></b>. (21 Oct 2025)
 
 <h1>“Public Forum”</h1>
 <b><i><a href="2024/2024-09-12_R_WTOPF24.pdf">At WTO “Public” Forum, critics sidelined in favor of neoliberal echo chamber</a></i></b>. (12 Sep 2024)
@@ -47,6 +106,12 @@ For some highlights, read on.
 <p>
 <b><i><a href="https://cepr.net/whats-at-stake-at-the-wtos-13th-ministerial-conference-this-month-in-abu-dhabi/">What’s at stake at the WTO’s 13th Ministerial Conference this month in Abu Dhabi?</a></i></b> (Feb 2024)
 
+      </div>
+
+
+      <div class="col">
+
+
 <h2><a href="digital">Digital trade</a></h2>
 <p>
 <b><i><a href="2024-02-27_digital">Implications of digital-related issues at MC13 and beyond</a></i></b>. (27 Feb 2024)
@@ -75,12 +140,6 @@ Some countries are pushing for anti-development, anti-public interest and pro-Bi
 <p>
 <b><i><a href="2024/ITfC_AI.pdf">Digital trade rules and AI regulation – a primer</a></i></b>.
 (Feb 2024)
-
-      </div>
-
-
-      <div class="col">
-
 
 <h2><a href="agriculture">Food & agriculture</a></h2>
 <p>
