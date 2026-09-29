@@ -295,7 +295,11 @@ ul.width3 li {
   width: 25ex;
 }
 
-ul.tail {
+ul.tail{
+  margin-top: -14px;
+}
+
+ol.tail{
   margin-top: -14px;
 }
 

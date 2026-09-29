@@ -25,8 +25,12 @@ Some countries are pushing for anti-development, anti-public interest and pro-Bi
 <p>
 Before digital trade was a significant aspect of global trade, members of the WTO agreed to a “moratorium” on customs duties on electronic transmissions. It’s high time for this tax holiday for Big Tech to come to an end. Countries should have the right to decide if taxing Amazon e-books, Netflix movies, Apple music, Microsoft software, or video games is in their national interest, as these foreign operators compete tariff-free against domestic small and medium business competitors. WTO members should allow the moratorium to lapse, rather than be renewed, at MC13. 
 </div>
+<h2>Updates on MC14</h2>
+  <p><i><a href="/2026/Scasserra_moratorium.pdf">The night Brazil said no to Trump (and changed the internet forever)</a></i>, by: Sofia Scasserra, researcher TNI, advisor OWINFS. Published at <a href="https://www.tni.org/es/artículo/la-noche-en-que-brasil-le-dijo-que-no-a-trump-y-cambio-el-internet-para-siempre?translation=en">TNI, 2 April 2026</a>.
+  <p><i><a href="/2026/Scasserra_moratorium_ES.pdf">La noche en que Brasil le dijo que no a Trump (y cambió el internet para siempre)</a></i>, escrito por: Sofia Scasserra, <a href="https://www.tni.org/es/artículo/la-noche-en-que-brasil-le-dijo-que-no-a-trump-y-cambio-el-internet-para-siempre">TNI Publicado en Transnational Institute (TNI), 2 de abril de 2026</a> (Español).
+  <p><i><a href="/2026/Kelsey_JSI.pdf">The e-commerce plurilateral reveals the backdoor strategy to adopt JSIs</a></i>, Professor Emeritus Jane Kelsey, University of Auckland, New Zealand. (21 April 2026)
 
-
+<h2>Older resources</h2>
 <p>
 <b>Table of contents:</b>
 <ol>

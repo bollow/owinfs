@@ -26,6 +26,12 @@ With the inappropriate support of the WTO Secretariat and without a multilateral
 <p>
 <i><a href="2024-02-22_climate">Rich countries force WTO climate agenda: Justice missing for developing countries</a></i>. (22 February 2024)
 
+<h2>Statement by CSO working group on Environment, Critical Minerals and Industrial Policy</h2>
+<p>
+<i><a href="/2026/CSO_climate+trade.pdf">WTO and UNFCCC: An unavoidable dialogue in an era of climate change and uncertainty</a></i>:
+<a href="/2026/CSO_climate+trade.pdf">English</a>, 
+<a href="/2026/CSO_climate+trade_GR.pdf">Greek</a>. (June 2026)
+
 <h2>Positive Agenda for Trade and the Environment</h2>
 <p>
 <i><a href="2024/CSST_energy.pdf">Powering ahead or falling behind: Can developing countries

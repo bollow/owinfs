@@ -14,13 +14,26 @@ include 'include/navbar.php';
 <br>
 <a href="fr">Ressources actuelles en français</a>
 <p>
+<b><font color="red">NEW:</font></b>
+<b><i><a href="2026-09-10_L_WTOPF26">
+Letter on civil society participation in and contribution to WTO public forums</a></i></b>.
+(10 Sep 2026)
+<p>
+<b><font color="red">NEW:</font></b>
+<b><i><a href="2026-09-10_R_WTOPF26">Civil society groups call out WTO for marginalizing public voices ahead of annual public forum</a></i></b>.
+(10 Sep 2026)
+<p>
 <b><i><a href="2025-11-18_solidarity">Global solidarity against Trump’s tariff attacks</a></i></b>. (18 Nov 2025)
+<p>
+<b><i><a href="2025/2025-07-02_Letter_Public_Forum.pdf">Urgent concerns regarding shrinking civil society space at the WTO Public Forum</a></i></b>. (2 Jul 2025)
 <p>
 <b><i><a href="2024-11-28_OWINFS">Our World Is Not For Sale: 25 Years of fighting the WTO</a></i></b>. (28 Nov 2024)
 
 <h1><a href="MC14">14<sup>th</sup> Ministerial Conference + going forward</a></h1>
 <p>
 The 14<sup>th</sup> Ministerial Conference of the WTO has taken place 26-29 March 2026 in Cameroon.
+<p>
+<b><i><a href="MC14-outcome">WTO MC14: what happened and what does it mean</a></i></b>
 <p>
 <b><i><a href="MC14-conclusion">Statement on Conclusion of MC14: WTO Attempts to Save Face With Desperate ‘To Be Continued’ Outcome as U.S. Plays Spoiler on Behalf of Big Tech</a></i></b>.
 <a href="2026/MC14-conclusion.pdf">English pdf</a>.<br>
@@ -75,6 +88,12 @@ Civil society statement:
 <b><i><a href="2026-01-23_webinar">Pre-MC14 OWINFS strategic webinar: Asia and Oceania perspectives</a></i></b>. (23 Jan 2026)
 <p>
 <b><i><a href="/2025/2025-10-21_Letter_CS_participation.pdf">Letter requesting a protocol agreement securing civil society participation at MC14</a></i></b>. (21 Oct 2025)
+
+<h2>Climate Change</h2>
+<p>
+<b><i><a href="/2026/CSO_climate+trade.pdf">Statement by CSO working group on Environment, Critical Minerals and Industrial Policy</a></i></b>:
+<a href="/2026/CSO_climate+trade.pdf">English</a>, 
+<a href="/2026/CSO_climate+trade_GR.pdf">Greek</a>. (June 2026)
 
 <h1>“Public Forum”</h1>
 <b><i><a href="2024/2024-09-12_R_WTOPF24.pdf">At WTO “Public” Forum, critics sidelined in favor of neoliberal echo chamber</a></i></b>. (12 Sep 2024)

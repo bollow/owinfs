@@ -19,7 +19,18 @@ include 'include/navbar.php';
         <div id="content-area">
 <h2>Statements and analysis from civil society</h2>
 <p>
+<i><a href="2026-09-10_L_WTOPF26">
+Letter on civil society participation in and contribution to WTO public forums</a></i>.
+(10 September 2026)
+<p>
+Press release: <i><a href="2026-09-10_R_WTOPF26">Civil society groups call out WTO for marginalizing public voices ahead of annual public forum</a></i>.
+(10 September 2026)
+<p>
+<i><a href="/2026/Storbakk_sidelined.pdf">Civil society participation at MC14 was sidelined by the secretariat</a></i>, by Anniken Storbakk, Co-facilitator, OWINFS. (13 April 2026)
+<p>
 <i><a href="/2025/2025-10-21_Letter_CS_participation.pdf">Letter requesting a protocol agreement securing civil society participation at MC14</a></i>. (21 October 2025)
+<p>
+<i><a href="2025/2025-07-02_Letter_Public_Forum.pdf">Urgent concerns regarding shrinking civil society space at the WTO Public Forum</a></i>. (2 July 2025)
 <p>
 <i><a href="2024/2024-09-12_R_WTOPF24.pdf">At WTO “Public” Forum, critics sidelined in favor of neoliberal echo chamber</a></i>. (12 September 2024)
 <p>

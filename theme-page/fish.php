@@ -30,6 +30,8 @@ Negotiations for an expanded agreement are ongoing, but it remains to be seen wh
 
 <h2>Statements and analysis from civil society</h2>
 <p>
+<i><a href="/2026/Wolfenden_fisheries.pdf">Fisheries subsidies at MC14, analysis</a></i>, by Adam Wolfenden, Campaigner, Pacific Network on Globalisation (PANG). (10 April 2026)
+<p>
 <i><a href="2024/2024-03-01_R_fish.pdf">WTO Fish deal; failing to properly address overfishing to meet SDG Mandate</a></i>. (1 Mar 2024)
 <p>
 <i><a href="2024-02-27_fisherfolk">Fisherfolk and civil society call for WTO fisheries subsidies talks to target the problem, not small-scale fishers</a>.</i> (27 February 2024)
